@@ -62,7 +62,7 @@ eventDate: ""
 typeoutTextValues: " is finished."
 typeoutFallback: "' is finished.'"
 heroButtons:
- - {link: "", text: "Hope you see you in 2021"}
+ - {link: "", text: "Hope to see you in 2021"}
 
 # About Block
 aboutTitle: "About ResBaz 2020 'Pick n Mix' Edition"
