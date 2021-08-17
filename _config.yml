@@ -45,9 +45,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 #  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/schedule/", text: "2020 Schedule"}
+ - {permalink: "/speakers/", text: "2020 Speakers"}
+ - {permalink: "/sessions/", text: "2020 Sessions"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "mailto:researchdata@auckland.ac.nz", text: "Contact us"}
@@ -56,24 +56,21 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroTitle: "ResBaz 2020 <typeout>"
-heroTitle: "ResBaz 2020 is finished."
+heroTitle: "Welcome to ResBaz 2021"
 eventDate: ""
-typeoutTextValues: " is finished."
-typeoutFallback: "' is finished.'"
+#typeoutTextValues: " is finished."
+#typeoutFallback: "' is finished.'"
 heroButtons:
- - {link: "", text: "Hope to see you in 2021"}
+ - {link: "", text: "22-26 Novemeber registration opens in October"}
 
 # About Block
-aboutTitle: "About ResBaz 2020 'Pick n Mix' Edition"
-aboutSubtitle: "Conference"
-aboutText: "<p>The <em>Research Bazaar</em> is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the usual multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, the 2020 circumstances saw the delivery of a ResBaz <em>pick and mix</em> online version for Aotearoa New Zealand researchers and postgraduate research students.</p>
+aboutTitle: "About ResBaz 2021 'Pick n Mix' Edition"
+#aboutSubtitle: "Conference"
+aboutText: "<p>The <em>Research Bazaar</em> is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the format of a multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, given the circumstances we are building on the 2020 experience to deliver a ResdBaz <em>pick and mix</em> online version for Aotearoa New Zealand researchers and postgraduate research students.</p>
 
-<p>ResBaz 2020: Pick and Mix, 23-27 November, was a collaboration between the University of Auckland and Victoria University of Wellington. We had 500 individuals register for one or more of  the 37 sessions.</p>
+<p>ResBaz 2021: Pick and Mix, 22-26 November, was a collaboration between the University of Auckland, Victoria University of Wellington, and NeSI. We had 500 individuals register for one or more of  the 37 sessions.</p>
 
-<p>Thank you for participation and feedback. Published presentation slides and links are available <a href=\"https://auckland.figshare.com/collections/ResBaz_2020_Pick_n_Mix_23-27_November_Online_/5222219/1\">here</a> </p>
-
-<p> <b>Interested in ResBaz in 2021?</b> Look out for information on this website next year or email: <a href=\"mailto:researchdata@auckland.ac.nz\">researchdata@auckland.ac.nz</a> </p>"
+<p> <b>Interested in ResBaz in 2021 - contributing or atteneding?</b> Look out for information on this website or email: <a href=\"mailto:researchdata@auckland.ac.nz\">researchdata@auckland.ac.nz</a> </p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

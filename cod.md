@@ -34,13 +34,13 @@ The Research Bazaar is a learning environment where everyone is welcome. It’s 
 
 **Video/audio recording policy**
 
-We will be recording some of the ResBaz 2020 : Pick n Mix sessions using virtual meeting software (e.g. Zoom). These recordings may be shared online by the Research Bazaar team.
+We will be recording some of the ResBaz 2021 : Pick n Mix sessions using virtual meeting software (e.g. Zoom). These recordings may be shared online by the Research Bazaar team.
 
 If you do not wish to be recorded, please consider the following measures: 
 
 * keep your video turned off
 * remain muted
-* change your Zoom name. 
+* change your Zoom name.
 
 If someone indicates that they do not wish to be recorded please consider how you interact with them so as not to identify them.
 
