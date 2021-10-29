@@ -1,12 +1,12 @@
 ###Add a link <a href=\"\">Book here</a> 
 -
   id: 100
-  title: "Social Media for Research Networking and Engagement (This session has been rescheduled to Wednesday 4-5 pm due to unforeseen circumstances)"
-  description: "What does social media do for research impact and networking that more traditional forms of communication don't?<br /><br />
+  title: "Working with social media data?"
+  description: "Social media data can enable insightful research into areas like social behaviour and current events. Join this session to connect with and learn from others working with social media data within the Aotearoa research community. Designed as a community building session, attendees will have the opportunity to share their research topics, methods, and challenges. We’ll also hear from those developing social media and related collections. <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-199571863817\">Book here</a> "
   This session will explore how to make the most of social media in a research context, including information on: getting information, providing information, networking with other academics, engaging with communities outside of academia, and finding your tribe. It will also address how you can manage the distinction between personal and professional on social media, and how to mitigate the dangers of using it."
   subtype: workshop
-  speakers: [38]
-  complexity: "All welcome" 
+  speakers: [12]
+  complexity: "Introductory" 
   hidden: true
 
 - 
@@ -67,9 +67,9 @@
 -
   id: 001
   title: "Research Data Management (Part 1): Planning, Organising & Storing"
-  description: "Research data: that which is created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will develop strategies for capturing and organising research data, sharing and reusing data, and have an opportunity to draft a Data Management Plan (DMP). You will be introduced to data management concepts, best practices, services and useful tools to support you managing and sharing your research data. <a href=\"https://www.eventbrite.com/e/rdm-part-1-planning-organising-and-storing-resbaz-2020-pick-n-mix-tickets-128688654229\">Book here</a> "
+  description: "Research data: that which is created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will develop strategies for capturing and organising research data, sharing and reusing data, and have an opportunity to draft a Data Management Plan (DMP). You will be introduced to data management concepts, best practices, services and useful tools to support you managing and sharing your research data. <a href=\"https://www.eventbrite.com/e/research-data-management-part-1-planning-organising-and-storing-tickets-198719604687\">Book here</a> "
   subtype: workshop
-  speakers: [13, 14]
+  speakers: [14, 57]
   complexity: "Beginner, all welcome" 
   
 -
@@ -90,9 +90,9 @@
 -
   id: 004
   title: "Research Data Management (Part 2) - Sharing, archiving and publishing"
-  description: "Researchers are increasingly being asked by funders, publishers and their institutions to share their research data. Come along to this workshop to learn about how you can prepare and disseminate your research findings; increase your research impact through data publication; and, learn about services available to you to achieve this.  <a href=\"https://www.eventbrite.com/e/rdm-part-2-sharing-archiving-and-publishing-resbaz-2020-pick-n-mix-tickets-128699109501\">Book here</a> "
+  description: "Researchers are increasingly being asked by funders, publishers and their institutions to share their research data. Come along to this workshop to learn about how you can prepare and disseminate your research findings; increase your research impact through data publication; and, learn about services available to you to achieve this.  <a href=\"https://www.eventbrite.com/e/research-data-management-part-2-sharing-archiving-and-publishing-tickets-201425026677\">Book here</a> "
   subtype: workshop
-  speakers: [14]
+  speakers: [14, 59]
   complexity: "Beginner, all welcome"
 -
   id: 005
@@ -215,10 +215,10 @@
 -
   id: 031
   title: "Data Analysis with Jupyter Notebooks"
-  description: "Jupyter Notebooks are an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. This session will give an overview of how and why these notebooks can be useful for research and analysis, and how you can unlock the power of the functionality they offer. <a href=\"https://vuw.libcal.com/event/5293389/\">Book here</a>"
+  description: "Jupyter Notebooks are an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. This session will give an overview of how and why these notebooks can be useful for research and analysis, and how you can unlock the power of the functionality they offer. <a href=\"https://vuw.libcal.com/event/5404909?k=1140c6fb0aa9dc3fb94059eb59f3adff\">Book here</a>"
   subtype: workshop
   speakers: [10]
-  complexity: "Beginners" 
+  complexity: "Introductory" 
 -
   id: 032
   title: "Literature reviews with NVivo"
@@ -312,7 +312,7 @@
 -
   id: 045
   title: "How can Python help your research"
-  description: "A holistic overview of the Python programming language aimed at those who are new to Python and interested in how it can help with their research. No prior knowledge of Python required, no hands-on coding involved, just sit back with your favourite beverage and find out about: key concepts in Python, how Python is used around the world, and how Python can help you organise, analyse, and visualise your research data. <a href=\"https://www.eventbrite.com/e/how-can-python-help-your-research-tickets-128947851495/\">Book here</a>"
+  description: "A holistic overview of the Python programming language aimed at those who are new to Python and interested in how it can help with their research. No prior knowledge of Python required, no hands-on coding involved, just sit back with your favourite beverage and find out about: key concepts in Python, how Python is used around the world, and how Python can help you organise, analyse, and visualise your research data. <a href=\"https://www.eventbrite.com/e/how-can-python-help-your-research-tickets-201430382697\">Book here</a>"
   subtype: workshop
   speakers: [22]
   complexity: "All welcome" 
@@ -434,11 +434,136 @@
   speakers: [19]
   complexity: "All welcome" 
 
--
-  id: 062
-  title: "Creating Professional LaTeX Reports Without Losing Hair (2hours)"
-  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-2-hours-tickets-129423319633/\">Book here</a> "
-  subtype: workshop
-  speakers: [55]
-  complexity: "All welcome" 
+# -
+#   id: 062
+#   title: "Creating Professional LaTeX Reports Without Losing Hair (2hours)"
+#   description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-2-hours-tickets-129423319633/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [55]
+#   complexity: "All welcome" 
 
+-
+  id: 1456 #[stream, day, speakerID]
+  title: "Publication Ready Figures (with Python, Matplotlib and Seaborn) <b>9am start</b> "
+  description: "Python is a powerful plotting tool but, with so many options and settings, it can be time consuming to figure out how to make effective and attractive plots. This workshop is your cheat sheet for using the Python packages matplotlib and Seaborn to make static plots. It's an interactive session and we assume some basic Python skills.  If you’re looking for a way to level-up your visual communication of data and increase engagement with your research, then this is for you. <a href=\"https://www.eventbrite.com/e/publication-ready-figures-with-python-matplotlib-and-seaborn-tickets-196242415347\">Book here</a> <p>
+  Session note: This workshop starts at 9am. You will be able to do this workshop if you have imported a module, printed a statement, and made a basic plot. If new to Python, please attend the 'Python: an introduction' session before doing this workshop. <p> Requirements: Detailed setup instructions will be provided prior to the workshop, along with a link to download the course material before the workshop."
+  subtype: workshop
+  speakers: [56]
+  complexity: "Intermediate" 
+
+-
+  id: 1556 #[stream, day, speakerID]
+  title: "Practical Guide to Open-Source for Aspiring Contributors and Consumers"
+  description: "What is open source in the context of research and why to contribute to it? We address these questions and provide a practical guide to getting started. We will also have an international panel who’ll address your questions. This session is open to everyone, from absolute beginner to advanced level. If you’re interested in research repeatability and increasing the impact of your work, then this workshop is for you. <a href=\"https://www.eventbrite.com/e/practical-guide-to-open-source-for-aspiring-contributors-and-consumers-tickets-196272806247\">Book here</a> "
+  subtype: workshop
+  speakers: [56]
+  complexity: "All welcome"
+
+-
+  id: 2158 #[stream, day, speakerID]
+  title: "How to Make Your Publications Open Access"
+  description: "Open Access to publications and other research outputs ensures you get maximum exposure and recognition for your work. Open publications are viewed, downloaded, and cited at higher rates than closed publications. There are free ways to make your work open regardless of where you publish, so you don't have to publish in OA journals or pay steep publication fees to enjoy the benefits of OA. In this one hour workshop you'll learn how to make your publications open for free while respecting copyright and publisher agreements. <a href=\"https://www.eventbrite.com/e/how-to-make-your-publications-open-access-tickets-199577430467\">Book here</a> "
+  subtype: workshop
+  speakers: [58, 59]
+  complexity: "All welcome"
+
+-
+  id: 21580 #[stream, day, speakerID]
+  title: "Managing References with Zotero"
+  description: "Academic references are the bread and butter of research life. We spend a lot of time capturing, organising, and consulting references, so it makes sense to use the right tool for the job. Zotero is a free open-source reference manager built by researchers for researchers. It is simple to learn, yet powerful and feature-rich, and will save you countless hours at university and beyond. In this two hour workshop you'll learn how to use Zotero to capture, organise, and cite your references when you need them. <a href=\"https://www.eventbrite.com/e/managing-references-with-zotero-tickets-199581322107\">Book here</a> "
+  subtype: workshop
+  speakers: [58,57]
+  complexity: "Introductory"
+
+-
+  id: 1458 #[stream, day, speakerID]
+  title: "Building a Website with WordPress"
+  description: "A personal website is an impressive way to share your skills and experience with potential employers and colleagues. WordPress is the most popular website Content Management System in the world because it is powerful, flexible, and requires no coding experience. In this two hour workshop you'll learn how to get up and running with a free website in no time using WordPress. You'll learn how to build a simple personal website, add pages, start a blog and add posts, and some basic styling. We'll also touch on the pros and cons of self-hosted websites for those who are looking for more flexibility. <a href=\"https://www.eventbrite.com/e/building-a-website-with-wordpress-tickets-199585825577\">Book here</a> "
+  subtype: workshop
+  speakers: [58,12]
+  complexity: "Introductory"
+
+-
+  id: 2460 #[stream, day, speakerID]
+  title: "An introduction to processing remote sensing data with Google Earth Engine"
+  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of preprocessing. This practical workshop provides a comprehensive introduction to using GEE through the javascript based code editor and aims to enable provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-199598132387\">Book here</a> "
+  subtype: workshop
+  speakers: [60, 48]
+  complexity: "Introductory"
+
+-
+  id: 116162 #[stream, day, speakerID]
+  title: "Design 101: Presentations, Posters, and PowerPoints for Researchers"
+  description: "Why are you here? What are you presenting? Who are you presenting to? No, this is not the abstract for “Existentialism with Nietzsche”, it’s “Design for Dummies”! Have you ever seen a research poster or a PowerPoint presentation that was truly terrible and thought, “Wow, I wonder how I could salvage that? I wonder how I can make research approachable through attractive design?” <p> In this session, we will give you tips on what makes good visual design for research. We will walk you through the do’s (and some don’ts) and what to consider when putting together a visual research presentation, whether a poster, a PowerPoint slideshow, or another type of medium. After that, we’ll do a step-by-step practical exercise to put what we’ve just gone over into action. <a href=\"https://www.eventbrite.com/e/design-for-dummies-posters-pictures-and-presentations-tickets-200546188047\">Book here</a> "
+  subtype: workshop
+  speakers: [61, 62]
+  complexity: "Introductory"
+
+-
+  id: 126323 #[stream, day, speakerID]
+  title: "Machine Learning 101"
+  description: "The NeSI team will introduce you to the wonderful world of machine learning via the user-friendly Jupyter on NeSI platform. Come along to acquaint yourself with amazing algorithms and conquer your fear of obscure machine learning jargon. <p> This whirlwind tour of the Scikit-learn Python library will introduce the usual machine learning suspects (aka things that are easy to google). Specifically, attendees will learn about model fitting, evaluation and model selection. At the end of this session you should be more familiar with:
+- what problems machine learning can help solve,
+- the definitions of key machine learning terms,
+- the main phases of a machine learning project,
+- the types of ML tasks and associated classes of models.
+This session provides a taster for a full day workshop provided by NeSI. <a href=\"https://www.eventbrite.com/e/machine-learning-101-tickets-200555194987\">Book here</a> "
+  subtype: workshop
+  speakers: [63, 23]
+  complexity: "Introductory"
+
+-
+  id: 116470 #[stream, day, speakerID]
+  title: "Introduction to R and RStudio"
+  description: "R is a programming language for data analysis and statistics. It is free, and very widely used in various application areas, such as bioinformatics. The goal of this workshop is to help you familiarize yourself with RStudio, basic R terminology and routine workflows. We will showcase some of the available tools to tackle a wide variety of data science challenges, including data management and visualization. In addition, there will be live hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your confident R journey! <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-201351386417\">Book here</a> "
+  subtype: workshop
+  speakers: [64, 70]
+  complexity: "Introductory"
+
+-
+  id: 3269 #[stream, day, speakerID]
+  title: "Introduction to geospatial tools and manipulations in R"
+  description: "Geospatial data is being more and more commonly used in scientific research. From modelling distributions or movements of animals, the connectivity of spatial networks, mapping/modelling physical features of our environment or predicting the occurrence of events through space and time. In this workshop we will introduce the fundamental types of geospatial data (points, lines, polygons and gridded) that are commonly used for analysis and mapping. By the end of the workshop you will have had hands on practice with the basics of importing and preparing these kinds of data for a range of analyses and creating publication ready graphs and maps! <a href=\"https://www.eventbrite.com/e/introduction-to-geospatial-tools-and-manipulations-in-r-tickets-201356822677\">Book here</a> "
+  subtype: workshop
+  speakers: [69]
+  complexity: "Intermediate"
+
+-
+  id: 2165 #[stream, day, speakerID]
+  title: "Introduction to command line"
+  description: "Learning the command line is the first step before you are able to utilise other digital tools like Python, R, and OpenRefine. It allows you to automate repetitive tasks. It can be intimidating to get started but once you’ve mastered bash commands, it becomes relatively easy to write scripts. This enables you to build all sorts of data pipelines and workflows much more easily. // In this interactive session you will be learning command line using the terminal interface.We will cover a range of basic commands that will help you navigate and explore, create files and directories, write, read and concatenate, how to use command arguments/options and combine existing commands, as well as copy, move and remove files. <a https://www.eventbrite.com/e/introduction-to-command-line-tickets-201362720317\">Book here</a> "
+  subtype: workshop
+  speakers: [65]
+  complexity: "Introductory"
+
+-
+  id: 2275 #[stream, day, speakerID]
+  title: "Introduction to Julia"
+  description: "Julia is a relatively new, multi-purpose programming language, with increasing adoption among scientific researchers. Interaction with Julia closely resembles that of scripting languages, such as R, MATLAB and python, and a growing number of Julia libraries provide similar functionality for scientific computation. However, extending modifying, or creating new software in these languages is complicated as all performance critical code must be written in a second, low-level language, like C or FORTRAN, which are more technically demanding, and are slower to test, debug, etc. Julia's careful and elegant design solves this two language problem. <p> In this session, learn more about this exciting new language, and whether it might be a good match for your research project. Participants will be walked through a basic Julia installation and will have the opportunity to carry out some basic data manipulation and visualization tasks. <a https://www.eventbrite.com/e/introduction-to-julia-tickets-201418958527\">Book here</a> "
+  subtype: workshop
+  speakers: [75]
+  complexity: "Introductory"
+
+-
+  id: 22751 #[stream, day, speakerID]
+  title: "Machine learning in Julia"
+  description: "This session teaches participants how to use the open source softare MLJ (Machine Learning in Julia) to quickly select, optimize and compare a large number of machine learning models. While some machine learning courses focus on deep learning methods, emphasis here will be on quickly comparing models from multiple paradigms. <p> This is a tutorial on how to use the MLJ software, and not a course on machine learning itself. <a https://www.eventbrite.com/e/machine-learning-in-julia-tickets-201422368727\">Book here</a> "
+  subtype: workshop
+  speakers: [75]
+  complexity: "Intermediate"
+
+-
+  id: 1127 #[stream, day, speakerID]
+  title: "When all you have is a hammer, every problem looks like a nail: why you should consider learning a new digital tool, and what is the right one to use"
+  description: "Chris will provide insights from his personal experiences of having had to use a range of different digital tools in research. He'll compare the time spent leaning vs that saved with colleagues who have stuck to their 'hammers', (Excel - I'm looking at you) and hope to show you the benefit of time spent developing a 'toolbox' of digital tools. He will also talk about the advantages and disadvantages of the digital tools that he has encountered with the goal of helping you find identify the right 'tool' for your need. <p> This open session is designed to help attendees to identify other ResBaz sessions that may be useful to them. <a https://auckland.zoom.us/j/95158293964?pwd=QTJYSVpkWEJIRTR1TGd5cDBDenk1UT09\">Zoom link</a> "
+  subtype: workshop
+  speakers: [27]
+  complexity: "Introductory"
+
+-
+  id: 1136 #[stream, day, speakerID]
+  title: "NVivo Showcase"
+  description: "There’s a lot more to NVivo than initially meets the eye! In this webinar we’ll be showcasing our favourite features of NVivo including matrix coding queries, explore and comparison diagrams, and mind-maps. This session is perfect for researchers who are new to NVivo, as well as those who are familiar with the basics and curious to know what else is possible. <a https://us02web.zoom.us/webinar/register/WN_cVUdOOnUTpaqzn1_Q0H9Cg\">Zoom link</a> "
+  subtype: workshop
+  speakers: [36]
+  complexity: "Introductory"
