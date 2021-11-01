@@ -147,17 +147,17 @@
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
-- 
-  id: 16
-  name: "Jason"
-  surname: "He"
-  company: "Centre for eResearch"
-  title: "Senior eResearch Platform & Services Engineer"
-  bio: "Jason is a senior member of the Centre for eResearch's Platform & Services team."
-  thumbnailUrl: "jason_he.png"
-  rockstar: false 
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+# - 
+#   id: 16
+#   name: "Jason"
+#   surname: "He"
+#   company: "Centre for eResearch"
+#   title: "Senior eResearch Platform & Services Engineer"
+#   bio: "Jason is a senior member of the Centre for eResearch's Platform & Services team."
+#   thumbnailUrl: "jason_he.png"
+#   rockstar: false 
+#   ribbon:
+#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 - 
   id: 17
   name: "Martin"
@@ -202,16 +202,16 @@
 #   rockstar: false 
 #   ribbon:
 #     - {abbr: "Liggins", title: "Liggins Institute", url: "https://www.auckland.ac.nz/en/liggins.html"}
--
-  id: 21
-  name: "Anita"
-  surname: "Kean"
-  company: "Centre for eResearch"
-  title: "eResearch Solutions Analyst"
-  thumbnailUrl: "anita-kean.jpg"
-  rockstar: false 
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+# -
+#   id: 21
+#   name: "Anita"
+#   surname: "Kean"
+#   company: "Centre for eResearch"
+#   title: "eResearch Solutions Analyst"
+#   thumbnailUrl: "anita-kean.jpg"
+#   rockstar: false 
+#   ribbon:
+#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 -
   id: 22
   name: "Mike"
@@ -799,3 +799,15 @@
   rockstar: false
   ribbon:
     - {abbr: "FMHS", title: "Faculty of Medical and Health Sciences", url: "https://fmhs.auckland.ac.nz"}
+
+- 
+  id: 77
+  name: "Gene"
+  surname: "Soudlenkov"
+  company: "NeSI"
+  title: "Research Support Team Lead"
+  bio: "Gene is a member of thee University of Auckland office of NeSI as a Research Support Team Lead."
+  thumbnailUrl: "to_be_announced1.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}

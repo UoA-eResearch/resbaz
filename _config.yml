@@ -188,13 +188,16 @@ footerBlocks:
    - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "Beyond Prediction: explanatory and transparent data science, MBIE's Strategic Science Investment Fund"}
    - {link: "https://www.nesi.org.nz/", text: "National eScience Infrastructure"}
  -
-  title: "Contacts"
+  title: "Partners"
   links:
-   - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
+   - {link: "https://www.academic-consulting.co.nz/", text: "Academic Consulting"}
+   - {link: "https://yousaydata.com/", text: "You Say Data"}
+   - {link: "https://natlib.govt.nz/", text: "National library of New Zealand"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
 
 # Blog
 blogTitle: "Latest news"

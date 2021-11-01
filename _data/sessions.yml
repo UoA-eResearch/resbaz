@@ -304,9 +304,9 @@
   id: 044
   title: "Introduction to Open Refine (3hours)"
   description: "OpenRefine is a free, open-source powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, follow-along workshop will demonstrate how it can help you:
-  Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources. <a href=\"https://vuw.libcal.com/event/5293276/\">Book here</a>"
+  Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources. <a href=\"https://vuw.libcal.com/event/5404921?k=91e686c6634ddf7e262af01b94cd9c9b\">Book here</a>"
   subtype: workshop
-  speakers: [9]
+  speakers: [38]
   complexity: "All welcome" 
 
 -
@@ -325,13 +325,13 @@
 #   speakers: [35]
 #   complexity: "All welcome" 
 
-# -
-#   id: 047
-#   title: "Research Portfolio website (2hours)"
-#   description: "Learn how to create a attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://vuw.libcal.com/event/5293388/\">Book here</a> "
-#   subtype: workshop
-#   speakers: [38]
-#   complexity: "All welcome" 
+-
+  id: 047
+  title: "Research Portfolio website (using GitHub)"
+  description: "Learn how to create a attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://vuw.libcal.com/event/5404916?k=5868d7c6fe0eb18bf6f5386de8e1633e\">Book here</a> "
+  subtype: workshop
+  speakers: [38]
+  complexity: "All welcome" 
 
 # -
 #   id: 050
@@ -405,13 +405,13 @@
   speakers: [19,13,14]
   complexity: "All welcome" 
 
-# -
-#   id: 062
-#   title: "Creating Professional LaTeX Reports Without Losing Hair (2hours)"
-#   description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-2-hours-tickets-129423319633/\">Book here</a> "
-#   subtype: workshop
-#   speakers: [55]
-#   complexity: "All welcome" 
+-
+  id: 062
+  title: "Creating Professional LaTeX Reports Without Losing Hair"
+  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-2-hours-tickets-129423319633/\">Book here</a> "
+  subtype: workshop
+  speakers: [55]
+  complexity: "All welcome" 
 
 -
   id: 1456 #[stream, day, speakerID]
@@ -582,7 +582,98 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
 -
   id: 1369 #[stream, day, speakerID]
   title: "Tidy data: an introduction"
-  description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the \"analysis\" itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice <a href=\"https://www.eventbrite.com/e/tidy-data-an-introduction-tickets-202611334957\">Book here</a> "
+  description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the \"analysis\" itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice. <a href=\"https://www.eventbrite.com/e/tidy-data-an-introduction-tickets-202611334957\">Book here</a> "
   subtype: workshop
   speakers: [69, 19]
   complexity: "Introductory"
+
+-
+  id: 2317 #[stream, day, speakerID]
+  title: "Research Compute - overview of University of Auckland options"
+  description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland researchers and research postgraduate students. <a href=\"https://www.eventbrite.com/e/research-compute-overview-of-university-of-auckland-options-tickets-202680040457\">Book here</a> "
+  subtype: workshop
+  speakers: [17]
+  complexity: "All welcome"
+
+-
+  id: 2219 #[stream, day, speakerID]
+  title: "Infographics and storytelling"
+  description: "Tips and tricks to help you communicate your data more effectively. <a href=\"https://www.eventbrite.com/e/infographics-and-storytelling-tickets-202682537927\">Book here</a> "
+  subtype: workshop
+  speakers: [17]
+  complexity: "All welcome"
+
+-
+  id: 2555 #[stream, day, speakerID]
+  title: "Stop paying for free software: Creating a LaTeX pipeline for collaboration"
+  description: "Overleaf is a great tool to get a LaTeX project up and running, but has many limitations, including paywalling collaboration features. We'll empower you to create your own local setup for writing LaTeX documents so that you can fine tune your environment to suit your needs. In the first hour, you will learn to create a local LaTeX set up, keep it tidy, and automated. The second hour will give you the confidence to create your own customisations and content will be driven by participant interest. <p> This session is for you if you're a LaTeX user and need to collaborate with others, want to keep an up-to-date electronic notebook, or want the freedom of creating a distraction-free environment to focus on your writing. <p> Participants should have attended an introduction to Bash. Some Python background would be helpful, but not required. A LaTeX project template will be provided. <a href=\"https://www.eventbrite.com/e/stop-paying-for-free-software-creating-a-latex-pipeline-for-collaboration-tickets-202689378387\">Book here</a> "
+  subtype: workshop
+  speakers: [55, 57, 27]
+  complexity: "Advanced"
+
+-
+  id: 3367 #[stream, day, speakerID]
+  title: "Genomic data management: tips and tricks"
+  description: "Join this genomic data community session to learn and share tips and tricks on geneomic research data management. <a href=\"https://www.eventbrite.com/e/genomic-data-management-tips-and-tricks-tickets-202692688287\">Book here</a> "
+  subtype: workshop
+  speakers: [67, 68, 65]
+  complexity: "All welcome"
+
+-
+  id: 3467 #[stream, day, speakerID]
+  title: "Version control for documents and code "
+  description: "Version Control (aka Revision Control aka Source Control) lets you track your files over time. Why do you care? So when you mess up you can easily get back to a previous working version. In this session you will learn about the principles and practices for version control of documents and code/software, including: <p> - how to get started with Git and why learning this tool is worth the effort <p>
+  - what do things like push, pull, clone, local, and remote mean <p>
+  - how to setup and maintain a git repository<p>
+  - how to use GitHub for collaboration. <p> <a href=\"https://www.eventbrite.com/e/version-control-for-documents-and-code-tickets-202694162697\">Book here</a> "
+  subtype: workshop
+  speakers: [54, 57]
+  complexity: "Introduction"
+
+-
+  id: 3238 #[stream, day, speakerID]
+  title: "Tidyverse: Key Tips for Existing R Users"
+  description: "Are you an existing R user interested in learning more about tidyverse via a series of quick, key tips? This session will provide a range of practical and useful insights provided by Dr Thomas Koentges, an experienced academic and founder of You Say Data. <a href=\"https://vuw.libcal.com/event/5404920?k=507802ee2c59894aaf90226fc9be03b9\">Book here</a> "
+  subtype: workshop
+  speakers: [38]
+  complexity: "Intermediate"
+
+-
+  id: 4238 #[stream, day, speakerID]
+  title: "Collecting sensitive survey data with Qualtrics"
+  description: "Are you looking to collect sensitive data, such as personal information, in your research? This session will cover different methods you can use to protect this data in Qualtrics, including creating screener surveys, using pre-assigned participant Ids, and anonymising responses. <a href=\"https://vuw.libcal.com/event/5404932?k=04e15b181128b04e5368d0c93c037476\">Book here</a> "
+  subtype: workshop
+  speakers: [38]
+  complexity: "Introductory/Intermediate"
+
+-
+  id: 42381 #[stream, day, speakerID]
+  title: "Introduction to Qualtrics for Research Surveys"
+  description: "This session will introduce you to Qualtrics, a powerful survey tool useful for collecting a range of research data. <a href=\"https://vuw.libcal.com/event/5404922?k=d3ed2f147543ea0f748d3426d9cf1b19\">Book here</a> "
+  subtype: workshop
+  speakers: [38]
+  complexity: "Introductory"
+
+-
+  id: 1334 #[stream, day, speakerID]
+  title: "Find, replace and manipulate big datasets"
+  description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. <p> This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…). <a href=\"https://www.eventbrite.com/e/find-replace-and-manipulate-big-datasets-tickets-202726760197\">Book here</a> "
+  subtype: workshop
+  speakers: [34]
+  complexity: "Introductory"
+
+-
+  id: 2577 #[stream, day, speakerID]
+  title: "High performance computations with multithreading"
+  description: "A C-based workshop on using multiple threads to improve performance of your code. In shared-memory parallelism applications achieve parallelism by executing more than one thread at a time across cores within one node. Each of the threads see and manipulate the same memory that the initial process allocated. The workshop explains how parallelism is achieved in HPC applications, what considerations are to be given to the code, what are the benefits and drawbacks of multithreading. <a href=\"https://www.eventbrite.com/e/high-performance-computations-with-multithreading-tickets-202732858437\">Book here</a> "
+  subtype: workshop
+  speakers: [77]
+  complexity: "Intermediate"
+
+-
+  id: 25771 #[stream, day, speakerID]
+  title: "HParallel programming with MPI"
+  description: "A C-based workshop targeting distributed programming in high performance environment. In distributed-memory parallelism an application achieves parallelism by running multiple instances of itself across multiple nodes to solve the problem. Each instance is allocated its own chunk of virtual memory and communicates to other instances via a message passing interface such as MPI. Distributed memory type jobs have many advantages, among which are more cores to tackle the problem and a far greater amount of memory. The workshop explains details of MPI environment, types of operations MPI employs and considerations given to various implementation models. <a href=\"https://www.eventbrite.com/e/parallel-programming-with-mpi-tickets-202741313727\">Book here</a> "
+  subtype: workshop
+  speakers: [77]
+  complexity: "Intermediate"

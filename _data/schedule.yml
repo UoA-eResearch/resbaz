@@ -67,7 +67,7 @@
     - {
       startTime: "09:30",
       endTime: "10:30",
-      sessionIds: [001, 300, 300]
+      sessionIds: [001, 2219, 3238]
     }
 
     - {
@@ -79,7 +79,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [2168, 300, 300]
+      sessionIds: [2168, 2317, 3238]
     }
 
     - {
@@ -91,7 +91,7 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [2165, 2275, 300]
+      sessionIds: [2165, 2275, 062]
     }
 
     - {
@@ -103,7 +103,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [2165, 22751, 300]
+      sessionIds: [2165, 22751, 062]
     }
 
     - {
@@ -141,7 +141,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [100, 045, 300]
+      sessionIds: [100, 045, 3367]
     }
 
     - {
@@ -165,7 +165,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [300, 3269, 300]
+      sessionIds: [300, 3269, 044]
     }
 
     - {
@@ -177,7 +177,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [300, 3269, 300]
+      sessionIds: [300, 3269, 044]
     } 
 ###Thursday
 - 
@@ -191,7 +191,7 @@
     - {
       startTime: "09:30",
       endTime: "10:30",
-      sessionIds: [1456, 300, 3454]
+      sessionIds: [1456, 42381, 3454]
     }
 
     - {
@@ -203,7 +203,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [1456, 300, 3454]
+      sessionIds: [1456, 4238, 3454]
     }
 
     - {
@@ -215,19 +215,19 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [1458, 2460, 300]
+      sessionIds: [1458, 2460, 3467]
     }
 
     - {
       startTime: "14:00",
       endTime: "14:30",
-      sessionIds: [300, 300, 300]
+      sessionIds: [200]
     }
 
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [1458, 2460, 300]
+      sessionIds: [1458, 2460, 3467]
     }
 
     - {
@@ -239,7 +239,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [300, 2460, 300]
+      sessionIds: [300, 2460, 3467]
     }
 ## Friday
 - 
@@ -253,7 +253,7 @@
     - {
       startTime: "09:30",
       endTime: "10:30",
-      sessionIds: [1556, 300, 300]
+      sessionIds: [1556, 2555, 300]
     }
 
     - {
@@ -265,7 +265,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [300, 300, 300]
+      sessionIds: [300, 2555, 300]
     }
 
     - {
@@ -277,7 +277,7 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [300, 300, 300]
+      sessionIds: [044, 2577, 300]
     }
 
     - {
@@ -289,7 +289,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [300, 300, 300]
+      sessionIds: [044, 25771, 300]
     }
     # - {
     #   startTime: "15:00",
