@@ -185,7 +185,7 @@ footerBlocks:
   links:
    - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland"}
    - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development, Victoria University of Wellington"}
-   - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "Beyond Prediction: explanatory and transparent data science, MBIE's Strategic Science Investment Fund"}
+   - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "MBIE-funded Data Science Platform: <em>Beyond Prediction</em>"}
    - {link: "https://www.nesi.org.nz/", text: "National eScience Infrastructure"}
  -
   title: "Partners"
