@@ -9,33 +9,33 @@
   complexity: "Introductory" 
   hidden: true
 
-- 
-  id: 101
-  title: "Key Story - Harnessing the disruptive nature of portable sequencing for community empowerment"
-  description: "The current 'climate' is full of buzz words, such as: AI (artificial intelligence); deep learning; cloud computing, and the 'Internet of Things'. As consumers, and even research specialists, this can all be overwhelming. At ESR we are endeavouring to provide our staff, clients, and hopefully the wider community, with some insight into the technologies behind this jargon. In this talk I will discuss our experiences with the Nvidia Jetson family of small embedded computing platforms. What started as an idea to address a very personal need has developed into an international, collaborative, cross-programme study to develop and deploy an innovative, disruptive, portable and affordable sequencing technology into the hands of the community to empower their health and well-being. Additionally, the affordable, easy to source components provide exciting opportunities for such endeavours as community outreach and education. If you want a sneak peak visit this <a href=\"https://github.com/sirselim/jetson_nanopore_sequencing\">GitHub repository</a>. <a href=\"https://vuw.libcal.com/event/5293270\">Book here</a>"
-  speakers: [42]
+# - 
+#   id: 101
+#   title: "Key Story - Harnessing the disruptive nature of portable sequencing for community empowerment"
+#   description: "The current 'climate' is full of buzz words, such as: AI (artificial intelligence); deep learning; cloud computing, and the 'Internet of Things'. As consumers, and even research specialists, this can all be overwhelming. At ESR we are endeavouring to provide our staff, clients, and hopefully the wider community, with some insight into the technologies behind this jargon. In this talk I will discuss our experiences with the Nvidia Jetson family of small embedded computing platforms. What started as an idea to address a very personal need has developed into an international, collaborative, cross-programme study to develop and deploy an innovative, disruptive, portable and affordable sequencing technology into the hands of the community to empower their health and well-being. Additionally, the affordable, easy to source components provide exciting opportunities for such endeavours as community outreach and education. If you want a sneak peak visit this <a href=\"https://github.com/sirselim/jetson_nanopore_sequencing\">GitHub repository</a>. <a href=\"https://vuw.libcal.com/event/5293270\">Book here</a>"
+#   speakers: [42]
   # hidden: true
 
-- 
-  id: 102
-  title: "Key story - From Classics to Computer Science and back again"
-  description: "A self-described computational philogoist, Thomas is an expert in digital humanities, data and stylometric analysis, and historical language processing.  This Key Story will chart his multi-faceted research trajectory: from a 13 year old facing the difficult choice between learning ancient Greek or being trained in Computer Science, to a successful academic with positions at Harvard and the University of Leipzig, where he has been able to combine these dual interests in novel and powerful ways. More about Thomas can be found <a href=\"https://thomaskoentges.com/\">here</a>. <a href=\"https://vuw.libcal.com/event/5293466\">Book here</a>" 
-  speakers: [35]
+# - 
+#   id: 102
+#   title: "Key story - From Classics to Computer Science and back again"
+#   description: "A self-described computational philogoist, Thomas is an expert in digital humanities, data and stylometric analysis, and historical language processing.  This Key Story will chart his multi-faceted research trajectory: from a 13 year old facing the difficult choice between learning ancient Greek or being trained in Computer Science, to a successful academic with positions at Harvard and the University of Leipzig, where he has been able to combine these dual interests in novel and powerful ways. More about Thomas can be found <a href=\"https://thomaskoentges.com/\">here</a>. <a href=\"https://vuw.libcal.com/event/5293466\">Book here</a>" 
+#   speakers: [35]
 #  hidden: true
--
-  id: 103
-  title: "Performance - Music performance and project showcase"
-  description: "In this performance, 20+ year old 'e-waste' video and audio circuits are removed from the waste stream and resuscitated, miss-wired, and 'incorrectly' interconnected. The results of this process create audio-visual signals with 'sentient' or 'generative' characteristics. The voices and cinema of these discarded circuits are broadcast and redistributed through this YouTube Live feed. Interaction: If you're watching this from a computer you can also access an in-progress interactive user interface where you can influence this system. The ultra ultra pre-beta version of that (in fluctuating states of (dis)repair) is <a href=\"https://trash-to-web.herokuapp.com/follow.html\">located here </a>. <a href=\"https://vuw.libcal.com/event/5293883\">Sign up here</a> "
-  speakers: [33]
-  complexity: "All welcome" 
+# -
+#   id: 103
+#   title: "Performance - Music performance and project showcase"
+#   description: "In this performance, 20+ year old 'e-waste' video and audio circuits are removed from the waste stream and resuscitated, miss-wired, and 'incorrectly' interconnected. The results of this process create audio-visual signals with 'sentient' or 'generative' characteristics. The voices and cinema of these discarded circuits are broadcast and redistributed through this YouTube Live feed. Interaction: If you're watching this from a computer you can also access an in-progress interactive user interface where you can influence this system. The ultra ultra pre-beta version of that (in fluctuating states of (dis)repair) is <a href=\"https://trash-to-web.herokuapp.com/follow.html\">located here </a>. <a href=\"https://vuw.libcal.com/event/5293883\">Sign up here</a> "
+#   speakers: [33]
+#   complexity: "All welcome" 
 
-- 
-  id: 104
-  title: "Key story - Exploring the cultural horizons of open science: your research and your life"
-  description: "Open science is a lot more than open access. Sci-hub is not the goal. Open science unfolds new demands for culture change in the academy; it builds a new pathway toward more generous and joyful research practices and outcomes. Science is too consequential to be colonized by the neoliberal marketplace. 
-  I will open up a conversation about an alternative open science economy, and about the shared cultural practices—past and future science norms—that can make all of our research collectively better, quicker, more rigorous, and a lot more fun. From the infinite game of science—which you get to be paid to play—to the fierce equality of future global research that puts everyone’s work on a planetary stage: open science has really just begun (and Sci-hub is still kinda cool). Background content is available. <a href=\"https://www.eventbrite.com/e/keystory-bruce-caron-resbaz-2020-pick-n-mix-tickets-128687558953\">Book here</a> "
-  speakers: [0]
-  # hidden: true
+# - 
+#   id: 104
+#   title: "Key story - Exploring the cultural horizons of open science: your research and your life"
+#   description: "Open science is a lot more than open access. Sci-hub is not the goal. Open science unfolds new demands for culture change in the academy; it builds a new pathway toward more generous and joyful research practices and outcomes. Science is too consequential to be colonized by the neoliberal marketplace. 
+#   I will open up a conversation about an alternative open science economy, and about the shared cultural practices—past and future science norms—that can make all of our research collectively better, quicker, more rigorous, and a lot more fun. From the infinite game of science—which you get to be paid to play—to the fierce equality of future global research that puts everyone’s work on a planetary stage: open science has really just begun (and Sci-hub is still kinda cool). Background content is available. <a href=\"https://www.eventbrite.com/e/keystory-bruce-caron-resbaz-2020-pick-n-mix-tickets-128687558953\">Book here</a> "
+#   speakers: [0]
+#   # hidden: true
 - 
   id: 200
   title: "Break"
@@ -57,11 +57,11 @@
   speakers: []
   hidden: true
 
-- 
-  id: 400
-  title: "Welcome to ResBaz 2020 : Pick n Mix"
-  description: "A brief welcome to the Research Bazaar NZ 2020 - a collaborative effort to bring free, open, online researcher skills sessions to the NZ research community. Feel free to drop-in and ask questions. <a href=\"https://auckland.zoom.us/j/99720152410?pwd=Kzhsa09yTW5oOThUVUdXZ1dHTVBWdz09\">Zoom link</a>"
-  speakers: [14,38]
+# - 
+#   id: 400
+#   title: "Welcome to ResBaz 2020 : Pick n Mix"
+#   description: "A brief welcome to the Research Bazaar NZ 2020 - a collaborative effort to bring free, open, online researcher skills sessions to the NZ research community. Feel free to drop-in and ask questions. <a href=\"https://auckland.zoom.us/j/99720152410?pwd=Kzhsa09yTW5oOThUVUdXZ1dHTVBWdz09\">Zoom link</a>"
+#   speakers: [14,38]
   # hidden: true
 
 -
@@ -72,13 +72,13 @@
   speakers: [14, 57]
   complexity: "Beginner, all welcome" 
   
--
-  id: 002
-  title: "Crash course in LaTeX using Overleaf"
-  description: "Learn the basics of LaTeX and Overleaf in this workshop. We will create a template that you can use for both articles and a thesis. <a href=\"https://www.eventbrite.com/e/crash-course-in-latex-using-overleaf-resbaz-2020-pick-n-mix-tickets-128562882041\">Book here</a> "
-  subtype: workshop
-  speakers: [27]
-  complexity: "Beginner" 
+# -
+#   id: 002
+#   title: "Crash course in LaTeX using Overleaf"
+#   description: "Learn the basics of LaTeX and Overleaf in this workshop. We will create a template that you can use for both articles and a thesis. <a href=\"https://www.eventbrite.com/e/crash-course-in-latex-using-overleaf-resbaz-2020-pick-n-mix-tickets-128562882041\">Book here</a> "
+#   subtype: workshop
+#   speakers: [27]
+#   complexity: "Beginner" 
 #  presentation: "https://tofu.dev/workshops/latex"
 # -
 #   id: 003
@@ -94,13 +94,13 @@
   subtype: workshop
   speakers: [14, 59]
   complexity: "Beginner, all welcome"
--
-  id: 005
-  title: "Introduction to Nectar virtual machines (- UoA only)"
-  description: "Is your desktop/laptop struggling to perform research analysis? <p>Using a virtual machine could help. <p>The Centre for eResearch is offering a 1-hour online workshop and practical session to enable University of Auckland researchers to use Nectar Research Cloud (virtual machines). <br>This session is ideal for those considering or starting to use Nectar Research Cloud, presenters will provide practical instruction on getting an allocation and setting up a Windows virtual machine.<br>Please register with your University of Auckland email address.<br> <a href=\"https://www.eventbrite.com/e/introduction-to-nectar-virtual-machines-tickets-124377936757\">Book here</a> "
-  subtype: workshop
-  speakers: [48]
-  complexity: "TBC" 
+# -
+#   id: 005
+#   title: "Introduction to Nectar virtual machines (- UoA only)"
+#   description: "Is your desktop/laptop struggling to perform research analysis? <p>Using a virtual machine could help. <p>The Centre for eResearch is offering a 1-hour online workshop and practical session to enable University of Auckland researchers to use Nectar Research Cloud (virtual machines). <br>This session is ideal for those considering or starting to use Nectar Research Cloud, presenters will provide practical instruction on getting an allocation and setting up a Windows virtual machine.<br>Please register with your University of Auckland email address.<br> <a href=\"https://www.eventbrite.com/e/introduction-to-nectar-virtual-machines-tickets-124377936757\">Book here</a> "
+#   subtype: workshop
+#   speakers: [48]
+#   complexity: "TBC" 
 # -
 #   id: 006
 #   title: "How to plan your research for real world impact & Grabbing the limelight – Communicating your research in the media"
@@ -115,39 +115,39 @@
   # Session is particularly suited to provisional year doctoral candidates or researchers in the early stages of their research project."
   # speakers: [13, 14]
   # complexity: "Attendance to earlier Research Data Mamgement workshop is recommended." 
--
-  id: 010
-  title: "Tidy data and introduction to OpenRefine"
-  description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers need it. Since this is where most research projects start, this is where we want to start too!<br /><br /> 
-  Preparing data for analysis is an important part of the research workflow. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent. OpenRefine is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. This lesson will teach you to use OpenRefine to effectively clean and format data and automatically track any changes that you make. Many people comment that this tool saves them literally months of work trying to make these edits by hand. <a href=\"https://www.eventbrite.com/e/tidy-data-and-an-introduction-to-open-refine-tickets-128809746419/\">Book here</a> "
-  subtype: workshop
-  speakers: [19,13]
-  complexity: "Beginner" 
+# -
+#   id: 010
+#   title: "Tidy data and introduction to OpenRefine"
+#   description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers need it. Since this is where most research projects start, this is where we want to start too!<br /><br /> 
+#   Preparing data for analysis is an important part of the research workflow. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent. OpenRefine is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. This lesson will teach you to use OpenRefine to effectively clean and format data and automatically track any changes that you make. Many people comment that this tool saves them literally months of work trying to make these edits by hand. <a href=\"https://www.eventbrite.com/e/tidy-data-and-an-introduction-to-open-refine-tickets-128809746419/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [19,13]
+#   complexity: "Beginner" 
 
--
-  id: 011
-  title: "Getting started with the bash shell"
-  description: "An introduction to using the linux command-line, with one of the popular shells: the bash shell.<br /><br /> 
-  We'll cover navigating the filesystem, moving files around, working with file permissions, finding files, bash history, and more if there is time.<br /><br /> 
-  This demonstration will be done on the linux operating system (OS):to be able to follow along, you should have access to a bash shell from your own computer, either<br /><br /> 
-  * directly on a linux operating system<br /><br /> 
-  * using a terminal on a Mac,<br /><br /> 
-  * or on a Windows OS, using<br /><br /> 
-  - the Windows Subsystem for Linux (see https://docs.microsoft.com/en-us/windows/wsl/install-win10),<br /><br /> 
-  - using a bootable version of Ubuntu on a usb drive: (see <a href=\"https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started/\">here</a>). <a href=\"https://www.eventbrite.com/e/introduction-to-linux-commandline-tickets-128806001217/\">Book here</a> "
-  subtype: workshop
-  speakers: [21]
-  complexity: "Beginner" 
--
-  id: 012
-  title: "Using Qualtrics for creating surveys?"
-  description: "We'll provide an overview of Qualtrics - a web-based survey tool for conducting surveys for research, evaluations and other data collection activities. Join us for this community building session - speakers will share their experiences of using Qualtrics to create large scale surveys and invite the audience to ask questions and share tips. <a href=\"https://www.eventbrite.com/e/using-qualtrics-for-creating-surveys-tickets-128711813499/\">Book here</a> "
-  speakers: [13, 14]
--
-  id: 013
-  title: "R for Social Scientists"
-  description: "This session will introduction R for participants with no programming experience. We hope to cover information about R syntax, the RStudio interface, and move through how to import CSV files, what a data frame is, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. <a href=\"https://www.eventbrite.com/e/r-for-social-scientists-tickets-128961396007/https://www.eventbrite.com/e/r-for-social-scientists-tickets-128961396007\">Book here</a> "
-  speakers: [19,18]
+# -
+#   id: 011
+#   title: "Getting started with the bash shell"
+#   description: "An introduction to using the linux command-line, with one of the popular shells: the bash shell.<br /><br /> 
+#   We'll cover navigating the filesystem, moving files around, working with file permissions, finding files, bash history, and more if there is time.<br /><br /> 
+#   This demonstration will be done on the linux operating system (OS):to be able to follow along, you should have access to a bash shell from your own computer, either<br /><br /> 
+#   * directly on a linux operating system<br /><br /> 
+#   * using a terminal on a Mac,<br /><br /> 
+#   * or on a Windows OS, using<br /><br /> 
+#   - the Windows Subsystem for Linux (see https://docs.microsoft.com/en-us/windows/wsl/install-win10),<br /><br /> 
+#   - using a bootable version of Ubuntu on a usb drive: (see <a href=\"https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started/\">here</a>). <a href=\"https://www.eventbrite.com/e/introduction-to-linux-commandline-tickets-128806001217/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [21]
+#   complexity: "Beginner" 
+# -
+#   id: 012
+#   title: "Using Qualtrics for creating surveys?"
+#   description: "We'll provide an overview of Qualtrics - a web-based survey tool for conducting surveys for research, evaluations and other data collection activities. Join us for this community building session - speakers will share their experiences of using Qualtrics to create large scale surveys and invite the audience to ask questions and share tips. <a href=\"https://www.eventbrite.com/e/using-qualtrics-for-creating-surveys-tickets-128711813499/\">Book here</a> "
+#   speakers: [13, 14]
+# -
+#   id: 013
+#   title: "R for Social Scientists"
+#   description: "This session will introduction R for participants with no programming experience. We hope to cover information about R syntax, the RStudio interface, and move through how to import CSV files, what a data frame is, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. <a href=\"https://www.eventbrite.com/e/r-for-social-scientists-tickets-128961396007/https://www.eventbrite.com/e/r-for-social-scientists-tickets-128961396007\">Book here</a> "
+#   speakers: [19,18]
 # -
   # id: 014
   # title: "Publishing: Getting more people to read your research (Rm:110)"
@@ -204,14 +204,14 @@
   # speakers: [10]
   # complexity: "Beginner" 
 
--
+# -
 
-  id: 027
-  title: "Research Compute - overview of University of Auckland options"
-  description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland researchers and research postgraduate students. <a href=\"https://www.eventbrite.com/e/research-compute-overview-for-university-of-auckland-options-tickets-128715149477\">Book here</a>"
-  subtype: workshop
-  speakers: [17]
-  complexity: "Beginners" 
+#   id: 027
+#   title: "Research Compute - overview of University of Auckland options"
+#   description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland researchers and research postgraduate students. <a href=\"https://www.eventbrite.com/e/research-compute-overview-for-university-of-auckland-options-tickets-128715149477\">Book here</a>"
+#   subtype: workshop
+#   speakers: [17]
+#   complexity: "Beginners" 
 -
   id: 031
   title: "Data Analysis with Jupyter Notebooks"
@@ -219,20 +219,20 @@
   subtype: workshop
   speakers: [10]
   complexity: "Introductory" 
--
-  id: 032
-  title: "Literature reviews with NVivo"
-  description: "If you’re buried under piles of literature and can’t see the wood for the trees, NVivo might just have something to offer you. While NVivo is primarily designed to analyse qualitative data, much of its functionality is applicable to literature reviews. It won’t analyse the literature or write the review for you, but it has a range of features that will assist you in working with PDFs and notes relating to your review. The ability to run queries on your literature is particularly powerful, and there are a range of useful visualisation tools also. This one-hour webinar will introduce the software and demonstrate some of its key functionality in relation to literature reviews. Experience with NVivo will be helpful, but is not required. <a href=\"https://us02web.zoom.us/webinar/register/WN_brSd3r6kQB6ZxVdgGcYrZQ\">Book here</a> " 
-  subtype: workshop
-  speakers: [36]
-  complexity: "Beginner" 
--
-  id: 033
-  title: "Less is more: creating infographics"
-  description: "Tips and tricks to help you communicate your data more effectively. <a href=\"https://www.eventbrite.com/e/less-is-more-creating-infographics-tickets-128944535577/\">Book here</a> " 
-  subtype: workshop
-  speakers: [19]
-  complexity: "Beginner" 
+# -
+#   id: 032
+#   title: "Literature reviews with NVivo"
+#   description: "If you’re buried under piles of literature and can’t see the wood for the trees, NVivo might just have something to offer you. While NVivo is primarily designed to analyse qualitative data, much of its functionality is applicable to literature reviews. It won’t analyse the literature or write the review for you, but it has a range of features that will assist you in working with PDFs and notes relating to your review. The ability to run queries on your literature is particularly powerful, and there are a range of useful visualisation tools also. This one-hour webinar will introduce the software and demonstrate some of its key functionality in relation to literature reviews. Experience with NVivo will be helpful, but is not required. <a href=\"https://us02web.zoom.us/webinar/register/WN_brSd3r6kQB6ZxVdgGcYrZQ\">Book here</a> " 
+#   subtype: workshop
+#   speakers: [36]
+#   complexity: "Beginner" 
+# -
+#   id: 033
+#   title: "Less is more: creating infographics"
+#   description: "Tips and tricks to help you communicate your data more effectively. <a href=\"https://www.eventbrite.com/e/less-is-more-creating-infographics-tickets-128944535577/\">Book here</a> " 
+#   subtype: workshop
+#   speakers: [19]
+#   complexity: "Beginner" 
 # -
 #   id: 034
 #   title: "Learn how to collaborate with Dropbox (Rm:110)"
@@ -240,13 +240,13 @@
 #   subtype: workshop
 #   speakers: [19, 47]
 #   complexity: "Beginner" 
--
-  id: 035
-  title: "Social Network Analysis - an introduction"
-  description: "Intended to be a very general introduction to social network analysis (SNA). The session will be geared towards researchers interested in what network analysis is all about from both theoretical and practical perspectives. Jon will talk about the characteristics of social networks and some well-known positional measures in social networks. A quick“lay of the land” and idea of where to go if SNA is something potentially relevant to your developing research.  I’ll also outline some useful tools and frameworks that you’ll find useful. <a href=\"https://www.eventbrite.com/e/social-network-analysis-an-introduction-tickets-128789441687/\">Book here</a> " 
-  subtype: workshop
-  speakers: [45]
-  complexity: "Beginner" 
+# -
+#   id: 035
+#   title: "Social Network Analysis - an introduction"
+#   description: "Intended to be a very general introduction to social network analysis (SNA). The session will be geared towards researchers interested in what network analysis is all about from both theoretical and practical perspectives. Jon will talk about the characteristics of social networks and some well-known positional measures in social networks. A quick“lay of the land” and idea of where to go if SNA is something potentially relevant to your developing research.  I’ll also outline some useful tools and frameworks that you’ll find useful. <a href=\"https://www.eventbrite.com/e/social-network-analysis-an-introduction-tickets-128789441687/\">Book here</a> " 
+#   subtype: workshop
+#   speakers: [45]
+#   complexity: "Beginner" 
 -
   id: 036
   title: "Working with social media data?"
@@ -255,29 +255,29 @@
   speakers: [12]
   complexity: "Beginner, all welcome" 
 
--
-  id: 040
-  title: "Hacky Hour - Questions"
-  description: "<a href=\"https://auckland.zoom.us/my/hackyhour\">Zoom link</a> "
-  subtype: workshop
-  speakers: [12]
-  complexity: "All welcome" 
+# -
+#   id: 040
+#   title: "Hacky Hour - Questions"
+#   description: "<a href=\"https://auckland.zoom.us/my/hackyhour\">Zoom link</a> "
+#   subtype: workshop
+#   speakers: [12]
+#   complexity: "All welcome" 
 
--
-  id: 041
-  title: "Linux command line - beyond the basics/ Bash shell - some more basic tools"
-  description: "In this second session, you'll explore a few basic but powerful command-line tools that the linux shell provides<p>regular expressions:   grep, wildcards<p>sed:   stream editing with regular expressions<p> awk:  handling formatted data - either data files or output of bash commands.<p> We'll illustrate using these at the command line and as part of bash scripts. <a href=\"https://www.eventbrite.com/e/linux-command-line-beyond-the-basics-tickets-128962252569/\">Book here</a>"
-  subtype: workshop
-  speakers: [21]
-  complexity: "Intermediate" 
+# -
+#   id: 041
+#   title: "Linux command line - beyond the basics/ Bash shell - some more basic tools"
+#   description: "In this second session, you'll explore a few basic but powerful command-line tools that the linux shell provides<p>regular expressions:   grep, wildcards<p>sed:   stream editing with regular expressions<p> awk:  handling formatted data - either data files or output of bash commands.<p> We'll illustrate using these at the command line and as part of bash scripts. <a href=\"https://www.eventbrite.com/e/linux-command-line-beyond-the-basics-tickets-128962252569/\">Book here</a>"
+#   subtype: workshop
+#   speakers: [21]
+#   complexity: "Intermediate" 
 
--
-  id: 042
-  title: "Digital Storytelling and Data Visualisation with KnightLab"
-  description: "Use open source tools to create interactive narratives and visualisations for your research. This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics with the option to explore more advanced features, and collaborate on creating a TimeLine. <a href=\"https://vuw.libcal.com/event/5293353/\">Book here</a>"
-  subtype: workshop
-  speakers: [38]
-  complexity: "All welcome" 
+# -
+#   id: 042
+#   title: "Digital Storytelling and Data Visualisation with KnightLab"
+#   description: "Use open source tools to create interactive narratives and visualisations for your research. This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics with the option to explore more advanced features, and collaborate on creating a TimeLine. <a href=\"https://vuw.libcal.com/event/5293353/\">Book here</a>"
+#   subtype: workshop
+#   speakers: [38]
+#   complexity: "All welcome" 
 
   # -
   # id: 009
@@ -292,17 +292,17 @@
   # subtype: workshop
   # speakers: [23]
   # complexity: "Beginner" 
--
-  id: 043
-  title: "Data publishing tips and Q&A - drop-in session"
-  description: "Pop by for an overview on data publishing  - why, what, where and how. Bring along your questions to this drop-in session. <a href=\"https://auckland.zoom.us/my/hackyhour\">Zoom link</a> "
-  subtype: workshop
-  speakers: [14,38]
-  complexity: "All welcome" 
+# -
+#   id: 043
+#   title: "Data publishing tips and Q&A - drop-in session"
+#   description: "Pop by for an overview on data publishing  - why, what, where and how. Bring along your questions to this drop-in session. <a href=\"https://auckland.zoom.us/my/hackyhour\">Zoom link</a> "
+#   subtype: workshop
+#   speakers: [14,38]
+#   complexity: "All welcome" 
 
 -
   id: 044
-  title: "Workshop: Introduction to Open Refine (3hours)"
+  title: "Introduction to Open Refine (3hours)"
   description: "OpenRefine is a free, open-source powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, follow-along workshop will demonstrate how it can help you:
   Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources. <a href=\"https://vuw.libcal.com/event/5293276/\">Book here</a>"
   subtype: workshop
@@ -317,93 +317,78 @@
   speakers: [22]
   complexity: "All welcome" 
 
--
-  id: 046
-  title: "Workshop: Topic Modelling with Tidy ToPān (3hours)"
-  description: "Introductory follow-along workshop on Topic Modelling, using Tidy ToPān. ToPān is Topic Modelling for everyone: from people without programming knowledge to people that want to build teaching and text-reuse tools and apps based on Topic Modelling data without having to develop their own tool or having to majorly restructure their textual data. <a href=\"https://github.com/ThomasK81/tidyToPan/tree/1.0.0#installing-it\">Installation instructions</a>. <a href=\"https://vuw.libcal.com/event/5293274\">Book here</a>  "
-  subtype: workshop
-  speakers: [35]
-  complexity: "All welcome" 
+# -
+#   id: 046
+#   title: "Workshop: Topic Modelling with Tidy ToPān (3hours)"
+#   description: "Introductory follow-along workshop on Topic Modelling, using Tidy ToPān. ToPān is Topic Modelling for everyone: from people without programming knowledge to people that want to build teaching and text-reuse tools and apps based on Topic Modelling data without having to develop their own tool or having to majorly restructure their textual data. <a href=\"https://github.com/ThomasK81/tidyToPan/tree/1.0.0#installing-it\">Installation instructions</a>. <a href=\"https://vuw.libcal.com/event/5293274\">Book here</a>  "
+#   subtype: workshop
+#   speakers: [35]
+#   complexity: "All welcome" 
 
--
-  id: 047
-  title: "Research Portfolio website (2hours)"
-  description: "Learn how to create a attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://vuw.libcal.com/event/5293388/\">Book here</a> "
-  subtype: workshop
-  speakers: [38]
-  complexity: "All welcome" 
+# -
+#   id: 047
+#   title: "Research Portfolio website (2hours)"
+#   description: "Learn how to create a attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://vuw.libcal.com/event/5293388/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [38]
+#   complexity: "All welcome" 
 
--
-  id: 050
-  title: "Introduction to Topic Modelling"
-  description: "Topic modeling is a frequently used tool for discovering hidden structures in text-based material. Learn how it's used in a range of research contexts, including the digital humanities and social sciences. <a href=\"https://vuw.libcal.com/event/5293271/\">Book here</a> "
-  subtype: workshop
-  speakers: [35]
-  complexity: "All welcome" 
+# -
+#   id: 050
+#   title: "Introduction to Topic Modelling"
+#   description: "Topic modeling is a frequently used tool for discovering hidden structures in text-based material. Learn how it's used in a range of research contexts, including the digital humanities and social sciences. <a href=\"https://vuw.libcal.com/event/5293271/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [35]
+#   complexity: "All welcome" 
 
--
-  id: 051
-  title: "Tidy data with spreadsheets (2hours)"
-  description: "This lesson is designed for those interested in working with data in spreadsheets, using library data for reference.<br /><br /> 
-  It will demonstrate good practice for using spreadsheet programs for data wrangling, formatting data tables in spreadsheets, and dealing with dates as data.<br /><br /> 
-  This is a very useful grounding for anyone who makes, uses, or contributes towards work/projects that use data, especially in spreadsheets.<br /><br /> 
-  Must have access to spreadsheet software, ideally Excel. <a href=\"https://vuw.libcal.com/event/5293390/\">Book here</a> "
-  subtype: workshop
-  speakers: [11]
-  complexity: "All welcome" 
+# -
+#   id: 051
+#   title: "Tidy data with spreadsheets (2hours)"
+#   description: "This lesson is designed for those interested in working with data in spreadsheets, using library data for reference.<br /><br /> 
+#   It will demonstrate good practice for using spreadsheet programs for data wrangling, formatting data tables in spreadsheets, and dealing with dates as data.<br /><br /> 
+#   This is a very useful grounding for anyone who makes, uses, or contributes towards work/projects that use data, especially in spreadsheets.<br /><br /> 
+#   Must have access to spreadsheet software, ideally Excel. <a href=\"https://vuw.libcal.com/event/5293390/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [11]
+#   complexity: "All welcome" 
 
--
-  id: 052
-  title: "Intro to XML and JSON (2hours)"
-  description: "\"What is XML? How does XML work? How can I use XML? What can I use XML for?\"<br /><br /> 
-  \"What is JSON? How does JSON work? How can I use JSON? What can I use JSON for?\"<br /><br /> 
-  Useful for anyone who wants/needs to engage with data in XML or JSON formats and wants a guided tour of formats, and how to create/read/use them. <a href=\"https://vuw.libcal.com/event/5293473/\">Book here</a> "
-  subtype: workshop
-  speakers: [11]
-  complexity: "All welcome" 
+# -
+#   id: 052
+#   title: "Intro to XML and JSON (2hours)"
+#   description: "\"What is XML? How does XML work? How can I use XML? What can I use XML for?\"<br /><br /> 
+#   \"What is JSON? How does JSON work? How can I use JSON? What can I use JSON for?\"<br /><br /> 
+#   Useful for anyone who wants/needs to engage with data in XML or JSON formats and wants a guided tour of formats, and how to create/read/use them. <a href=\"https://vuw.libcal.com/event/5293473/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [11]
+#   complexity: "All welcome" 
 
--
-  id: 053
-  title: "How to plan for real world impact!"
-  description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"https://www.eventbrite.com/e/how-to-plan-your-research-for-real-world-impact-tickets-128804045367/\">Book here</a>"
-  subtype: workshop
-  speakers: [29]
-  complexity: "All welcome" 
+# -
+#   id: 053
+#   title: "How to plan for real world impact!"
+#   description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"https://www.eventbrite.com/e/how-to-plan-your-research-for-real-world-impact-tickets-128804045367/\">Book here</a>"
+#   subtype: workshop
+#   speakers: [29]
+#   complexity: "All welcome" 
 
--
-  id: 054
-  title: "Workflow languages – your foundation for accuracy and reproducibility in data analysis"
-  description: "Are you working with big data? Do you need to pass your data through various software?  If you’ve ever been in this situation (as I have in a population genetics masters project), you would know it can become very difficult to maintain reproducibility and accuracy; wait, have I updated this output file? The more manual steps we do, the more human errors are inevitably introduced into our analysis, hampering accuracy and reproducibility.<br /><br />
-  Be lazy, the machine does it better.<br /><br />
-  Workflow languages automate your data analysis workflow . But this isn’t all, they ensure all your analysis logs are captured in an organised fashion, they explicitly outline the software (and exact software versions) used, the input and output files at each step. Lastly, when your data inevitably becomes big data, you can easily scale up from running your analysis on your laptop, to running your analysis on a high performance cluster (HPC) such as NeSi.<br /><br />
-  In this workshop, we will work through an introduction to Snakemake, a workflow language with its basis in the popular programming language, Python. This Workshop is intended for anyone who has several steps in their data analysis workflow, particularly when many different software are involved. <a href=\"https://vuw.libcal.com/event/5293465/\">Book here</a> "
-  subtype: workshop
-  speakers: [37]
-  complexity: "All welcome" 
+# -
+#   id: 054
+#   title: "Workflow languages – your foundation for accuracy and reproducibility in data analysis"
+#   description: "Are you working with big data? Do you need to pass your data through various software?  If you’ve ever been in this situation (as I have in a population genetics masters project), you would know it can become very difficult to maintain reproducibility and accuracy; wait, have I updated this output file? The more manual steps we do, the more human errors are inevitably introduced into our analysis, hampering accuracy and reproducibility.<br /><br />
+#   Be lazy, the machine does it better.<br /><br />
+#   Workflow languages automate your data analysis workflow . But this isn’t all, they ensure all your analysis logs are captured in an organised fashion, they explicitly outline the software (and exact software versions) used, the input and output files at each step. Lastly, when your data inevitably becomes big data, you can easily scale up from running your analysis on your laptop, to running your analysis on a high performance cluster (HPC) such as NeSi.<br /><br />
+#   In this workshop, we will work through an introduction to Snakemake, a workflow language with its basis in the popular programming language, Python. This Workshop is intended for anyone who has several steps in their data analysis workflow, particularly when many different software are involved. <a href=\"https://vuw.libcal.com/event/5293465/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [37]
+#   complexity: "All welcome" 
 
--
-  id: 055
-  title: "Tour of New Zealand eScience Infrastructure"
-  description: "NeSI’s goal is to raise the capability of NZ based researchers  - but how?<br /><br />
-  In this session we will give attendees a tour of our most popular offerings. Come along to learn how NeSI’s friendly team can help you overcome common (yet tricky) research challenges including:<br /><br />
-  - Accessing NeSI’s High Performance Compute platforms for the first time<br /><br /> 
-  - Transferring large amounts of research data<br /><br /> 
-  - How to apply machine learning methods in your project on the HPC platform<br /><br /> 
-  - Getting support as you develop or fine tune code to run effectively on HPCs<br /><br /> 
-  - Staying up to date on community events and offerings<br /><br />
-  If any of these topics sound intriguing, please be sure to join the call. Several NeSI staff will be online to share their expertise and we would be thrilled to hear how NeSI can support you on your research journey. <a href=\"https://www.eventbrite.com/e/tour-of-new-zealand-escience-infrastructure-virtual-tickets-128945899657/\">Book here</a> "
-  subtype: workshop
-  speakers: [23]
-  complexity: "All welcome" 
-
--
-  id: 056
-  title: "Social Media for Research Networking and Engagement"
-  description: "What does social media do for research impact and networking that more traditional forms of communication don't?<br /><br />
-  This session will explore how to make the most of social media in a research context, including information on: getting information, providing information, networking with other academics, engaging with communities outside of academia, and finding your tribe. It will also address how you can manage the distinction between personal and professional on social media, and how to mitigate the dangers of using it. <a href=\"https://vuw.libcal.com/event/5293510/\">Book here</a> "
-  subtype: workshop
-  speakers: [38]
-  complexity: "All welcome" 
+# -
+#   id: 056
+#   title: "Social Media for Research Networking and Engagement"
+#   description: "What does social media do for research impact and networking that more traditional forms of communication don't?<br /><br />
+#   This session will explore how to make the most of social media in a research context, including information on: getting information, providing information, networking with other academics, engaging with communities outside of academia, and finding your tribe. It will also address how you can manage the distinction between personal and professional on social media, and how to mitigate the dangers of using it. <a href=\"https://vuw.libcal.com/event/5293510/\">Book here</a> "
+#   subtype: workshop
+#   speakers: [38]
+#   complexity: "All welcome" 
 
 # -
 #   id: 057
@@ -412,26 +397,12 @@
 #   subtype: workshop
 #   speakers: [21]
 #   complexity: "All welcome" 
-
--
-  id: 060
-  title: "Bash scripting for researchers (90mins)"
-  description: "Bash is a powerful tool that enables users to quickly automate tasks that would otherwise be labour intensive. We will demonstrate how you can use Bash to write time and effort-saving computer scripts. A little Bash knowledge goes a long way.<p>
-  What do we mean by computer scripts? <p> If you have a collection of commands you'd like to run together, you can combine them in a script and run them all at once. You can also pass arguments to the script so that it can operate on different files or other input. A script is a handy way to:<br>
-        •        Save yourself typing on a group of commands you often run together.<p>
-        •        Remember complicated commands, so you don't have to look up, or risk forgetting, the particular syntax each time you use it.<p>
-        •        Use control structures, like loops and case statements, to allow your scripts to do complex jobs. Writing these structures into a script can make them more convenient to type and easier to read.<p>
-  This session is open to students and researchers from all domains and will build upon the content covered in the introduction to Linux command-line session happening online on 23 Nov. <a href=\"https://www.eventbrite.com/e/software-carpentry-taster-session-90mins-resbaz-2020-tickets-128948724105/\">Book here</a>"
-  subtype: workshop
-  speakers: [54,55]
-  complexity: "All welcome" 
-
 -
   id: 061
   title: "Research data collection & surveys with REDCap - an overview"
-  description: "A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys with sensitive data. <a href=\"https://www.eventbrite.com/e/research-data-collection-surveys-with-redcap-an-overview-tickets-129427385795/\">Book here</a> "
+  description: "A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys with sensitive data. <a href=\"https://www.eventbrite.com/e/research-data-collection-surveys-with-redcap-an-overview-tickets-202603210657\">Book here</a> "
   subtype: workshop
-  speakers: [19]
+  speakers: [19,13,14]
   complexity: "All welcome" 
 
 # -
@@ -444,7 +415,7 @@
 
 -
   id: 1456 #[stream, day, speakerID]
-  title: "Publication Ready Figures (with Python, Matplotlib and Seaborn) <b>9am start</b> "
+  title: "Publication Ready Figures (with Python, Matplotlib and Seaborn) <b>9am start</b>"
   description: "Python is a powerful plotting tool but, with so many options and settings, it can be time consuming to figure out how to make effective and attractive plots. This workshop is your cheat sheet for using the Python packages matplotlib and Seaborn to make static plots. It's an interactive session and we assume some basic Python skills.  If you’re looking for a way to level-up your visual communication of data and increase engagement with your research, then this is for you. <a href=\"https://www.eventbrite.com/e/publication-ready-figures-with-python-matplotlib-and-seaborn-tickets-196242415347\">Book here</a> <p>
   Session note: This workshop starts at 9am. You will be able to do this workshop if you have imported a module, printed a statement, and made a basic plot. If new to Python, please attend the 'Python: an introduction' session before doing this workshop. <p> Requirements: Detailed setup instructions will be provided prior to the workshop, along with a link to download the course material before the workshop."
   subtype: workshop
@@ -502,11 +473,11 @@
 -
   id: 126323 #[stream, day, speakerID]
   title: "Machine Learning 101"
-  description: "The NeSI team will introduce you to the wonderful world of machine learning via the user-friendly Jupyter on NeSI platform. Come along to acquaint yourself with amazing algorithms and conquer your fear of obscure machine learning jargon. <p> This whirlwind tour of the Scikit-learn Python library will introduce the usual machine learning suspects (aka things that are easy to google). Specifically, attendees will learn about model fitting, evaluation and model selection. At the end of this session you should be more familiar with:
-- what problems machine learning can help solve,
-- the definitions of key machine learning terms,
-- the main phases of a machine learning project,
-- the types of ML tasks and associated classes of models.
+  description: "The NeSI team will introduce you to the wonderful world of machine learning via the user-friendly Jupyter on NeSI platform. Come along to acquaint yourself with amazing algorithms and conquer your fear of obscure machine learning jargon. <p> This whirlwind tour of the Scikit-learn Python library will introduce the usual machine learning suspects (aka things that are easy to google). Specifically, attendees will learn about model fitting, evaluation and model selection. At the end of this session you should be more familiar with:<p>
+- what problems machine learning can help solve<p>
+- the definitions of key machine learning terms<p>
+- the main phases of a machine learning project<p>
+- the types of ML tasks and associated classes of models<p>
 This session provides a taster for a full day workshop provided by NeSI. <a href=\"https://www.eventbrite.com/e/machine-learning-101-tickets-200555194987\">Book here</a> "
   subtype: workshop
   speakers: [63, 23]
@@ -531,7 +502,7 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 -
   id: 2165 #[stream, day, speakerID]
   title: "Introduction to command line"
-  description: "Learning the command line is the first step before you are able to utilise other digital tools like Python, R, and OpenRefine. It allows you to automate repetitive tasks. It can be intimidating to get started but once you’ve mastered bash commands, it becomes relatively easy to write scripts. This enables you to build all sorts of data pipelines and workflows much more easily. // In this interactive session you will be learning command line using the terminal interface.We will cover a range of basic commands that will help you navigate and explore, create files and directories, write, read and concatenate, how to use command arguments/options and combine existing commands, as well as copy, move and remove files. <a https://www.eventbrite.com/e/introduction-to-command-line-tickets-201362720317\">Book here</a> "
+  description: "Learning the command line is the first step before you are able to utilise other digital tools like Python, R, and OpenRefine. It allows you to automate repetitive tasks. It can be intimidating to get started but once you’ve mastered bash commands, it becomes relatively easy to write scripts. This enables you to build all sorts of data pipelines and workflows much more easily. // In this interactive session you will be learning command line using the terminal interface.We will cover a range of basic commands that will help you navigate and explore, create files and directories, write, read and concatenate, how to use command arguments/options and combine existing commands, as well as copy, move and remove files. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-201362720317\">Book here</a> "
   subtype: workshop
   speakers: [65]
   complexity: "Introductory"
@@ -539,7 +510,7 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 -
   id: 2275 #[stream, day, speakerID]
   title: "Introduction to Julia"
-  description: "Julia is a relatively new, multi-purpose programming language, with increasing adoption among scientific researchers. Interaction with Julia closely resembles that of scripting languages, such as R, MATLAB and python, and a growing number of Julia libraries provide similar functionality for scientific computation. However, extending modifying, or creating new software in these languages is complicated as all performance critical code must be written in a second, low-level language, like C or FORTRAN, which are more technically demanding, and are slower to test, debug, etc. Julia's careful and elegant design solves this two language problem. <p> In this session, learn more about this exciting new language, and whether it might be a good match for your research project. Participants will be walked through a basic Julia installation and will have the opportunity to carry out some basic data manipulation and visualization tasks. <a https://www.eventbrite.com/e/introduction-to-julia-tickets-201418958527\">Book here</a> "
+  description: "Julia is a relatively new, multi-purpose programming language, with increasing adoption among scientific researchers. Interaction with Julia closely resembles that of scripting languages, such as R, MATLAB and python, and a growing number of Julia libraries provide similar functionality for scientific computation. However, extending modifying, or creating new software in these languages is complicated as all performance critical code must be written in a second, low-level language, like C or FORTRAN, which are more technically demanding, and are slower to test, debug, etc. Julia's careful and elegant design solves this two language problem. <p> In this session, learn more about this exciting new language, and whether it might be a good match for your research project. Participants will be walked through a basic Julia installation and will have the opportunity to carry out some basic data manipulation and visualization tasks. <a href=\"https://www.eventbrite.com/e/introduction-to-julia-tickets-201418958527\">Book here</a> "
   subtype: workshop
   speakers: [75]
   complexity: "Introductory"
@@ -547,7 +518,7 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 -
   id: 22751 #[stream, day, speakerID]
   title: "Machine learning in Julia"
-  description: "This session teaches participants how to use the open source softare MLJ (Machine Learning in Julia) to quickly select, optimize and compare a large number of machine learning models. While some machine learning courses focus on deep learning methods, emphasis here will be on quickly comparing models from multiple paradigms. <p> This is a tutorial on how to use the MLJ software, and not a course on machine learning itself. <a https://www.eventbrite.com/e/machine-learning-in-julia-tickets-201422368727\">Book here</a> "
+  description: "This session teaches participants how to use the open source softare MLJ (Machine Learning in Julia) to quickly select, optimize and compare a large number of machine learning models. While some machine learning courses focus on deep learning methods, emphasis here will be on quickly comparing models from multiple paradigms. <p> This is a tutorial on how to use the MLJ software, and not a course on machine learning itself. <a href=\"https://www.eventbrite.com/e/machine-learning-in-julia-tickets-201422368727\">Book here</a> "
   subtype: workshop
   speakers: [75]
   complexity: "Intermediate"
@@ -555,7 +526,7 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 -
   id: 1127 #[stream, day, speakerID]
   title: "When all you have is a hammer, every problem looks like a nail: why you should consider learning a new digital tool, and what is the right one to use"
-  description: "Chris will provide insights from his personal experiences of having had to use a range of different digital tools in research. He'll compare the time spent leaning vs that saved with colleagues who have stuck to their 'hammers', (Excel - I'm looking at you) and hope to show you the benefit of time spent developing a 'toolbox' of digital tools. He will also talk about the advantages and disadvantages of the digital tools that he has encountered with the goal of helping you find identify the right 'tool' for your need. <p> This open session is designed to help attendees to identify other ResBaz sessions that may be useful to them. <a https://auckland.zoom.us/j/95158293964?pwd=QTJYSVpkWEJIRTR1TGd5cDBDenk1UT09\">Zoom link</a> "
+  description: "Chris will provide insights from his personal experiences of having had to use a range of different digital tools in research. He'll compare the time spent leaning vs that saved with colleagues who have stuck to their 'hammers', (Excel - I'm looking at you) and hope to show you the benefit of time spent developing a 'toolbox' of digital tools. He will also talk about the advantages and disadvantages of the digital tools that he has encountered with the goal of helping you find identify the right 'tool' for your need. <p> This open session is designed to help attendees to identify other ResBaz sessions that may be useful to them. <a href=\"https://auckland.zoom.us/j/95158293964?pwd=QTJYSVpkWEJIRTR1TGd5cDBDenk1UT09\">Zoom link</a> "
   subtype: workshop
   speakers: [27]
   complexity: "Introductory"
@@ -563,7 +534,55 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 -
   id: 1136 #[stream, day, speakerID]
   title: "NVivo Showcase"
-  description: "There’s a lot more to NVivo than initially meets the eye! In this webinar we’ll be showcasing our favourite features of NVivo including matrix coding queries, explore and comparison diagrams, and mind-maps. This session is perfect for researchers who are new to NVivo, as well as those who are familiar with the basics and curious to know what else is possible. <a https://us02web.zoom.us/webinar/register/WN_cVUdOOnUTpaqzn1_Q0H9Cg\">Zoom link</a> "
+  description: "There’s a lot more to NVivo than initially meets the eye! In this webinar we’ll be showcasing our favourite features of NVivo including matrix coding queries, explore and comparison diagrams, and mind-maps. This session is perfect for researchers who are new to NVivo, as well as those who are familiar with the basics and curious to know what else is possible. <a href=\"https://us02web.zoom.us/webinar/register/WN_cVUdOOnUTpaqzn1_Q0H9Cg\">Zoom link</a> "
   subtype: workshop
   speakers: [36]
+  complexity: "Introductory"
+
+-
+  id: 3174 #[stream, day, speakerID]
+  title: "Research computing with the Rust programming language"
+  description: "What is Rust, and how might you use it for research? Tim McNamara, author of Rust in Action, will give a quick primer of the programming language, and explain how it might be used to speed up, and scale up, your research. Booking link coming soon"
+  subtype: workshop
+  speakers: [74, 38]
+  complexity: "Introductory"
+
+-
+  id: 3111 #[stream, day, speakerID]
+  title: "Python for image manipulation and repeatable research pipelines"
+  description: "You know how to crop an image, but what if you need to crop 65000 images in one go? This applied tutorial will introduce how the Python programming language can be used to create powerful, scalable and repeatable workflows, using image manipulation as an example. The session will include a live demo with commentary, project showcase and questions and answers. Having an entry level understanding of Python or a similar programming language will be helpful, but not essential. <a href=\"https://vuw.libcal.com/event/5404911?k=9b01b4fec0f63f9b91169aafc13866bb\">Book here</a> "
+  subtype: workshop
+  speakers: [11, 53]
+  complexity: "Introductory/intermediate"
+
+-
+  id: 2168 #[stream, day, speakerID]
+  title: "Genomics community: What skills do we need?"
+  description: "This session is for <b>anyone in the genomics research community</b>. Join colleagues and representatives from Auckland Genomics, NeSI, Auckland Grafton Genomics, Genomics Aotearoa, and Te Ira Kāwai – Auckland Regional Biobank,  to make connections as we discuss what skills need to be developed, and what can be offered. Come along to share your ideas for how this Aotearoa-wide community can develop. <a href=\"https://www.eventbrite.com/e/genomics-community-what-skills-do-we-need-tickets-202565156837\">Book here</a> "
+  subtype: workshop
+  speakers: [68, 76, 55]
+  complexity: "All welcome"
+
+-
+  id: 3454 #[stream, day, speakerID]
+  title: "HPC Carpentry on NeSI"
+  description: "This is a two hour, hands-on introduction to high performance computing (HPC).  Members of NeSI’s apps support team will guide attendees through HPC fundamentals including: <p>
+- How to access the NeSI HPC clusters.<p>
+- Basics of high performance computing.<p>
+- Working with a scheduler. <p>
+- Accessing software via modules.<p>
+- Using resources effectively and responsibly.<p>
+The goal of this workshop is to get you using the NeSI platform, so come ready to participate! <p>
+We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI fork of Introduction to High-Performance Computing</a>. <p> <b>Requirements: NeSI account, </b> details on registration.
+ <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a> "
+  subtype: workshop
+  speakers: [54]
+  complexity: "Introductory"
+
+-
+  id: 1369 #[stream, day, speakerID]
+  title: "Tidy data: an introduction"
+  description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the \"analysis\" itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice <a href=\"https://www.eventbrite.com/e/tidy-data-an-introduction-tickets-202611334957\">Book here</a> "
+  subtype: workshop
+  speakers: [69, 19]
   complexity: "Introductory"

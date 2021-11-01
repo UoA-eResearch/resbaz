@@ -9,7 +9,7 @@
     - {
     	startTime: "09:30",
       endTime: "10:30",
-    	sessionIds: [116162, 1136]
+    	sessionIds: [116162, 1136, 061]
     }
     - {
       startTime: "10:30",
@@ -19,7 +19,7 @@
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: [1127, 2158] 
+    	sessionIds: [1127, 2158, 1369]
     }
 
     - {
@@ -31,7 +31,7 @@
     - {
     	startTime: "13:00",
     	endTime: "14:00",
-    	sessionIds: [116470, 21580]
+    	sessionIds: [116470, 21580, 3174]
     }
 
     - {
@@ -43,7 +43,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [116470, 21580]
+      sessionIds: [116470, 21580, 3111]
     }
     - {
     	startTime: "15:30",
@@ -53,7 +53,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [116470]
+      sessionIds: [116470, 300, 3111]
     } 
 ### tuesday
 - 
@@ -67,7 +67,7 @@
     - {
       startTime: "09:30",
       endTime: "10:30",
-      sessionIds: [001]
+      sessionIds: [001, 300, 300]
     }
 
     - {
@@ -79,7 +79,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [200]
+      sessionIds: [2168, 300, 300]
     }
 
     - {
@@ -91,7 +91,7 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [2165, 2275]
+      sessionIds: [2165, 2275, 300]
     }
 
     - {
@@ -103,7 +103,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [2165, 22751]
+      sessionIds: [2165, 22751, 300]
     }
 
     - {
@@ -114,7 +114,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [126323, 22751]
+      sessionIds: [126323, 22751, 300]
     }
 
 ##Wednesday
@@ -129,7 +129,7 @@
     - {
       startTime: "09:30",
       endTime: "10:30",
-      sessionIds: [004, 045]
+      sessionIds: [004, 045, 300]
     }
 
     - {
@@ -141,7 +141,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [100, 045]
+      sessionIds: [100, 045, 300]
     }
 
     - {
@@ -153,7 +153,7 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [3269, 031]
+      sessionIds: [300, 3269, 031]
     }
 
     - {
@@ -165,7 +165,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [3269]
+      sessionIds: [300, 3269, 300]
     }
 
     - {
@@ -177,7 +177,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [3269]
+      sessionIds: [300, 3269, 300]
     } 
 ###Thursday
 - 
@@ -191,7 +191,7 @@
     - {
       startTime: "09:30",
       endTime: "10:30",
-      sessionIds: [1456]
+      sessionIds: [1456, 300, 3454]
     }
 
     - {
@@ -203,7 +203,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [1456]
+      sessionIds: [1456, 300, 3454]
     }
 
     - {
@@ -215,19 +215,19 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [1458, 2460]
+      sessionIds: [1458, 2460, 300]
     }
 
     - {
       startTime: "14:00",
       endTime: "14:30",
-      sessionIds: [200]
+      sessionIds: [300, 300, 300]
     }
 
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [1458, 2460]
+      sessionIds: [1458, 2460, 300]
     }
 
     - {
@@ -239,7 +239,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [200, 2460]
+      sessionIds: [300, 2460, 300]
     }
 ## Friday
 - 
@@ -253,7 +253,7 @@
     - {
       startTime: "09:30",
       endTime: "10:30",
-      sessionIds: [1556]
+      sessionIds: [1556, 300, 300]
     }
 
     - {
@@ -265,7 +265,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [200]
+      sessionIds: [300, 300, 300]
     }
 
     - {
@@ -277,7 +277,7 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [200]
+      sessionIds: [300, 300, 300]
     }
 
     - {
@@ -289,7 +289,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [200]
+      sessionIds: [300, 300, 300]
     }
     # - {
     #   startTime: "15:00",
