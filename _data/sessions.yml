@@ -302,7 +302,7 @@
 
 -
   id: 044
-  title: "Introduction to Open Refine (3hours)"
+  title: "Introduction to Open Refine"
   description: "OpenRefine is a free, open-source powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, follow-along workshop will demonstrate how it can help you:
   Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources. <a href=\"https://vuw.libcal.com/event/5404921?k=91e686c6634ddf7e262af01b94cd9c9b\">Book here</a>"
   subtype: workshop
@@ -408,7 +408,7 @@
 -
   id: 062
   title: "Creating Professional LaTeX Reports Without Losing Hair"
-  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-2-hours-tickets-129423319633/\">Book here</a> "
+  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-202687332267\">Book here</a> "
   subtype: workshop
   speakers: [55]
   complexity: "All welcome" 
@@ -525,7 +525,7 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 
 -
   id: 1127 #[stream, day, speakerID]
-  title: "When all you have is a hammer, every problem looks like a nail: why you should consider learning a new digital tool, and what is the right one to use"
+  title: "Welcome to ResBaz: When all you have is a hammer, every problem looks like a nail: why you should consider learning a new digital tool, and what is the right one to use"
   description: "Chris will provide insights from his personal experiences of having had to use a range of different digital tools in research. He'll compare the time spent leaning vs that saved with colleagues who have stuck to their 'hammers', (Excel - I'm looking at you) and hope to show you the benefit of time spent developing a 'toolbox' of digital tools. He will also talk about the advantages and disadvantages of the digital tools that he has encountered with the goal of helping you find identify the right 'tool' for your need. <p> This open session is designed to help attendees to identify other ResBaz sessions that may be useful to them. <a href=\"https://auckland.zoom.us/j/95158293964?pwd=QTJYSVpkWEJIRTR1TGd5cDBDenk1UT09\">Zoom link</a> "
   subtype: workshop
   speakers: [27]
@@ -672,7 +672,7 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
 
 -
   id: 25771 #[stream, day, speakerID]
-  title: "HParallel programming with MPI"
+  title: "Parallel programming with MPI"
   description: "A C-based workshop targeting distributed programming in high performance environment. In distributed-memory parallelism an application achieves parallelism by running multiple instances of itself across multiple nodes to solve the problem. Each instance is allocated its own chunk of virtual memory and communicates to other instances via a message passing interface such as MPI. Distributed memory type jobs have many advantages, among which are more cores to tackle the problem and a far greater amount of memory. The workshop explains details of MPI environment, types of operations MPI employs and considerations given to various implementation models. <a href=\"https://www.eventbrite.com/e/parallel-programming-with-mpi-tickets-202741313727\">Book here</a> "
   subtype: workshop
   speakers: [77]

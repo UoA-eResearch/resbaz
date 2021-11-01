@@ -467,7 +467,7 @@
   company: "Centre for eResearch"
   title: "Senior eResearch Engagement Specialist"
   bio: "Sina is a senior member of the Centre for eResearch's engagement team."
-  thumbnailUrl: "to_be_announced1.png"
+  thumbnailUrl: "sina.jpg"
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -683,7 +683,7 @@
 - 
   id: 67
   name: "Dinindu"
-  surname: "RiSenanayakeo"
+  surname: "Senanayake"
   company: "NeSI"
   title: "Data Scientist"
   bio: "Dinindu Senanayakeis a NeSI Applications Support Specialist, specifically in Genomics/Bioinformatics. He has approximately seven years of research experience in Cancer Genetics, Chemical Genetics and Systems Biology. Originally from Sri Lanka, he moved to New Zealand in 2006, arriving for studies and staying for nature."
