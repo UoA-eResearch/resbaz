@@ -811,3 +811,14 @@
   rockstar: false
   ribbon:
     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
+
+  id: 78
+  name: "Rob"
+  surname: "Carter"
+  company: "Centre for eResearch"
+  title: "Senior eResearch Solutions Specialist"
+  bio: "Rob works at the intersection of data and visual design, imagining novel visual approaches in research and technology."
+  thumbnailUrl: "rob_carter.jpg"
+  rockstar: true 
+  ribbon:
+   - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}

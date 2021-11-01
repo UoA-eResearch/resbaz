@@ -65,6 +65,14 @@
   # hidden: true
 
 -
+  id: 1127 #[stream, day, speakerID]
+  title: "Welcome to ResBaz: When all you have is a hammer, every problem looks like a nail: why you should consider learning a new digital tool, and what is the right one to use"
+  description: "Chris will provide insights from his personal experiences of having had to use a range of different digital tools in research. He'll compare the time spent leaning vs that saved with colleagues who have stuck to their 'hammers', (Excel - I'm looking at you) and hope to show you the benefit of time spent developing a 'toolbox' of digital tools. He will also talk about the advantages and disadvantages of the digital tools that he has encountered with the goal of helping you find identify the right 'tool' for your need. <p> This open session is designed to help attendees to identify other ResBaz sessions that may be useful to them. <a href=\"https://auckland.zoom.us/j/95158293964?pwd=QTJYSVpkWEJIRTR1TGd5cDBDenk1UT09\">Zoom link</a> "
+  subtype: workshop
+  speakers: [27]
+  complexity: "Introductory"
+
+-
   id: 001
   title: "Research Data Management (Part 1): Planning, Organising & Storing"
   description: "Research data: that which is created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will develop strategies for capturing and organising research data, sharing and reusing data, and have an opportunity to draft a Data Management Plan (DMP). You will be introduced to data management concepts, best practices, services and useful tools to support you managing and sharing your research data. <a href=\"https://www.eventbrite.com/e/research-data-management-part-1-planning-organising-and-storing-tickets-198719604687\">Book here</a> "
@@ -523,13 +531,7 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
   speakers: [75]
   complexity: "Intermediate"
 
--
-  id: 1127 #[stream, day, speakerID]
-  title: "Welcome to ResBaz: When all you have is a hammer, every problem looks like a nail: why you should consider learning a new digital tool, and what is the right one to use"
-  description: "Chris will provide insights from his personal experiences of having had to use a range of different digital tools in research. He'll compare the time spent leaning vs that saved with colleagues who have stuck to their 'hammers', (Excel - I'm looking at you) and hope to show you the benefit of time spent developing a 'toolbox' of digital tools. He will also talk about the advantages and disadvantages of the digital tools that he has encountered with the goal of helping you find identify the right 'tool' for your need. <p> This open session is designed to help attendees to identify other ResBaz sessions that may be useful to them. <a href=\"https://auckland.zoom.us/j/95158293964?pwd=QTJYSVpkWEJIRTR1TGd5cDBDenk1UT09\">Zoom link</a> "
-  subtype: workshop
-  speakers: [27]
-  complexity: "Introductory"
+
 
 -
   id: 1136 #[stream, day, speakerID]
@@ -600,7 +602,7 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   title: "Infographics and storytelling"
   description: "Tips and tricks to help you communicate your data more effectively. <a href=\"https://www.eventbrite.com/e/infographics-and-storytelling-tickets-202682537927\">Book here</a> "
   subtype: workshop
-  speakers: [17]
+  speakers: [19, 78]
   complexity: "All welcome"
 
 -
