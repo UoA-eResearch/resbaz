@@ -55,24 +55,21 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroTitle: "ResBaz 2020 <typeout>"
-heroTitle: "ResBaz 2020 is finished."
+heroTitle: "Welcome to ResBaz Aotearoa 2021"
 eventDate: ""
 typeoutTextValues: " is finished."
-typeoutFallback: "' is finished.'"
+typeoutFallback: ""
 heroButtons:
- - {link: "", text: "Hope you see you in 2021"}
+ - {link: "", text: "Online digital research skills sessions, 22-26 November"}
 
 # About Block
-aboutTitle: "About ResBaz 2020 'Pick n Mix' Edition"
-aboutSubtitle: "Conference"
-aboutText: "<p>The <em>Research Bazaar</em> is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the usual multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, the 2020 circumstances saw the delivery of a ResBaz <em>pick and mix</em> online version for Aotearoa New Zealand researchers and postgraduate research students.</p>
+aboutTitle: "About ResBaz 2021 'Pick n Mix' Edition"
+#aboutSubtitle: "Conference"
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the format of a multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, given the circumstances we are delivering a ResBaz pick and mix online version for all Aotearoa New Zealand researchers and postgraduate research students.</p>
 
-<p>ResBaz 2020: Pick and Mix, 23-27 November, was a collaboration between the University of Auckland and Victoria University of Wellington. We had 500 individuals register for one or more of  the 37 sessions.</p>
+<p>ResBaz 2021: Pick and Mix, 22-26 November, is a collaboration between the University of Auckland, Victoria University of Wellington, NeSI and the Beyond Prediction: explanatory and transparent <a href=\"https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\"> data science</a>.</p>
 
-<p>Thank you for participation and feedback. Published presentation slides and links are available <a href=\"https://auckland.figshare.com/collections/ResBaz_2020_Pick_n_Mix_23-27_November_Online_/5222219/1\">here</a> </p>
-
-<p> <b>Interested in ResBaz in 2021?</b> Look out for information on this website next year or email: <a href=\"mailto:researchdata@auckland.ac.nz\">researchdata@auckland.ac.nz</a> </p>"
+<p> <b>Sign up to individual <a href=\"https://resbaz.auckland.ac.nz/sessions/\"> sessions</a> and attendees are invited to join the Centre for eResearch resbaz-2021 <a href=\"https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ\"> Slack channel</a>.</p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -183,17 +180,23 @@ socialLinks:
  - {link: "mailto:researchdata@auckland.ac.nz", icon: "email"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Host Organisations"
   links:
-   - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch"}
+   - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland"}
+   - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development, Victoria University of Wellington"}
+   - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "MBIE-funded Data Science Platform: <em>Beyond Prediction</em>"}
+   - {link: "https://www.nesi.org.nz/", text: "National eScience Infrastructure"}
  -
-  title: "Contacts"
+  title: "Partners"
   links:
-   - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
+   - {link: "https://www.academic-consulting.co.nz/", text: "Academic Consulting"}
+   - {link: "https://yousaydata.com/", text: "You Say Data"}
+   - {link: "https://natlib.govt.nz/", text: "National library of New Zealand"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
 
 # Blog
 blogTitle: "Latest news"
