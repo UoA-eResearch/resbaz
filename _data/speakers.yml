@@ -283,16 +283,16 @@
 #   rockstar: false 
 #   ribbon:
 #     - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
--
-  id: 29
-  name: "Faith"
-  surname: "Welch"
-  company: "Office of Research Strategy and Integrity"
-  title: "Research Impact Manager"
-  thumbnailUrl: "faith-welch.jpg"
-  rockstar: false 
-  ribbon:
-   - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
+# -
+#   id: 29
+#   name: "Faith"
+#   surname: "Welch"
+#   company: "Office of Research Strategy and Integrity"
+#   title: "Research Impact Manager"
+#   thumbnailUrl: "faith-welch.jpg"
+#   rockstar: false 
+#   ribbon:
+#    - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
 # -
 #   id: 30
 #   name: "Nick"
@@ -348,17 +348,17 @@
   ribbon:
     - {abbr: "Academic Consulting", title: "Academic Consulting", url: "https://www.academic-consulting.co.nz/"}
 
--
-  id: 37
-  name: "Leah"
-  surname: "Kemp"
-  company: "ESR"
-  title: "Bioinformatician"
-  bio: "I’m a bioinformatician at ESR (Institute of Environmental Science and Research). I wrangle large human genomic data which demands I use workflow languages."
-  thumbnailUrl: "Leah.kemp.jpeg"
-  rockstar: false 
-  ribbon:
-    - {abbr: "ESR", title: "The Institute of Environmental Science and Research", url: "https://www.esr.cri.nz/"}
+# -
+#   id: 37
+#   name: "Leah"
+#   surname: "Kemp"
+#   company: "ESR"
+#   title: "Bioinformatician"
+#   bio: "I’m a bioinformatician at ESR (Institute of Environmental Science and Research). I wrangle large human genomic data which demands I use workflow languages."
+#   thumbnailUrl: "Leah.kemp.jpeg"
+#   rockstar: false 
+#   ribbon:
+#     - {abbr: "ESR", title: "The Institute of Environmental Science and Research", url: "https://www.esr.cri.nz/"}
 -
   id: 38
   name: "Matt"
