@@ -153,7 +153,7 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [300, 3269, 031]
+      sessionIds: [1334, 3269, 031]
     }
 
     - {
@@ -165,7 +165,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [300, 3269, 044]
+      sessionIds: [1334, 3269, 044]
     }
 
     - {
@@ -177,7 +177,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [300, 3269, 044]
+      sessionIds: [1334, 3269, 044]
     } 
 ###Thursday
 - 
@@ -239,7 +239,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [300, 2460, 3467]
+      sessionIds: [1479, 2460, 3467]
     }
 ## Friday
 - 
@@ -265,7 +265,7 @@
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [300, 2555, 300]
+      sessionIds: [1580, 2555, 300]
     }
 
     - {

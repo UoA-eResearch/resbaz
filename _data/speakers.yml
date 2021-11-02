@@ -812,6 +812,7 @@
   ribbon:
     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
 
+-
   id: 78
   name: "Rob"
   surname: "Carter"
@@ -822,3 +823,27 @@
   rockstar: true 
   ribbon:
    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+
+-
+  id: 79
+  name: "Tim"
+  surname: "Sherratt"
+  company: "University of Canberra"
+  title: "Associate Professor"
+  bio: "historian and hacker who researches the possibilities and politics of digital cultural collections. I’ve worked across the cultural heritage sector and have been developing online resources relating to libraries, archives, museums and history since 1993."
+  thumbnailUrl: "tim_sherratt.jpeg"
+  rockstar: true 
+  ribbon:
+   - {abbr: "Tim Sherratt", title: "timsherratt.org", url: "https://timsherratt.org/"}
+
+-
+  id: 80
+  name: "Dr Jacoba Jacqueline"
+  surname: "Matapo"
+  company: "Faculty of Education and Social Work"
+  title: "Senior Lecturer"
+  bio: "Dr Jacoba Matapo is the Associate Dean Pasifika and a Senior Lecturer in the Faculty of Education and Social Work. Her talk is titled Pacific research and the digital vā, and it explores the Pan-Pacific concept of the digital vā in fostering Pacific community-based research practice from two different education contexts (higher education and early childhood education). The presentation draws upon Dr Jacoba Matapo’s research of ‘The art of wayfinding Pasifika success’ and the research project ‘Pepe Meamea: Embedding Samoan indigenous philosophy for Samoan children under two’."
+  thumbnailUrl: "jacoba_jacqueline.png"
+  rockstar: true 
+  ribbon:
+   - {abbr: "Education", title: "Faculty of Education and Social Work", url: "http://www.education.auckland.ac.nz/en/about/research.html"}
