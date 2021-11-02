@@ -1,13 +1,13 @@
 ###Add a link <a href=\"\">Book here</a> 
--
-  id: 100
-  title: "Working with social media data?"
-  description: "Social media data can enable insightful research into areas like social behaviour and current events. Join this session to connect with and learn from others working with social media data within the Aotearoa research community. Designed as a community building session, attendees will have the opportunity to share their research topics, methods, and challenges. We’ll also hear from those developing social media and related collections. <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-199571863817\">Book here</a> "
-  This session will explore how to make the most of social media in a research context, including information on: getting information, providing information, networking with other academics, engaging with communities outside of academia, and finding your tribe. It will also address how you can manage the distinction between personal and professional on social media, and how to mitigate the dangers of using it."
-  subtype: workshop
-  speakers: [12]
-  complexity: "Introductory" 
-  hidden: true
+# -
+#   id: 100
+#   title: "Working with social media data?"
+#   description: "Social media data can enable insightful research into areas like social behaviour and current events. Join this session to connect with and learn from others working with social media data within the Aotearoa research community. Designed as a community building session, attendees will have the opportunity to share their research topics, methods, and challenges. We’ll also hear from those developing social media and related collections. <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-199571863817\">Book here</a> "
+#   This session will explore how to make the most of social media in a research context, including information on: getting information, providing information, networking with other academics, engaging with communities outside of academia, and finding your tribe. It will also address how you can manage the distinction between personal and professional on social media, and how to mitigate the dangers of using it."
+#   subtype: workshop
+#   speakers: [12]
+#   complexity: "Introductory" 
+#   hidden: true
 
 # - 
 #   id: 101
@@ -258,10 +258,11 @@
 -
   id: 036
   title: "Working with social media data?"
-  description: "Social media data can enable insightful research into areas like social behaviour and current events. How do you get started? And what are your experiences with the technical knowledge and costs required for collecting, cleaning and analysing social media datasets? <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-resbaz-2020-pick-n-mix-tickets-128699984117/\">Book here</a> "
+  description: "Social media data can enable insightful research into areas like social behaviour and current events. 
+Join this session to connect with and learn from others working with social media data within the Aotearoa research community. Designed as a community building session, attendees will have the opportunity to share their research topics, methods, and challenges. We’ll also hear from those developing social media and related collections. <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-199571863817\">Book here</a> "
   subtype: workshop
   speakers: [12]
-  complexity: "Beginner, all welcome" 
+  complexity: "Introductory" 
 
 # -
 #   id: 040
