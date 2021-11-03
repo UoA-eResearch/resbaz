@@ -426,7 +426,8 @@ Join this session to connect with and learn from others working with social medi
   id: 1456 #[stream, day, speakerID]
   title: "Publication Ready Figures (with Python, Matplotlib and Seaborn) <b>9am start</b>"
   description: "Python is a powerful plotting tool but, with so many options and settings, it can be time consuming to figure out how to make effective and attractive plots. This workshop is your cheat sheet for using the Python packages matplotlib and Seaborn to make static plots. It's an interactive session and we assume some basic Python skills.  If you’re looking for a way to level-up your visual communication of data and increase engagement with your research, then this is for you. <a href=\"https://www.eventbrite.com/e/publication-ready-figures-with-python-matplotlib-and-seaborn-tickets-196242415347\">Book here</a> <p>
-  Session note: This workshop starts at 9am. You will be able to do this workshop if you have imported a module, printed a statement, and made a basic plot. If new to Python, please attend the 'Python: an introduction' session before doing this workshop. <p> Requirements: Detailed setup instructions will be provided prior to the workshop, along with a link to download the course material before the workshop."
+  Session note: This workshop starts at 9am. You will be able to do this workshop if you have imported a module, printed a statement, and made a basic plot. If new to Python, please attend the 'Python: an introduction' session before doing this workshop. <p> Requirements: Detailed setup instructions will be provided prior to the workshop, along with a link to download the course material before the workshop.
+  <p><b>This session is now full, please add yourself to the waiting list and we will send you a post-session recording.</b>"
   subtype: workshop
   speakers: [56]
   complexity: "Intermediate" 
@@ -458,7 +459,8 @@ Join this session to connect with and learn from others working with social medi
 -
   id: 1458 #[stream, day, speakerID]
   title: "Building a Website with WordPress"
-  description: "A personal website is an impressive way to share your skills and experience with potential employers and colleagues. WordPress is the most popular website Content Management System in the world because it is powerful, flexible, and requires no coding experience. In this two hour workshop you'll learn how to get up and running with a free website in no time using WordPress. You'll learn how to build a simple personal website, add pages, start a blog and add posts, and some basic styling. We'll also touch on the pros and cons of self-hosted websites for those who are looking for more flexibility. <a href=\"https://www.eventbrite.com/e/building-a-website-with-wordpress-tickets-199585825577\">Book here</a> "
+  description: "A personal website is an impressive way to share your skills and experience with potential employers and colleagues. WordPress is the most popular website Content Management System in the world because it is powerful, flexible, and requires no coding experience. In this two hour workshop you'll learn how to get up and running with a free website in no time using WordPress. You'll learn how to build a simple personal website, add pages, start a blog and add posts, and some basic styling. We'll also touch on the pros and cons of self-hosted websites for those who are looking for more flexibility. <b> Thursday session now full! </b> <p>
+   <b> Due to the high volume of interest in Building a Website with WordPress, an additional session will now run on Tuesday.</b> <a href=\"https://www.eventbrite.com/e/building-a-website-with-wordpress-additional-session-tickets-204745528387\">Book here</a> "
   subtype: workshop
   speakers: [58,12]
   complexity: "Introductory"
@@ -495,15 +497,17 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 -
   id: 116470 #[stream, day, speakerID]
   title: "Introduction to R and RStudio"
-  description: "R is a programming language for data analysis and statistics. It is free, and very widely used in various application areas, such as bioinformatics. The goal of this workshop is to help you familiarize yourself with RStudio, basic R terminology and routine workflows. We will showcase some of the available tools to tackle a wide variety of data science challenges, including data management and visualization. In addition, there will be live hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your confident R journey! <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-201351386417\">Book here</a> "
+  description: "R is a programming language for data analysis and statistics. It is free, and very widely used in various application areas, such as bioinformatics. The goal of this workshop is to help you familiarize yourself with RStudio, basic R terminology and routine workflows. We will showcase some of the available tools to tackle a wide variety of data science challenges, including data management and visualization. In addition, there will be live hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your confident R journey!  <b> Monday session full </b>. <p>
+  <b> Due to overwhelming interest in an Introduction to R and Rstudio an additional session is being run on Tuesday at 13:00.</b> Tickets coming soon."
   subtype: workshop
   speakers: [64, 70]
   complexity: "Introductory"
 
+# <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-additional-session-tickets-204789580147\">Book here</a>
 -
   id: 3269 #[stream, day, speakerID]
   title: "Introduction to geospatial tools and manipulations in R"
-  description: "Geospatial data is being more and more commonly used in scientific research. From modelling distributions or movements of animals, the connectivity of spatial networks, mapping/modelling physical features of our environment or predicting the occurrence of events through space and time. In this workshop we will introduce the fundamental types of geospatial data (points, lines, polygons and gridded) that are commonly used for analysis and mapping. By the end of the workshop you will have had hands on practice with the basics of importing and preparing these kinds of data for a range of analyses and creating publication ready graphs and maps! <a href=\"https://www.eventbrite.com/e/introduction-to-geospatial-tools-and-manipulations-in-r-tickets-201356822677\">Book here</a> "
+  description: "Geospatial data is being more and more commonly used in scientific research. From modelling distributions or movements of animals, the connectivity of spatial networks, mapping/modelling physical features of our environment or predicting the occurrence of events through space and time. In this workshop we will introduce the fundamental types of geospatial data (points, lines, polygons and gridded) that are commonly used for analysis and mapping. By the end of the workshop you will have had hands on practice with the basics of importing and preparing these kinds of data for a range of analyses and creating publication ready graphs and maps! <a href=\"https://www.eventbrite.com/e/introduction-to-geospatial-tools-and-manipulations-in-r-tickets-201356822677\">Book here</a>"
   subtype: workshop
   speakers: [69]
   complexity: "Intermediate"
@@ -511,7 +515,8 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 -
   id: 2165 #[stream, day, speakerID]
   title: "Introduction to command line"
-  description: "Learning the command line is the first step before you are able to utilise other digital tools like Python, R, and OpenRefine. It allows you to automate repetitive tasks. It can be intimidating to get started but once you’ve mastered bash commands, it becomes relatively easy to write scripts. This enables you to build all sorts of data pipelines and workflows much more easily. <p> In this interactive session you will be learning command line using the terminal interface.We will cover a range of basic commands that will help you navigate and explore, create files and directories, write, read and concatenate, how to use command arguments/options and combine existing commands, as well as copy, move and remove files. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-201362720317\">Book here</a> "
+  description: "Learning the command line is the first step before you are able to utilise other digital tools like Python, R, and OpenRefine. It allows you to automate repetitive tasks. It can be intimidating to get started but once you’ve mastered bash commands, it becomes relatively easy to write scripts. This enables you to build all sorts of data pipelines and workflows much more easily. <p> In this interactive session you will be learning command line using the terminal interface.We will cover a range of basic commands that will help you navigate and explore, create files and directories, write, read and concatenate, how to use command arguments/options and combine existing commands, as well as copy, move and remove files. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-201362720317\">Book here</a>
+  <p><b>This session is now full, please add yourself to the waiting list and we will send you a post-session recording.</b>"
   subtype: workshop
   speakers: [65]
   complexity: "Introductory"
@@ -585,9 +590,10 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
 -
   id: 1369 #[stream, day, speakerID]
   title: "Tidy data: an introduction"
-  description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the \"analysis\" itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice. <a href=\"https://www.eventbrite.com/e/tidy-data-an-introduction-tickets-202611334957\">Book here</a> "
+  description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the \"analysis\" itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice. <a href=\"https://www.eventbrite.com/e/tidy-data-an-introduction-tickets-202611334957\">Book here</a> 
+  <p><b>This session is now full, please add yourself to the waiting list and we will send you a post-session recording.</b>"
   subtype: workshop
-  speakers: [69, 19]
+  speakers: [69, 87]
   complexity: "Introductory"
 
 -
@@ -603,7 +609,7 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   title: "Infographics and storytelling"
   description: "Tips and tricks to help you communicate your data more effectively. <a href=\"https://www.eventbrite.com/e/infographics-and-storytelling-tickets-202682537927\">Book here</a> "
   subtype: workshop
-  speakers: [19, 78]
+  speakers: [87, 78]
   complexity: "All welcome"
 
 -

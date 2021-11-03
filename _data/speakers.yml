@@ -180,17 +180,19 @@
 #   rockstar: false 
 #   ribbon:
 #     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-- 
-  id: 19
-  name: "Yvette"
-  surname: "Wharton"
-  company: "Centre for eResearch"
-  title: "eResearch Solutions Lead"
-  bio: "Yvette is the team lead of the Centre for eResearch's Solutions team."
-  thumbnailUrl: "yvette_wharton.jpg"
-  rockstar: false 
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+
+# - 
+#   id: 19
+#   name: "Yvette"
+#   surname: "Wharton"
+#   company: "Centre for eResearch"
+#   title: "eResearch Solutions Lead"
+#   bio: "Yvette is the team lead of the Centre for eResearch's Solutions team."
+#   thumbnailUrl: "yvette_wharton.jpg"
+#   rockstar: false 
+#   ribbon:
+#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+    
 # - 
 #   id: 20
 #   name: "Tayaza"
@@ -203,6 +205,7 @@
 #   ribbon:
 #     - {abbr: "Liggins", title: "Liggins Institute", url: "https://www.auckland.ac.nz/en/liggins.html"}
 # -
+
   id: 21
   name: "Anita"
   surname: "Kean"
@@ -919,3 +922,15 @@
   rockstar: true 
   ribbon:
    - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
+
+- 
+  id: 87
+  name: "Yvette"
+  surname: "Wharton"
+  company: "Centre for eResearch"
+  title: "eResearch Solutions Lead"
+  bio: "Yvette is the team lead of the Centre for eResearch's Solutions team."
+  thumbnailUrl: "yvette_wharton.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
