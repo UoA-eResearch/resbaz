@@ -60,7 +60,7 @@ eventDate: ""
 typeoutTextValues: " is finished."
 typeoutFallback: ""
 heroButtons:
- - {link: "", text: "Online digital research skills sessions, 22-26 November"}
+ - {link: "/schedule/", text: "Online digital research skills sessions, 22-26 November"}
 
 # About Block
 aboutTitle: "About ResBaz 2021 'Pick n Mix' Edition"
