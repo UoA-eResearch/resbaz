@@ -847,3 +847,39 @@
   rockstar: true 
   ribbon:
    - {abbr: "Education", title: "Faculty of Education and Social Work", url: "http://www.education.auckland.ac.nz/en/about/research.html"}
+
+-
+  id: 81
+  name: "Leonardo"
+  surname: "Uieda"
+  company: "Earth, Ocean and Ecological Sciences"
+  title: "Lecturer"
+  bio: "Leonardo Uieda is a Lecturer in Geophysics in the Department of Earth, Ocean and Ecological Sciences of the University of Liverpool, UK, where he is starting the <a href=\"https://www.compgeolab.org/\">Computer-Oriented Geoscience Lab</a>, a research group specialising in solving inverse problems in geophysics and building open-source scientific software. He is a founder and core developer of <a href=\"https://www.fatiando.org/\">Fatiando a Terra</a>, a collection of Python tools for geophysics."
+  thumbnailUrl: "Leonardo-Uieda.jpg"
+  rockstar: true 
+  ribbon:
+   - {abbr: "University of Liverpool", title: "Earth, Ocean and Ecological Sciences", url: "https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/"}
+
+-
+  id: 82
+  name: "Lindsey"
+  surname: "Heagy"
+  company: "Department of Earth, Ocean and Atmospheric Sciences"
+  title: "Assistant Professor"
+  bio: "Lindsey Heagy is an Assistant Professor in the Department of Earth, Ocean and Atmospheric Sciences at the University of British Columbia. Her research aims to advance methods in computational geophysics for environmental and resource exploration applications. She is a founding member of <a href=\"https://simpeg.xyz\">SimPEG</a>, an open-source software project for geophysical inversions, <a href=\"https://geosci.xyz\">GeoSci.xyz</a>, a collection of open-access educational resources for the geosciences, and <a href=\"https://2i2c.org\">2i2c</a>, an international organization for interactive computing."
+  thumbnailUrl: "LindseyHeagy.jpg"
+  rockstar: true 
+  ribbon:
+   - {abbr: "University of British Columbia", title: "Department of Earth, Ocean and Atmospheric Sciences", url: "https://www.eoas.ubc.ca"}
+
+-
+  id: 83
+  name: "Matt"
+  surname: "Hall"
+  company: "Agile*"
+  title: ""
+  bio: "Matt Hall has a PhD in sedimentology, 25 years experience in the energy industry, and founded a scientific computing company <a href=\"https://agilescientific.com/\">Agile*</a> in 2010. He's a founding member of <a href=\"https://softwareunderground.org/\">Software Underground</a> and advocates for science reproducibility and social diversity in scientific computing."
+  thumbnailUrl: "MattHall.png"
+  rockstar: true 
+  ribbon:
+   - {abbr: "Agile*", title: "Agile*", url: "https://agilescientific.com/"}
