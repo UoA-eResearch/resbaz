@@ -203,15 +203,15 @@
 #   ribbon:
 #     - {abbr: "Liggins", title: "Liggins Institute", url: "https://www.auckland.ac.nz/en/liggins.html"}
 # -
-#   id: 21
-#   name: "Anita"
-#   surname: "Kean"
-#   company: "Centre for eResearch"
-#   title: "eResearch Solutions Analyst"
-#   thumbnailUrl: "anita-kean.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+  id: 21
+  name: "Anita"
+  surname: "Kean"
+  company: "Centre for eResearch"
+  title: "eResearch Solutions Analyst"
+  thumbnailUrl: "anita-kean.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 -
   id: 22
   name: "Mike"
@@ -283,16 +283,16 @@
 #   rockstar: false 
 #   ribbon:
 #     - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
-# -
-#   id: 29
-#   name: "Faith"
-#   surname: "Welch"
-#   company: "Office of Research Strategy and Integrity"
-#   title: "Research Impact Manager"
-#   thumbnailUrl: "faith-welch.jpg"
-#   rockstar: false 
-#   ribbon:
-#    - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
+-
+  id: 29
+  name: "Faith"
+  surname: "Welch"
+  company: "Office of Research Strategy and Integrity"
+  title: "Research Impact Manager"
+  thumbnailUrl: "faith-welch.jpg"
+  rockstar: false 
+  ribbon:
+   - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
 # -
 #   id: 30
 #   name: "Nick"
@@ -883,3 +883,39 @@
   rockstar: true 
   ribbon:
    - {abbr: "Agile*", title: "Agile*", url: "https://agilescientific.com/"}
+
+-
+  id: 84
+  name: "Jonny"
+  surname: "Flutey"
+  company: "Victoria University of Wellington"
+  title: "Deputy Director"
+  bio: "Jonathan Flutey is the Deputy Director of Victoria University of Wellington's Centre for Academic Development. He has led  digital development across the university including supporting e-initiatives into new areas of teaching and research."
+  thumbnailUrl: "jonathan-flutey.jpg"
+  rockstar: true 
+  ribbon:
+   - {abbr: "CAD", title: "Centre for Academic Development", url: "http://www.cad.vuw.ac.nz/cad/"}
+
+-
+  id: 85
+  name: "Thomas"
+  surname: "Koentges"
+  company: "Victoria University of Wellington"
+  title: "Assistant Professor"
+  bio: "Thomas's research interests reflect his passion for classical studies, digital humanities, computer science and data analysis. Recently returned to New Zealand from the University of Leipzig, Germany, by way of a fellowship at Havard, he is a driven researcher and teacher advancing and promoting data science and technologies for the research of historical languages as well as for the cultural heritage sector. He is the founder of <a href=\"https://yousaydata.com/\">You Say Data</a>."
+  thumbnailUrl: "Thomas_Koentges.jpg"
+  rockstar: true 
+  ribbon:
+   - {abbr: "You say data", title: "You say data", url: "https://thomaskoentges.com/"}
+
+-
+  id: 86
+  name: "Jaylene"
+  surname: "Wehipeihana"
+  company: "University of Auckland"
+  title: "Research Manager"
+  bio: ""
+  thumbnailUrl: "Jaylene_Wehipeihana.jpeg"
+  rockstar: true 
+  ribbon:
+   - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}

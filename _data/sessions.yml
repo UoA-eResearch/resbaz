@@ -636,9 +636,9 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
 -
   id: 3238 #[stream, day, speakerID]
   title: "Tidyverse: Key Tips for Existing R Users"
-  description: "Are you an existing R user interested in learning more about tidyverse via a series of quick, key tips? This session will provide a range of practical and useful insights provided by Dr Thomas Koentges, an experienced academic and founder of You Say Data. <a href=\"https://vuw.libcal.com/event/5404920?k=507802ee2c59894aaf90226fc9be03b9\">Book here</a> "
+  description: "Over the last years the tidyverse has changed R programming for data scientists tremendously: cleaning and analysing rectangular data, loops, and parallelization can now be performed through a number of convenience functions. The session offers some recipes and translations for existing R users who want to include more of the tidyverse in their everyday data analysis tasks. <a href=\"https://vuw.libcal.com/event/5404920?k=507802ee2c59894aaf90226fc9be03b9\">Book here</a> "
   subtype: workshop
-  speakers: [38]
+  speakers: [38, 85]
   complexity: "Intermediate"
 
 -
@@ -654,7 +654,7 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   title: "Introduction to Qualtrics for Research Surveys"
   description: "This session will introduce you to Qualtrics, a powerful survey tool useful for collecting a range of research data. <a href=\"https://vuw.libcal.com/event/5404922?k=d3ed2f147543ea0f748d3426d9cf1b19\">Book here</a> "
   subtype: workshop
-  speakers: [38]
+  speakers: [38, 84]
   complexity: "Introductory"
 
 -
@@ -662,7 +662,7 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   title: "Find, replace and manipulate big datasets"
   description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. <p> This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…). <a href=\"https://www.eventbrite.com/e/find-replace-and-manipulate-big-datasets-tickets-202726760197\">Book here</a> "
   subtype: workshop
-  speakers: [34]
+  speakers: [34, 21]
   complexity: "Introductory"
 
 -
@@ -695,4 +695,12 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   description: "Kia ora and Talofa, Māori and Pacfic researchers and students from any discipline are invited to this korero. We will explore what it means to use digital research tools, including Wordpress, how these can impact research, and how we can develop these tools within our mahi. <a href=\"https://www.eventbrite.com/e/maori-and-pacific-researchers-reimagining-relationality-with-digital-tools-tickets-203573613157\">Book here</a> "
   subtype: workshop
   speakers: [80, 12, 14]
+  complexity: "All welcome"
+
+-
+  id: 3329 #[stream, day, speakerID]
+  title: "How to plan your research for real world impact"
+  description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"https://www.eventbrite.com/e/how-to-plan-your-research-for-real-world-impact-tickets-204279213627\">Book here</a> "
+  subtype: workshop
+  speakers: [29]
   complexity: "All welcome"
