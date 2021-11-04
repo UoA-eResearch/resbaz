@@ -8,6 +8,17 @@
                         <h5>{{ session.title  }}</h5>
                         <hr />
                         <span class="text-body">{{ session.description }}</span>
+                        <div class="slot-theme">
+                            {% for theme in site.data.themes %}
+                                {% for session_theme in session.themes %}
+                                    {% if session_theme == theme.id %}
+                                    <div style="background-color:{{theme.color}}; color: {{theme.fontColor}}; border-radius: 50px; padding:1rem;display:inline-block;">
+                                        {{theme.name}}
+                                    </div>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endfor %}
+                        </div>
                     </div>
                 {% endif %}
             {% endfor %}
