@@ -211,6 +211,7 @@
   surname: "Kean"
   company: "Centre for eResearch"
   title: "eResearch Solutions Analyst"
+  bio: "Anita is the team lead for the Centre for eResearch Platform & Services Team."
   thumbnailUrl: "anita-kean.jpg"
   rockstar: false 
   ribbon:
@@ -810,7 +811,7 @@
   company: "NeSI"
   title: "Research Support Team Lead"
   bio: "Gene is a member of thee University of Auckland office of NeSI as a Research Support Team Lead."
-  thumbnailUrl: "to_be_announced1.png"   
+  thumbnailUrl: "gene_soudlenkov.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
