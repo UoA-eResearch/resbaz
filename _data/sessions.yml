@@ -589,7 +589,7 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 
 -
   id: 3454 #[stream, day, speakerID]
-  title: "HPC Carpentry on NeSI"
+  title: "Introduction to High Performance Computing with NeSI"
   description: "This is a two hour, hands-on introduction to high performance computing (HPC).  Members of NeSI’s apps support team will guide attendees through HPC fundamentals including: <p>
 - How to access the NeSI HPC clusters.<p>
 - Basics of high performance computing.<p>
