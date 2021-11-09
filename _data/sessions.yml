@@ -421,7 +421,8 @@ Join this session to connect with and learn from others working with social medi
 -
   id: 062
   title: "Creating Professional LaTeX Reports Without Losing Hair"
-  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-202687332267\">Book here</a> "
+  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <p>
+  <b> This session is now full, please sign-up to the waiting list <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-202687332267\">here</a> to receive a post-session recording.</b>"
   subtype: workshop
   speakers: [55]
   complexity: "All welcome" 
@@ -458,7 +459,8 @@ Join this session to connect with and learn from others working with social medi
   id: 21580 #[stream, day, speakerID]
   title: "Managing References with Zotero"
   description: "Academic references are the bread and butter of research life. We spend a lot of time capturing, organising, and consulting references, so it makes sense to use the right tool for the job. Zotero is a free open-source reference manager built by researchers for researchers. It is simple to learn, yet powerful and feature-rich, and will save you countless hours at university and beyond. In this two hour workshop you'll learn how to use Zotero to capture, organise, and cite your references when you need them.
-  <b> Monday session now full! </b> <p><b> Due to the high volume of interest in Managing References with Zotero, an additional session will now run on Friday.</b> <a href=\"https://www.eventbrite.com/e/managing-references-with-zotero-additional-session-tickets-205294610707\">Book here</a>"
+  <b> Monday session now full! </b> <p><b> Due to the high volume of interest in Managing References with Zotero, an additional session will now run on Friday. <p>
+  Both sessions are now full please add yourself to the waiting list </b> <a href=\"https://www.eventbrite.com/e/managing-references-with-zotero-additional-session-tickets-205294610707\"> here</a> to receive a post-session recording."
   subtype: workshop
   speakers: [58,57]
   complexity: "Introductory"
@@ -475,7 +477,8 @@ Join this session to connect with and learn from others working with social medi
 -
   id: 2460 #[stream, day, speakerID]
   title: "An introduction to processing remote sensing data with Google Earth Engine"
-  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of preprocessing. This practical workshop provides a comprehensive introduction to using GEE through the javascript based code editor and aims to enable provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-199598132387\">Book here</a> "
+  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of preprocessing. This practical workshop provides a comprehensive introduction to using GEE through the javascript based code editor and aims to enable provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification.<p>
+  <b> This session is now full please add yourself to the waiting list <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-199598132387\">here</a> to reveive a post-session recording.</b>"
   subtype: workshop
   speakers: [60, 48]
   themes: ["datascience"]
@@ -507,7 +510,8 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
   id: 116470 #[stream, day, speakerID]
   title: "Introduction to R and RStudio"
   description: "R is a programming language for data analysis and statistics. It is free, and very widely used in various application areas, such as bioinformatics. The goal of this workshop is to help you familiarize yourself with RStudio, basic R terminology and routine workflows. We will showcase some of the available tools to tackle a wide variety of data science challenges, including data management and visualization. In addition, there will be live hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your confident R journey!  <b> Monday session full </b>. <p>
-  <b> Due to overwhelming interest in an Introduction to R and Rstudio an additional session is being run on Tuesday at 13:00.</b> <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-additional-session-tickets-204789580147\">Book here</a>."
+  <b> Due to overwhelming interest in an Introduction to R and Rstudio an additional session is being run on Tuesday at 13:00. <p>
+  Both Introduction to R sessions are now full, please add yourself to the waiting list <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-additional-session-tickets-204789580147\"> here</a> and we will send you a post-session recording </b>."
   subtype: workshop
   speakers: [64, 70]
   themes: ["datascience"]
@@ -530,13 +534,14 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
   description: "Learning the command line is the first step before you are able to utilise other digital tools like Python, R, and OpenRefine. It allows you to automate repetitive tasks. It can be intimidating to get started but once you’ve mastered bash commands, it becomes relatively easy to write scripts. This enables you to build all sorts of data pipelines and workflows much more easily. <p> In this interactive session you will be learning command line using the terminal interface. We will cover a range of basic commands that will help you navigate and explore, create files and directories, write, read and concatenate, how to use command arguments/options and combine existing commands, as well as copy, move and remove files. If you are using Windows, please install <a href=\"https://carpentries.github.io/workshop-template/#shell\">Git for Windows</a>.
   <p><b>This session is now full, please add yourself to the waiting list and we will send you a post-session recording <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-201362720317\"> here</a>.</b>"
   subtype: workshop
-  speakers: [65]
+  speakers: [65, 34]
   complexity: "Introductory"
 
 -
   id: 2275 #[stream, day, speakerID]
   title: "Introduction to Julia"
-  description: "Julia is a relatively new, multi-purpose programming language, with increasing adoption among scientific researchers. Interaction with Julia closely resembles that of scripting languages, such as R, MATLAB and python, and a growing number of Julia libraries provide similar functionality for scientific computation. However, extending modifying, or creating new software in these languages is complicated as all performance critical code must be written in a second, low-level language, like C or FORTRAN, which are more technically demanding, and are slower to test, debug, etc. Julia's careful and elegant design solves this two language problem. <p> In this session, learn more about this exciting new language, and whether it might be a good match for your research project. Participants will be walked through a basic Julia installation and will have the opportunity to carry out some basic data manipulation and visualization tasks. <a href=\"https://www.eventbrite.com/e/introduction-to-julia-tickets-201418958527\">Book here</a> "
+  description: "Julia is a relatively new, multi-purpose programming language, with increasing adoption among scientific researchers. Interaction with Julia closely resembles that of scripting languages, such as R, MATLAB and python, and a growing number of Julia libraries provide similar functionality for scientific computation. However, extending modifying, or creating new software in these languages is complicated as all performance critical code must be written in a second, low-level language, like C or FORTRAN, which are more technically demanding, and are slower to test, debug, etc. Julia's careful and elegant design solves this two language problem. <p> In this session, learn more about this exciting new language, and whether it might be a good match for your research project. Participants will be walked through a basic Julia installation and will have the opportunity to carry out some basic data manipulation and visualization tasks.<p>
+  <b>this session is now full, please add yourself to the waiting list <a href=\"https://www.eventbrite.com/e/introduction-to-julia-tickets-201418958527\">here</a> to receive a post-session recording</b>."
   subtype: workshop
   speakers: [75]
   themes: ["datascience"]
@@ -689,8 +694,8 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
 -
   id: 1334 #[stream, day, speakerID]
   title: "Find, replace and manipulate big datasets"
-  description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. <p> This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…). <a href=\"https://www.eventbrite.com/e/find-replace-and-manipulate-big-datasets-tickets-202726760197\">Book here</a> "
-  #    <p><b>This session is now full, please add yourself to the waiting list <a href=\"https://www.eventbrite.com/e/find-replace-and-manipulate-big-datasets-tickets-202726760197\"> here</a> and we will send you a post-session recording.</b>"
+  description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. <p> This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…).
+     <p><b>This session is now full, please add yourself to the waiting list <a href=\"https://www.eventbrite.com/e/find-replace-and-manipulate-big-datasets-tickets-202726760197\"> here</a> and we will send you a post-session recording.</b>"
   subtype: workshop
   speakers: [34, 21]
   themes: ["datascience"]
@@ -725,7 +730,7 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
 -
   id: 1580 #[stream, day, speakerID]
   title: "Māori and Pacific researchers: Reimagining relationality with digital tools"
-  description: "Kia ora and Talofa, Māori and Pacfic researchers and students from any discipline are invited to this korero. We will explore what it means to use digital research tools, including Wordpress, how these can impact research, and how we can develop these tools within our mahi. <a href=\"https://www.eventbrite.com/e/maori-and-pacific-researchers-reimagining-relationality-with-digital-tools-tickets-203573613157\">Book here</a> "
+  description: "Kia ora and Talofa, Māori and Pacfic researchers and students from any discipline are invited to this korero. We will explore what it means to use digital research tools, including WordPress, how these can impact research, and how we can develop these tools within our mahi. <a href=\"https://www.eventbrite.com/e/maori-and-pacific-researchers-reimagining-relationality-with-digital-tools-tickets-203573613157\">Book here</a> "
   subtype: workshop
   speakers: [80, 12, 14]
   complexity: "All welcome"
