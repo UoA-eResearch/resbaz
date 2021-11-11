@@ -732,7 +732,7 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   title: "Māori and Pacific researchers: Reimagining relationality with digital tools"
   description: "Kia ora and Talofa, Māori and Pacfic researchers and students from any discipline are invited to this korero. We will explore what it means to use digital research tools, including WordPress, how these can impact research, and how we can develop these tools within our mahi. <a href=\"https://www.eventbrite.com/e/maori-and-pacific-researchers-reimagining-relationality-with-digital-tools-tickets-203573613157\">Book here</a> "
   subtype: workshop
-  speakers: [80, 12, 14]
+  speakers: [80, 12, 14, 86]
   complexity: "All welcome"
 
 -
@@ -741,4 +741,21 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"https://www.eventbrite.com/e/how-to-plan-your-research-for-real-world-impact-tickets-204279213627\">Book here</a> "
   subtype: workshop
   speakers: [29]
+  complexity: "All welcome"
+
+-
+  id: 3589 #[stream, day, speakerID]
+  title: "Becoming a Data Scientist 101"
+  description: "Andrew will share his journey from musician to data scientist and give insights into the skills he has found most useful. Andrew now works in the commercial sector after working in a University environment. There will be opportunity to ask Andrew and others questions regarding pursuing a career in data science. <a href=\"https://auckland.zoom.us/j/99948381502?pwd=MEVtdUtoaDYrSS9BbUxpdHhoYTA5dz09\">Zoom link</a> "
+  subtype: workshop
+  speakers: [89]
+  themes: ["datascience"]
+  complexity: "All welcome"
+
+-
+  id: 353890 #[stream, day, speakerID]
+  title: "Digital storytelling with KnightLab"
+  description: "Interested in learning how to use a suite of open-source tools to create interactive narratives and visualisations for your research? This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics and see how easy and fun it is to create a compelling StoryMap.  Book here<libcal> // Level: All // Research dissemination; digital storytelling; digital humanities. <a href=\"https://vuw.libcal.com/event/5405327\">Book here</a> "
+  subtype: workshop
+  speakers: [38, 90]
   complexity: "All welcome"

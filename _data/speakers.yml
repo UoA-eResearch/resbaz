@@ -206,7 +206,7 @@
 #   ribbon:
 #     - {abbr: "Liggins", title: "Liggins Institute", url: "https://www.auckland.ac.nz/en/liggins.html"}
 # -
-
+-
   id: 21
   name: "Anita"
   surname: "Kean"
@@ -336,7 +336,7 @@
   company: "Faculty of Science"
   title: "Doctoral Candidate"
   bio: "Aimee van der Reis is marine scientist and her research mainly focuses on using molecular tools to answer ecological questions. Her current work is focused on using DNA metabarcoding to investigate the diet of various species, which has included deep-sea lobsters, marine birds and fish."
-  thumbnailUrl: "aimee-van-der-reis.jpg"
+  thumbnailUrl: "AVDR_ResBaz.jpg"
   rockstar: false 
   ribbon:
     - {abbr: "FOS", title: "Faculty of Science", url: "https://science.auckland.ac.nz"}
@@ -948,3 +948,27 @@
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+
+- 
+  id: 89
+  name: "Andrew"
+  surname: "Leathwick"
+  company: "The Warehouse Group"
+  title: "Data Scientist"
+  bio: "Andrew began his data science journey in 2018, when he left life as a classical pianist to study maths and statistics. Recently he joined The Warehouse Group, where he now works as a data scientist. Before that he was a part of the Center for eResearch, where he helped researchers with data visualization and machine learning."
+  thumbnailUrl: "andrew_leathwick.jpeg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "TWG", title: "The Warehouse Group", url: "https://www.thewarehousegroup.co.nz"}
+
+- 
+  id: 90
+  name: "Hamish"
+  surname: "Cameron"
+  company: "Victoria University of Wellington"
+  title: "Lecturer"
+  bio: "A classicist interested in networks and connectivity, Hamish is also a digital historian engaged with the applied methodologies of digital humanities, especially digital geography, and the digital dissemination of academic information. Most recently, his work explores the pedagogy of analog (tabletop) games and the reception of ideas about the ancient world through both analog and digital games."
+  thumbnailUrl: "hamish-cameron.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "SLC", title: "The School of Languages and Cultures", url: "https://www.wgtn.ac.nz/slc"}
