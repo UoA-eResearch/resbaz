@@ -2,9 +2,8 @@
 layout: post
 title:  "Workshop Requirements"
 date:   2021-11-15 12:00:00
-isStaticPost: true
+isStaticPost: false
 image: candy-2644168_1280.jpg
-permalink: /2021-workshops/50
 ---
 
 Before you attend the [Creating Professional LaTeX Reports Without Losing Hair](../schedule/#session-50) session, you need to install the Bash commandline, Make, TeXLive, biber and Pandoc. 
