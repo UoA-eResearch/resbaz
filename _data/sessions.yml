@@ -553,7 +553,8 @@ This session provides a taster for a full day workshop provided by NeSI. <a href
 -
   id: 22751 #[stream, day, speakerID]
   title: "Machine learning in Julia"
-  description: "This session teaches participants how to use the open source softare MLJ (Machine Learning in Julia) to quickly select, optimize and compare a large number of machine learning models. While some machine learning courses focus on deep learning methods, emphasis here will be on quickly comparing models from multiple paradigms. <p> This is a tutorial on how to use the MLJ software, and not a course on machine learning itself. <a href=\"https://www.eventbrite.com/e/machine-learning-in-julia-tickets-201422368727\">Book here</a> "
+  description: "This session teaches participants how to use the open source softare MLJ (Machine Learning in Julia) to quickly select, optimize and compare a large number of machine learning models. While some machine learning courses focus on deep learning methods, emphasis here will be on quickly comparing models from multiple paradigms. <p> This is a tutorial on how to use the MLJ software, and not a course on machine learning itself.
+  Some experience in another scripting laguage is required for this session.<p><b>This session is now full, please add yourself to the waiting list<a href=\"https://www.eventbrite.com/e/machine-learning-in-julia-tickets-201422368727\"> here </a>to receive session marerial.</b>"
   subtype: workshop
   speakers: [75, 66]
   themes: ["datascience"]
