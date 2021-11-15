@@ -298,16 +298,16 @@
   rockstar: false 
   ribbon:
    - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
-# -
-#   id: 30
-#   name: "Nick"
-#   surname: "Young"
-#   company: "Centre for eResearch"
-#   title: "eResearch Senior Solutions Specialist"
-#   thumbnailUrl: "nick-young.jpg"
-#   rockstar: false 
-#   ribbon:
-#    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+-
+  id: 30
+  name: "Nick"
+  surname: "Young"
+  company: "Centre for eResearch"
+  title: "eResearch Senior Solutions Specialist"
+  thumbnailUrl: "nick-young.jpg"
+  rockstar: false 
+  ribbon:
+   - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 # -
 #   id: 31
 #   name: "Jens"
@@ -690,7 +690,7 @@
   name: "Dinindu"
   surname: "Senanayake"
   company: "NeSI"
-  title: "Data Scientist"
+  title: "HPC applications support specialist"
   bio: "Dinindu Senanayakeis a NeSI Applications Support Specialist, specifically in Genomics/Bioinformatics. He has approximately seven years of research experience in Cancer Genetics, Chemical Genetics and Systems Biology. Originally from Sri Lanka, he moved to New Zealand in 2006, arriving for studies and staying for nature."
   thumbnailUrl: "dinindu_senanayake.jpeg"   
   rockstar: false
@@ -984,3 +984,15 @@
   rockstar: false 
   ribbon:
     - {abbr: "University of Waikato", title: "Te Pua Wānanga ki te Ao, University of Waikato", url: "https://www.waikato.ac.nz/study/campaigns/maori-and-indigenous-studies"}
+  
+- 
+  id: 92
+  name: "Billie"
+  surname: "Berry"
+  company: "Centre for Academic Development"
+  title: "Learning Designer"
+  bio: "Billie has recently graduated with an MA looking at the philosophy of statistics. In her work at VUW's Centre for Academic Development, she helps academics use digital resources, tools and methods to support student engagement."
+  thumbnailUrl: "billie-berry.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
