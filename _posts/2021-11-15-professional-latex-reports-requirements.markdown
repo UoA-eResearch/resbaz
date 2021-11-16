@@ -5,8 +5,7 @@ date:   2021-11-15 12:00:00
 isStaticPost: false
 image: candy-2644168_1280.jpg
 ---
-
-Before you attend the [Creating Professional LaTeX Reports Without Losing Hair](../schedule/#session-50) session, you need to install the Bash commandline, Make, TeXLive, biber and Pandoc. 
+Before you attend the [Stop paying for free software: Creating a LaTeX pipeline for collaboration](../schedule/#session-2555) session, you need to install the Bash commandline, Make, TeXLive, biber and Pandoc. 
 ### Windows
 First, set up Windows Subsystem for Linux
 
