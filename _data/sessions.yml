@@ -763,3 +763,11 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   subtype: workshop
   speakers: [90, 38]
   complexity: "All welcome"
+
+-
+  id: 1212
+  title: "ResBaz drop-in clinic"
+  description: "Open drop-in session to help with trouble shooting, geting help with installing session requirements, and any ResBaz questions <a href=\"https://auckland.zoom.us/my/hackyhour\">Zoom link</a> "
+  subtype: workshop
+  speakers: [12]
+  complexity: "All welcome" 
