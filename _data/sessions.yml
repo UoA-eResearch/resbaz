@@ -701,7 +701,7 @@ We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI f
   description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. <p> This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…).
      <p><b>This session is now full, please add yourself to the waiting list <a href=\"https://www.eventbrite.com/e/find-replace-and-manipulate-big-datasets-tickets-202726760197\"> here</a> and we will send you a post-session recording.</b>"
   subtype: workshop
-  speakers: [34, 21]
+  speakers: [34, 21, 65]
   themes: ["datascience"]
   complexity: "Introductory"
 
