@@ -54,22 +54,26 @@ rightNavigationButtons:
  - {link: "mailto:researchdata@auckland.ac.nz", text: "Contact us"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "Welcome to ResBaz Aotearoa 2021"
+heroImage: "Northern-Pohutukawa-at-StonyBay_Tahu-Taylor-Koolen_DOC.jpg"
+heroTitle: "ResBaz will be back in 2022"
 eventDate: ""
 typeoutTextValues: " is finished."
 typeoutFallback: ""
 heroButtons:
- - {link: "/schedule/", text: "Online digital research skills sessions, 22-26 November"}
+ - {link: "/schedule/", text: "2021 session resources and a survey will be released to registrants in early December"}
 
 # About Block
-aboutTitle: "About ResBaz 2021 'Pick n Mix' Edition"
+aboutTitle: "About ResBaz"
 #aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the format of a multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, given the circumstances we are delivering a ResBaz pick and mix online version for all Aotearoa New Zealand researchers and postgraduate research students.</p>
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the format of a multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, ResBaz 2021 delivered 50 digital research skills sessions online for all Aotearoa New Zealand researchers and postgraduate research students - those within our shores and those unable to be with us.</p>
 
-<p>ResBaz 2021: Pick and Mix, 22-26 November, is a collaboration between the University of Auckland, Victoria University of Wellington, NeSI and the Beyond Prediction: explanatory and transparent <a href=\"https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\"> data science</a>.</p>
+<p>ResBaz Aotearoa 2021 was made possible through the collaboration of the University of Auckland, Victoria University of Wellington, National eScience Infrastructure, and the Beyond Prediction: explanatory and transparent <a href=\"https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\"> data science</a>.</p>
 
-<p> <b>Sign up to individual <a href=\"https://resbaz.auckland.ac.nz/sessions/\"> sessions</a> and attendees are invited to join the Centre for eResearch resbaz-2021 <a href=\"https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ\"> Slack channel</a>.</p>"
+<p> <b>Session resources and recordings, where available, will be released in early December along with a participant survey. Your feedback enables and shapes researcher skills and development offerings.</b> </p>
+
+<p>Like ResBaz? Join the Centre for eResearch Hacky Hour <a href=\"https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ\"> Slack channel</a> and look out for Resbaz 2022 details.</p>
+
+<p>The ResBaz Aotearoa team wishes you and yours an amazing summer break full of connecting with loved ones, indulging in your passions, and suncream!</p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
