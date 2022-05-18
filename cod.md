@@ -8,14 +8,14 @@ isStaticPost: true
 *Attending or contributing to ResBaz? Please read our policies (recording, reporting and anti-harassment) and Code of Conduct. We’re really serious about making sure that everyone feels safe and has a good time at all our events!*
 
 ##### Policies and Code of Conduct
-Throughout these policies, we refers to the Research Bazaar team of staff and volunteers.
+Throughout these policies, we refer to the Research Bazaar team of staff and volunteers.
 
 By attending or contributing to the Research Bazaar, **you agree to be bound by these policies and Code of Conduct.**
 
 ##### Code of Conduct
 *This Code of Conduct draws inspiration from the ResBaz Melbourne [Code of Conduct](https://resbazblog.wordpress.com/code-of-conduct/).*
 
-The Research Bazaar is a learning environment where everyone is welcome. It’s a diverse community from a wide range of backgrounds and interests, academically and socially. To ensure that everyone has a safe and enjoyable experience, please bring a spirit of respect and friendly inquiry to all your interactions at the Research Bazaar.
+The Research Bazaar is a learning environment where everyone is welcome. It’s a diverse community of people from a wide range of backgrounds and interests, academically and socially. To ensure that everyone has a safe and enjoyable experience, please bring a spirit of respect and friendly inquiry to all your interactions at the Research Bazaar.
 
 **Be friendly and polite.**
 
@@ -34,7 +34,7 @@ The Research Bazaar is a learning environment where everyone is welcome. It’s 
 
 **Video/audio recording policy**
 
-We will be recording some of the ResBaz 2021 : Pick n Mix sessions using virtual meeting software (e.g. Zoom). These recordings may be shared online by the Research Bazaar team.
+We will be recording some of the ResBaz 2022 sessions using virtual meeting software (e.g. Zoom). These recordings may be shared online by the Research Bazaar team.
 
 If you do not wish to be recorded, please consider the following measures: 
 
@@ -70,7 +70,8 @@ Harassment includes:
 * sustained disruption of talks or other events
 * sustained attacks on an attendee’s research topic or project
 * unwelcome sexual attention.
-* Participants asked to stop any harassing behaviors are expected to comply immediately. Any member of the Research Bazaar staff can issue a verbal warning to a participant that their behaviour violates the conference’s anti-harassment policy. A record of complaints received and warnings issued will be maintained to enable any repeat offenders to be identified.
+
+Participants asked to stop any harassing behaviors are expected to comply immediately. Any member of the Research Bazaar staff can issue a verbal warning to a participant that their behaviour violates the conference’s anti-harassment policy. A record of complaints received and warnings issued will be maintained to enable any repeat offenders to be identified.
 
 If a participant engages in harassing behaviors, the anti-harassment officers may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
