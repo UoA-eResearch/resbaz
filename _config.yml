@@ -60,7 +60,7 @@ eventDate: ""
 typeoutTextValues: " is finished."
 typeoutFallback: ""
 heroButtons:
- - {link: "/schedule/", text: "2021 session resources and a survey will be released to registrants in early December"}
+ - {link: "mailto:researchdata@auckland.ac.nz", text: "Please click here to get in touch if you'd like to contribute"}
 
 # About Block
 aboutTitle: "About ResBaz"
