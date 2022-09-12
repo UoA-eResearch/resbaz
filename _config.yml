@@ -55,23 +55,21 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "Northern-Pohutukawa-at-StonyBay_Tahu-Taylor-Koolen_DOC.jpg"
-heroTitle: "ResBaz 2022: 14-18 November"
+heroTitle: "Welcome to ResBaz Aotearoa 2022"
 eventDate: ""
-typeoutTextValues: " is finished."
+typeoutTextValues: ""
 typeoutFallback: ""
 heroButtons:
- - {link: "mailto:researchdata@auckland.ac.nz", text: "Please click here to get in touch if you'd like to contribute"}
+ - {text: "Online digital research skills sessions, 14-18 November"}
 
 # About Block
 aboutTitle: "About ResBaz"
 #aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the format of a multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, ResBaz 2021 delivered 50 digital research skills sessions online for all Aotearoa New Zealand researchers and postgraduate research students - those within our shores and those unable to be with us. ResBaz 2022 will build on this success by again offering a wide variety of digital research skills workshops online, free of charge, and open to all researchers in Aotearoa.</p>
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting digital literacy, an increasingly essential part of modern research and scholarship. We LOVE the format of a multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, online delivery enables more sessions to be provided to more people and across the Aotearoa research community.</p>
 
-<p>ResBaz Aotearoa 2022 will be made possible through the collaboration of the University of Auckland, Victoria University of Wellington, National eScience Infrastructure, and the <a href=\"https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\">Beyond Prediction: Explanatory and Transparent Data Science</a>.</p>
+<p>Aotearoa New Zealand researchers and postgraduate research students are all welcome to register for the  'pick and mix' of sessions offered. ResBaz Aotearoa 2022 is a collaboration between the University of Auckland, Victoria University of Wellington, University of Otaago and the <a href="https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/"> "Beyond Prediction: Explanatory and Transparent Data Science Programme"</a>.</p>
 
-<p> <b>Session resources and recordings, where available, will be released shortly after the event along with a participant survey. Your feedback enables and shapes researcher skills and development offerings.</b> </p>
-
-<p>Like ResBaz? Join the Centre for eResearch Hacky Hour <a href=\"https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ\"> Slack channel</a> and look out for announcements relating to ResBaz 2022.</p>
+<p>Sign up to <a href="https://resbaz.auckland.ac.nz/sessions/">individual sessions</a> and attendees are invited to <a href=https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ"> join</a> the Centre for eResearch #resbaz-2022 Slack channel.</p>
 
 <p>The ResBaz Aotearoa team looks forward to seeing you all in November for ResBaz 2022!</p>"
 
