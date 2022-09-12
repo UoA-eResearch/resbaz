@@ -59,7 +59,7 @@ eventDate: ""
 typeoutTextValues: ""
 typeoutFallback: ""
 heroButtons:
- - {text: "Online digital research skills sessions, 14-18 November"}
+ - {link: "mailto:researchdata@auckland.ac.nz", text: "Please click here to get in touch if you'd like to contribute"}
 
 # About Block
 aboutTitle: "About ResBaz"
