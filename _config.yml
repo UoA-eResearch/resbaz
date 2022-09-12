@@ -56,7 +56,7 @@ rightNavigationButtons:
 heroImage: "Northern-Pohutukawa-at-StonyBay_Tahu-Taylor-Koolen_DOC.jpg"
 heroTitle: "Welcome to ResBaz Aotearoa 2022"
 eventDate: ""
-typeoutTextValues: ""
+typeoutTextValues: " is starting soon"
 typeoutFallback: ""
 heroButtons:
  - {link: "mailto:researchdata@auckland.ac.nz", text: "Please click here to get in touch if you'd like to contribute"}
