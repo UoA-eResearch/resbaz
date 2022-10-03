@@ -122,19 +122,19 @@
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
   social: 
     - {name: "github", link: "https://github.com/uoa-noel"}
-- 
-  id: 13
-  name: "Dharani"
-  surname: "Sontam"
-  company: "Centre for eResearch"
-  title: "eResearch Engagement Specialist"
-  bio: "Dharani is a member of the Centre for eResearch's engagement team."
-  thumbnailUrl: "dharani_sontam.png"
-  rockstar: false
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-  social: 
-    - {name: "github", link: "https://github.com/dharanisontam"}
+# - 
+#   id: 13
+#   name: "Dharani"
+#   surname: "Sontam"
+#   company: "Centre for eResearch"
+#   title: "eResearch Engagement Specialist"
+#   bio: "Dharani is a member of the Centre for eResearch's engagement team."
+#   thumbnailUrl: "dharani_sontam.png"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+#   social: 
+#     - {name: "github", link: "https://github.com/dharanisontam"}
 - 
   id: 14
   name: "Laura"
