@@ -223,7 +223,7 @@
   surname: "Laverick"
   company: "Centre for eResearch"
   title: "Senior eResearch Solutions Specialist"
-  bio: "Mike is an eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
+  bio: "Mike is a Senior eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
   thumbnailUrl: "mike.png"
   rockstar: false 
   ribbon:
@@ -314,7 +314,7 @@
   surname: "Brinkmann"
   company: "Centre for eResearch"
   title: "Senior eResearch Engagement Specialist"
-  bio: "Jens is a Senior eResearch Engagement Specialist in the Centre for eResearch at the University of Auckland"
+  bio: "Jens is a Senior eResearch Engagement Specialist in the Centre for eResearch at the University of Auckland."
   thumbnailUrl: "jens_brinkmann.png"
   rockstar: false 
   ribbon:
@@ -583,7 +583,7 @@
   surname: "Saunders"
   company: "Centre for eResearch"
   title: "eResearch Engagement Specialist"
-  bio: "Tom joined the Centre for eResearch after completing his PhD in Entomology at the University of Auckland. He organises and teaches in digital research skills events and consults with researchers on how to manage their research data."
+  bio: "Tom joined the Centre for eResearch after completing his PhD in Entomology at the University of Auckland. He organises digital research skills events and consults on the management of research data."
   thumbnailUrl: "tom_saunders.jpg"   
   rockstar: false
   ribbon:
@@ -677,8 +677,8 @@
   id: 66
   name: "Quinn"
   surname: "Asena"
-  company: "Centre for eResearch"
-  title: "eResearch Engagement Specialist"
+  company: ""
+  title: ""
   bio: "Quinn has recently submitted his doctoral thesis in macro-ecology. Before heading the United States to take up a research postdoc, Quinn has joined the Engagement team within the Centre for eResearch."
   thumbnailUrl: "quinn_asena.jpg"   
   rockstar: false
@@ -811,7 +811,7 @@
   surname: "Soudlenkov"
   company: "NeSI"
   title: "Research Support Team Lead"
-  bio: "Gene is a member of thee University of Auckland office of NeSI as a Research Support Team Lead."
+  bio: "Gene is a member of the University of Auckland office of NeSI as a Research Support Team Lead."
   thumbnailUrl: "gene_soudlenkov.jpg"   
   rockstar: false
   ribbon:
@@ -984,3 +984,124 @@
   rockstar: false 
   ribbon:
     - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+
+- 
+  id: 93
+  name: "Evie"
+  surname: "Southwell"
+  company: "Libraries and Learning Services"
+  title: "Research Services Adviser"
+  bio: ""
+  thumbnailUrl: "to_be_announced3.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 94
+  name: "Reuben"
+  surname: "Ayeleke"
+  company: "Liggins Institute"
+  title: "Clinical Research Data Manager"
+  bio: ""
+  thumbnailUrl: "to_be_announced1.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "Liggins", title: "Liggins Institute", url: "https://www.auckland.ac.nz/en/liggins.html"}
+
+- 
+  id: 95
+  name: "Amanda"
+  surname: "Charlton"
+  company: "Faculty of Medical and Health Sciences"
+  title: "Hon Clinical Senior Lecturer"
+  bio: "Amanda is an enthusiastic biomedical educator at the University of Auckland and an Anatomical Pathologist at Auckland Hospital. Amanda is known for her simple, visual approaches to science communication across disciplines."
+  thumbnailUrl: "amanda_charlton.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "FMHS", title: "Faculty of Medical and Health Sciences", url: "https://fmhs.auckland.ac.nz"}
+
+- 
+  id: 96
+  name: "Murray"
+  surname: "Cadzow"
+  company: "University of Otago"
+  title: "Scientific Programmer"
+  bio: ""
+  thumbnailUrl: "to_be_announced1.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "Otago", title: "University of Otago", url: "https://www.otago.ac.nz/"}
+
+- 
+  id: 97
+  name: "Donna"
+  surname: "MacColl"
+  company: "Libraries and Learning Services"
+  title: "Research Services Team Lead"
+  bio: "Donna has a PhD in Genetics and is a senior member of the Research Service team in Te Tumu Herenga | Libraries and Learning Services, University of Auckland."
+  thumbnailUrl: "donna_maccoll.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 98
+  name: "Berit"
+  surname: "Anderson"
+  company: "Libraries and Learning Services"
+  title: "Research Services Adviser"
+  bio: "Berit is a Research Services Advisor within Te Tumu Herenga | Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Science. She designs & leads workshops and offers consultations on search strategies, databases, and systematic reviews."
+  thumbnailUrl: "berit_anderson.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 99
+  name: "Erin"
+  surname: "Wood"
+  company: "Libraries and Learning Services"
+  title: "Research Services Adviser"
+  bio: "Erin is a Research Services Advisor within Te Tumu Herenga | Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff, particularly those within the Business School."
+  thumbnailUrl: "erin_wood.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 100
+  name: "Rayna"
+  surname: "Dewar"
+  company: "Libraries and Learning Services"
+  title: "Research Services Adviser"
+  bio: "Rayna is a Research Services Advisor within Te Tumu Herenga | Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff, particularly those within the Faculty of Medical and Health Sciences."
+  thumbnailUrl: "to_be_announced3.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 101
+  name: "Anthony"
+  surname: "Shaw"
+  company: "NeSI"
+  title: "Support Analyst"
+  bio: "Engineering Applications Support at New Zealand eScience Infrastructure (NeSI)."
+  thumbnailUrl: "to_be_announced1.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}
+
+- 
+  id: 102
+  name: "Nidhi"
+  surname: "Gowdra"
+  company: "Centre for eResearch"
+  title: "eResearch Solution Specialist"
+  bio: "Nidhi is a member of the Centre for eResearch's solutions team."
+  thumbnailUrl: "to_be_announced1.png"
+  rockstar: false
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+
