@@ -81,19 +81,19 @@
 #   rockstar: true
 #   ribbon:
 #     - {abbr: "TPM", title: "Te Pūnaha Matatini", url: "https://www.tepunahamatatini.ac.nz"}
-
--
-  id: 10
-  name: "Konstantina"
-  surname: "Vasileva"
-  title: "PhD student"
-  bio: "Konstantina is an analytics professional who started working in media and qualitative research back in 2009 and later moved on to manage media analytics projects for international clients in a range of industries. In a reckless bout of determination, after working for about a decade, she returned to university to requalify and develop skills in STEM and data analysis, applicable both in sci research & industry projects. See some of her work at https://medium.com/@Konstantinna "
-  thumbnailUrl: "konstantina.vasileva.jpg"
-  rockstar: false
-  ribbon:
-    - {abbr: "VUW", title: "School of Psychology, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
-  social: 
-    - {name: "site", link: "https://medium.com/@Konstantinna"}
+#
+# -
+#   id: 10
+#   name: "Konstantina"
+#   surname: "Vasileva"
+#   title: "PhD student"
+#   bio: "Konstantina is an analytics professional who started working in media and qualitative research back in 2009 and later moved on to manage media analytics projects for international clients in a range of industries. In a reckless bout of determination, after working for about a decade, she returned to university to requalify and develop skills in STEM and data analysis, applicable both in sci research & industry projects. See some of her work at https://medium.com/@Konstantinna "
+#   thumbnailUrl: "konstantina.vasileva.jpg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "VUW", title: "School of Psychology, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+#   social: 
+#     - {name: "site", link: "https://medium.com/@Konstantinna"}
 
 - 
   id: 11
