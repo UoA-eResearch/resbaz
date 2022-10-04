@@ -368,3 +368,11 @@
   subtype: workshop
   speakers: [12]
   complexity: "All welcome" 
+
+-
+  id: 091 #[stream, day, speakerID]
+  title: "Visual abstracts create an attention hook to your published article"
+  description: "Visual abstracts are a 'movie poster' of a journal article displayed on social media that hooks a viewer's attention to read your article. Like a 3-minute thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood in a 30-second glance. Designed with icons and keywords, they are simpler than a graphical abstract and quicker to make. Visual abstracts are a powerful thinking tool for yourself and a valuable communication tool to engage others. The first half of the session is an interactive exploration of visual abstracts to inspire your imagination. The second half is a guided workshop where together we build your creative confidence by making a visual abstract. <a href=\"https://www.eventbrite.com/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-428828015137\">Book here</a> "
+  subtype: workshop
+  speakers: [95]
+  complexity: "All welcome"
