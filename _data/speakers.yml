@@ -949,17 +949,17 @@
 #   ribbon:
 #     - {abbr: "TWG", title: "The Warehouse Group", url: "https://www.thewarehousegroup.co.nz"}
 
-- 
-  id: 90
-  name: "Hamish"
-  surname: "Cameron"
-  company: "Victoria University of Wellington"
-  title: "Lecturer"
-  bio: "A classicist interested in networks and connectivity, Hamish is also a digital historian engaged with the applied methodologies of digital humanities, especially digital geography, and the digital dissemination of academic information. Most recently, his work explores the pedagogy of analog (tabletop) games and the reception of ideas about the ancient world through both analog and digital games."
-  thumbnailUrl: "hamish-cameron.jpg"
-  rockstar: false 
-  ribbon:
-    - {abbr: "SLC", title: "The School of Languages and Cultures", url: "https://www.wgtn.ac.nz/slc"}
+# - 
+#   id: 90
+#   name: "Hamish"
+#   surname: "Cameron"
+#   company: "Victoria University of Wellington"
+#   title: "Lecturer"
+#   bio: "A classicist interested in networks and connectivity, Hamish is also a digital historian engaged with the applied methodologies of digital humanities, especially digital geography, and the digital dissemination of academic information. Most recently, his work explores the pedagogy of analog (tabletop) games and the reception of ideas about the ancient world through both analog and digital games."
+#   thumbnailUrl: "hamish-cameron.jpg"
+#   rockstar: false 
+#   ribbon:
+#     - {abbr: "SLC", title: "The School of Languages and Cultures", url: "https://www.wgtn.ac.nz/slc"}
 
 # - 
 #   id: 91
