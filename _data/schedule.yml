@@ -1,7 +1,7 @@
 # Monday
 - 
   date: "2022-11-14"
-  dateReadable: "Nov 14"
+  dateReadable: "Monday 14 November"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -34,7 +34,7 @@
     - {
     	startTime: "13:00",
     	endTime: "13:50",
-    	sessionIds: [070, 404, 076]
+    	sessionIds: [070, 076, 404]
     }
 
     - {
@@ -46,7 +46,7 @@
     - {
       startTime: "14:00",
       endTime: "14:50",
-      sessionIds: [070, 404, 047]
+      sessionIds: [070, 047, 404]
     }
 
     - {
@@ -57,26 +57,14 @@
 
     - {
     	startTime: "15:00",
-    	endTime: "15:50",
-    	sessionIds: [080, 404, 047]
+    	endTime: "16:00",
+    	sessionIds: [080, 047, 404]
     }
-
-    - {
-    	startTime: "15:50",
-      endTime: "16:00",
-    	sessionIds: [200]
-    }
-
-    - {
-      startTime: "16:00",
-      endTime: "16:50",
-      sessionIds: [ 404, 404, 404]
-    } 
 
 # Tuesday
 - 
   date: "2022-11-15"
-  dateReadable: "Nov 15"
+  dateReadable: "Tuesday 15 November"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -132,26 +120,14 @@
 
     - {
     	startTime: "15:00",
-    	endTime: "15:50",
+    	endTime: "16:00",
     	sessionIds: [404, 074, 404]
-    }
-
-    - {
-    	startTime: "15:50",
-      endTime: "16:00",
-    	sessionIds: [200]
-    }
-
-    - {
-      startTime: "16:00",
-      endTime: "16:50",
-      sessionIds: [ 404, 404, 404]
     }
 
 # Wednesday
 - 
   date: "2022-11-16"
-  dateReadable: "Nov 16"
+  dateReadable: "Wednesday 16 November"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -184,7 +160,7 @@
     - {
     	startTime: "13:00",
     	endTime: "13:50",
-    	sessionIds: [404, 066, 063]
+    	sessionIds: [066, 063, 404]
     }
 
     - {
@@ -196,7 +172,7 @@
     - {
       startTime: "14:00",
       endTime: "14:50",
-      sessionIds: [404, 066, 073]
+      sessionIds: [066, 073, 404]
     }
 
     - {
@@ -207,26 +183,14 @@
 
     - {
     	startTime: "15:00",
-    	endTime: "15:50",
-    	sessionIds: [404, 404, 073]
+    	endTime: "16:00",
+    	sessionIds: [404, 073, 404]
     }
-
-    - {
-    	startTime: "15:50",
-      endTime: "16:00",
-    	sessionIds: [200]
-    }
-
-    - {
-      startTime: "16:00",
-      endTime: "16:50",
-      sessionIds: [ 404, 404, 404]
-    } 
 
 # Thursday
 - 
   date: "2022-11-17"
-  dateReadable: "Nov 17"
+  dateReadable: "Thursday 17 November"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -259,7 +223,7 @@
     - {
     	startTime: "13:00",
     	endTime: "13:50",
-    	sessionIds: [404, 067, 044]
+    	sessionIds: [067, 044, 404]
     }
 
     - {
@@ -271,7 +235,7 @@
     - {
       startTime: "14:00",
       endTime: "14:50",
-      sessionIds: [404, 067, 044]
+      sessionIds: [067, 044, 404]
     }
 
     - {
@@ -282,26 +246,14 @@
 
     - {
     	startTime: "15:00",
-    	endTime: "15:50",
-    	sessionIds: [404, 067, 404]
-    }
-
-    - {
-    	startTime: "15:50",
-      endTime: "16:00",
-    	sessionIds: [200]
-    }
-
-    - {
-      startTime: "16:00",
-      endTime: "16:50",
-      sessionIds: [ 404, 404, 404]
+    	endTime: "16:00",
+    	sessionIds: [067, 404, 404]
     }
 
 # Friday
 - 
   date: "2022-11-18"
-  dateReadable: "Nov 18"
+  dateReadable: "Friday 18 November"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -345,7 +297,7 @@
 
     - {
       startTime: "14:00",
-      endTime: "14:50",
+      endTime: "15:00",
       sessionIds: [077, 087, 404]
     }
 
