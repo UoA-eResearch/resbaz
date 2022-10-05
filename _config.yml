@@ -54,7 +54,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "pohutukawa-2.jpg"
-heroTitle: "Welcome to ResBaz Aotearoa 2022"
+heroTitle: "<b>Welcome to ResBaz Aotearoa 2022</b>"
 eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
