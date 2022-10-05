@@ -3,9 +3,9 @@
     {% include navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="500" style="backdrop-filter: blur(5px);">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            <h1><b style="text-shadow: 2px 2px 8px black">{{ heroText[0] }}</b><span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <h5>{{ site.eventDate }}</h5>
             {% for button in site.heroButtons %}
             <a href="{{button.link}}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ button.text }}</a>
