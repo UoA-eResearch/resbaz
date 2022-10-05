@@ -54,7 +54,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "pohutukawa-2.jpg"
-heroTitle: "<b style=\"text-shadow: 2px 2px 8px black \">Welcome to ResBaz Aotearoa 2022</b>"
+heroTitle: "Welcome to ResBaz Aotearoa 2022"
 eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
@@ -70,7 +70,7 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting digital lit
 
 <p>All participants are also invited to <a href=\"https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ\"> join</a> the Centre for eResearch resbaz-2022 Slack channel.</p>
 
-<p>ResBaz Aotearoa 2022 is a collaboration between the University of Auckland, Victoria University of Wellington, University of Otaago and the <a href=\"https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\"> Beyond Prediction: Explanatory and Transparent Data Science Programme</a>.</p>
+<p>ResBaz Aotearoa 2022 is a collaboration between the University of Auckland, Victoria University of Wellington, University of Otago and the <a href=\"https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\"> Beyond Prediction: Explanatory and Transparent Data Science Programme</a>.</p>
 
 <p>The ResBaz Aotearoa team looks forward to seeing you all soon for ResBaz 2022!</p>"
 
