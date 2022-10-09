@@ -401,3 +401,11 @@
   subtype: workshop
   speakers: [103]
   complexity: "Introductory"
+
+-
+  id: 095 #[stream, day, speakerID]
+  title: "Applications of Computer Vision in Research"
+  description: "This session revolves around exploring the applications of Deep Learning and computer vision in research. We will look at different research domains and the practical applications of computer vision deep learning models. Some of the areas we will look at during this session will be Optical Character Recognition, Image classification and segmentation for biomedical sciences and Archaeology. We will also briefly explore the applications of Deep Learning models in other research domains such as prediction/forecasting and anomaly detection. <a href=\"https://www.eventbrite.com/e/applications-of-computer-vision-in-research-tickets-438736601987\">Book here</a> "
+  subtype: workshop
+  speakers: [102]
+  complexity: "Introductory"
