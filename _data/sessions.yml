@@ -376,3 +376,28 @@
   subtype: workshop
   speakers: [95]
   complexity: "All welcome"
+
+-
+  id: 092 #[stream, day, speakerID]
+  title: "What is NeSI? New Zealand's National High Performance Computers"
+  description: "The computational requirements of high impact research seems to grow further beyond what individual groups and institutions can reasonably provide every year. New Zealand eScience Infrastructure (NeSI) seeks to help meet these requirements for the New Zealand research community. In this talk we will go over the core services relating to high performance computing (HPC) that NeSI is able to provide, the reason why HPC might be suitable for your work, and how your research team can gain access to these resources. <a href=\"https://www.eventbrite.com/e/what-is-nesi-new-zealands-national-high-performance-computers-tickets-438701978427\">Book here</a> "
+  subtype: workshop
+  speakers: [101]
+  themes: ["datascience"]
+  complexity: "Introductory"
+
+-
+  id: 093 #[stream, day, speakerID]
+  title: "Data Security: Addressing Risks in Postgraduate Research"
+  description: "Research data has become a primary target for cyberattacks. Recent reports found that attacks on educational institutions are growing faster than any other sector. It's been clear how vulnerable — and desirable — university research data is to bad actors, emphasizing that having properly secured research will be critical for warding off current and future attacks.And cybersecurity threats to research universities won't stop as Universities will remain repositories of invaluable proprietary and personal data, often tied to corporations and government organizations, that spans medical, military, financial and emerging technologies, and more. A data risk assessment will be the primary step to overcome some of the most common roadblocks preventing universities from securing research data. This one-hour presentation provides guidelines to performing a data risk assessment. A data risk assessment helps researchers gain visibility into all the potential threat vectors that can lead to security or privacy violations, and the awareness of which would help safeguard valuable research. <a href=\"https://www.eventbrite.com/e/data-security-addressing-risks-in-postgraduate-research-tickets-438725538897\">Book here</a> "
+  subtype: workshop
+  speakers: [103]
+  complexity: "Introductory"
+
+-
+  id: 094 #[stream, day, speakerID]
+  title: "Safeguarding Your Research: Cybersecurity Practices for Researchers"
+  description: "This one-hour presentation covers the following items: Understanding/awareness of Cyber Security and Policy Statements; Why safeguard your research?; Who are you at risk from?; What are the risks?; Case Studies & Scenarios; What parts of your research may be vulnerable?; What steps can you take to protect your research?; How can you protect your research during travel?; Additional Resources. <a href=\"https://www.eventbrite.com/e/safeguarding-your-research-cybersecurity-practices-for-researchers-tickets-438726963157\">Book here</a> "
+  subtype: workshop
+  speakers: [103]
+  complexity: "Introductory"
