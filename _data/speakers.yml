@@ -787,7 +787,7 @@
   surname: "Blaom"
   company: "School of Computer Science"
   title: "Senior Research Fellow"
-  bio: ""
+  bio: "Dr. Blaom is a mathematician who has published in differential geometry, dynamical systems, fluid mechanics and machine learning. He also lectured in mathematics for many years. He is a co-creator and lead contributor for MLJ, an open-source machine learning platform launched by the Alan Turing Institute, London, in 2019."
   thumbnailUrl: "blaom_portrait.jpg"   
   rockstar: false
   ribbon:
