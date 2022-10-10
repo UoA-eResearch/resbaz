@@ -252,11 +252,11 @@
 -
   id: 078 #[stream, day, speakerID]
   title: "Introduction to High Performance Computing with NeSI"
-  description: "This is a two hour, hands-on introduction to high performance computing (HPC).  Members of NeSI's apps support team will guide attendees through HPC fundamentals including: How to access the NeSI HPC clusters; Basics of high performance computing; Working with a scheduler; Accessing software via modules; Using resources effectively and responsibly. The goal of this workshop is to get you using the NeSI platform, so come ready to participate! We will be working from the <a href=\"https://nesi.github.io/hpc-intro/\">NeSI fork of Introduction to High-Performance Computing</a>. <p><b>Requirements: NeSI account,</b> details on registration. <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a> "
+  description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Bash for High Performance Computing' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a> "
   subtype: workshop
   speakers: [54]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Intermediate"
 
 -
   id: 079 #[stream, day, speakerID]
@@ -303,10 +303,10 @@
 
 -
   id: 084 #[stream, day, speakerID]
-  title: "Collecting sensitive survey data with Qualtrics"
-  description: "Are you looking to collect sensitive data, such as personal information, in your research? This session will cover different methods you can use to protect this data in Qualtrics, including creating screener surveys, using pre-assigned participant Ids, and anonymising responses. <a href=\"\">Booking link coming soon</a> "
+  title: "Collecting Sensitive Research Data"
+  description: "Are you looking to collect sensitive data, such as personal information, in your research? This session will cover what constitutes sensitive data, and how you can mitigate associated risks with collecting it in Qualtrics, including creating screener surveys, using pre-assigned participant Ids, and anonymising responses. <a href=\"https://www.eventbrite.com/e/collecting-sensitive-survey-data-with-qualtrics-tickets-438788176247\">Book here</a> "
   subtype: workshop
-  speakers: [38]
+  speakers: [38, 14]
   complexity: "Introductory/Intermediate"
 
 -
@@ -408,4 +408,14 @@
   description: "This session revolves around exploring the applications of Deep Learning and computer vision in research. We will look at different research domains and the practical applications of computer vision deep learning models. Some of the areas we will look at during this session will be Optical Character Recognition, Image classification and segmentation for biomedical sciences and Archaeology. We will also briefly explore the applications of Deep Learning models in other research domains such as prediction/forecasting and anomaly detection. <a href=\"https://www.eventbrite.com/e/applications-of-computer-vision-in-research-tickets-438736601987\">Book here</a> "
   subtype: workshop
   speakers: [102]
+  complexity: "Introductory"
+
+-
+  id: 096 #[stream, day, speakerID]
+  title: "Bash for High Performance Computing"
+  description: "A short precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'.
+ <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a> "
+  subtype: workshop
+  speakers: [54]
+  themes: ["datascience"]
   complexity: "Introductory"
