@@ -1,6 +1,7 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
+            <p>Please find session information and booking links below. Some sessions have an attendance cap. Registering for any session means you will recieve a link to all recorded sessions and slides after the event, so please only register for capped sessions you will attend.</p>
         <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
             {% for session in site.data.sessions %}
                 {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 

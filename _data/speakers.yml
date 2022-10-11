@@ -1087,8 +1087,8 @@
   surname: "Shaw"
   company: "NeSI"
   title: "Support Analyst"
-  bio: "Engineering Applications Support at New Zealand eScience Infrastructure (NeSI)."
-  thumbnailUrl: "to_be_announced1.png"   
+  bio: "Applications Support at New Zealand eScience Infrastructure (NeSI)."
+  thumbnailUrl: "anthony_shaw.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}
