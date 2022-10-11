@@ -295,7 +295,7 @@
 -
   id: 083 #[stream, day, speakerID]
   title: "Tidyverse and Beyond: Key Tips for Existing R Users"
-  description: "The tidyverse has changed R programming for data scientists tremendously: cleaning and analysing rectangular data, loops, and parallelization can now be performed through a number of convenient functions. This session offers some recipes and translations for existing R users who want to include more of the tidyverse in their everyday data analysis tasks. <a href=\"\">Booking link coming soon</a> "
+  description: "The tidyverse has changed R programming for data scientists tremendously: cleaning and analysing rectangular data, loops, and parallelization can now be performed through a number of convenient functions. This session offers some recipes and translations for existing R users who want to include more of the tidyverse in their everyday data analysis tasks. <a href=\"https://www.eventbrite.com/e/tidyverse-and-beyond-key-tips-for-existing-r-users-tickets-439396957127\">Book here</a> "
   subtype: workshop
   speakers: [85]
   themes: ["datascience"]
