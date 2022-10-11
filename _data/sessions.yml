@@ -58,7 +58,7 @@
   title: "NVivo for Literature Reviews"
   description: "Reviewing the literature is an important part of the research process. Organising relevant papers and findings are more than just data entry or bibliographic tasks, you also need to be able to analyse and integrate this material with the qualitative data you are gathering. This one-hour demonstration will provide an overview of NVivo’s functionality with regard to literature reviews. Importing and coding literature, running queries on published material, and working with bibliographic data in conjunction with your NVivo project will all be covered. <a href=\"https://www.eventbrite.com/e/nvivo-for-literature-reviews-tickets-430712902887\">Book here</a>." 
   subtype: workshop
-  speakers: [36]
+  speakers: [36, 38]
   complexity: "Beginner"
 
 -
@@ -75,16 +75,16 @@
   title: "Introduction to OpenRefine"
   description: "OpenRefine is a powerful, free, open-source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, practical workshop will demonstrate how it can help you to: Understand the structure of a data set and resolve inconsistencies; Split data up into more granular parts; Match local data up to other data sets; Enhance a data set with data from other sources."
   subtype: workshop
-  speakers: [96]
+  speakers: [96, 31, 38, 106]
   themes: ["datascience"]
   complexity: "All welcome" 
 
 -
   id: 045
-  title: "How can Python help your research"
+  title: "How can Python help your research?"
   description: "New to the Python programming language and interested in how it can help your research?  Then this intro session is for you! No prior knowledge of Python required, no hands-on coding involved, just sit back with your favourite beverage and find out about the powerful world of Python. The session is split into 2 parts. Part 1: A holistic overview of Python. Key concepts in Python, how Python is used around the world, and how Python can help you organise, analyse, and visualise your research data. Part 2: Getting started with Python for research. A live demonstration of how to start using Python to investigate research data, including: how to load in a spreadsheet of data, basic manipulation and processing of the data, how to quickly visualise the data to reveal insights into the dataset, and a bunch of useful links to help you launch your journey into using Python! <a href=\"https://www.eventbrite.com/e/how-can-python-help-your-research-tickets-428175964837\">Book here</a>"
   subtype: workshop
-  speakers: [27]
+  speakers: [27, 104]
   themes: ["datascience"]
   complexity: "All welcome" 
 
@@ -109,7 +109,7 @@
   title: "Creating Professional LaTeX Reports Without Losing Hair"
   description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This practical workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-428174560637\">Book here</a>"
   subtype: workshop
-  speakers: [55]
+  speakers: [55, 31]
   complexity: "Intermediate" 
 
 -
@@ -175,7 +175,7 @@
   title: "Introduction to R and RStudio"
   description: "R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of using R including working with data and creating beautiful plots. There will be hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your R journey with confidence! <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-429459363517\">Book here</a>"
   subtype: workshop
-  speakers: [96, 58]
+  speakers: [96, 58, 106]
   themes: ["datascience"]
   complexity: "Introductory"
 
@@ -193,7 +193,7 @@
   title: "Introduction to the command line"
   description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well. Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time. Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows. This session will use the command-line bash shell  to introduce you to the basics, as far as time permits, of how to: navigate the file-system; read, write, and modify files; parse data from and to files; create custom re-usable commands in the form of aliases, shell functions and shell scripts; automate repetitive tasks. If you are using Windows, please install <a href=\"https://carpentries.github.io/workshop-template/#shell\">Git for Windows</a> first. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-429457517997\">Book here</a>"
   subtype: workshop
-  speakers: [21]
+  speakers: [21, 31]
   complexity: "Introductory"
 
 -
@@ -210,7 +210,7 @@
   title: "Introduction to using Julia for machine learning"
   description: "A hands-on, gentle introduction to using the Julia programming language and the MLJ library for machine learning. The basic workflow for training a supervised learning model will be explained, and users will build a basic decision tree model to predict survival probabilities in a hypothetical repeat of the historic Titanic disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful toolbox for quickly selecting, optimizing and comparing diverse machine learning models (as opposed to to frameworks focused on, say, deep learning). Advanced features include the ability to create model pipelines and to combine multiple model predictions in flexible ways. Participants in this session may also be interested in <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Getting started with the Julia programming language</a> and <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: A computer with <a href=\"https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md\">Julia 1.8 installed</a>. ResBaz course 'Getting started with the Julia programming language' workshop resources <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/JuliaCon-2022-workshop:-Getting-started-with-Julia-and-MLJ\">pre-installed</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. <b>Recommended but not essential</b>: Prior experience with a scripting language, such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Book here</a> "
   subtype: workshop
-  speakers: [75]
+  speakers: [75, 105]
   themes: ["datascience"]
   complexity: "Intermediate"
 
@@ -219,7 +219,7 @@
   title: "Getting started with the Julia programming language"
   description: "A two-hour introductory workshop for newcomers to Julia, targeted at users from some technical domain, such as science, economics or engineering. Users will learn how to interact with Julia's powerful command-line interface (REPL) as well as through Pluto notebooks. They will learn how to carry out basic mathematical and statistical operations; how to create custom workflows by learning about functions and basic iteration; and how to perform basic data manipulation and visualization. This session is a pre-requisite for <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Introduction to using Julia for machine learning</a>. Participants in this session may also be interesed in <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: A computer with <a href=\"https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md\">Julia 1.8 installed</a>. Workshop resources <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/JuliaCon-2022-workshop:-Getting-started-with-Julia-and-MLJ\">pre-installed</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as covered in first year university courses. <b>Recommended but not essential</b>: prior experience with a scripting language such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Book here</a>"
   subtype: workshop
-  speakers: [75]
+  speakers: [75, 105, 12]
   themes: ["datascience"]
   complexity: "Introductory"
 
@@ -228,7 +228,7 @@
   title: "NVivo Showcase"
   description: "There’s a lot more to NVivo than initially meets the eye! In this webinar we’ll be showcasing our favourite features of NVivo including matrix coding queries, explore and comparison diagrams, and mind-maps. This session is perfect for researchers who are new to NVivo, as well as those who are familiar with the basics and curious to know what else is possible. <a href=\"https://www.eventbrite.com/e/nvivo-showcase-tickets-430712371297\">Book here</a> "
   subtype: workshop
-  speakers: [36]
+  speakers: [36, 38]
   complexity: "Introductory"
 
 -
@@ -289,7 +289,7 @@
   title: "Stop paying for free software: Creating a LaTeX pipeline for collaboration "
   description: "Overleaf is a great tool to get a LaTeX project up and running, but has many limitations, including paywalling collaboration features. We'll empower you to create your own local setup for writing LaTeX documents so that you can fine tune your environment to suit your needs. In the first hour, you will learn to create a dockerized LaTeX set up, keep it tidy, and automated. The second hour will give you the confidence to create your own customisations and content will be driven by participant interest. This session is for you if you're a LaTeX user and need to collaborate with others, want to keep an up-to-date electronic notebook, or want the freedom of creating a distraction-free environment to focus on your writing. Participants should have attended an introduction to the command line. Some Python background would be helpful, but not required. A LaTeX project template will be provided. <a href=\"https://www.eventbrite.com/e/stop-paying-for-free-software-creating-a-latex-pipeline-for-collaboration-tickets-428186255617\">Book here</a>"
   subtype: workshop
-  speakers: [55]
+  speakers: [55, 31]
   complexity: "Advanced"
 
 -
@@ -306,7 +306,7 @@
   title: "Collecting Sensitive Research Data"
   description: "Are you looking to collect sensitive data, such as personal information, in your research? This session will cover what constitutes sensitive data, and how you can mitigate associated risks with collecting it in Qualtrics, including creating screener surveys, using pre-assigned participant Ids, and anonymising responses. <a href=\"https://www.eventbrite.com/e/collecting-sensitive-survey-data-with-qualtrics-tickets-438788176247\">Book here</a> "
   subtype: workshop
-  speakers: [38, 14]
+  speakers: [38, 14, 92]
   complexity: "Introductory/Intermediate"
 
 -
@@ -314,18 +314,8 @@
   title: "Introduction to Qualtrics for Research Surveys"
   description: "This session will introduce you to Qualtrics, a powerful survey tool useful for collecting a range of research data. <a href=\"https://www.eventbrite.com/e/introduction-to-qualtrics-for-research-surveys-tickets-430718850677\">Book here</a> "
   subtype: workshop
-  speakers: [84]
+  speakers: [84, 38]
   complexity: "Introductory"
-
-# -
-#   id: 1334 #[stream, day, speakerID]
-#   title: "Find, replace and manipulate big datasets"
-#   description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. <p> This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…).
-#      <p><b>This session is now full, please add yourself to the waiting list <a href=\"https://www.eventbrite.com/e/find-replace-and-manipulate-big-datasets-tickets-202726760197\"> here</a> and we will send you a post-session recording.</b>"
-#   subtype: workshop
-#   speakers: [34, 21, 65]
-#   themes: ["datascience"]
-#   complexity: "Introductory"
 
 -
   id: 086 #[stream, day, speakerID]
@@ -419,3 +409,12 @@
   speakers: [54]
   themes: ["datascience"]
   complexity: "Introductory"
+
+-
+  id: 097 #[stream, day, speakerID]
+  title: "Using the command line to find, replace, and manipulate data"
+  description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…). Booking link coming soon"
+  subtype: workshop
+  speakers: [21, 104]
+  themes: ["datascience"]
+  complexity: "Intermediate"
