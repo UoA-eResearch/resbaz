@@ -1,7 +1,7 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-            <p style="padding: 50px">Registration for any session means you will receive a link to all available session recordings. Please only register for limited capacity sessions you expect to attend.</p>
+            <p style="padding: 50px">Registering for any session means you will receive a link to all available session recordings. Please only register for limited capacity sessions you expect to attend.</p>
         <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
             {% for session in site.data.sessions %}
                 {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 
