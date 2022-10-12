@@ -1123,8 +1123,8 @@
   surname: "Gambarini"
   company: "Centre for eResearch"
   title: "eResearch Solutions Specialist"
-  bio: ""
-  thumbnailUrl: ""
+  bio: "Victor recently joined the Centre for eResearch as an Engagement Specialist. He is completing his PhD in Biological Sciences at the University of Auckland. Victor has experience with Microbiology, Molecular Biology, and Bioinformatics, focusing on Metagenomics and Metatranscriptomics. At the Centre of eResearch, Victor will develop solutions to automate research projects' management and consult with researchers on the management of research data and computational resources."
+  thumbnailUrl: "victor_gambarini.jpeg"
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
