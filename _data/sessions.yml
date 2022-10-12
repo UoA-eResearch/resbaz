@@ -69,7 +69,9 @@
   description: "An overview of research data management requirements, practices, tools and support across the research data lifecycle. Research data or artefatcs are defined as items created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will hear about policy, legal and ethical requirements, the FAIR, CARE and Maori Data Sovereignty principles, and develop strategies for data management planning, capturing, organising, sharing, and reusing research data. <a href=\"https://www.eventbrite.com/e/managing-research-data-an-overview-tickets-427694665257\">Book here</a>"
   subtype: workshop
   speakers: [14, 58, 31]
-  complexity: "Beginner, all welcome" 
+  complexity: "Beginner, all welcome"
+  length: "2 hours"
+  capacity: "Unlimited"
 
 -
   id: 032
@@ -78,6 +80,8 @@
   subtype: workshop
   speakers: [36, 38]
   complexity: "Beginner"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 036
@@ -87,15 +91,19 @@
   speakers: [12]
   themes: ["datascience"]
   complexity: "Introductory" 
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 044
   title: "Introduction to Cleaning & Transforming Data with OpenRefine"
-  description: "OpenRefine is a powerful, free, open-source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, practical workshop will demonstrate how it can help you to: Understand the structure of a data set and resolve inconsistencies; Split data up into more granular parts; Match local data up to other data sets; Enhance a data set with data from other sources. <a href=\"https://www.eventbrite.com/e/introduction-to-cleaning-and-transforming-data-with-openrefine-tickets-429453666477\">Book here</a> <b>(Capacity: 40 attendees)</b>"
+  description: "OpenRefine is a powerful, free, open-source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, practical workshop will demonstrate how it can help you to: Understand the structure of a data set and resolve inconsistencies; Split data up into more granular parts; Match local data up to other data sets; Enhance a data set with data from other sources. <a href=\"https://www.eventbrite.com/e/introduction-to-cleaning-and-transforming-data-with-openrefine-tickets-429453666477\">Book here</a>"
   subtype: workshop
   speakers: [96, 38, 106]
   themes: ["datascience"]
-  complexity: "All welcome" 
+  complexity: "All welcome"
+  length: "2 hours"
+  capacity: "40 attendees"
 
 -
   id: 045
@@ -105,14 +113,18 @@
   speakers: [27, 104]
   themes: ["datascience"]
   complexity: "All welcome" 
+  length: "2 hours"
+  capacity: "Unlimited"
 
 -
   id: 047
   title: "Build a Research Portfolio website (using GitHub) "
-  description: "Learn how to create an attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://www.eventbrite.com/e/build-a-research-portfolio-website-using-github-tickets-430717105457\">Book here</a> <b>(Capacity: 50 attendees)</b>"
+  description: "Learn how to create an attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://www.eventbrite.com/e/build-a-research-portfolio-website-using-github-tickets-430717105457\">Book here</a>"
   subtype: workshop
   speakers: [38, 92]
   complexity: "All welcome" 
+  length: "2 hours"
+  capacity: "50 attendees"
 
 -
   id: 061
@@ -121,14 +133,18 @@
   subtype: workshop
   speakers: [94]
   complexity: "All welcome" 
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 062
   title: "Creating Professional LaTeX Reports Without Losing Hair"
-  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This practical workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-428174560637\">Book here</a> <b>(Capacity: 40 attendees)</b>"
+  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This practical workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-428174560637\">Book here</a>"
   subtype: workshop
   speakers: [55, 31]
   complexity: "Intermediate" 
+  length: "2 hours"
+  capacity: "50 attendees"
 
 -
   id: 063 #[stream, day, speakerID]
@@ -137,6 +153,8 @@
   subtype: workshop
   speakers: [59, 100]
   complexity: "All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 064 #[stream, day, speakerID]
@@ -145,6 +163,8 @@
   subtype: workshop
   speakers: [97, 99]
   complexity: "All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 065 #[stream, day, speakerID]
@@ -153,6 +173,8 @@
   subtype: workshop
   speakers: [61, 98]
   complexity: "All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 066 #[stream, day, speakerID]
@@ -161,15 +183,19 @@
   subtype: workshop
   speakers: [58, 57]
   complexity: "Introductory"
+  length: "2 hours"
+  capacity: "Unlimited"
 
 -
   id: 067 #[stream, day, speakerID]
   title: "An introduction to processing remote sensing data with Google Earth Engine"
-  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Book here</a> <b>(Capacity: 40 attendees)</b>"
+  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Book here</a>"
   subtype: workshop
   speakers: [60, 12]
   themes: ["datascience"]
   complexity: "Introductory"
+  length: "3 hours"
+  capacity: "40 attendees"
 
 -
   id: 068 #[stream, day, speakerID]
@@ -178,11 +204,13 @@
   subtype: workshop
   speakers: [61, 93]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 070 #[stream, day, speakerID]
   title: "Introduction to R and RStudio"
-  description: "R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of using R including working with data and creating beautiful plots. There will be hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your R journey with confidence! <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-429459363517\">Book here</a> <b>(Capacity: 50 attendees)</b>"
+  description: "R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of using R including working with data and creating beautiful plots. There will be hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your R journey with confidence! <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-429459363517\">Book here</a>"
   subtype: workshop
   speakers: [96, 58, 106]
   themes: ["datascience"]
@@ -193,10 +221,12 @@
 -
   id: 071 #[stream, day, speakerID]
   title: "Introduction to the command line"
-  description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well. Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time. Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows. This session will use the command-line bash shell  to introduce you to the basics, as far as time permits, of how to: navigate the file-system; read, write, and modify files; parse data from and to files; create custom re-usable commands in the form of aliases, shell functions and shell scripts; automate repetitive tasks. If you are using Windows, please install <a href=\"https://carpentries.github.io/workshop-template/#shell\">Git for Windows</a> first. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-429457517997\">Book here</a> <b>(Capacity: 50 attendees)</b>"
+  description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well. Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time. Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows. This session will use the command-line bash shell  to introduce you to the basics, as far as time permits, of how to: navigate the file-system; read, write, and modify files; parse data from and to files; create custom re-usable commands in the form of aliases, shell functions and shell scripts; automate repetitive tasks. If you are using Windows, please install <a href=\"https://carpentries.github.io/workshop-template/#shell\">Git for Windows</a> first. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-429457517997\">Book here</a>"
   subtype: workshop
   speakers: [21, 31]
   complexity: "Introductory"
+  length: "2 hours"
+  capacity: "50 attendees"
 
 -
   id: 072 #[stream, day, speakerID]
@@ -206,24 +236,30 @@
   speakers: [75]
   themes: ["datascience"]
   complexity: "Introductory"
-# <a href=\"url\">text</a>
+  length: "1 hour"
+  capacity: "Unlimited"
+
 -
   id: 073 #[stream, day, speakerID]
   title: "Introduction to using Julia for machine learning"
-  description: "A hands-on, gentle introduction to using the Julia programming language and the MLJ library for machine learning. The basic workflow for training a supervised learning model will be explained, and users will build a basic decision tree model to predict survival probabilities in a hypothetical repeat of the historic Titanic disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful toolbox for quickly selecting, optimizing and comparing diverse machine learning models (as opposed to to frameworks focused on, say, deep learning). Advanced features include the ability to create model pipelines and to combine multiple model predictions in flexible ways. Participants in this session may also be interested in <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Getting started with the Julia programming language</a> and <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: A computer with <a href=\"https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md\">Julia 1.8 installed</a>. ResBaz course 'Getting started with the Julia programming language' workshop resources <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/JuliaCon-2022-workshop:-Getting-started-with-Julia-and-MLJ\">pre-installed</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. <b>Recommended but not essential</b>: Prior experience with a scripting language, such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Book here</a> <b>(Capacity: 40 attendees)</b>"
+  description: "A hands-on, gentle introduction to using the Julia programming language and the MLJ library for machine learning. The basic workflow for training a supervised learning model will be explained, and users will build a basic decision tree model to predict survival probabilities in a hypothetical repeat of the historic Titanic disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful toolbox for quickly selecting, optimizing and comparing diverse machine learning models (as opposed to to frameworks focused on, say, deep learning). Advanced features include the ability to create model pipelines and to combine multiple model predictions in flexible ways. Participants in this session may also be interested in <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Getting started with the Julia programming language</a> and <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: A computer with <a href=\"https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md\">Julia 1.8 installed</a>. ResBaz course 'Getting started with the Julia programming language' workshop resources <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/JuliaCon-2022-workshop:-Getting-started-with-Julia-and-MLJ\">pre-installed</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. <b>Recommended but not essential</b>: Prior experience with a scripting language, such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Book here</a>"
   subtype: workshop
   speakers: [75, 105]
   themes: ["datascience"]
   complexity: "Intermediate"
+  length: "2 hours"
+  capacity: "40 attendees"
 
 -
   id: 074 #[stream, day, speakerID]
   title: "Getting started with the Julia programming language"
-  description: "A two-hour introductory workshop for newcomers to Julia, targeted at users from some technical domain, such as science, economics or engineering. Users will learn how to interact with Julia's powerful command-line interface (REPL) as well as through Pluto notebooks. They will learn how to carry out basic mathematical and statistical operations; how to create custom workflows by learning about functions and basic iteration; and how to perform basic data manipulation and visualization. This session is a pre-requisite for <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Introduction to using Julia for machine learning</a>. Participants in this session may also be interesed in <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: A computer with <a href=\"https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md\">Julia 1.8 installed</a>. Workshop resources <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/JuliaCon-2022-workshop:-Getting-started-with-Julia-and-MLJ\">pre-installed</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as covered in first year university courses. <b>Recommended but not essential</b>: prior experience with a scripting language such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Book here</a> <b>(Capacity: 40 attendees)</b>"
+  description: "A two-hour introductory workshop for newcomers to Julia, targeted at users from some technical domain, such as science, economics or engineering. Users will learn how to interact with Julia's powerful command-line interface (REPL) as well as through Pluto notebooks. They will learn how to carry out basic mathematical and statistical operations; how to create custom workflows by learning about functions and basic iteration; and how to perform basic data manipulation and visualization. This session is a pre-requisite for <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Introduction to using Julia for machine learning</a>. Participants in this session may also be interesed in <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: A computer with <a href=\"https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md\">Julia 1.8 installed</a>. Workshop resources <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/JuliaCon-2022-workshop:-Getting-started-with-Julia-and-MLJ\">pre-installed</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as covered in first year university courses. <b>Recommended but not essential</b>: prior experience with a scripting language such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Book here</a>"
   subtype: workshop
   speakers: [75, 105, 12]
   themes: ["datascience"]
   complexity: "Introductory"
+  length: "2 hours"
+  capacity: "40 attendees"
 
 -
   id: 075 #[stream, day, speakerID]
@@ -232,6 +268,8 @@
   subtype: workshop
   speakers: [36, 38]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 076 #[stream, day, speakerID]
@@ -241,6 +279,8 @@
   speakers: [74, 38]
   themes: ["datascience"]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 077 #[stream, day, speakerID]
@@ -250,15 +290,19 @@
   speakers: [53, 38]
   themes: ["datascience"]
   complexity: "Introductory/Intermediate"
+  length: "2 hours"
+  capacity: "100 attendees"
 
 -
   id: 078 #[stream, day, speakerID]
   title: "Introduction to High Performance Computing with NeSI"
-  description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Bash for High Performance Computing' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a> <b>(Capacity: 40 attendees)</b>"
+  description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Bash for High Performance Computing' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a>"
   subtype: workshop
   speakers: [54]
   themes: ["datascience"]
   complexity: "Intermediate"
+  length: "3 hours"
+  capacity: "40 attendees"
 
 -
   id: 079 #[stream, day, speakerID]
@@ -268,6 +312,8 @@
   speakers: [31]
   themes: ["datascience"]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 080 #[stream, day, speakerID]
@@ -276,6 +322,8 @@
   subtype: workshop
   speakers: [17]
   complexity: "All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 081 #[stream, day, speakerID]
@@ -285,14 +333,18 @@
   speakers: [78]
   themes: ["datascience"]
   complexity: "All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 082 #[stream, day, speakerID]
   title: "Stop paying for free software: Creating a LaTeX pipeline for collaboration "
-  description: "Overleaf is a great tool to get a LaTeX project up and running, but has many limitations, including paywalling collaboration features. We'll empower you to create your own local setup for writing LaTeX documents so that you can fine tune your environment to suit your needs. In the first hour, you will learn to create a dockerized LaTeX set up, keep it tidy, and automated. The second hour will give you the confidence to create your own customisations and content will be driven by participant interest. This session is for you if you're a LaTeX user and need to collaborate with others, want to keep an up-to-date electronic notebook, or want the freedom of creating a distraction-free environment to focus on your writing. Participants should have attended an introduction to the command line. Some Python background would be helpful, but not required. A LaTeX project template will be provided. <a href=\"https://www.eventbrite.com/e/stop-paying-for-free-software-creating-a-latex-pipeline-for-collaboration-tickets-428186255617\">Book here</a> <b>(Capacity: 50 attendees)</b>"
+  description: "Overleaf is a great tool to get a LaTeX project up and running, but has many limitations, including paywalling collaboration features. We'll empower you to create your own local setup for writing LaTeX documents so that you can fine tune your environment to suit your needs. In the first hour, you will learn to create a dockerized LaTeX set up, keep it tidy, and automated. The second hour will give you the confidence to create your own customisations and content will be driven by participant interest. This session is for you if you're a LaTeX user and need to collaborate with others, want to keep an up-to-date electronic notebook, or want the freedom of creating a distraction-free environment to focus on your writing. Participants should have attended an introduction to the command line. Some Python background would be helpful, but not required. A LaTeX project template will be provided. <a href=\"https://www.eventbrite.com/e/stop-paying-for-free-software-creating-a-latex-pipeline-for-collaboration-tickets-428186255617\">Book here</a>"
   subtype: workshop
   speakers: [55, 31]
   complexity: "Advanced"
+  length: "2 hours"
+  capacity: "50 attendees"
 
 -
   id: 083 #[stream, day, speakerID]
@@ -302,6 +354,8 @@
   speakers: [85]
   themes: ["datascience"]
   complexity: "Intermediate"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 084 #[stream, day, speakerID]
@@ -310,6 +364,8 @@
   subtype: workshop
   speakers: [38, 14, 92]
   complexity: "Introductory/Intermediate"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 085 #[stream, day, speakerID]
@@ -318,6 +374,8 @@
   subtype: workshop
   speakers: [84, 38]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 086 #[stream, day, speakerID]
@@ -327,6 +385,8 @@
   speakers: [77]
   themes: ["datascience"]
   complexity: "Intermediate"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 087 #[stream, day, speakerID]
@@ -336,6 +396,8 @@
   speakers: [77]
   themes: ["datascience"]
   complexity: "Intermediate"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 088 #[stream, day, speakerID]
@@ -344,6 +406,8 @@
   subtype: workshop
   speakers: []
   complexity: "All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 089 #[stream, day, speakerID]
@@ -352,6 +416,8 @@
   subtype: workshop
   speakers: [38]
   complexity: "All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 090
@@ -360,14 +426,18 @@
   subtype: workshop
   speakers: [12]
   complexity: "All welcome" 
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 091 #[stream, day, speakerID]
   title: "Visual abstracts create an attention hook to your published article"
-  description: "Visual abstracts are a 'movie poster' of a journal article displayed on social media that hooks a viewer's attention to read your article. Like a 3-minute thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood in a 30-second glance. Designed with icons and keywords, they are simpler than a graphical abstract and quicker to make. Visual abstracts are a powerful thinking tool for yourself and a valuable communication tool to engage others. The first half of the session is an interactive exploration of visual abstracts to inspire your imagination. The second half is a guided workshop where together we build your creative confidence by making a visual abstract. <a href=\"https://www.eventbrite.com/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-428828015137\">Book here</a> <b>(Capacity: 60 attendees)</b>"
+  description: "Visual abstracts are a 'movie poster' of a journal article displayed on social media that hooks a viewer's attention to read your article. Like a 3-minute thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood in a 30-second glance. Designed with icons and keywords, they are simpler than a graphical abstract and quicker to make. Visual abstracts are a powerful thinking tool for yourself and a valuable communication tool to engage others. The first half of the session is an interactive exploration of visual abstracts to inspire your imagination. The second half is a guided workshop where together we build your creative confidence by making a visual abstract. <a href=\"https://www.eventbrite.com/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-428828015137\">Book here</a>"
   subtype: workshop
   speakers: [95]
   complexity: "All welcome"
+  length: "2 hours"
+  capacity: "60 attendees"
 
 -
   id: 092 #[stream, day, speakerID]
@@ -377,6 +447,8 @@
   speakers: [101]
   themes: ["datascience"]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 093 #[stream, day, speakerID]
@@ -385,6 +457,8 @@
   subtype: workshop
   speakers: [103]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 094 #[stream, day, speakerID]
@@ -393,6 +467,8 @@
   subtype: workshop
   speakers: [103]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 095 #[stream, day, speakerID]
@@ -401,15 +477,19 @@
   subtype: workshop
   speakers: [102]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
 
 -
   id: 096 #[stream, day, speakerID]
   title: "Bash for High Performance Computing"
-  description: "A short precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'. <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a>"
+  description: "A precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'. <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a>"
   subtype: workshop
   speakers: [54]
   themes: ["datascience"]
   complexity: "Introductory"
+  length: "2 hours"
+  capacity: "Unlimited"
 
 -
   id: 097 #[stream, day, speakerID]
@@ -419,6 +499,8 @@
   speakers: [21, 104]
   themes: ["datascience"]
   complexity: "Intermediate"
+  length: "2 hours"
+  capacity: "50"
 
 -
   id: 098 #[stream, day, speakerID]
@@ -428,3 +510,5 @@
   speakers: [104]
   themes: ["datascience"]
   complexity: "Introductory"
+  length: "1 hour"
+  capacity: "Unlimited"
