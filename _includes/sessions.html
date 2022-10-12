@@ -7,6 +7,15 @@
                 {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 
                     <div class="grid-item">
                         <h5>{{ session.title  }}</h5>
+                        {% if session.complexity != null %}
+						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span>
+						{% endif %}
+						{% if session.length != null %}
+						<span class="theme-metadata"><span class="caption">Length: </span>{{ session.length }}</span>
+						{% endif %}
+						{% if session.capacity != null %}
+						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span>
+						{% endif %}
                         <hr />
                         <span class="text-body">{{ session.description }}</span>
                         <div class="slot-theme">
