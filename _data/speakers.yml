@@ -113,7 +113,7 @@
   id: 12
   name: "Noel"
   surname: "Zeng"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "eResearch Solution Specialist"
   bio: "Noel is a member of the Centre for eResearch's solutions team."
   thumbnailUrl: "noel_zeng.jpg"
@@ -139,7 +139,7 @@
   id: 14
   name: "Laura"
   surname: "Armstrong"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "Senior eResearch Engagement Specialist"
   bio: "Laura is a senior member of the Centre for eResearch's engagement team."
   thumbnailUrl: "laura_armstrong.jpg"
@@ -162,7 +162,7 @@
   id: 17
   name: "Martin"
   surname: "Feller"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "eResearch Platform & Services Lead"
   bio: "Martin leads the Platform & Services team in the Centre for eResearch."
   thumbnailUrl: "martin_feller.png"
@@ -210,7 +210,7 @@
   id: 21
   name: "Anita"
   surname: "Kean"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "eResearch Solutions Analyst"
   bio: "Anita is a Centre for eResearch Platform & Services Team Engineer."
   thumbnailUrl: "anita-kean.jpg"
@@ -221,7 +221,7 @@
   id: 22
   name: "Mike"
   surname: "Laverick"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "Senior eResearch Solutions Specialist"
   bio: "Mike is a Senior eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
   thumbnailUrl: "mike.png"
@@ -272,7 +272,7 @@
   id: 27
   name: "Chris"
   surname: "Seal"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "Senior eResearch Solutions Specialist"
   bio: "Chris is a senior member of the Centre for eResearch's solutions team."
   thumbnailUrl: "chris_seal.jpeg"
@@ -312,7 +312,7 @@
   id: 31
   name: "Jens"
   surname: "Brinkmann"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "Senior eResearch Engagement Specialist"
   bio: "Jens is passionate about learning how things work and teaching. After working as a consultant in engineering roles in several countries, he came to the University of Auckland for a PhD. After completing his PhD, he went to teach for a year at Unitec. He recently joined the Centre for eResearch, where he aims to provide the same high level of support to researchers and staff members to what he received from CER during his own PhD."
   thumbnailUrl: "jens_brinkmann.png"
@@ -369,9 +369,9 @@
   id: 38
   name: "Matt"
   surname: "Plummer"
-  company: "Research Office"
+  company: "Victoria University of Wellington"
   title: "Senior Research Partner"
-  bio: "Matt’s background spans the arts and technology. He works with researchers from different disciplines to facilitate collaborative projects, especially those which utilise technology in innovative and transformative ways. He’s assisted with the development of a range of open source projects, augmented reality applications and research tools."
+  bio: "Matt's background spans the arts and technology. He works with researchers from different disciplines to facilitate collaborative projects, especially those which utilise technology in innovative and transformative ways. He's assisted with the development of a range of open source projects, augmented reality applications and research tools."
   thumbnailUrl: "Matt.Plummer.jpg"
   rockstar: false 
   ribbon:
@@ -521,7 +521,7 @@
   id: 53
   name: "Andre"
   surname: "Geldenhuis"
-  company: "Centre for Academic Development"
+  company: "Victoria University of Wellington"
   title: "Research Software engineer"
   bio: "A research software engineer based in Victoria University of Wellington's Centre for Academic, Andre works with academics and post-graduate students to deliver high-technology research and teaching outcomes and solutions."
   thumbnailUrl: "andre.geldenhuis.jpg"
@@ -533,7 +533,7 @@
   id: 54
   name: "Callum"
   surname: "Walley"
-  company: "NeSI"
+  company: "National eScience Infrastructure"
   title: "Application Support Analyst"
   bio: "Engineering Applications Support at New Zealand eScience Infrastructure (NeSI), Software Carpentry Instructor."
   thumbnailUrl: "callum_walley.jpeg"   
@@ -545,7 +545,7 @@
   id: 55
   name: "Eirian"
   surname: "Perkins"
-  company: "NeSI"
+  company: "National eScience Infrastructure"
   title: "Analyst Programmer"
   bio: "Also a Doctoral Candidate - Doctor of Philosophy in Biological Sciences, Faculty of Science University of Auckland, and Software Carpentry Instructor."
   thumbnailUrl: "eirian_perkins.jpeg"   
@@ -569,7 +569,7 @@
   id: 57
   name: "Lukas"
   surname: "Trombach"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "eResearch Engagement Specialist"
   bio: "Lukas is a eResearch Engagement Specialist at the Centre for eResearch. After completing his PhD in Theoretical Chemistry he worked as a Software Developer and is now spending most of his time developing the ResearchHub."
   thumbnailUrl: "Lukas_trombach.jpeg"   
@@ -581,7 +581,7 @@
   id: 58
   name: "Tom"
   surname: "Saunders"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "eResearch Engagement Specialist"
   bio: "Tom joined the Centre for eResearch after completing his PhD in Entomology at the University of Auckland. He organises digital research skills events and consults on the management of research data."
   thumbnailUrl: "tom_saunders.jpg"   
@@ -593,7 +593,7 @@
   id: 59
   name: "Fiona"
   surname: "Lamont"
-  company: "Libraries and Learning Services"
+  company: "University of Auckland"
   title: "Research Services Team Leader"
   bio: "Fiona is a Research Services Team Lead within Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff, particularly those within the creative arts."
   thumbnailUrl: "fiona_lamont.png"   
@@ -605,7 +605,7 @@
   id: 60
   name: "Ben"
   surname: "Collings"
-  company: "School of Environment"
+  company: "University of Auckland"
   title: "Doctoral Candidate"
   bio: "Ben is undertaking doctoral research that considers the application of satellite data to assess coastline change in New Zealand."
   thumbnailUrl: "ben_collings.jpg"   
@@ -617,7 +617,7 @@
   id: 61
   name: "Alissa"
   surname: "Hackett"
-  company: "Libraries and Learning Services"
+  company: "University of Auckland"
   title: "Research Services Adviser"
   bio: "Alissa completed her Chemical Sciences PhD at the University of Auckland before joining the Research Services team within Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Science."
   thumbnailUrl: "alissa_hackett.png"   
@@ -677,8 +677,8 @@
   id: 66
   name: "Quinn"
   surname: "Asena"
-  company: ""
-  title: ""
+  company: "University of Wisconsin-Madison"
+  title: "Postdoctoral Researcher"
   bio: "Quinn has recently submitted his doctoral thesis in macro-ecology. Before heading the United States to take up a research postdoc, Quinn has joined the Engagement team within the Centre for eResearch."
   thumbnailUrl: "quinn_asena.jpg"   
   rockstar: false
@@ -689,7 +689,7 @@
   id: 67
   name: "Dinindu"
   surname: "Senanayake"
-  company: "NeSI"
+  company: "National eScience Infrastructure"
   title: "HPC applications support specialist"
   bio: "Dinindu Senanayakeis a NeSI Applications Support Specialist, specifically in Genomics/Bioinformatics. He has approximately seven years of research experience in Cancer Genetics, Chemical Genetics and Systems Biology. Originally from Sri Lanka, he moved to New Zealand in 2006, arriving for studies and staying for nature."
   thumbnailUrl: "dinindu_senanayake.jpeg"   
@@ -738,8 +738,8 @@
   name: "Abi"
   surname: "Beatson"
   company: "National Library of New Zealand"
-  title: "Dr"
-  bio: "As the COVID-19 Digital Archivist at the Alexander Turnbull Library, Abi is piecing together Aotearoa New Zealand’s collective experiences of COVID-19, item by item, story by story. She is drawing on her own researcher experince and engaging with the research community to make these collections more available to researchers."
+  title: "Digital Archivist"
+  bio: "As the COVID-19 Digital Archivist at the Alexander Turnbull Library, Abi is piecing together Aotearoa New Zealand's collective experiences of COVID-19, item by item, story by story. She is drawing on her own researcher experince and engaging with the research community to make these collections more available to researchers."
   thumbnailUrl: "abi_beatson.jpeg"   
   rockstar: false
   ribbon:
@@ -773,9 +773,9 @@
   id: 74
   name: "Tim"
   surname: "McNamara"
-  company: "TCDI"
+  company: "Technology Concepts & Design, Inc."
   title: "Senior Software Architect"
-  bio: "New Zealand’s first certified Software Carpentry instructor, Tim is a skilled and experienced data scientist who also has a background in the humanities. He is the author of Rust in Action, and makes use of this programming language to build everything from data processing pipelines to generative art."
+  bio: "New Zealand's first certified Software Carpentry instructor, Tim is a skilled and experienced data scientist who also has a background in the humanities. He is the author of Rust in Action, and makes use of this programming language to build everything from data processing pipelines to generative art."
   thumbnailUrl: "tim_mcnamara.jpeg"   
   rockstar: false
   ribbon:
@@ -785,7 +785,7 @@
   id: 75
   name: "Anthony"
   surname: "Blaom"
-  company: "School of Computer Science"
+  company: "University of Auckland"
   title: "Senior Research Fellow"
   bio: "Dr. Blaom is a mathematician who has published in differential geometry, dynamical systems, fluid mechanics and machine learning. He also lectured in mathematics for many years. He is a co-creator and lead contributor for MLJ, an open-source machine learning platform launched by the Alan Turing Institute, London, in 2019."
   thumbnailUrl: "blaom_portrait.jpg"   
@@ -809,7 +809,7 @@
   id: 77
   name: "Gene"
   surname: "Soudlenkov"
-  company: "NeSI"
+  company: "National eScience Infrastructure"
   title: "Research Support Team Lead"
   bio: "Gene is a member of the University of Auckland office of NeSI as a Research Support Team Lead."
   thumbnailUrl: "gene_soudlenkov.jpg"   
@@ -821,7 +821,7 @@
   id: 78
   name: "Rob"
   surname: "Carter"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "Senior eResearch Solutions Specialist"
   bio: "Rob works at the intersection of data and visual design, imagining novel visual approaches in research and technology."
   thumbnailUrl: "rob_carter.jpg"
@@ -894,7 +894,7 @@
   name: "Jonny"
   surname: "Flutey"
   company: "Victoria University of Wellington"
-  title: "Deputy Director"
+  title: "Deputy Director, CAD"
   bio: "Jonathan Flutey is the Deputy Director of Victoria University of Wellington's Centre for Academic Development. He has led  digital development across the university including supporting e-initiatives into new areas of teaching and research."
   thumbnailUrl: "jonathan-flutey.jpg"
   rockstar: true 
@@ -977,7 +977,7 @@
   id: 92
   name: "Billie"
   surname: "Berry"
-  company: "Centre for Academic Development"
+  company: "Victoria University of Wellington"
   title: "Learning Designer"
   bio: "Billie has recently graduated with an MA looking at the philosophy of statistics. In her work at VUW's Centre for Academic Development, she helps academics use digital resources, tools and methods to support student engagement."
   thumbnailUrl: "billie-berry.jpg"
@@ -989,7 +989,7 @@
   id: 93
   name: "Evie"
   surname: "Southwell"
-  company: "Libraries and Learning Services"
+  company: "University of Auckland"
   title: "Research Services Adviser"
   bio: ""
   thumbnailUrl: "to_be_announced3.png"   
@@ -1001,10 +1001,10 @@
   id: 94
   name: "Reuben"
   surname: "Ayeleke"
-  company: "Liggins Institute"
+  company: "University of Auckland"
   title: "Clinical Research Data Manager"
   bio: "I'm currently the Clinical Research Data Manager for the Liggins Institute. I trained and practiced as a medical practitioner in Nigeria. Besides my medical degree, I hold a master's degree (MSc) in Public Health and Health Services Research from the University of Aberdeen (UK) and a doctoral degree (PhD) in Health Sciences from the University of Auckland."
-  thumbnailUrl: "to_be_announced1.png"   
+  thumbnailUrl: "to_be_announced4.png"   
   rockstar: false
   ribbon:
     - {abbr: "Liggins", title: "Liggins Institute", url: "https://www.auckland.ac.nz/en/liggins.html"}
@@ -1013,7 +1013,7 @@
   id: 95
   name: "Amanda"
   surname: "Charlton"
-  company: "Faculty of Medical and Health Sciences"
+  company: "University of Auckland"
   title: "Hon Clinical Senior Lecturer"
   bio: "Amanda is an enthusiastic biomedical educator at the University of Auckland and an Anatomical Pathologist at Auckland Hospital. Amanda is known for her simple, visual approaches to science communication across disciplines."
   thumbnailUrl: "amanda_charlton.jpg"   
@@ -1037,7 +1037,7 @@
   id: 97
   name: "Donna"
   surname: "MacColl"
-  company: "Libraries and Learning Services"
+  company: "University of Auckland"
   title: "Research Services Team Lead"
   bio: "Donna has a PhD in Genetics and is a senior member of the Research Service team in Te Tumu Herenga | Libraries and Learning Services, University of Auckland."
   thumbnailUrl: "donna_maccoll.jpg"   
@@ -1049,7 +1049,7 @@
   id: 98
   name: "Berit"
   surname: "Anderson"
-  company: "Libraries and Learning Services"
+  company: "University of Auckland"
   title: "Research Services Adviser"
   bio: "Berit is a Research Services Advisor within Te Tumu Herenga | Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Science. She designs & leads workshops and offers consultations on search strategies, databases, and systematic reviews."
   thumbnailUrl: "berit_anderson.png"   
@@ -1061,7 +1061,7 @@
   id: 99
   name: "Erin"
   surname: "Wood"
-  company: "Libraries and Learning Services"
+  company: "University of Auckland"
   title: "Research Services Adviser"
   bio: "Erin is a Research Services Advisor within Te Tumu Herenga | Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff, particularly those within the Business School."
   thumbnailUrl: "erin_wood.jpeg"   
@@ -1073,7 +1073,7 @@
   id: 100
   name: "Rayna"
   surname: "Dewar"
-  company: "Libraries and Learning Services"
+  company: "University of Auckland"
   title: "Research Services Adviser"
   bio: "Rayna is a Research Services Advisor within Te Tumu Herenga | Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff, particularly those within the Faculty of Medical and Health Sciences."
   thumbnailUrl: "rayna_dewar.jpg"   
@@ -1085,7 +1085,7 @@
   id: 101
   name: "Anthony"
   surname: "Shaw"
-  company: "NeSI"
+  company: "National eScience Infrastructure"
   title: "Support Analyst"
   bio: "Applications Support at New Zealand eScience Infrastructure (NeSI)."
   thumbnailUrl: "anthony_shaw.jpg"   
@@ -1097,7 +1097,7 @@
   id: 102
   name: "Nidhi"
   surname: "Gowdra"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "eResearch Solutions Specialist"
   bio: "Dr. Nidhi Gowdra has a Bachelor's Degree in Information Sciences, a Master's degree in Computer  and Information Sciences and a Ph.D. majoring in Computer Vision. He has published Articles in Top Journals like Pattern Recognition and Conferences such as IECON. He was the Chair of Machine, Signal and Image Processing Session at the IEEE Industrial Electronics Society Conference (IECON-2020) and has been an academic supervisor for both undergrads and postgrads. His research interests are predominantly in Deep learning and specifically computer vision domain. He now works at the Centre for eResearch at the University of Auckland as an eresearch solutions specialist."
   thumbnailUrl: "nidhi_gowdra.jpg"
@@ -1109,7 +1109,7 @@
   id: 103
   name: "David"
   surname: "Nandigam"
-  company: "Operation Security"
+  company: "University of Auckland"
   title: "Cybersecurity Awareness and Training Specialist"
   bio: "David carries an interesting combination of experience of teaching information security management for several years and working in learning and development of staff and post graduate students. This combination has got David to become Cybersecurity Awareness and Training Specialist supporting the Digital Services at the University of Auckland. David's research includes proposing the detection of malware as a pattern recognition problem and applying classification techniques to differentiate malware and non-malware variants using artificial intelligence techniques."
   thumbnailUrl: "david_nandigam.jpg"
@@ -1121,7 +1121,7 @@
   id: 104
   name: "Victor"
   surname: "Gambarini"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "eResearch Solutions Specialist"
   bio: "Victor recently joined the Centre for eResearch as an Engagement Specialist. He is completing his PhD in Biological Sciences at the University of Auckland. Victor has experience with Microbiology, Molecular Biology, and Bioinformatics, focusing on Metagenomics and Metatranscriptomics. At the Centre of eResearch, Victor will develop solutions to automate research projects' management and consult with researchers on the management of research data and computational resources."
   thumbnailUrl: "victor_gambarini.jpeg"
