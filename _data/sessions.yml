@@ -26,7 +26,7 @@
 #   description: "Chris will provide insights from his personal experiences of having had to use a range of different digital tools in research. He'll compare the time spent leaning vs that saved with colleagues who have stuck to their 'hammers', (Excel - I'm looking at you) and hope to show you the benefit of time spent developing a 'toolbox' of digital tools. He will also talk about the advantages and disadvantages of the digital tools that he has encountered with the goal of helping you find identify the right 'tool' for your need. <p> This open session is designed to help attendees to identify other ResBaz sessions that may be useful to them. <a href=\"https://auckland.zoom.us/j/95158293964?pwd=QTJYSVpkWEJIRTR1TGd5cDBDenk1UT09\">Zoom link</a> "
 #   subtype: workshop
 #   speakers: [27]
-#   complexity: "Introductory"
+#   complexity: "Beginner: All welcome"
 
 # -
 #   id: 005
@@ -43,7 +43,7 @@
 #   subtype: workshop
 #   speakers: [10, 38]
 #   themes: ["datascience"]
-#   complexity: "Introductory"
+#   complexity: "Beginner: All welcome"
 
 # -
 #   id: 069 #[stream, day, speakerID]
@@ -52,7 +52,7 @@
 #   subtype: workshop
 #   speakers: [63, 23]
 #   themes: ["datascience"]
-#   complexity: "Introductory"
+#   complexity: "Beginner: All welcome"
 
 # -
 #   id: 3269 #[stream, day, speakerID]
@@ -69,7 +69,7 @@
   description: "An overview of research data management requirements, practices, tools and support across the research data lifecycle. Research data or artefatcs are defined as items created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will hear about policy, legal and ethical requirements, the FAIR, CARE and Maori Data Sovereignty principles, and develop strategies for data management planning, capturing, organising, sharing, and reusing research data. <a href=\"https://www.eventbrite.com/e/managing-research-data-an-overview-tickets-427694665257\">Book here</a>"
   subtype: workshop
   speakers: [14, 58, 31]
-  complexity: "Beginner, all welcome"
+  complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "Unlimited"
 
@@ -79,7 +79,7 @@
   description: "Reviewing the literature is an important part of the research process. Organising relevant papers and findings are more than just data entry or bibliographic tasks, you also need to be able to analyse and integrate this material with the qualitative data you are gathering. This one-hour demonstration will provide an overview of NVivo’s functionality with regard to literature reviews. Importing and coding literature, running queries on published material, and working with bibliographic data in conjunction with your NVivo project will all be covered. <a href=\"https://www.eventbrite.com/e/nvivo-for-literature-reviews-tickets-430712902887\">Book here</a>" 
   subtype: workshop
   speakers: [36, 38]
-  complexity: "Beginner"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -90,7 +90,7 @@
   subtype: workshop
   speakers: [12]
   themes: ["datascience"]
-  complexity: "Introductory" 
+  complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -101,7 +101,7 @@
   subtype: workshop
   speakers: [96, 38, 106]
   themes: ["datascience"]
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "40 attendees"
 
@@ -112,7 +112,7 @@
   subtype: workshop
   speakers: [27, 104]
   themes: ["datascience"]
-  complexity: "All welcome" 
+  complexity: "Beginner: All welcome" 
   length: "2 hours"
   capacity: "Unlimited"
 
@@ -122,7 +122,7 @@
   description: "Learn how to create an attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://www.eventbrite.com/e/build-a-research-portfolio-website-using-github-tickets-430717105457\">Book here</a>"
   subtype: workshop
   speakers: [38, 92]
-  complexity: "All welcome" 
+  complexity: "Beginner: All welcome" 
   length: "2 hours"
   capacity: "50 attendees"
 
@@ -132,7 +132,7 @@
   description: "A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys with sensitive data. <a href=\"https://www.eventbrite.com/e/research-data-collection-surveys-with-redcap-an-overview-tickets-428169415247\">Book here</a>"
   subtype: workshop
   speakers: [94]
-  complexity: "All welcome" 
+  complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -142,7 +142,7 @@
   description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This practical workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-428174560637\">Book here</a>"
   subtype: workshop
   speakers: [55, 31]
-  complexity: "Intermediate" 
+  complexity: "Beginner: All welcome" 
   length: "2 hours"
   capacity: "50 attendees"
 
@@ -152,7 +152,7 @@
   description: "Open Access to publications and other research outputs ensures you get maximum exposure and recognition for your work. Open publications are viewed, downloaded, and cited at higher rates than closed publications. There are free ways to make your work open regardless of where you publish, so you don't have to publish in OA journals or pay steep publication fees to enjoy the benefits of OA. In this one-hour workshop you'll learn how to make your publications open for free while respecting copyright and publisher agreements. <a href=\"https://www.eventbrite.com/e/open-access-how-to-make-your-publications-open-tickets-431267070417\">Book here</a>"
   subtype: workshop
   speakers: [59, 100]
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -162,7 +162,7 @@
   description: "Confused about where you should publish your research? Want to make sure you’re publishing in credible journals? Want to learn more about the publishing process? In this session we’ll cover publishing strategies to maximise the impact of your research and provide an overview of the publishing and peer review process so you know what to expect. <a href=\"https://www.eventbrite.com/e/strategic-publishing-deciding-where-to-publish-understanding-the-process-tickets-431259046417\">Book here</a>"
   subtype: workshop
   speakers: [97, 99]
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -172,7 +172,7 @@
   description: "Trying to work that academic hustle, but don’t know how to get your name out there? Wondering about the best way to promote your research or track your publications? In this workshop, we’ll discuss the reasons why research profiles are important, look at the different types of profiles and their purposes, and brainstorm some strategies to help you manage your online identities. This will help doctoral candidates and early career researchers (ECRs) set the stage for their future research career. <a href=\"https://www.eventbrite.com/e/using-researcher-profiles-social-media-to-promote-your-research-tickets-431266047357\">Book here</a>"
   subtype: workshop
   speakers: [61, 98]
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -182,7 +182,7 @@
   description: "Academic references are the bread and butter of research life. We spend a lot of time capturing, organising, and consulting references, so it makes sense to use the right tool for the job. Zotero is a free open-source reference manager built by researchers for researchers. It is simple to learn, yet powerful and feature-rich, and will save you countless hours at university and beyond. In this two hour workshop you'll learn how to use Zotero to capture, organise, and cite your references when you need them. <a href=\"https://www.eventbrite.com/e/managing-references-with-zotero-tickets-427675538047\">Book here</a>"
   subtype: workshop
   speakers: [58, 57]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "Unlimited"
 
@@ -193,7 +193,7 @@
   subtype: workshop
   speakers: [60, 12]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "3 hours"
   capacity: "40 attendees"
 
@@ -203,7 +203,7 @@
   description: "Why are you here? What are you presenting? Who are you presenting to? No, this is not the abstract for “Existentialism with Nietzsche”, it's “Design 101: Presentations, Posters, and PowerPoints for Researchers”! Have you ever seen a research poster or a PowerPoint presentation that was truly terrible and thought, “Wow, I wonder how I could salvage that? I wonder how I can make research approachable through attractive design?” // In this session, we will give you tips on what makes good visual design for research. We will walk you through the do's (and some don'ts) and what to consider when putting together a visual research presentation, whether a poster, a PowerPoint slideshow, or another type of medium. <a href=\"https://www.eventbrite.com/e/design-101-presentations-posters-and-powerpoints-for-researchers-tickets-427607795427\">Book here</a>"
   subtype: workshop
   speakers: [61, 93]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -214,7 +214,7 @@
   subtype: workshop
   speakers: [96, 58, 106]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "50 attendees"
 
@@ -224,7 +224,7 @@
   description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well. Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time. Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows. This session will use the command-line bash shell  to introduce you to the basics, as far as time permits, of how to: navigate the file-system; read, write, and modify files; parse data from and to files; create custom re-usable commands in the form of aliases, shell functions and shell scripts; automate repetitive tasks. If you are using Windows, please install <a href=\"https://carpentries.github.io/workshop-template/#shell\">Git for Windows</a> first. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-429457517997\">Book here</a>"
   subtype: workshop
   speakers: [21, 31]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "50 attendees"
 
@@ -235,7 +235,7 @@
   subtype: workshop
   speakers: [75]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -257,7 +257,7 @@
   subtype: workshop
   speakers: [75, 105, 12]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "40 attendees"
 
@@ -267,7 +267,7 @@
   description: "There’s a lot more to NVivo than initially meets the eye! In this webinar we’ll be showcasing our favourite features of NVivo including matrix coding queries, explore and comparison diagrams, and mind-maps. This session is perfect for researchers who are new to NVivo, as well as those who are familiar with the basics and curious to know what else is possible. <a href=\"https://www.eventbrite.com/e/nvivo-showcase-tickets-430712371297\">Book here</a>"
   subtype: workshop
   speakers: [36, 38]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -278,7 +278,7 @@
   subtype: workshop
   speakers: [74, 38]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -289,7 +289,7 @@
   subtype: workshop
   speakers: [53, 38]
   themes: ["datascience"]
-  complexity: "Introductory/Intermediate"
+  complexity: "Beginner/Intermediate"
   length: "2 hours"
   capacity: "100 attendees"
 
@@ -300,7 +300,7 @@
   subtype: workshop
   speakers: [54]
   themes: ["datascience"]
-  complexity: "Intermediate"
+  complexity: "Beginner: All welcome"
   length: "3 hours"
   capacity: "40 attendees"
 
@@ -311,7 +311,7 @@
   subtype: workshop
   speakers: [31]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -321,7 +321,7 @@
   description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland staff and doctoral students. <a href=\"https://www.eventbrite.com/e/research-compute-an-overview-of-options-at-the-university-of-auckland-tickets-429456023527\">Book here</a>"
   subtype: workshop
   speakers: [17]
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -332,7 +332,7 @@
   subtype: workshop
   speakers: [78]
   themes: ["datascience"]
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -363,7 +363,7 @@
   description: "Are you looking to collect sensitive data, such as personal information, in your research? This session will cover what constitutes sensitive data, and how you can mitigate associated risks with collecting it in Qualtrics, including creating screener surveys, using pre-assigned participant Ids, and anonymising responses. <a href=\"https://www.eventbrite.com/e/collecting-sensitive-survey-data-with-qualtrics-tickets-438788176247\">Book here</a>"
   subtype: workshop
   speakers: [38, 14, 92]
-  complexity: "Introductory/Intermediate"
+  complexity: "Beginner/Intermediate"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -373,7 +373,7 @@
   description: "This session will introduce you to Qualtrics, a powerful survey tool useful for collecting a range of research data. <a href=\"https://www.eventbrite.com/e/introduction-to-qualtrics-for-research-surveys-tickets-430718850677\">Book here</a>"
   subtype: workshop
   speakers: [84, 38]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -405,7 +405,7 @@
   description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"\">Booking link coming soon</a>"
   subtype: workshop
   speakers: []
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -415,7 +415,7 @@
   description: "Interested in learning how to use a suite of open-source tools to create interactive narratives and visualisations for your research? This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics and see how easy and fun it is to create a compelling StoryMap. <a href=\"https://www.eventbrite.com/e/digital-storytelling-with-knightlab-tickets-430720836617\">Book here</a>"
   subtype: workshop
   speakers: [38]
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -425,7 +425,7 @@
   description: "Open drop-in session to help with trouble shooting, geting help with installing session requirements, and any ResBaz questions <a href=\"https://auckland.zoom.us/my/hackyhour\">Zoom link</a>"
   subtype: workshop
   speakers: [12]
-  complexity: "All welcome" 
+  complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -435,7 +435,7 @@
   description: "Visual abstracts are a 'movie poster' of a journal article displayed on social media that hooks a viewer's attention to read your article. Like a 3-minute thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood in a 30-second glance. Designed with icons and keywords, they are simpler than a graphical abstract and quicker to make. Visual abstracts are a powerful thinking tool for yourself and a valuable communication tool to engage others. The first half of the session is an interactive exploration of visual abstracts to inspire your imagination. The second half is a guided workshop where together we build your creative confidence by making a visual abstract. <a href=\"https://www.eventbrite.com/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-428828015137\">Book here</a>"
   subtype: workshop
   speakers: [95]
-  complexity: "All welcome"
+  complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "60 attendees"
 
@@ -446,7 +446,7 @@
   subtype: workshop
   speakers: [101]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -456,7 +456,7 @@
   description: "Research data has become a primary target for cyberattacks. Recent reports found that attacks on educational institutions are growing faster than any other sector. It's been clear how vulnerable — and desirable — university research data is to bad actors, emphasizing that having properly secured research will be critical for warding off current and future attacks.And cybersecurity threats to research universities won't stop as Universities will remain repositories of invaluable proprietary and personal data, often tied to corporations and government organizations, that spans medical, military, financial and emerging technologies, and more. A data risk assessment will be the primary step to overcome some of the most common roadblocks preventing universities from securing research data. This one-hour presentation provides guidelines to performing a data risk assessment. A data risk assessment helps researchers gain visibility into all the potential threat vectors that can lead to security or privacy violations, and the awareness of which would help safeguard valuable research. <a href=\"https://www.eventbrite.com/e/data-security-addressing-risks-in-postgraduate-research-tickets-438725538897\">Book here</a>"
   subtype: workshop
   speakers: [103]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -466,7 +466,7 @@
   description: "This one-hour presentation covers the following items: Understanding/awareness of Cyber Security and Policy Statements; Why safeguard your research?; Who are you at risk from?; What are the risks?; Case Studies & Scenarios; What parts of your research may be vulnerable?; What steps can you take to protect your research?; How can you protect your research during travel?; Additional Resources. <a href=\"https://www.eventbrite.com/e/safeguarding-your-research-cybersecurity-practices-for-researchers-tickets-438726963157\">Book here</a>"
   subtype: workshop
   speakers: [103]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -476,7 +476,7 @@
   description: "This session revolves around exploring the applications of Deep Learning and computer vision in research. We will look at different research domains and the practical applications of computer vision deep learning models. Some of the areas we will look at during this session will be Optical Character Recognition, Image classification and segmentation for biomedical sciences and Archaeology. We will also briefly explore the applications of Deep Learning models in other research domains such as prediction/forecasting and anomaly detection. <a href=\"https://www.eventbrite.com/e/applications-of-computer-vision-in-research-tickets-438736601987\">Book here</a>"
   subtype: workshop
   speakers: [102]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
 
@@ -487,7 +487,7 @@
   subtype: workshop
   speakers: [54]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "Unlimited"
 
@@ -509,6 +509,38 @@
   subtype: workshop
   speakers: [104]
   themes: ["datascience"]
-  complexity: "Introductory"
+  complexity: "Beginner: All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
+
+-
+  id: 098 #[stream, day, speakerID]
+  title: "Blender for Biochemistry: 3d rendering software for science communication"
+  description: "Come along and learn about utilising free open source 3D rendering software (Blender) to make stunning images. This presentation will cover a very basic introduction to Blender and navigating a 3d space, importing protein models, setting up lighting and material shading and rendering images out for publication. Requirements if you want to follow along: Blender (3.3) preinstalled. A mouse with 3 buttons is preferable but not necessary. <a href=\"https://www.eventbrite.com/e/blender-for-biochemistry-3d-rendering-software-for-science-communication-tickets-440688429957\">Book here</a>"
+  subtype: workshop
+  speakers: [107]
+  themes: ["datascience"]
+  complexity: "Beginner: All welcome"
+  length: ""
+  capacity: ""
+
+-
+  id: 099 #[stream, day, speakerID]
+  title: "Doing Even More with OpenRefine"
+  description: "You know how to use Open Refine to clean up messy data using facets and clustering, and you're curious about some of its  powerful features This demonstration of using transformations will include how to use snippets of reusable code to do things like select part of a sentence, swap author first and last names around, and use Python and Regex in OR.  We will also look at using OR to query web based APIs to enrich a dataset. Prerequisites: Beginner knowledge of Open Refine. <a href=\"https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-440719362477\">Book here</a>"
+  subtype: workshop
+  speakers: [108]
+  themes: ["datascience"]
+  complexity: "Intermediate"
+  length: "1 hour"
+  capacity: "Unlimited"
+
+-
+  id: 100 #[stream, day, speakerID]
+  title: "Māori Data Sovereignty - korero with the Poutiaki Rangahau Māori, Waipapa Taumata Rau"
+  description: "All researchers are welcome to listen and contribute to this korero (discussion) about Māori Data Sovereignty within the context of undertaking research in Aotearoa. Geremy Hema, Poutiaki Rangahau Māori at Waipapa Taumata Rau, will provide an introduction to Māori Data Sovereignty and why it is imporant to researchers. Attendees will be invited to respectfully share their successful approaches to weaving the Māori Data Sovereignty principles into how they conduct research. Feedback on training needs, barriers and enablers will be sought to inform future resources and support services.  <a href=\"\">Book here</a>"
+  subtype: workshop
+  speakers: [109]
+  complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"

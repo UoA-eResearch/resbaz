@@ -1152,3 +1152,39 @@
   rockstar: false 
   ribbon:
     - {abbr: "UoO", title: "University of Otago", url: "https://www.otago.ac.nz/"}
+
+-
+  id: 107
+  name: "Ben"
+  surname: "Peters"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: "to_be_announced1.png"
+  rockstar: false 
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+
+-
+  id: 108
+  name: "Anton"
+  surname: "Angelo"
+  company: "University of Canterbury"
+  title: "Research and Data Librarian"
+  bio: ""
+  thumbnailUrl: "to_be_announced1.png"
+  rockstar: false 
+  ribbon:
+    - {abbr: "UC", title: "University of Canterbury", url: "https://www.canterbury.ac.nz/"}
+
+-
+  id: 109
+  name: "Geremy"
+  surname: "Hema"
+  company: "University of Auckland"
+  title: "Poutiaki Rangahau Māori"
+  bio: ""
+  thumbnailUrl: "to_be_announced1.png"
+  rockstar: false 
+  ribbon:
+    - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
