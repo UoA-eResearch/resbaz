@@ -514,7 +514,7 @@
   capacity: "Unlimited"
 
 -
-  id: 098 #[stream, day, speakerID]
+  id: 099 #[stream, day, speakerID]
   title: "Blender for Biochemistry: 3d rendering software for science communication"
   description: "Come along and learn about utilising free open source 3D rendering software (Blender) to make stunning images. This presentation will cover a very basic introduction to Blender and navigating a 3d space, importing protein models, setting up lighting and material shading and rendering images out for publication. Requirements if you want to follow along: Blender (3.3) preinstalled. A mouse with 3 buttons is preferable but not necessary. <a href=\"https://www.eventbrite.com/e/blender-for-biochemistry-3d-rendering-software-for-science-communication-tickets-440688429957\">Book here</a>"
   subtype: workshop
@@ -525,7 +525,7 @@
   capacity: ""
 
 -
-  id: 099 #[stream, day, speakerID]
+  id: 100 #[stream, day, speakerID]
   title: "Doing Even More with OpenRefine"
   description: "You know how to use Open Refine to clean up messy data using facets and clustering, and you're curious about some of its  powerful features This demonstration of using transformations will include how to use snippets of reusable code to do things like select part of a sentence, swap author first and last names around, and use Python and Regex in OR.  We will also look at using OR to query web based APIs to enrich a dataset. Prerequisites: Beginner knowledge of Open Refine. <a href=\"https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-440719362477\">Book here</a>"
   subtype: workshop
@@ -536,7 +536,7 @@
   capacity: "Unlimited"
 
 -
-  id: 100 #[stream, day, speakerID]
+  id: 101 #[stream, day, speakerID]
   title: "Māori Data Sovereignty - korero with the Poutiaki Rangahau Māori, Waipapa Taumata Rau"
   description: "All researchers are welcome to listen and contribute to this korero (discussion) about Māori Data Sovereignty within the context of undertaking research in Aotearoa. Geremy Hema, Poutiaki Rangahau Māori at Waipapa Taumata Rau, will provide an introduction to Māori Data Sovereignty and why it is imporant to researchers. Attendees will be invited to respectfully share their successful approaches to weaving the Māori Data Sovereignty principles into how they conduct research. Feedback on training needs, barriers and enablers will be sought to inform future resources and support services.  <a href=\"\">Book here</a>"
   subtype: workshop

@@ -97,7 +97,7 @@
     - {
     	startTime: "13:00",
     	endTime: "13:50",
-    	sessionIds: [071, 098, 062]
+    	sessionIds: [071, 099, 062]
     }
 
     - {
@@ -211,7 +211,7 @@
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: [095, 088, 100]
+    	sessionIds: [095, 088, 101]
     }
 
     - {
@@ -247,7 +247,7 @@
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [067, 099, 404]
+    	sessionIds: [067, 100, 404]
     }
 
 # Friday
