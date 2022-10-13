@@ -500,7 +500,7 @@
   themes: ["datascience"]
   complexity: "Intermediate"
   length: "2 hours"
-  capacity: "50"
+  capacity: "50 attendees"
 
 -
   id: 098 #[stream, day, speakerID]
@@ -537,10 +537,20 @@
 
 -
   id: 101 #[stream, day, speakerID]
-  title: "Māori Data Sovereignty - korero with the Poutiaki Rangahau Māori, Waipapa Taumata Rau"
+  title: "Māori Data Sovereignty: Korero with the Poutiaki Rangahau Māori, Waipapa Taumata Rau"
   description: "All researchers are welcome to listen and contribute to this korero (discussion) about Māori Data Sovereignty within the context of undertaking research in Aotearoa. Geremy Hema, Poutiaki Rangahau Māori at Waipapa Taumata Rau, will provide an introduction to Māori Data Sovereignty and why it is imporant to researchers. Attendees will be invited to respectfully share their successful approaches to weaving the Māori Data Sovereignty principles into how they conduct research. Feedback on training needs, barriers and enablers will be sought to inform future resources and support services.  <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [109]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+
+-
+  id: 102 #[stream, day, speakerID]
+  title: "Authoring collaborative research projects in Quarto"
+  description: "Learn how to develop reproducible and sharable workflows using Quarto and Git. We will take you through how to host collaborative research projects as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, research outputs can be shared as a live link that is consitent with your latest analyses. One benefit of Quarto is flexibility, accepting multiple programming languages (R, Python, Julia...) and output formats (docx, pdf, html...). Requirements: The session is designed to be easy to follow; however, is targeted at people already familiar with basic coding, code editing software, and version control. We will be using R as an example but Python, R, Julia, and Observable JavaScript are the primary languages Quarto support. R-specific experience is not required. Further instructions will be provided closer to the session. Before the session please install: - Quarto (https://quarto.org/docs/get-started/); R (https://www.r-project.org/); Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git); log in to GitHub (or sign up for a free account) (https://github.com/); install VS Code (https://code.visualstudio.com/download) and in the extensions tab of VS Code install the R, Quarto, and Git extensions.  <a href=\"\">Book here</a>"
+  subtype: workshop
+  speakers: [66]
+  complexity: "Intermediate"
+  length: "1 hour"
+  capacity: "50 attendees"
