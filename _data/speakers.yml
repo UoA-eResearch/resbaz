@@ -129,7 +129,7 @@
 #   company: "Centre for eResearch"
 #   title: "eResearch Engagement Specialist"
 #   bio: "Dharani is a member of the Centre for eResearch's engagement team."
-#   thumbnailUrl: "dharani_sontam.png"
+#   thumbnailUrl: "dharani_sontam.jpg"
 #   rockstar: false
 #   ribbon:
 #     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -154,7 +154,7 @@
 #   company: "Centre for eResearch"
 #   title: "Senior eResearch Platform & Services Engineer"
 #   bio: "Jason is a senior member of the Centre for eResearch's Platform & Services team."
-#   thumbnailUrl: "jason_he.png"
+#   thumbnailUrl: "jason_he.jpg"
 #   rockstar: false 
 #   ribbon:
 #     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -169,18 +169,18 @@
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-#
-# - 
-#   id: 18
-#   name: "Libby"
-#   surname: "Li"
-#   company: "Centre for eResearch"
-#   title: "eResearch Solutions Specialist"
-#   bio: "Libby is an eResearch Solutions Specialist."
-#   thumbnailUrl: "libby_li.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+
+- 
+  id: 18
+  name: "Libby"
+  surname: "Li"
+  company: "Centre for eResearch"
+  title: "eResearch Solutions Specialist"
+  bio: "Libby is an eResearch Solutions Specialist."
+  thumbnailUrl: "libby_li.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 #
 # - 
 #   id: 19
@@ -213,7 +213,7 @@
   company: "University of Auckland"
   title: "eResearch Solutions Analyst"
   bio: "Anita is a Centre for eResearch Platform & Services Team Engineer."
-  thumbnailUrl: "anita-kean.jpg"
+  thumbnailUrl: "anita_kean.jpg"
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -224,7 +224,7 @@
   company: "University of Auckland"
   title: "Senior eResearch Solutions Specialist"
   bio: "Mike is a Senior eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
-  thumbnailUrl: "mike.png"
+  thumbnailUrl: "mike_laverick.jpg"
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -275,7 +275,7 @@
   company: "University of Auckland"
   title: "Senior eResearch Solutions Specialist"
   bio: "Chris is a senior member of the Centre for eResearch's solutions team."
-  thumbnailUrl: "chris_seal.jpeg"
+  thumbnailUrl: "chris_seal.jpg"
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -304,7 +304,7 @@
 #   surname: "Young"
 #   company: "Centre for eResearch"
 #   title: "eResearch Senior Solutions Specialist"
-#   thumbnailUrl: "nick-young.jpg"
+#   thumbnailUrl: "nick_young.jpg"
 #   rockstar: false 
 #   ribbon:
 #    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -315,7 +315,7 @@
   company: "University of Auckland"
   title: "Senior eResearch Engagement Specialist"
   bio: "Jens is passionate about learning how things work and teaching. After working as a consultant in engineering roles in several countries, he came to the University of Auckland for a PhD. After completing his PhD, he went to teach for a year at Unitec. He recently joined the Centre for eResearch, where he aims to provide the same high level of support to researchers and staff members to what he received from CER during his own PhD."
-  thumbnailUrl: "jens_brinkmann.png"
+  thumbnailUrl: "jens_brinkmann.jpg"
   rockstar: false 
   ribbon:
    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -668,7 +668,7 @@
 #   company: "School of Biological Sciences"
 #   title: "Doctoral Candidate"
 #   bio: "Sridevi recently completed PhD in the School of Biological Sciences at the University of Auckland. Her research focused on investigating the olfactory system of a NZ mayfly species using genomics, transcriptomics and molecular tools."
-#   thumbnailUrl: "sridevi.jpg"   
+#   thumbnailUrl: "sridevi_bhamidipati.jpg"   
 #   rockstar: false
 #   ribbon:
 #     - {abbr: "FOS", title: "Faculty of Science", url: "https://science.auckland.ac.nz"}
@@ -1197,6 +1197,18 @@
   title: "eResearch Solutions Specialist"
   bio: ""
   thumbnailUrl: "to_be_announced1.png"
+  rockstar: false
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+
+- 
+  id: 111
+  name: "Simon"
+  surname: "Esling"
+  company: "University of Auckland"
+  title: "Senior eResearch Engagement Specialist"
+  bio: ""
+  thumbnailUrl: "simon_esling.jpg"
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
