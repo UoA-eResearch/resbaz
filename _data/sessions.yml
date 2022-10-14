@@ -15,7 +15,7 @@
 
 - 
   id: 300
-  title: "to be announced"
+  title: "To Be Announced"
   description: 
   speakers: []
   hidden: true
@@ -85,7 +85,7 @@
 
 -
   id: 036
-  title: "Working with social media data?"
+  title: "Working with Social Media Data?"
   description: "Social media data can enable insightful research into areas like social behaviour and current events. Join this session to connect with and learn from others working with social media data within the Aotearoa research community. More details to come! <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-431288414257\">Book here</a>"
   subtype: workshop
   speakers: [12]
@@ -107,7 +107,7 @@
 
 -
   id: 045
-  title: "How can Python help your research?"
+  title: "How Can Python Help Your Research?"
   description: "New to the Python programming language and interested in how it can help your research?  Then this intro session is for you! No prior knowledge of Python required, no hands-on coding involved, just sit back with your favourite beverage and find out about the powerful world of Python. The session is split into 2 parts. Part 1: A holistic overview of Python. Key concepts in Python, how Python is used around the world, and how Python can help you organise, analyse, and visualise your research data. Part 2: Getting started with Python for research. A live demonstration of how to start using Python to investigate research data, including: how to load in a spreadsheet of data, basic manipulation and processing of the data, how to quickly visualise the data to reveal insights into the dataset, and a bunch of useful links to help you launch your journey into using Python! <a href=\"https://www.eventbrite.com/e/how-can-python-help-your-research-tickets-428175964837\">Book here</a>"
   subtype: workshop
   speakers: [27, 104]
@@ -118,7 +118,7 @@
 
 -
   id: 047
-  title: "Build a Research Portfolio website (using GitHub) "
+  title: "Build a Research Portfolio Website (Using GitHub) "
   description: "Learn how to create an attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://www.eventbrite.com/e/build-a-research-portfolio-website-using-github-tickets-430717105457\">Book here</a>"
   subtype: workshop
   speakers: [38, 92]
@@ -128,7 +128,7 @@
 
 -
   id: 061
-  title: "Research data collection & surveys with REDCap - an overview"
+  title: "Research Data Collection & Surveys with REDCap: An Overview"
   description: "A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys with sensitive data. <a href=\"https://www.eventbrite.com/e/research-data-collection-surveys-with-redcap-an-overview-tickets-428169415247\">Book here</a>"
   subtype: workshop
   speakers: [94]
@@ -158,8 +158,8 @@
 
 -
   id: 064
-  title: "Strategic Publishing: Deciding where to publish & understanding the process"
-  description: "Confused about where you should publish your research? Want to make sure you’re publishing in credible journals? Want to learn more about the publishing process? In this session we’ll cover publishing strategies to maximise the impact of your research and provide an overview of the publishing and peer review process so you know what to expect. <a href=\"https://www.eventbrite.com/e/strategic-publishing-deciding-where-to-publish-understanding-the-process-tickets-431259046417\">Book here</a>"
+  title: "Strategic Publishing: Deciding Where to Publish & Understanding the Process"
+  description: "Confused about where you should publish your research? Want to make sure you're publishing in credible journals? Want to learn more about the publishing process? In this session we'll cover publishing strategies to maximise the impact of your research and provide an overview of the publishing and peer review process so you know what to expect. <a href=\"https://www.eventbrite.com/e/strategic-publishing-deciding-where-to-publish-understanding-the-process-tickets-431259046417\">Book here</a>"
   subtype: workshop
   speakers: [97, 99]
   complexity: "Beginner: All welcome"
@@ -168,8 +168,8 @@
 
 -
   id: 065 
-  title: "Using researcher profiles & social media to promote your research"
-  description: "Trying to work that academic hustle, but don’t know how to get your name out there? Wondering about the best way to promote your research or track your publications? In this workshop, we’ll discuss the reasons why research profiles are important, look at the different types of profiles and their purposes, and brainstorm some strategies to help you manage your online identities. This will help doctoral candidates and early career researchers (ECRs) set the stage for their future research career. <a href=\"https://www.eventbrite.com/e/using-researcher-profiles-social-media-to-promote-your-research-tickets-431266047357\">Book here</a>"
+  title: "Using Researcher Profiles & Social Media to Promote Your Research"
+  description: "Trying to work that academic hustle, but don't know how to get your name out there? Wondering about the best way to promote your research or track your publications? In this workshop, we'll discuss the reasons why research profiles are important, look at the different types of profiles and their purposes, and brainstorm some strategies to help you manage your online identities. This will help doctoral candidates and early career researchers (ECRs) set the stage for their future research career. <a href=\"https://www.eventbrite.com/e/using-researcher-profiles-social-media-to-promote-your-research-tickets-431266047357\">Book here</a>"
   subtype: workshop
   speakers: [61, 98]
   complexity: "Beginner: All welcome"
@@ -178,7 +178,7 @@
 
 -
   id: 066 
-  title: "Managing References with Zotero"
+  title: "Managing References With Zotero"
   description: "Academic references are the bread and butter of research life. We spend a lot of time capturing, organising, and consulting references, so it makes sense to use the right tool for the job. Zotero is a free open-source reference manager built by researchers for researchers. It is simple to learn, yet powerful and feature-rich, and will save you countless hours at university and beyond. In this two hour workshop you'll learn how to use Zotero to capture, organise, and cite your references when you need them. <a href=\"https://www.eventbrite.com/e/managing-references-with-zotero-tickets-427675538047\">Book here</a>"
   subtype: workshop
   speakers: [58, 57]
@@ -188,7 +188,7 @@
 
 -
   id: 067 
-  title: "An introduction to processing remote sensing data with Google Earth Engine"
+  title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
   description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Book here</a>"
   subtype: workshop
   speakers: [60, 12, 110]
@@ -220,7 +220,7 @@
 
 -
   id: 071 
-  title: "Introduction to the command line"
+  title: "Introduction to the Command Line"
   description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well. Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time. Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows. This session will use the command-line bash shell  to introduce you to the basics, as far as time permits, of how to: navigate the file-system; read, write, and modify files; parse data from and to files; create custom re-usable commands in the form of aliases, shell functions and shell scripts; automate repetitive tasks. If you are using Windows, please install <a href=\"https://carpentries.github.io/workshop-template/#shell\">Git for Windows</a> first. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-429457517997\">Book here</a>"
   subtype: workshop
   speakers: [21, 31]
@@ -230,7 +230,7 @@
 
 -
   id: 072 
-  title: "What is the Julia programming language and is it right for me?"
+  title: "What is the Julia Programming Language and is it Right for Me?"
   description: "Julia is a relatively new but exciting, multi-purpose programming language, with increasing adoption among scientific researchers. Interaction with Julia closely resembles that of scripting languages, such as R, MATLAB and python, and a growing number of Julia libraries provide similar functionality for scientific computation. However, extending modifying, or creating new software in these older languages is complicated as all performance critical code must be written in a second, low-level language, like C or FORTRAN, which are more technically demanding, and are slower to test, debug, etc. Julia's careful and elegant design solves this two language problem. In this presentation and Q&A session, find out if Julia is a good match for your research project. Some previous exposure to a programming or scripting language would be useful but not required. Participants in this session may also be interested in <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Getting started with the Julia programming language</a> and <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Introduction to using Julia for machine learning</a>. <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">Book here</a>"
   subtype: workshop
   speakers: [75]
@@ -241,7 +241,7 @@
 
 -
   id: 073 
-  title: "Introduction to using Julia for machine learning"
+  title: "Introduction to Using Julia for Machine Learning"
   description: "A hands-on, gentle introduction to using the Julia programming language and the MLJ library for machine learning. The basic workflow for training a supervised learning model will be explained, and users will build a basic decision tree model to predict survival probabilities in a hypothetical repeat of the historic Titanic disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful toolbox for quickly selecting, optimizing and comparing diverse machine learning models (as opposed to to frameworks focused on, say, deep learning). Advanced features include the ability to create model pipelines and to combine multiple model predictions in flexible ways. Participants in this session may also be interested in <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Getting started with the Julia programming language</a> and <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: A computer with <a href=\"https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md\">Julia 1.8 installed</a>. ResBaz course 'Getting started with the Julia programming language' workshop resources <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/JuliaCon-2022-workshop:-Getting-started-with-Julia-and-MLJ\">pre-installed</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. <b>Recommended but not essential</b>: Prior experience with a scripting language, such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Book here</a>"
   subtype: workshop
   speakers: [75, 105]
@@ -252,7 +252,7 @@
 
 -
   id: 074 
-  title: "Getting started with the Julia programming language"
+  title: "Getting Started With the Julia Programming Language"
   description: "A two-hour introductory workshop for newcomers to Julia, targeted at users from some technical domain, such as science, economics or engineering. Users will learn how to interact with Julia's powerful command-line interface (REPL) as well as through Pluto notebooks. They will learn how to carry out basic mathematical and statistical operations; how to create custom workflows by learning about functions and basic iteration; and how to perform basic data manipulation and visualization. This session is a pre-requisite for <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Introduction to using Julia for machine learning</a>. Participants in this session may also be interesed in <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: A computer with <a href=\"https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md\">Julia 1.8 installed</a>. Workshop resources <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/JuliaCon-2022-workshop:-Getting-started-with-Julia-and-MLJ\">pre-installed</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as covered in first year university courses. <b>Recommended but not essential</b>: prior experience with a scripting language such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Book here</a>"
   subtype: workshop
   speakers: [75, 105, 12]
@@ -273,7 +273,7 @@
 
 -
   id: 076 
-  title: "Research computing with the Rust programming language"
+  title: "Research Computing with the Rust Programming Language"
   description: "What is Rust, and how might you use it for research? Tim McNamara, author of Rust in Action, will give a quick primer on the Rust programming language, and explain how it might be used to speed up, and scale up, your research. No prior experience with the language is necessary. <a href=\"https://www.eventbrite.com/e/research-computing-with-rust-tickets-430482594027\">Book here</a>"
   subtype: workshop
   speakers: [74, 38]
@@ -284,7 +284,7 @@
 
 -
   id: 077 
-  title: "Python for image manipulation and repeatable research pipelines"
+  title: "Python for Image Manipulation and Repeatable Research Pipelines"
   description: "You know how to crop an image, but what if you need to crop 65000 images in one go? This applied tutorial will introduce how the Python programming language can be used to create powerful, scalable and repeatable workflows, using image manipulation as an example. The session will include a live demo with commentary, project showcase and questions and answers. Having an entry level understanding of Python or a similar programming language will be helpful, but not essential. <a href=\"https://www.eventbrite.com/e/python-for-image-manipulation-and-repeatable-research-pipelines-tickets-430719793497\">Book here</a>"
   subtype: workshop
   speakers: [53, 38]
@@ -306,7 +306,7 @@
 
 -
   id: 079 
-  title: "Tidy data: an introduction"
+  title: "Tidy Data: An Introduction"
   description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the 'analysis' itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice.  <a href=\"https://www.eventbrite.com/e/tidy-data-an-introduction-tickets-429452472907\">Book here</a>"
   subtype: workshop
   speakers: [31]
@@ -317,7 +317,7 @@
 
 -
   id: 080 
-  title: "Research Compute - An overview of options at the University of Auckland"
+  title: "Research Compute: An Overview of Options at the University of Auckland"
   description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland staff and doctoral students. <a href=\"https://www.eventbrite.com/e/research-compute-an-overview-of-options-at-the-university-of-auckland-tickets-429456023527\">Book here</a>"
   subtype: workshop
   speakers: [17]
@@ -327,7 +327,7 @@
 
 -
   id: 081 
-  title: "Data and Storytelling: Strategies for compelling visual narratives"
+  title: "Data and Storytelling: Strategies for Compelling Visual Narratives"
   description: "Why you should care about storytelling and why plots, charts, infographics and visualisations are just the beginning. Data scientist and visual artist Robert Carter looks at ways to bring your data to life. <a href=\"https://www.eventbrite.com/e/data-and-storytelling-strategies-for-compelling-visual-narratives-tickets-428184741087\">Book here</a>"
   subtype: workshop
   speakers: [78]
@@ -338,7 +338,7 @@
 
 -
   id: 082 
-  title: "Stop paying for free software: Creating a LaTeX pipeline for collaboration "
+  title: "Stop Paying for Free Software: Creating a LaTeX Pipeline for Collaboration "
   description: "Overleaf is a great tool to get a LaTeX project up and running, but has many limitations, including paywalling collaboration features. We'll empower you to create your own local setup for writing LaTeX documents so that you can fine tune your environment to suit your needs. In the first hour, you will learn to create a dockerized LaTeX set up, keep it tidy, and automated. The second hour will give you the confidence to create your own customisations and content will be driven by participant interest. This session is for you if you're a LaTeX user and need to collaborate with others, want to keep an up-to-date electronic notebook, or want the freedom of creating a distraction-free environment to focus on your writing. Participants should have attended an introduction to the command line. Some Python background would be helpful, but not required. A LaTeX project template will be provided. <a href=\"https://www.eventbrite.com/e/stop-paying-for-free-software-creating-a-latex-pipeline-for-collaboration-tickets-428186255617\">Book here</a>"
   subtype: workshop
   speakers: [55, 31]
@@ -379,7 +379,7 @@
 
 -
   id: 086 
-  title: "High performance computations with multithreading"
+  title: "High Performance Computations with Multithreading"
   description: "A C-based workshop on using multiple threads to improve performance of your code. In shared-memory parallelism applications achieve parallelism by executing more than one thread at a time across cores within one node. Each of the threads see and manipulate the same memory that the initial process allocated. The workshop explains how parallelism is achieved in HPC applications, what considerations are to be given to the code, what are the benefits and drawbacks of multithreading. <a href=\"https://www.eventbrite.com/e/high-performance-computations-with-multithreading-tickets-427699850767\">Book here</a>"
   subtype: workshop
   speakers: [77]
@@ -390,7 +390,7 @@
 
 -
   id: 087 
-  title: "Parallel programming with MPI"
+  title: "Parallel Programming with MPI"
   description: "A C-based workshop targeting distributed programming in high performance environment. In distributed-memory parallelism an application achieves parallelism by running multiple instances of itself across multiple nodes to solve the problem. Each instance is allocated its own chunk of virtual memory and communicates to other instances via a message passing interface such as MPI. Distributed memory type jobs have many advantages, among which are more cores to tackle the problem and a far greater amount of memory. The workshop explains details of MPI environment, types of operations MPI employs and considerations given to various implementation models. <a href=\"https://www.eventbrite.com/e/parallel-programming-with-mpi-tickets-427700532807\">Book here</a>"
   subtype: workshop
   speakers: [77]
@@ -401,7 +401,7 @@
 
 -
   id: 088 
-  title: "How to plan your research for real world impact"
+  title: "How to Plan Your Research for Real World Impact"
   description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"\">Booking link coming soon</a>"
   subtype: workshop
   speakers: []
@@ -411,7 +411,7 @@
 
 -
   id: 089 
-  title: "Digital storytelling with KnightLab"
+  title: "Digital Storytelling with KnightLab"
   description: "Interested in learning how to use a suite of open-source tools to create interactive narratives and visualisations for your research? This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics and see how easy and fun it is to create a compelling StoryMap. <a href=\"https://www.eventbrite.com/e/digital-storytelling-with-knightlab-tickets-430720836617\">Book here</a>"
   subtype: workshop
   speakers: [38]
@@ -421,7 +421,7 @@
 
 -
   id: 090
-  title: "ResBaz drop-in clinic"
+  title: "ResBaz Drop-In Clinic (Hackyhour)"
   description: "Open drop-in session to help with trouble shooting, geting help with installing session requirements, and any ResBaz questions. No registration required, just <a href=\"https://auckland.zoom.us/my/hackyhour\">join via Zoom</a> when the session starts."
   subtype: workshop
   speakers: [12]
@@ -431,7 +431,7 @@
 
 -
   id: 091 
-  title: "Visual abstracts create an attention hook to your published article"
+  title: "Visual Abstracts Create an Attention Hook to Your Published Article"
   description: "Visual abstracts are a 'movie poster' of a journal article displayed on social media that hooks a viewer's attention to read your article. Like a 3-minute thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood in a 30-second glance. Designed with icons and keywords, they are simpler than a graphical abstract and quicker to make. Visual abstracts are a powerful thinking tool for yourself and a valuable communication tool to engage others. The first half of the session is an interactive exploration of visual abstracts to inspire your imagination. The second half is a guided workshop where together we build your creative confidence by making a visual abstract. <a href=\"https://www.eventbrite.com/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-428828015137\">Book here</a>"
   subtype: workshop
   speakers: [95]
@@ -493,7 +493,7 @@
 
 -
   id: 097 
-  title: "Using the command line to find, replace, and manipulate data"
+  title: "Using the Command Line to Find, Replace, and Manipulate Data"
   description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…). <a href=\"\">Booking link coming soon</a>"
   subtype: workshop
   speakers: [21, 104]
@@ -504,7 +504,7 @@
 
 -
   id: 098 
-  title: "Research collaboration and reproducibility with Google Colab"
+  title: "Research Collaboration and Reproducibility with Google Colab"
   description: "Finding it challenging to collaborate with other researchers? Do you want to make your research as accessible and reproducible as possible? Google Colab is a hosted Jupyter notebook service that allows anybody to write and execute python code through the browser, while providing access free of charge to computing resources including GPUs. With a robust free tier, no installation or prerequisites, and a tonne of features, Google Colab can undoubtedly help you. This one-hour introductory workshop will demonstrate the most important features of Google Colab. Some UoA-specific topics will also be covered, such as how to mount your Google Drive or Dropbox so you can utilise your datasets and have your results saved automatically. This workshop's final section will showcase examples of how Google Colab is being used for research and education. <a href=\"https://www.eventbrite.com/e/research-collaboration-and-reproducibility-with-google-colab-tickets-440040822947\">Book here</a>"
   subtype: workshop
   speakers: [104]
@@ -515,7 +515,7 @@
 
 -
   id: 099 
-  title: "Blender for Biochemistry: 3d rendering software for science communication"
+  title: "Blender for Biochemistry: 3D Rendering Software for Science Communication"
   description: "Come along and learn about utilising free open source 3D rendering software (Blender) to make stunning images. This presentation will cover a very basic introduction to Blender and navigating a 3d space, importing protein models, setting up lighting and material shading and rendering images out for publication. Requirements if you want to follow along: Blender (3.3) preinstalled. A mouse with 3 buttons is preferable but not necessary. <a href=\"https://www.eventbrite.com/e/blender-for-biochemistry-3d-rendering-software-for-science-communication-tickets-440688429957\">Book here</a>"
   subtype: workshop
   speakers: [107]
@@ -538,7 +538,7 @@
 -
   id: 101 
   title: "Māori Data Sovereignty: Korero with the Poutiaki Rangahau Māori, Waipapa Taumata Rau"
-  description: "All researchers are welcome to listen and contribute to this korero (discussion) about Māori Data Sovereignty within the context of undertaking research in Aotearoa. Geremy Hema, Poutiaki Rangahau Māori at Waipapa Taumata Rau, will provide an introduction to Māori Data Sovereignty and why it is imporant to researchers. Attendees will be invited to respectfully share their successful approaches to weaving the Māori Data Sovereignty principles into how they conduct research. Feedback on training needs, barriers and enablers will be sought to inform future resources and support services.  <a href=\"\">Book here</a>"
+  description: "All researchers are welcome to listen and contribute to this korero (discussion) about Māori Data Sovereignty within the context of undertaking research in Aotearoa. Geremy Hema, Poutiaki Rangahau Māori at Waipapa Taumata Rau | University of Auckland, will provide an introduction to Māori Data Sovereignty and why it is imporant to researchers. Attendees will be invited to respectfully share their successful approaches to weaving the Māori Data Sovereignty principles into how they conduct research. Feedback on training needs, barriers and enablers will be sought to inform future resources and support services.  <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [109]
   complexity: "Beginner: All welcome"
@@ -547,7 +547,7 @@
 
 -
   id: 102 
-  title: "Authoring collaborative research projects in Quarto"
+  title: "Authoring Collaborative Research Projects in Quarto"
   description: "Learn how to develop reproducible and sharable workflows using Quarto and Git. We will take you through how to host collaborative research projects as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, research outputs can be shared as a live link that is consitent with your latest analyses. One benefit of Quarto is flexibility, accepting multiple programming languages (R, Python, Julia...) and output formats (docx, pdf, html...). Requirements: The session is designed to be easy to follow; however, is targeted at people already familiar with basic coding, code editing software, and version control. We will be using R as an example but Python, R, Julia, and Observable JavaScript are the primary languages Quarto support. R-specific experience is not required. Further instructions will be provided closer to the session. Before the session please install: - Quarto (https://quarto.org/docs/get-started/); R (https://www.r-project.org/); Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git); log in to GitHub (or sign up for a free account) (https://github.com/); install VS Code (https://code.visualstudio.com/download) and in the extensions tab of VS Code install the R, Quarto, and Git extensions.  <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [66, 57]
