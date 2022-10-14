@@ -494,7 +494,7 @@
 -
   id: 097 
   title: "Using the Command Line to Find, Replace, and Manipulate Data"
-  description: "Do you want to get better acquainted with the command line and use the tools that you did not know were in your arsenal? This practical workshop will introduce you to regular expression and how to implement it using sed and grep to manipulate big (or small) datasets so that they become fit for purpose. Think of this as find and replace/subset, but with functionality and usability that you did not know was possible. The knowledge gained can be used with applications such as Notepad++ and R. This session is interactive and examples will include handling, preparing, manipulating and/or formatting DNA databases, but these tools are so versatile that it is applicable to other datasets. This workshop follows on from bash/introduction to command line session, and attendees need to have working knowledge of the basic commands that will allow you to navigate in the terminal and read, create and write directories/files (for example: cd, mkdir, ls, cat, nano, etc…). <a href=\"\">Booking link coming soon</a>"
+  description: " <a href=\"\">Booking link coming soon</a>"
   subtype: workshop
   speakers: [21, 104]
   themes: ["datascience"]
