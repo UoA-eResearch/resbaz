@@ -1184,7 +1184,19 @@
   company: "University of Auckland"
   title: "Poutiaki Rangahau Māori"
   bio: ""
-  thumbnailUrl: "to_be_announced1.png"
+  thumbnailUrl: "to_be_announced4.png"
   rockstar: false 
   ribbon:
     - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
+
+- 
+  id: 110
+  name: "Nelis"
+  surname: "Drost"
+  company: "University of Auckland"
+  title: "eResearch Solutions Specialist"
+  bio: ""
+  thumbnailUrl: "to_be_announced1.png"
+  rockstar: false
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
