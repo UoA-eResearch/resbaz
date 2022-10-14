@@ -494,7 +494,7 @@
 -
   id: 097 
   title: "Using the Command Line to Find, Replace, and Manipulate Data"
-  description: " <a href=\"\">Booking link coming soon</a>"
+  description: "A practical introduction to some powerful command line utilities for efficient searching, parsing and manipulating of files and text. We will cover some of the workhorse commands in the UNIX toolbox, such as find, grep, awk, and sed. These are simple to use for simple applications, but provide powerful ways to perform complex actions. With grep, we introduce regular expressions which are a widely-used language for specifying patterns in text. This workshop follows on from 'Introduction to the command line' session, so it is assumed you will have either participated in this session or already have an understanding of the concepts covered in it. Note:  If you use a Windows computer, please ensure you have git-bash pre-installed (https://gitforwindows.org/). <a href=\"https://www.eventbrite.com/e/using-the-command-line-to-find-replace-and-manipulate-data-tickets-441422756347\">Book here</a>"
   subtype: workshop
   speakers: [21, 104]
   themes: ["datascience"]
