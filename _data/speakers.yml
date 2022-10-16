@@ -1027,8 +1027,8 @@
   surname: "Cadzow"
   company: "University of Otago"
   title: "Scientific Programmer"
-  bio: ""
-  thumbnailUrl: "to_be_announced1.png"   
+  bio: "Murray is on the Scientific Programming team for Research Teaching and IT Support at the University of Otago. With a PhD in Biochemistry, he works alongside researchers with their computational workflows and organises and instructs Software and Data Carpentry workshops."
+  thumbnailUrl: "murray_cadzow.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "Otago", title: "University of Otago", url: "https://www.otago.ac.nz/"}
