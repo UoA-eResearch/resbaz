@@ -572,7 +572,7 @@
   company: "University of Auckland"
   title: "eResearch Engagement Specialist"
   bio: "Lukas is a eResearch Engagement Specialist at the Centre for eResearch. After completing his PhD in Theoretical Chemistry he worked as a Software Developer and is now spending most of his time developing the ResearchHub."
-  thumbnailUrl: "Lukas_trombach.jpeg"   
+  thumbnailUrl: "lukas_trombach.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
