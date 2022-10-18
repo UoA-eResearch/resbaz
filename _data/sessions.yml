@@ -399,15 +399,15 @@
   length: "1 hour"
   capacity: "Unlimited"
 
--
-  id: 088 
-  title: "How to Plan Your Research for Real World Impact"
-  description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"\">Booking link coming soon</a>"
-  subtype: workshop
-  speakers: []
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
+# -
+#   id: 088 
+#   title: "How to Plan Your Research for Real World Impact"
+#   description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"\">Booking link coming soon</a>"
+#   subtype: workshop
+#   speakers: []
+#   complexity: "Beginner: All welcome"
+#   length: "1 hour"
+#   capacity: "Unlimited"
 
 -
   id: 089 
