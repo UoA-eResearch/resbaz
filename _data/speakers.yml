@@ -1157,13 +1157,13 @@
   id: 107
   name: "Ben"
   surname: "Peters"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "to_be_announced1.png"
+  company: "University of Otago"
+  title: "Teaching Fellow"
+  bio: "Ben Peters earned his PhD in biochemistry from the University of Otago. Since graduating he has been working as a teaching fellow in the biochemistry department. He develops teaching resources and has a keen passion for science communication."
+  thumbnailUrl: "ben_peters.png"
   rockstar: false 
   ribbon:
-    - {abbr: "", title: "", url: ""}
+    - {abbr: "UoO", title: "Teaching Fellow, University of Otago", url: "https://www.otago.ac.nz/"}
 
 -
   id: 108
