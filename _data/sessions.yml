@@ -210,7 +210,7 @@
 -
   id: 070 
   title: "Introduction to R and RStudio"
-  description: "R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of using R including working with data and creating beautiful plots. There will be hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your R journey with confidence! <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-429459363517\">Book here</a>"
+  description: "R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of using R including working with data and creating beautiful plots. There will be hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your R journey with confidence! <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-429459363517\">Join waitlist</a>"
   subtype: workshop
   speakers: [96, 58, 106]
   themes: ["datascience"]
