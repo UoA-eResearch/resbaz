@@ -554,3 +554,13 @@
   complexity: "Intermediate"
   length: "1 hour"
   capacity: "50 attendees"
+
+# -
+#   id: 103
+#   title: "Introduction to Computational Linguistics using Python and Google Colaboratory"
+#   description: "Text is a common type of data across different research disciplines. Knowing even just a few basic computational linguistic methods can increase your efficiency as a researcher and open new avenues for research using your data. This short, introductory workshop will demonstrate how to perform basic operations on text, such as counting the frequency of different word types, computing measures of lexical diversity, and performing more complex operations such as sentiment analysis. No prior knowledge of programming is assumed. <a href=\"https://www.eventbrite.com/e/introduction-to-computational-linguistics-using-python-and-google-colab-tickets-444402388507\">Book here</a>"
+#   subtype: workshop
+#   speakers: [113]
+#   complexity: "Beginner: All welcome"
+#   length: "1 hour"
+#   capacity: "Unlimited"

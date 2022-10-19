@@ -733,17 +733,17 @@
 #   ribbon:
 #     - {abbr: "FOS", title: "Faculty of Science", url: "https://science.auckland.ac.nz"}
 
-- 
-  id: 71
-  name: "Abi"
-  surname: "Beatson"
-  company: "National Library of New Zealand"
-  title: "Digital Archivist"
-  bio: "As the COVID-19 Digital Archivist at the Alexander Turnbull Library, Abi is piecing together Aotearoa New Zealand's collective experiences of COVID-19, item by item, story by story. She is drawing on her own researcher experince and engaging with the research community to make these collections more available to researchers."
-  thumbnailUrl: "abi_beatson.jpeg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "National Library", title: "National Library of New Zealand", url: "https://natlib.govt.nz/"}
+# - 
+#   id: 71
+#   name: "Abi"
+#   surname: "Beatson"
+#   company: "National Library of New Zealand"
+#   title: "Digital Archivist"
+#   bio: "As the COVID-19 Digital Archivist at the Alexander Turnbull Library, Abi is piecing together Aotearoa New Zealand's collective experiences of COVID-19, item by item, story by story. She is drawing on her own researcher experince and engaging with the research community to make these collections more available to researchers."
+#   thumbnailUrl: "abi_beatson.jpeg"   
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "National Library", title: "National Library of New Zealand", url: "https://natlib.govt.nz/"}
 
 - 
   id: 72
@@ -1224,3 +1224,15 @@
   rockstar: false 
   ribbon:
     - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
+
+-
+  id: 113
+  name: "Stephen"
+  surname: "Skalicky"
+  company: "Victoria University of Wellington"
+  title: "Senior Lecturer"
+  bio: "Stephen is a computational social scientist who researches connections between language and cognition. His research employs natural language processing, text analytics/classification, behavioural experiments, and statistical modelling to explore different lexical, syntactic, and semantic aspects of creative language, such as sarcasm, metaphor, humour, and satire."
+  thumbnailUrl: "stephen_skalicky.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "VUW", title: "Senior Lecturer, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}

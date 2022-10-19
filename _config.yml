@@ -194,7 +194,7 @@ footerBlocks:
   links:
    - {link: "https://www.academic-consulting.co.nz/", text: "Academic Consulting"}
    - {link: "https://yousaydata.com/", text: "You Say Data"}
-   - {link: "https://natlib.govt.nz/", text: "National Library of New Zealand"}
+  #  - {link: "https://natlib.govt.nz/", text: "National Library of New Zealand"}
  -
   title: "FAQ"
   links:
