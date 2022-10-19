@@ -1212,3 +1212,15 @@
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+
+-
+  id: 112
+  name: "Hinearangi"
+  surname: "Busby"
+  company: "University of Auckland"
+  title: "Poutaki Rangahau Vision Mātauranga "
+  bio: "Hinearangi Busby (Te Rarawa, Ngāpuhi), has held various roles at Waipapa Taumata Rau within the Library Learning Service Division and more recently as Poutaki Rangahau| Vision Mātauranga - Research Manager | Vision Mātauranga with Te Tari Rautaki Rangahau, Matatika - Office of Research Strategy & Integrity. She has a background in Mātauranga Māori, Contemporary Māori Policy Development, Contemporary Māori Economic development and has an interest in Indigenous Pedagogies as a praxis to transformation."
+  thumbnailUrl: "hinearangi_busby.png"
+  rockstar: false 
+  ribbon:
+    - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
