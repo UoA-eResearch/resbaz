@@ -424,7 +424,7 @@
   title: "ResBaz Drop-In Clinic (Hackyhour)"
   description: "Open drop-in session to help with trouble shooting, geting help with installing session requirements, and any ResBaz questions. No registration required, just <a href=\"https://auckland.zoom.us/my/hackyhour\">join via Zoom</a> when the session starts."
   subtype: workshop
-  speakers: [12]
+  speakers: [12, 58]
   complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
