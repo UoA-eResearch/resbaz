@@ -588,6 +588,10 @@
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+  social:
+    - {name: "site", link: "https://tomsaunders.me/"}
+    - {name: "twitter", link: "https://twitter.com/tomsaundersnz"} 
+    - {name: "github", link: "https://github.com/tesaunders"}
 
 - 
   id: 59
