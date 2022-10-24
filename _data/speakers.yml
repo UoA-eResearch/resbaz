@@ -689,17 +689,17 @@
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
-- 
-  id: 67
-  name: "Dinindu"
-  surname: "Senanayake"
-  company: "National eScience Infrastructure"
-  title: "HPC applications support specialist"
-  bio: "Dinindu Senanayakeis a NeSI Applications Support Specialist, specifically in Genomics/Bioinformatics. He has approximately seven years of research experience in Cancer Genetics, Chemical Genetics and Systems Biology. Originally from Sri Lanka, he moved to New Zealand in 2006, arriving for studies and staying for nature."
-  thumbnailUrl: "dinindu_senanayake.jpeg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
+# - 
+#   id: 67
+#   name: "Dinindu"
+#   surname: "Senanayake"
+#   company: "National eScience Infrastructure"
+#   title: "HPC applications support specialist"
+#   bio: "Dinindu Senanayakeis a NeSI Applications Support Specialist, specifically in Genomics/Bioinformatics. He has approximately seven years of research experience in Cancer Genetics, Chemical Genetics and Systems Biology. Originally from Sri Lanka, he moved to New Zealand in 2006, arriving for studies and staying for nature."
+#   thumbnailUrl: "dinindu_senanayake.jpeg"   
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
 
 # - 
 #   id: 68
@@ -749,29 +749,29 @@
 #   ribbon:
 #     - {abbr: "National Library", title: "National Library of New Zealand", url: "https://natlib.govt.nz/"}
 
-- 
-  id: 72
-  name: "Gillian"
-  surname: "Lee"
-  company: "National Library of New Zealand"
-  title: ""
-  bio: "Gillian is responsible for the National Library's Internet Archive - the capture and preservation of website in New Zealand."
-  thumbnailUrl: "to_be_announced3.png"   
-  rockstar: false
-  ribbon:
-    - {abbr: "National Library", title: "National Library of New Zealand", url: "https://natlib.govt.nz/"}
+# - 
+#   id: 72
+#   name: "Gillian"
+#   surname: "Lee"
+#   company: "National Library of New Zealand"
+#   title: ""
+#   bio: "Gillian is responsible for the National Library's Internet Archive - the capture and preservation of website in New Zealand."
+#   thumbnailUrl: "to_be_announced3.png"   
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "National Library", title: "National Library of New Zealand", url: "https://natlib.govt.nz/"}
   
-- 
-  id: 73
-  name: "Jacob"
-  surname: "Powell"
-  company: "Libraries and Learning Services"
-  title: "Team Leader"
-  bio: "Jacob leads the Libraries and Learning Services' Cultural Collections team that, amoungst other things, archives New Zealand TV and Radio."
-  thumbnailUrl: "jacob_powell.png"   
-  rockstar: false
-  ribbon:
-    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+# - 
+#   id: 73
+#   name: "Jacob"
+#   surname: "Powell"
+#   company: "Libraries and Learning Services"
+#   title: "Team Leader"
+#   bio: "Jacob leads the Libraries and Learning Services' Cultural Collections team that, amoungst other things, archives New Zealand TV and Radio."
+#   thumbnailUrl: "jacob_powell.png"   
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
 
 - 
   id: 74
