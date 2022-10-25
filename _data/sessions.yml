@@ -422,7 +422,7 @@
 -
   id: 090
   title: "ResBaz Drop-In Clinic (Hackyhour)"
-  description: "Open drop-in session to help with trouble shooting, geting help with installing session requirements, and any ResBaz questions. No registration required, just <a href=\"https://auckland.zoom.us/my/hackyhour\">join via Zoom</a> when the session starts."
+  description: "Open drop-in session to help with troubleshooting, getting help with installing session requirements, and any ResBaz questions. No registration required, just <a href=\"https://auckland.zoom.us/my/hackyhour\">join via Zoom</a> when the session starts."
   subtype: workshop
   speakers: [12, 58]
   complexity: "Beginner: All welcome" 
@@ -527,7 +527,7 @@
 -
   id: 100 
   title: "Doing Even More with OpenRefine"
-  description: "You know how to use Open Refine to clean up messy data using facets and clustering, and you're curious about some of its  powerful features This demonstration of using transformations will include how to use snippets of reusable code to do things like select part of a sentence, swap author first and last names around, and use Python and Regex in OR.  We will also look at using OR to query web based APIs to enrich a dataset. Prerequisites: Beginner knowledge of Open Refine. <a href=\"https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-440719362477\">Book here</a>"
+  description: "You know how to use Open Refine to clean up messy data using facets and clustering, and you're curious about some of its powerful features. This demonstration of using transformations will include how to use snippets of reusable code to do things like select part of a sentence, swap author first and last names around, and use Python and Regex in OR.  We will also look at using OR to query web based APIs to enrich a dataset. Prerequisites: Beginner knowledge of Open Refine. <a href=\"https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-440719362477\">Book here</a>"
   subtype: workshop
   speakers: [108]
   themes: ["datascience"]
