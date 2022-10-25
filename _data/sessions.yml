@@ -97,7 +97,7 @@
 -
   id: 044
   title: "Introduction to Cleaning & Transforming Data with OpenRefine"
-  description: "OpenRefine is a powerful, free, open-source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, practical workshop will demonstrate how it can help you to: Understand the structure of a data set and resolve inconsistencies; Split data up into more granular parts; Match local data up to other data sets; Enhance a data set with data from other sources. <a href=\"https://www.eventbrite.com/e/introduction-to-cleaning-and-transforming-data-with-openrefine-tickets-429453666477\">Book here</a>"
+  description: "OpenRefine is a powerful, free, open-source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, practical workshop will demonstrate how it can help you to: Understand the structure of a data set and resolve inconsistencies; Split data up into more granular parts; Match local data up to other data sets; Enhance a data set with data from other sources. <a href=\"https://www.eventbrite.com/e/introduction-to-cleaning-and-transforming-data-with-openrefine-tickets-429453666477\">Join waitlist</a>"
   subtype: workshop
   speakers: [96, 38, 106]
   themes: ["datascience"]
