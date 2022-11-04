@@ -704,7 +704,7 @@
   name: "Tim"
   surname: "McNamara"
   company: "Amazon Web Services"
-  title: "Senior Software Architect"
+  title: "Senior Software Engineer"
   bio: "New Zealand's first certified Software Carpentry instructor, Tim is a skilled and experienced data scientist who also has a background in the humanities. He is the author of Rust in Action, and makes use of this programming language to build everything from data processing pipelines to generative art."
   thumbnailUrl: "tim_mcnamara.jpeg"   
   rockstar: false
