@@ -296,7 +296,7 @@
 -
   id: 078 
   title: "Introduction to High Performance Computing with NeSI"
-  description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Bash for High Performance Computing' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a>"
+  description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Bash for High Performance Computing' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"https://www.eventbrite.com/e/introduction-to-high-performance-computing-with-nesi-tickets-438795066857\">Book here</a>"
   subtype: workshop
   speakers: [54]
   themes: ["datascience"]
@@ -483,7 +483,7 @@
 -
   id: 096 
   title: "Bash for High Performance Computing"
-  description: "A precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'. <a href=\"https://www.eventbrite.com/e/hpc-carpentry-on-nesi-tickets-202595427377\">Book here</a>"
+  description: "A precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'. <a href=\"https://www.eventbrite.com/e/bash-for-high-performance-computing-tickets-438794475087\">Book here</a>"
   subtype: workshop
   speakers: [54]
   themes: ["datascience"]
