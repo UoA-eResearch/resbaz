@@ -3,6 +3,7 @@ layout: post
 title: About Research Bazaar
 permalink: /about/
 isStaticPost: true
+image: candy-2022.jpg
 ---
 ##### About ResBaz Aotearoa
 
