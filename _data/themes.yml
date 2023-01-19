@@ -6,19 +6,19 @@
 
 -
   id: "publish"
-  name: "Publishing"
+  name: "Publish"
   color: "#83A552"
   fontColor: "#000000"
 
 -
   id: "design"
-  name: "Design & Visualisation"
+  name: "Design & Visualise"
   color: "#3D4928"
   fontColor: "#000000"
 
 -
   id: "data"
-  name: "Managing Data"
+  name: "Manage Data"
   color: "#9B1F1A"
   fontColor: "#000000"
 
