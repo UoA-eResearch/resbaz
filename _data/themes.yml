@@ -1,41 +1,41 @@
 -
   id: "datascience"
   name: "Data Science"
-  color: "#5FA1F7"
+  color: "#95DCFF"
   fontColor: "#000000"
 
 -
   id: "publish"
   name: "Publish"
-  color: "#83A552"
+  color: "#B5E8D0"
   fontColor: "#000000"
 
 -
   id: "design"
   name: "Design & Visualise"
-  color: "#3D4928"
+  color: "#E8EAE9"
   fontColor: "#000000"
 
 -
   id: "data"
   name: "Manage Data"
-  color: "#9B1F1A"
+  color: "#DAE5FF"
   fontColor: "#000000"
 
 -
   id: "hpc"
   name: "High Performance Computing"
-  color: "#B19F8E"
+  color: "#FFC6E1"
   fontColor: "#000000"
 
 -
   id: "qual"
   name: "Qualitative Research"
-  color: "#4E0B0C"
+  color: "#FADDD7"
   fontColor: "#000000"
 
 -
   id: "code"
   name: "Research Code"
-  color: "#425266"
+  color: "#FFE1AF"
   fontColor: "#000000"
