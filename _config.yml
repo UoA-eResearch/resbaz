@@ -43,10 +43,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 #  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/about/", text: "About"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {permalink: "/about/", text: "About"}
 bottomNavigationLinks:
  - {link: "mailto:researchdata@auckland.ac.nz", text: "Contact us"}
 rightNavigationButtons:
@@ -54,7 +54,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "pohutukawa-2.jpg"
-heroTitle: "We hope to see you in 2023"
+heroTitle: "Stay tuned for ResBaz 2023"
 eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
