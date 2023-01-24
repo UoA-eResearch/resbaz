@@ -62,17 +62,9 @@ heroButtons:
  - {link: "/sessions/", text: "Have a look at what we did last time"}
 
 # About Block
-aboutTitle: "About ResBaz"
+aboutTitle: ""
 #aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting digital literacy, an increasingly essential part of modern research and scholarship. ResBaz is traditionally a multi-day cohort event of digital skills workshops, social activities that build communities, and amazing food. However, our recent pivot to online delivery enables more sessions to be provided to more people across the entire Aotearoa research community.</p>
-
-<p>All researchers and postgraduate research students in Aotearoa New Zealand are welcome to register for whichever sessions take their fancy. Take a look at the <a href=\"https://resbaz.auckland.ac.nz/schedule/\">schedule</a> to find more information about sessions and booking links.</p>
-
-<p>All participants are also invited to <a href=\"https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ\"> join</a> the Centre for eResearch resbaz-2022 Slack channel.</p>
-
-<p>ResBaz Aotearoa 2022 was a collaboration between the University of Auckland, Victoria University of Wellington, University of Otago and the <a href=\"https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\"> Beyond Prediction: Explanatory and Transparent Data Science Programme</a>.</p>
-
-<p>The ResBaz Aotearoa team looks forward to seeing you next time.</p>"
+aboutText: ""
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
