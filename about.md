@@ -7,9 +7,9 @@ image: hero.jpg
 ---
 - [What is ResBaz?](#what-is-resbaz)
 - [What is ResBaz Aotearoa?](#what-is-resbaz-aotearoa)
+- [Want to get involved?](#want-to-get-involved)
 - [Are sessions recorded?](#are-sessions-recorded)
 - [Code of Conduct](#code-of-conduct)
-- [Want to get involved?](#want-to-get-involved)
 
 ##### What is ResBaz?
 
@@ -22,6 +22,10 @@ Research Bazaar Aotearoa is free and open to everyone within the Aotearoa resear
 All participants are invited to [join](https://uoacer.slack.com/archives/C02P2DYJXD4) the Centre for eResearch ResBaz 2023 Slack channel.
 
 ResBaz Aotearoa is a collaboration between the University of Auckland, Victoria University of Wellington, University of Otago and the [Beyond Prediction: Explanatory and Transparent Data Science Programme](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\). Instructors are based at a variety of Aotearoa research institutions and companies, and they volunteer to teach at ResBaz. We wouldn't be able to do it without them and we appreciate their willingness to share their knowledge. 
+
+##### Want to get involved?
+
+If you're interested in volunteering to deliver a workshop, help out with a workshop, or spread the word at your institution, please <a href = "mailto: researchdata@auckland.ac.nz">get in touch</a> and tell us how you'd like to contribute.
 
 ##### Are sessions recorded?
 
@@ -48,7 +52,3 @@ Attendees violating these rules may be sanctioned or expelled from the event and
 * Mute yourself at all times unless invited to contribute. Session hosts may invite questions from the audience verbally or through the ‘Chat’ function within Zoom. 
 * Be patient with solo presenters/speakers - they are choosing to share their time, enthusiasm and knowledge. 
 * Disruptive behaviour, intended or unintended, may result in the session hosts muting or removing you from the virtual session. 
-
-##### Want to get involved?
-
-If you're interested in teaching a session at ResBaz Aotearoa please <a href = "mailto: researchdata@auckland.ac.nz">get in touch</a>!
