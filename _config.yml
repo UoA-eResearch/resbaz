@@ -62,9 +62,9 @@ heroButtons:
  - {link: "/sessions/", text: "Have a look at what we did last time"}
 
 # About Block
-aboutTitle: ""
+# aboutTitle: ""
 #aboutSubtitle: "Conference"
-aboutText: ""
+# aboutText: ""
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
