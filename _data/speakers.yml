@@ -175,7 +175,7 @@
   surname: "Lavery"
   company: "Academic Consulting"
   title: "Academic Consultant"
-  bio: "Lyn is the director and founder of Academic Consulting, where she utilises her extensive experience in both quantitative and qualitative methodologies to assist a diverse range of researchers – including senior academics in leading tertiary institutions, PhD students, and research teams within central government."
+  bio: "Lyn is the director and founder of Academic Consulting where she utilises her extensive experience in both quantitative and qualitative methodologies to assist a diverse range of researchers, including senior academics in leading tertiary institutions, PhD students, and research teams within central government."
   thumbnailUrl: "Lyn.Lavery.jpg"
   rockstar: false 
   ribbon:
@@ -228,18 +228,18 @@
   rockstar: false
   ribbon:
     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}
-  
-- 
-  id: 57
-  name: "Lukas"
-  surname: "Trombach"
-  company: "University of Auckland"
-  title: "eResearch Engagement Specialist"
-  bio: "Lukas is a eResearch Engagement Specialist at the Centre for eResearch. After completing his PhD in Theoretical Chemistry he worked as a Software Developer and is now spending most of his time developing the ResearchHub."
-  thumbnailUrl: "lukas_trombach.jpg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+# 
+# - 
+#   id: 57
+#   name: "Lukas"
+#   surname: "Trombach"
+#   company: "University of Auckland"
+#   title: "eResearch Engagement Specialist"
+#   bio: "Lukas is a eResearch Engagement Specialist at the Centre for eResearch. After completing his PhD in Theoretical Chemistry he worked as a Software Developer and is now spending most of his time developing the ResearchHub."
+#   thumbnailUrl: "lukas_trombach.jpg"   
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
 - 
   id: 58
