@@ -10,7 +10,7 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "ResBaz Auckland"
+title: "Research Bazaar Aotearoa"
 email: "researchdata@auckland.ac.nz"
 description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
 baseurl: ""
