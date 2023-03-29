@@ -2,10 +2,16 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
             <p style="padding: 50px">Registering for any session means you will receive a link to all available session recordings. Please only register for limited capacity sessions you expect to attend.</p>
+        Filter sessions to: <select id="themes">
+            <option value="">Show all</option>
+            {% for theme in site.data.themes %}
+                <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
+            {% endfor %}
+        </select>
         <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
             {% for session in site.data.sessions %}
                 {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 
-                    <div class="grid-item">
+                    <div class="grid-item {% for theme in session.themes %}theme_{{theme}} {% endfor %}">
                         <h5>{{ session.title  }}</h5>
                         <p>{% if session.complexity != null %}
 						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span>

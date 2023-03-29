@@ -241,3 +241,17 @@ time {
         display: inline-block;
     }
 }
+
+.muted {
+    opacity: .2;
+}
+
+.muted.grid-item {
+    display: none;
+}
+
+#themes {
+    font-size: 15px;
+    padding: 10px;
+    margin-bottom: 15px;
+}

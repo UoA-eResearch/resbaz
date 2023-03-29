@@ -3,6 +3,12 @@
     <div class="content-wrapper">
             <h4>Here's what we did in 2022. ResBaz Aotearoa 2023 might look similar!</h4>
             <p style="padding: 50px">Please only register for limited capacity sessions you expect to attend. <a href="https://resbaz.auckland.ac.nz/assets/schedule.pdf">Click here</a> to download a one-page schedule.</p>
+        Filter the schedule to: <select id="themes">
+            <option value="">Show all</option>
+            {% for theme in site.data.themes %}
+                <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
+            {% endfor %}
+        </select>
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -39,7 +45,7 @@
                         {% if slot != 404 %}
                             {% for session in site.data.sessions %}
                                 {% if slot == session.id and session.service == null %}
-                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height {% for theme in session.themes %}theme_{{theme}} {% endfor %}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
