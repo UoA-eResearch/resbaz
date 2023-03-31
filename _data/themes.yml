@@ -1,12 +1,12 @@
 -
   id: "datascience"
-  name: "Data Science"
+  name: "Research With Computing"
   color: "#95DCFF"
   fontColor: "#000000"
 
 -
   id: "publish"
-  name: "Publish"
+  name: "Papers, publications, impact"
   color: "#B5E8D0"
   fontColor: "#000000"
 
