@@ -3,7 +3,7 @@
     <div class="content-wrapper">
             <h4>Here's what we did in 2022. ResBaz Aotearoa 2023 might look similar!</h4>
             <p style="padding: 50px">Please only register for limited capacity sessions you expect to attend. <a href="https://resbaz.auckland.ac.nz/assets/schedule.pdf">Click here</a> to download a one-page schedule.</p>
-        Filter the schedule to: <select id="themes">
+        Select your Learning Pathway here: <select id="themes">
             <option value="">Show all</option>
             {% for theme in site.data.themes %}
                 <option value="theme_{{ theme.id }}">{{ theme.name }}</option>

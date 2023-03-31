@@ -2,7 +2,7 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
             <p style="padding: 50px">Registering for any session means you will receive a link to all available session recordings. Please only register for limited capacity sessions you expect to attend.</p>
-        Filter sessions to: <select id="themes">
+            Select your Learning Pathway here: <select id="themes">
             <option value="">Show all</option>
             {% for theme in site.data.themes %}
                 <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
