@@ -10,23 +10,23 @@
   color: "#B5E8D0"
   fontColor: "#000000"
 
--
-  id: "design"
-  name: "Design & Visualise"
-  color: "#E8EAE9"
-  fontColor: "#000000"
+# -
+#   id: "design"
+#   name: "Design & Visualise"
+#   color: "#E8EAE9"
+#   fontColor: "#000000"
 
--
-  id: "data"
-  name: "Manage Data"
-  color: "#DAE5FF"
-  fontColor: "#000000"
+# -
+#   id: "data"
+#   name: "Manage Data"
+#   color: "#DAE5FF"
+#   fontColor: "#000000"
 
--
-  id: "hpc"
-  name: "High Performance Computing"
-  color: "#FFC6E1"
-  fontColor: "#000000"
+# -
+#   id: "hpc"
+#   name: "High Performance Computing"
+#   color: "#FFC6E1"
+#   fontColor: "#000000"
 
 -
   id: "qual"
@@ -34,8 +34,8 @@
   color: "#FADDD7"
   fontColor: "#000000"
 
--
-  id: "code"
-  name: "Research Code"
-  color: "#FFE1AF"
-  fontColor: "#000000"
+# -
+#   id: "code"
+#   name: "Research Code"
+#   color: "#FFE1AF"
+#   fontColor: "#000000"
