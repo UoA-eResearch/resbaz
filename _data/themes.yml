@@ -6,7 +6,7 @@
 
 -
   id: "publish"
-  name: "Papers, publications, impact"
+  name: "Publications, Engagement, Impact"
   color: "#B5E8D0"
   fontColor: "#000000"
 
@@ -30,7 +30,7 @@
 
 -
   id: "qual"
-  name: "Qualitative Research"
+  name: "Data Collection and Wrangling"
   color: "#FADDD7"
   fontColor: "#000000"
 
