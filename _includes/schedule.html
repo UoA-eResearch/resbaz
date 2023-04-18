@@ -3,7 +3,7 @@
     <div class="content-wrapper">
             <h4>Here's what we did in 2022. ResBaz Aotearoa 2023 might look similar!</h4>
             <p style="padding: 50px">Please only register for limited capacity sessions you expect to attend. <a href="https://resbaz.auckland.ac.nz/assets/schedule.pdf">Click here</a> to download a one-page schedule.</p>
-        Select your Learning Pathway here: <select id="themes">
+        Select sessions based on their tags here: <select id="themes">
             <option value="">Show all</option>
             {% for theme in site.data.themes %}
                 <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
@@ -67,7 +67,7 @@
                                             {% for theme in site.data.themes %}
                                                 {% for session_theme in session.themes %}
                                                     {% if session_theme == theme.id %}
-                                                    <div style="background-color:{{theme.color}}; color: {{theme.fontColor}}; border-radius: 50px; padding:1rem;display:inline-block;">
+                                                    <div style="background-color:{{theme.color}}; color: {{theme.fontColor}}; border-radius: 20px; padding:0.5rem;display:inline-block;">
                                                         {{theme.name}}
                                                     </div>
                                                     {% endif %}
