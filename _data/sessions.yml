@@ -27,6 +27,7 @@
 #   subtype: workshop
 #   speakers: [27]
 #   complexity: "Beginner: All welcome"
+#   recorded: ""
 
 # -
 #   id: 005
@@ -35,6 +36,7 @@
 #   subtype: workshop
 #   speakers: [48]
 #   complexity: "TBC" 
+#   recorded: ""
 
 # -
 #   id: 031
@@ -44,6 +46,7 @@
 #   speakers: [10, 38]
 #   themes: ["datascience"]
 #   complexity: "Beginner: All welcome"
+#   recorded: ""
 
 # -
 #   id: 069 
@@ -53,6 +56,7 @@
 #   speakers: [63, 23]
 #   themes: ["datascience"]
 #   complexity: "Beginner: All welcome"
+#   recorded: ""
 
 # -
 #   id: 3269 
@@ -62,6 +66,7 @@
 #   speakers: [69, 64, 70, 66]
 #   themes: ["datascience"]
 #   complexity: "Intermediate"
+#   recorded: ""
 
 -
   id: 001
@@ -72,6 +77,7 @@
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "Unlimited"
+  recorded: "No"
 
 -
   id: 032
@@ -83,17 +89,19 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
--
-  id: 036
-  title: "Working with Social Media Data?"
-  description: "Social media data can enable insightful research into areas like social behaviour and current events. Join this session to connect with and learn from others working with social media data within the Aotearoa research community. More details to come! <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-431288414257\">Book here</a>"
-  subtype: workshop
-  speakers: [12, 58]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome" 
-  length: "1 hour"
-  capacity: "Unlimited"
+# -
+#   id: 036
+#   title: "Working with Social Media Data?"
+#   description: "Social media data can enable insightful research into areas like social behaviour and current events. Join this session to connect with and learn from others working with social media data within the Aotearoa research community. More details to come! <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-431288414257\">Book here</a>"
+#   subtype: workshop
+#   speakers: [12, 58]
+#   themes: ["computing", "datascience"]
+#   complexity: "Beginner: All welcome" 
+#   length: "1 hour"
+#   capacity: "Unlimited"
+#   recorded: ""
 
 -
   id: 044
@@ -105,6 +113,7 @@
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "40 attendees"
+  recorded: "No"
 
 -
   id: 045
@@ -116,6 +125,7 @@
   complexity: "Beginner: All welcome" 
   length: "2 hours"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 047
@@ -127,6 +137,7 @@
   complexity: "Beginner: All welcome" 
   length: "2 hours"
   capacity: "50 attendees"
+  recorded: "No"
 
 -
   id: 061
@@ -138,17 +149,18 @@
   complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
--
-  id: 062
-  title: "Creating Professional LaTeX Reports Without Losing Hair"
-  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This practical workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-428174560637\">Join waitliste</a>"
-  subtype: workshop
-  speakers: [55, 110]
-  themes: ["publish"]
-  complexity: "Beginner: All welcome" 
-  length: "2 hours"
-  capacity: "50 attendees"
+# -
+#   id: 062
+#   title: "Creating Professional LaTeX Reports Without Losing Hair"
+#   description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This practical workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-tickets-428174560637\">Join waitliste</a>"
+#   subtype: workshop
+#   speakers: [55, 110]
+#   themes: ["publish"]
+#   complexity: "Beginner: All welcome" 
+#   length: "2 hours"
+#   capacity: "50 attendees"
 
 -
   id: 063 
@@ -160,6 +172,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 064
@@ -171,6 +184,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 065 
@@ -182,6 +196,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 066 
@@ -193,17 +208,18 @@
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "Unlimited"
+  recorded: ""
 
--
-  id: 067 
-  title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
-  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Join waitlist</a>"
-  subtype: workshop
-  speakers: [60, 12, 110]
-  themes: ["datascience"]
-  complexity: "Beginner: All welcome"
-  length: "3 hours"
-  capacity: "40 attendees"
+# -
+#   id: 067 
+#   title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
+#   description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Join waitlist</a>"
+#   subtype: workshop
+#   speakers: [60, 12, 110]
+#   themes: ["datascience"]
+#   complexity: "Beginner: All welcome"
+#   length: "3 hours"
+#   capacity: "40 attendees"
 
 -
   id: 068 
@@ -214,6 +230,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 070 
@@ -225,6 +242,7 @@
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "50 attendees"
+  recorded: "No"
 
 -
   id: 071 
@@ -236,6 +254,7 @@
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "50 attendees"
+  recorded: "No"
 
 -
   id: 072 
@@ -247,6 +266,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 073 
@@ -258,6 +278,7 @@
   complexity: "Intermediate"
   length: "2 hours"
   capacity: "40 attendees"
+  recorded: "No"
 
 -
   id: 074 
@@ -269,6 +290,7 @@
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "40 attendees"
+  recorded: "No"
 
 -
   id: 075 
@@ -280,6 +302,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 076 
@@ -302,6 +325,7 @@
   complexity: "Beginner/Intermediate"
   length: "2 hours"
   capacity: "100 attendees"
+  recorded: "No"
 
 -
   id: 078 
@@ -313,6 +337,7 @@
   complexity: "Beginner: All welcome"
   length: "3 hours"
   capacity: "40 attendees"
+  recorded: "No"
 
 -
   id: 079 
@@ -324,6 +349,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 080 
@@ -335,17 +361,18 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
--
-  id: 081 
-  title: "Data and Storytelling: Strategies for Compelling Visual Narratives"
-  description: "Why you should care about storytelling and why plots, charts, infographics and visualisations are just the beginning. Data scientist and visual artist Robert Carter looks at ways to bring your data to life. <a href=\"https://www.eventbrite.com/e/data-and-storytelling-strategies-for-compelling-visual-narratives-tickets-428184741087\">Book here</a>"
-  subtype: workshop
-  speakers: [78]
-  themes: ["datascience"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
+# -
+#   id: 081 
+#   title: "Data and Storytelling: Strategies for Compelling Visual Narratives"
+#   description: "Why you should care about storytelling and why plots, charts, infographics and visualisations are just the beginning. Data scientist and visual artist Robert Carter looks at ways to bring your data to life. <a href=\"https://www.eventbrite.com/e/data-and-storytelling-strategies-for-compelling-visual-narratives-tickets-428184741087\">Book here</a>"
+#   subtype: workshop
+#   speakers: [78]
+#   themes: ["datascience"]
+#   complexity: "Beginner: All welcome"
+#   length: "1 hour"
+#   capacity: "Unlimited"
 
 -
   id: 082 
@@ -368,6 +395,7 @@
   complexity: "Intermediate"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 084 
@@ -379,6 +407,7 @@
   complexity: "Beginner/Intermediate"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 085 
@@ -390,38 +419,42 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
-
--
-  id: 086 
-  title: "High Performance Computations with Multithreading"
-  description: "A C-based workshop on using multiple threads to improve performance of your code. In shared-memory parallelism applications achieve parallelism by executing more than one thread at a time across cores within one node. Each of the threads see and manipulate the same memory that the initial process allocated. The workshop explains how parallelism is achieved in HPC applications, what considerations are to be given to the code, what are the benefits and drawbacks of multithreading. <a href=\"https://www.eventbrite.com/e/high-performance-computations-with-multithreading-tickets-427699850767\">Book here</a>"
-  subtype: workshop
-  speakers: [77]
-  themes: ["datascience"]
-  complexity: "Intermediate"
-  length: "1 hour"
-  capacity: "Unlimited"
-
--
-  id: 087 
-  title: "Parallel Programming with MPI"
-  description: "A C-based workshop targeting distributed programming in high performance environment. In distributed-memory parallelism an application achieves parallelism by running multiple instances of itself across multiple nodes to solve the problem. Each instance is allocated its own chunk of virtual memory and communicates to other instances via a message passing interface such as MPI. Distributed memory type jobs have many advantages, among which are more cores to tackle the problem and a far greater amount of memory. The workshop explains details of MPI environment, types of operations MPI employs and considerations given to various implementation models. <a href=\"https://www.eventbrite.com/e/parallel-programming-with-mpi-tickets-427700532807\">Book here</a>"
-  subtype: workshop
-  speakers: [77]
-  themes: ["datascience"]
-  complexity: "Intermediate"
-  length: "1 hour"
-  capacity: "Unlimited"
+  recorded: ""
 
 # -
-#   id: 088 
-#   title: "How to Plan Your Research for Real World Impact"
-#   description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"\">Booking link coming soon</a>"
+#   id: 086 
+#   title: "High Performance Computations with Multithreading"
+#   description: "A C-based workshop on using multiple threads to improve performance of your code. In shared-memory parallelism applications achieve parallelism by executing more than one thread at a time across cores within one node. Each of the threads see and manipulate the same memory that the initial process allocated. The workshop explains how parallelism is achieved in HPC applications, what considerations are to be given to the code, what are the benefits and drawbacks of multithreading. <a href=\"https://www.eventbrite.com/e/high-performance-computations-with-multithreading-tickets-427699850767\">Book here</a>"
 #   subtype: workshop
-#   speakers: []
-#   complexity: "Beginner: All welcome"
+#   speakers: [77]
+#   themes: ["datascience"]
+#   complexity: "Intermediate"
 #   length: "1 hour"
 #   capacity: "Unlimited"
+#   recorded: ""
+
+# -
+#   id: 087 
+#   title: "Parallel Programming with MPI"
+#   description: "A C-based workshop targeting distributed programming in high performance environment. In distributed-memory parallelism an application achieves parallelism by running multiple instances of itself across multiple nodes to solve the problem. Each instance is allocated its own chunk of virtual memory and communicates to other instances via a message passing interface such as MPI. Distributed memory type jobs have many advantages, among which are more cores to tackle the problem and a far greater amount of memory. The workshop explains details of MPI environment, types of operations MPI employs and considerations given to various implementation models. <a href=\"https://www.eventbrite.com/e/parallel-programming-with-mpi-tickets-427700532807\">Book here</a>"
+#   subtype: workshop
+#   speakers: [77]
+#   themes: ["datascience"]
+#   complexity: "Intermediate"
+#   length: "1 hour"
+#   capacity: "Unlimited"
+#   recorded: ""
+
+-
+  id: 088 
+  title: "How to Plan Your Research for Real World Impact"
+  description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"\">Booking link coming soon</a>"
+  subtype: workshop
+  speakers: []
+  complexity: "Beginner: All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 089 
@@ -433,6 +466,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 090
@@ -443,6 +477,7 @@
   complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: "No"
 
 -
   id: 091 
@@ -454,6 +489,7 @@
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "60 attendees"
+  recorded: "No"
 
 -
   id: 092 
@@ -463,28 +499,31 @@
   speakers: [101]
   themes: ["computing", "datascience"]
   complexity: "Beginner: All welcome"
-  length: "1 hour"
+  length: "30 minutes"
   capacity: "Unlimited"
+  recorded: ""
 
--
-  id: 093 
-  title: "Data Security: Addressing Risks in Postgraduate Research"
-  description: "Research data has become a primary target for cyberattacks. Recent reports found that attacks on educational institutions are growing faster than any other sector. It's been clear how vulnerable — and desirable — university research data is to bad actors, emphasizing that having properly secured research will be critical for warding off current and future attacks.And cybersecurity threats to research universities won't stop as Universities will remain repositories of invaluable proprietary and personal data, often tied to corporations and government organizations, that spans medical, military, financial and emerging technologies, and more. A data risk assessment will be the primary step to overcome some of the most common roadblocks preventing universities from securing research data. This one-hour presentation provides guidelines to performing a data risk assessment. A data risk assessment helps researchers gain visibility into all the potential threat vectors that can lead to security or privacy violations, and the awareness of which would help safeguard valuable research. <a href=\"https://www.eventbrite.com/e/data-security-addressing-risks-in-postgraduate-research-tickets-438725538897\">Book here</a>"
-  subtype: workshop
-  speakers: [103]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
+# -
+#   id: 093 
+#   title: "Data Security: Addressing Risks in Postgraduate Research"
+#   description: "Research data has become a primary target for cyberattacks. Recent reports found that attacks on educational institutions are growing faster than any other sector. It's been clear how vulnerable — and desirable — university research data is to bad actors, emphasizing that having properly secured research will be critical for warding off current and future attacks.And cybersecurity threats to research universities won't stop as Universities will remain repositories of invaluable proprietary and personal data, often tied to corporations and government organizations, that spans medical, military, financial and emerging technologies, and more. A data risk assessment will be the primary step to overcome some of the most common roadblocks preventing universities from securing research data. This one-hour presentation provides guidelines to performing a data risk assessment. A data risk assessment helps researchers gain visibility into all the potential threat vectors that can lead to security or privacy violations, and the awareness of which would help safeguard valuable research. <a href=\"https://www.eventbrite.com/e/data-security-addressing-risks-in-postgraduate-research-tickets-438725538897\">Book here</a>"
+#   subtype: workshop
+#   speakers: [103]
+#   complexity: "Beginner: All welcome"
+#   length: "1 hour"
+#   capacity: "Unlimited"
+#   recorded: ""
 
--
-  id: 094 
-  title: "Safeguarding Your Research: Cybersecurity Practices for Researchers"
-  description: "Awareness, accountability, and responsibility are the key tenets of cybersecurity. This one-hour presentation introduces several aspects of cybersecurity with a particular focus to safeguarding post graduate research. It covers cybersecurity practices for researchers including the need for safeguarding your research, what the risks are and who they are from, what parts of your research may be vulnerable, what steps you can take to protect your research, how you can protect your research during travel. This presentation also provides resources, case studies and scenarios. <a href=\"https://www.eventbrite.com/e/safeguarding-your-research-cybersecurity-practices-for-researchers-tickets-438726963157\">Book here</a>"
-  subtype: workshop
-  speakers: [103]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
+# -
+#   id: 094 
+#   title: "Safeguarding Your Research: Cybersecurity Practices for Researchers"
+#   description: "Awareness, accountability, and responsibility are the key tenets of cybersecurity. This one-hour presentation introduces several aspects of cybersecurity with a particular focus to safeguarding post graduate research. It covers cybersecurity practices for researchers including the need for safeguarding your research, what the risks are and who they are from, what parts of your research may be vulnerable, what steps you can take to protect your research, how you can protect your research during travel. This presentation also provides resources, case studies and scenarios. <a href=\"https://www.eventbrite.com/e/safeguarding-your-research-cybersecurity-practices-for-researchers-tickets-438726963157\">Book here</a>"
+#   subtype: workshop
+#   speakers: [103]
+#   complexity: "Beginner: All welcome"
+#   length: "1 hour"
+#   capacity: "Unlimited"
+#   recorded: ""
 
 -
   id: 095 
@@ -496,17 +535,19 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
--
-  id: 096 
-  title: "Bash for High Performance Computing"
-  description: "A precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'. <a href=\"https://www.eventbrite.com/e/bash-for-high-performance-computing-tickets-438794475087\">Book here</a>"
-  subtype: workshop
-  speakers: [54]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "Unlimited"
+# -
+#   id: 096 
+#   title: "Bash for High Performance Computing"
+#   description: "A precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'. <a href=\"https://www.eventbrite.com/e/bash-for-high-performance-computing-tickets-438794475087\">Book here</a>"
+#   subtype: workshop
+#   speakers: [54]
+#   themes: ["computing", "datascience"]
+#   complexity: "Beginner: All welcome"
+#   length: "2 hours"
+#   capacity: "Unlimited"
+#   recorded: ""
 
 -
   id: 097 
@@ -518,6 +559,7 @@
   complexity: "Intermediate"
   length: "2 hours"
   capacity: "50 attendees"
+  recorded: "No"
 
 -
   id: 098 
@@ -529,6 +571,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 099 
@@ -540,6 +583,7 @@
   complexity: "Beginner: All welcome"
   length: ""
   capacity: ""
+  recorded: ""
 
 -
   id: 100 
@@ -551,6 +595,7 @@
   complexity: "Intermediate"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 101 
@@ -561,6 +606,7 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: "No"
 
 -
   id: 102 
@@ -572,6 +618,7 @@
   complexity: "Intermediate"
   length: "1 hour"
   capacity: "50 attendees"
+  recorded: ""
 
 -
   id: 103
@@ -582,3 +629,4 @@
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
+  recorded: ""
