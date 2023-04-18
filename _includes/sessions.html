@@ -22,6 +22,9 @@
 						<p>{% if session.capacity != null %}
 						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span>
 						{% endif %}</p>
+                        <p>{% if session.recorded != null %}
+                        <span class="theme-metadata"><span class="caption">Recorded: </span>{{ session.capacity }}</span>
+                        {% endif %}</p>
                         <hr />
                         <span class="text-body">{{ session.description }}</span>
                         <div class="slot-theme">
