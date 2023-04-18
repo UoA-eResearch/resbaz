@@ -67,7 +67,7 @@
                                             {% for theme in site.data.themes %}
                                                 {% for session_theme in session.themes %}
                                                     {% if session_theme == theme.id %}
-                                                    <div style="background-color:{{theme.color}}; color: {{theme.fontColor}}; border-radius: 20px; padding:0.5rem;display:inline-block;">
+                                                    <div style="background-color:{{theme.color}}12; color: {{theme.fontColor}}; border-color: {{theme.color}};">
                                                         {{theme.name}}
                                                     </div>
                                                     {% endif %}
