@@ -90,7 +90,7 @@
   description: "Social media data can enable insightful research into areas like social behaviour and current events. Join this session to connect with and learn from others working with social media data within the Aotearoa research community. More details to come! <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-431288414257\">Book here</a>"
   subtype: workshop
   speakers: [12, 58]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
@@ -101,7 +101,7 @@
   description: "OpenRefine is a powerful, free, open-source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, practical workshop will demonstrate how it can help you to: Understand the structure of a data set and resolve inconsistencies; Split data up into more granular parts; Match local data up to other data sets; Enhance a data set with data from other sources. <a href=\"https://www.eventbrite.com/e/introduction-to-cleaning-and-transforming-data-with-openrefine-tickets-429453666477\">Join waitlist</a>"
   subtype: workshop
   speakers: [96, 38, 106]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "40 attendees"
@@ -112,7 +112,7 @@
   description: "New to the Python programming language and interested in how it can help your research?  Then this intro session is for you! No prior knowledge of Python required, no hands-on coding involved, just sit back with your favourite beverage and find out about the powerful world of Python. The session is split into 2 parts. Part 1: A holistic overview of Python. Key concepts in Python, how Python is used around the world, and how Python can help you organise, analyse, and visualise your research data. Part 2: Getting started with Python for research. A live demonstration of how to start using Python to investigate research data, including: how to load in a spreadsheet of data, basic manipulation and processing of the data, how to quickly visualise the data to reveal insights into the dataset, and a bunch of useful links to help you launch your journey into using Python! <a href=\"https://www.eventbrite.com/e/how-can-python-help-your-research-tickets-428175964837\">Book here</a>"
   subtype: workshop
   speakers: [27, 104]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome" 
   length: "2 hours"
   capacity: "Unlimited"
@@ -220,7 +220,7 @@
   description: "R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of using R including working with data and creating beautiful plots. There will be hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your R journey with confidence! <a href=\"https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-429459363517\">Join waitlist</a>"
   subtype: workshop
   speakers: [96, 58, 106]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "50 attendees"
@@ -231,7 +231,7 @@
   description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well. Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time. Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows. This session will use the command-line bash shell  to introduce you to the basics, as far as time permits, of how to: navigate the file-system; read, write, and modify files; parse data from and to files; create custom re-usable commands in the form of aliases, shell functions and shell scripts; automate repetitive tasks. If you are using Windows, please install <a href=\"https://carpentries.github.io/workshop-template/#shell\">Git for Windows</a> first. <a href=\"https://www.eventbrite.com/e/introduction-to-command-line-tickets-429457517997\">Book here</a>"
   subtype: workshop
   speakers: [21, 31]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "50 attendees"
@@ -242,7 +242,7 @@
   description: "Julia is a relatively new but exciting, multi-purpose programming language, with increasing adoption among scientific researchers. Interaction with Julia closely resembles that of scripting languages, such as R, MATLAB and python, and a growing number of Julia libraries provide similar functionality for scientific computation. However, extending modifying, or creating new software in these older languages is complicated as all performance critical code must be written in a second, low-level language, like C or FORTRAN, which are more technically demanding, and are slower to test, debug, etc. Julia's careful and elegant design solves this two language problem. In this presentation and Q&A session, find out if Julia is a good match for your research project. Some previous exposure to a programming or scripting language would be useful but not required. Participants in this session may also be interested in <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Getting started with the Julia programming language</a> and <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Introduction to using Julia for machine learning</a>. <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">Book here</a>"
   subtype: workshop
   speakers: [75]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
@@ -253,7 +253,7 @@
   description: "A hands-on, gentle introduction to using the Julia programming language and the MLJ library for machine learning. The basic workflow for training a supervised learning model will be explained, and users will build a basic decision tree model to predict survival probabilities in a hypothetical repeat of the historic Titanic disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful toolbox for quickly selecting, optimizing and comparing diverse machine learning models (as opposed to to frameworks focused on, say, deep learning). Advanced features include the ability to create model pipelines and to combine multiple model predictions in flexible ways. Participants in this session may also be interested in <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Getting started with the Julia programming language</a> and <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: Participants must pre-install workshop resources before the workshop. Instructions are <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2022-Julia-workshop\">here</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. <b>Recommended but not essential</b>: Prior experience with a scripting language, such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Join waitlist</a>"
   subtype: workshop
   speakers: [75, 105]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Intermediate"
   length: "2 hours"
   capacity: "40 attendees"
@@ -264,7 +264,7 @@
   description: "A two-hour introductory workshop for newcomers to Julia, targeted at users from some technical domain, such as science, economics or engineering. Users will learn how to interact with Julia's powerful command-line interface (REPL) as well as through Pluto notebooks. They will learn how to carry out basic mathematical and statistical operations; how to create custom workflows by learning about functions and basic iteration; and how to perform basic data manipulation and visualization. This session is a pre-requisite for <a href=\"https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-429427227397\">Introduction to using Julia for machine learning</a>. Participants in this session may also be interesed in <a href=\"https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-428833682087\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: Participants must pre-install workshop resources before the workshop. Instructions are <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2022-Julia-workshop\">here</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as covered in first year university courses. <b>Recommended but not essential</b>: prior experience with a scripting language such as python, MATLAB or R. <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-429405341937\">Join waitlist</a>"
   subtype: workshop
   speakers: [75, 105, 12]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "40 attendees"
@@ -307,7 +307,7 @@
   description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Bash for High Performance Computing' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"https://www.eventbrite.com/e/introduction-to-high-performance-computing-with-nesi-tickets-438795066857\">Book here</a>"
   subtype: workshop
   speakers: [54]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "3 hours"
   capacity: "40 attendees"
@@ -318,7 +318,7 @@
   description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the 'analysis' itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice.  <a href=\"https://www.eventbrite.com/e/tidy-data-an-introduction-tickets-429452472907\">Book here</a>"
   subtype: workshop
   speakers: [31]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
@@ -329,7 +329,7 @@
   description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland staff and doctoral students. <a href=\"https://www.eventbrite.com/e/research-compute-an-overview-of-options-at-the-university-of-auckland-tickets-429456023527\">Book here</a>"
   subtype: workshop
   speakers: [17]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
@@ -361,7 +361,7 @@
   description: "The tidyverse has changed R programming for data scientists tremendously: cleaning and analysing rectangular data, loops, and parallelization can now be performed through a number of convenient functions. This session offers some recipes and translations for existing R users who want to include more of the tidyverse in their everyday data analysis tasks. <a href=\"https://www.eventbrite.com/e/tidyverse-and-beyond-key-tips-for-existing-r-users-tickets-439396957127\">Book here</a>"
   subtype: workshop
   speakers: [85]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Intermediate"
   length: "1 hour"
   capacity: "Unlimited"
@@ -456,7 +456,7 @@
   description: "The computational requirements of high impact research seems to grow further beyond what individual groups and institutions can reasonably provide every year. New Zealand eScience Infrastructure (NeSI) seeks to help meet these requirements for the New Zealand research community. In this talk we will go over the core services relating to high performance computing (HPC) that NeSI is able to provide, the reason why HPC might be suitable for your work, and how your research team can gain access to these resources. <a href=\"https://www.eventbrite.com/e/what-is-nesi-new-zealands-national-high-performance-computers-tickets-438701978427\">Book here</a>"
   subtype: workshop
   speakers: [101]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
@@ -497,7 +497,7 @@
   description: "A precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'. <a href=\"https://www.eventbrite.com/e/bash-for-high-performance-computing-tickets-438794475087\">Book here</a>"
   subtype: workshop
   speakers: [54]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "2 hours"
   capacity: "Unlimited"
@@ -508,7 +508,7 @@
   description: "A practical introduction to some powerful command line utilities for efficient searching, parsing and manipulating of files and text. We will cover some of the workhorse commands in the UNIX toolbox, such as find, grep, awk, and sed. These are simple to use for simple applications, but provide powerful ways to perform complex actions. With grep, we introduce regular expressions which are a widely-used language for specifying patterns in text. This workshop follows on from 'Introduction to the command line' session, so it is assumed you will have either participated in this session or already have an understanding of the concepts covered in it. Note:  If you use a Windows computer, please ensure you have git-bash pre-installed (https://gitforwindows.org/). <a href=\"https://www.eventbrite.com/e/using-the-command-line-to-find-replace-and-manipulate-data-tickets-441422756347\">Book here</a>"
   subtype: workshop
   speakers: [21, 104]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Intermediate"
   length: "2 hours"
   capacity: "50 attendees"
@@ -519,7 +519,7 @@
   description: "Finding it challenging to collaborate with other researchers? Do you want to make your research as accessible and reproducible as possible? Google Colab is a hosted Jupyter notebook service that allows anybody to write and execute python code through the browser, while providing access free of charge to computing resources including GPUs. With a robust free tier, no installation or prerequisites, and a tonne of features, Google Colab can undoubtedly help you. This one-hour introductory workshop will demonstrate the most important features of Google Colab. Some UoA-specific topics will also be covered, such as how to mount your Google Drive or Dropbox so you can utilise your datasets and have your results saved automatically. This workshop's final section will showcase examples of how Google Colab is being used for research and education. <a href=\"https://www.eventbrite.com/e/research-collaboration-and-reproducibility-with-google-colab-tickets-440040822947\">Book here</a>"
   subtype: workshop
   speakers: [104]
-  themes: ["datascience"]
+  themes: ["computing"]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: "Unlimited"
