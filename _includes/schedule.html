@@ -3,7 +3,7 @@
     <div class="content-wrapper">
             <h4>The 2023 schedule will be added in May - expect many of the same sessions.</h4>
             <p style="padding: 50px"><a href="https://resbaz.auckland.ac.nz/assets/schedule.pdf">Click here</a> to download a one-page schedule.</p>
-        Select sessions based on their tags here: <select id="themes">
+        Filter sessions by topic: <select id="themes">
             <option value="">Show all</option>
             {% for theme in site.data.themes %}
                 <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
