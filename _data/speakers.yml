@@ -709,3 +709,15 @@
   rockstar: false 
   ribbon:
     - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+
+-
+  id: 115
+  name: "Harkanwal"
+  surname: "Singh"
+  company: "Woolworths Group"
+  title: "Data Engineering Lead"
+  bio: "Harkanwal Singh is the data engineering lead at Countdown Supermarkets. Previously he has worked in data engineering and data journalism, including at WestpacNZ, NZ Herald and the Spinoff. He cares about the craft of data storytelling and robust data pipelines."
+  thumbnailUrl: ""
+  rockstar: false 
+  ribbon:
+    - {abbr: "", title: "Woolworths Group", url: ""}
