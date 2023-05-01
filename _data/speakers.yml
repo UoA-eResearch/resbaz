@@ -134,17 +134,18 @@
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-#
-# -
-#   id: 29
-#   name: "Faith"
-#   surname: "Welch"
-#   company: "Office of Research Strategy and Integrity"
-#   title: "Research Impact Manager"
-#   thumbnailUrl: "faith-welch.jpg"
-#   rockstar: false 
-#   ribbon:
-#    - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
+
+-
+  id: 29
+  name: "Faith"
+  surname: "Welch"
+  company: "Office of Research Strategy and Integrity"
+  title: "Research Impact Manager"
+  thumbnailUrl: "faith-welch.jpg"
+  rockstar: false 
+  ribbon:
+   - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
+
 # -
 #   id: 30
 #   name: "Nick"
@@ -245,7 +246,7 @@
   surname: "Saunders"
   company: "University of Auckland"
   title: "eResearch Engagement Specialist"
-  bio: "Tom joined the Centre for eResearch after completing his PhD in Entomology at the University of Auckland. He organises digital research skills events and consults on the management of research data."
+  bio: "Tom organises and delivers digital research skills workshops and has been involved with organising resbaz since 2022. He consults with researchers on the management of research data and tries to make sure they are getting the most out of the services offered by the Centre for eResearch."
   thumbnailUrl: "tom_saunders.jpg"   
   rockstar: false
   ribbon:
@@ -721,3 +722,39 @@
   rockstar: false 
   ribbon:
     - {abbr: "", title: "Woolworths Group", url: ""}
+
+-
+  id: 116
+  name: "Lisa"
+  surname: "Woods"
+  company: "Victoria University of Wellington"
+  title: "Statistical Consultant"
+  bio: "Dr. Lisa Woods works as a Statistical Consultant at Victoria University of Wellington, providing statistical advice to postgraduate students and academic staff."
+  thumbnailUrl: ""
+  rockstar: false 
+  ribbon:
+    - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+
+-
+  id: 117
+  name: "Sydney"
+  surname: "Shep"
+  company: "Victoria University of Wellington"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
+  rockstar: false 
+  ribbon:
+    - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+
+-
+  id: 118
+  name: "Simon"
+  surname: "McCallum"
+  company: "Victoria University of Wellington"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
+  rockstar: false 
+  ribbon:
+    - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
