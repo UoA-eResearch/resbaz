@@ -135,7 +135,7 @@
   title: "Build a Research Portfolio Website (Using GitHub)"
   description: "Learn how to create an attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"\">Book here</a>"
   subtype: workshop
-  speakers: [38, 92]
+  speakers: [38]
   themes: ["publish"]
   complexity: "Beginner: All welcome" 
   length: "2 hours"
