@@ -758,3 +758,39 @@
   rockstar: false 
   ribbon:
     - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+
+- 
+  id: 119
+  name: "Maria"
+  surname: "Mitenkova"
+  company: "University of Auckland"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 120
+  name: "Ana"
+  surname: "Ana Avilés"
+  company: "University of Auckland"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 121
+  name: "Shannon"
+  surname: "Ring"
+  company: "University of Auckland"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "University of Auckland", url: "https://library.auckland.ac.nz"}

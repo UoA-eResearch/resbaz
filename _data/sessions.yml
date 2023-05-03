@@ -111,7 +111,7 @@
   title: "Introduction to Cleaning & Transforming Data with OpenRefine"
   description: "OpenRefine is a powerful, free, open-source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, practical workshop will demonstrate how it can help you to: Understand the structure of a data set and resolve inconsistencies; Split data up into more granular parts; Match local data up to other data sets; Enhance a data set with data from other sources. <a href=\"\">Book here</a>"
   subtype: workshop
-  speakers: [96]
+  speakers: [96, 106]
   themes: ["computing", "datascience"]
   complexity: "Beginner: All welcome"
   length: "2 hours"
@@ -170,7 +170,7 @@
   title: "Open Access: How to Make Your Publications Open"
   description: "Open Access to publications and other research outputs ensures you get maximum exposure and recognition for your work. Open publications are viewed, downloaded, and cited at higher rates than closed publications. There are free ways to make your work open regardless of where you publish, so you don't have to publish in OA journals or pay steep publication fees to enjoy the benefits of OA. In this one-hour workshop you'll learn how to make your publications open for free while respecting copyright and publisher agreements. <a href=\"\">Book here</a>"
   subtype: workshop
-  speakers: []
+  speakers: [119, 120]
   themes: ["publish"]
   complexity: "Beginner: All welcome"
   length: "1 hour"
@@ -191,10 +191,10 @@
 
 -
   id: 065 
-  title: "Using Researcher Profiles & Social Media to Promote Your Research"
+  title: "Using Researcher Profiles & LinkedIn to Promote You and Your Research"
   description: "Trying to work that academic hustle, but don't know how to get your name out there? Wondering about the best way to promote your research or track your publications? In this workshop, we'll discuss the reasons why research profiles are important, look at the different types of profiles and their purposes, and brainstorm some strategies to help you manage your online identities. This will help doctoral candidates and early career researchers (ECRs) set the stage for their future research career. <a href=\"\">Book here</a>"
   subtype: workshop
-  speakers: [100]
+  speakers: [100, 121]
   themes: ["publish"]
   complexity: "Beginner: All welcome"
   length: "1 hour"
@@ -702,7 +702,7 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
   title: "Introduction to creating graphs or plots for publications"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
-  speakers: [96]
+  speakers: [96, 106]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: ""
