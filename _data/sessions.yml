@@ -474,7 +474,7 @@
 
 -
   id: 090
-  title: "ResBaz Drop-In Clinic (Hackyhour)"
+  title: "ResBaz Drop-In Clinic (HackyHour)"
   description: "Open drop-in session to help with troubleshooting, getting help with installing session requirements, and any ResBaz questions. No registration required, just <a href=\"https://auckland.zoom.us/my/hackyhour\">join via Zoom</a> when the session starts."
   subtype: workshop
   speakers: [12, 58]
@@ -529,17 +529,17 @@
 #   capacity: "Unlimited"
 #   recorded: ""
 
--
-  id: 095 
-  title: "Applications of Computer Vision in Research"
-  description: "This session revolves around exploring the applications of Deep Learning and computer vision in research. We will look at different research domains and the practical applications of computer vision deep learning models. Some of the areas we will look at during this session will be Optical Character Recognition, Image classification and segmentation for biomedical sciences and Archaeology. We will also briefly explore the applications of Deep Learning models in other research domains such as prediction/forecasting and anomaly detection. <a href=\"\">Book here</a>"
-  subtype: workshop
-  speakers: [102]
-  themes: ["datascience"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+# -
+#   id: 095 
+#   title: "Applications of Computer Vision in Research"
+#   description: "This session revolves around exploring the applications of Deep Learning and computer vision in research. We will look at different research domains and the practical applications of computer vision deep learning models. Some of the areas we will look at during this session will be Optical Character Recognition, Image classification and segmentation for biomedical sciences and Archaeology. We will also briefly explore the applications of Deep Learning models in other research domains such as prediction/forecasting and anomaly detection. <a href=\"\">Book here</a>"
+#   subtype: workshop
+#   speakers: [102]
+#   themes: ["datascience"]
+#   complexity: "Beginner: All welcome"
+#   length: "1 hour"
+#   capacity: "Unlimited"
+#   recorded: ""
 
 # -
 #   id: 096 
@@ -638,7 +638,7 @@
 
 -
   id: 104
-  title: "AI tools for research"
+  title: "AI Tools for Research"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [118, 104]
@@ -662,7 +662,7 @@
 
 -
   id: 106
-  title: "Creating a story around your data"
+  title: "Creating a Story Around Your Data"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [117]
@@ -674,7 +674,7 @@
 
 -
   id: 107
-  title: "Using R for statistical analysis: A case study"
+  title: "Using R for Statistical Analysis: A case study"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [116]
@@ -686,7 +686,7 @@
 
 -
   id: 108
-  title: "Hands-on statistical analysis with R"
+  title: "Hands-on Statistical Analysis with R"
   description: "A hands-on workshop where we will explore some of the built-in demo data sets available in R. We will apply commonly used statistical analyses such as linear regression, independent-sample t-tests and chi-squared tests, discussing the output and how we might present the results for publication.
 Note: please install R and RStudio prior to the session.https://www.dataquest.io/blog/installing-r-on-your-computer/. <a href=\"\">Book here</a>"
   subtype: workshop
@@ -699,7 +699,7 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
 
 -
   id: 109
-  title: "Introduction to creating graphs or plots for publications"
+  title: "Introduction to Creating Graphs or Plots for Publications"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [96, 106]
@@ -711,7 +711,7 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
 
 -
   id: 110
-  title: "Collaborating on documents and tracking versions"
+  title: "Collaborating on Documents and Tracking Versions"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [96]
@@ -723,7 +723,7 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
 
 -
   id: 111
-  title: "Introduction to the Python programming language"
+  title: "Introduction to the Python Programming Language"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [104]
@@ -735,7 +735,7 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
 
 -
   id: 112
-  title: "Formatting documents with code: An introduction to LaTeX"
+  title: "Formatting Documents with Code: An Introduction to LaTeX"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: []
@@ -747,7 +747,7 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
 
 -
   id: 113
-  title: "Collaborating with Dropbox: tips and tricks"
+  title: "Collaborating with Dropbox: Tips and Tricks"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: []

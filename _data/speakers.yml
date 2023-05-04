@@ -556,17 +556,17 @@
   ribbon:
     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}
 
-- 
-  id: 102
-  name: "Nidhi"
-  surname: "Gowdra"
-  company: "University of Auckland"
-  title: "eResearch Solutions Specialist"
-  bio: "Dr. Nidhi Gowdra has a Bachelor's Degree in Information Sciences, a Master's degree in Computer  and Information Sciences and a Ph.D. majoring in Computer Vision. He has published Articles in Top Journals like Pattern Recognition and Conferences such as IECON. He was the Chair of Machine, Signal and Image Processing Session at the IEEE Industrial Electronics Society Conference (IECON-2020) and has been an academic supervisor for both undergrads and postgrads. His research interests are predominantly in Deep learning and specifically computer vision domain. He now works at the Centre for eResearch at the University of Auckland as an eresearch solutions specialist."
-  thumbnailUrl: "nidhi_gowdra.jpg"
-  rockstar: false
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+# - 
+#   id: 102
+#   name: "Nidhi"
+#   surname: "Gowdra"
+#   company: "University of Auckland"
+#   title: "eResearch Solutions Specialist"
+#   bio: "Dr. Nidhi Gowdra has a Bachelor's Degree in Information Sciences, a Master's degree in Computer  and Information Sciences and a Ph.D. majoring in Computer Vision. He has published Articles in Top Journals like Pattern Recognition and Conferences such as IECON. He was the Chair of Machine, Signal and Image Processing Session at the IEEE Industrial Electronics Society Conference (IECON-2020) and has been an academic supervisor for both undergrads and postgrads. His research interests are predominantly in Deep learning and specifically computer vision domain. He now works at the Centre for eResearch at the University of Auckland as an eresearch solutions specialist."
+#   thumbnailUrl: "nidhi_gowdra.jpg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
 # - 
 #   id: 103
