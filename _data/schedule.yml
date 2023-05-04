@@ -127,7 +127,7 @@
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [080, 032, 090]
+    	sessionIds: [090, 032, 080]
     }
 
 # Wednesday
