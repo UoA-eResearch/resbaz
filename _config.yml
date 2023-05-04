@@ -59,7 +59,7 @@ eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
 heroButtons:
- - {link: "/sessions/", text: "Have a look at what we did last time"}
+ - {link: "/sessions/", text: "2023 schedule is under construction"}
 
 # About Block
 # aboutTitle: ""
