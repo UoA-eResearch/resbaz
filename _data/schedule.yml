@@ -6,8 +6,8 @@
 
 # Monday
 - 
-  date: "2022-11-14"
-  dateReadable: "Monday 14 November"
+  date: "2023-06-26"
+  dateReadable: "Monday 26 June"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -69,8 +69,8 @@
 
 # Tuesday
 - 
-  date: "2022-11-15"
-  dateReadable: "Tuesday 15 November"
+  date: "2023-06-27"
+  dateReadable: "Tuesday 27 June"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -132,8 +132,8 @@
 
 # Wednesday
 - 
-  date: "2022-11-16"
-  dateReadable: "Wednesday 16 November"
+  date: "2023-06-28"
+  dateReadable: "Wednesday 28 May"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -195,8 +195,8 @@
 
 # Thursday
 - 
-  date: "2022-11-17"
-  dateReadable: "Thursday 17 November"
+  date: "2023-06-29"
+  dateReadable: "Thursday 29 May"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -258,8 +258,8 @@
 
 # Friday
 - 
-  date: "2022-11-18"
-  dateReadable: "Friday 18 November"
+  date: "2023-06-30"
+  dateReadable: "Friday 30 May"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
