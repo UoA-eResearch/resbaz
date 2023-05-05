@@ -11,7 +11,7 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 ##### Name of Session
 
 <details>
-  <summary>Click to expand instructions</summary>
+  <summary><b>Click to expand instructions<b></summary>
   
   ## Heading
   1. A numbered
