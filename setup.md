@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Research Bazaar Set Up Instructions
+title: Set Up Instructions
 permalink: /setup/
 isStaticPost: true
 image: hero.jpg
 ---
 
-Several sessions at ResBaz Aotearoa require participants to follow set up instructions before the event. If you have registered for a session requiring set up, you will be provided with a link to the relevant instructions on this page. If you have any trouble following these instructions then please join us at [HackyHour](https://uoa-eresearch.github.io/HackyHour/), 3pm on Tuesday the week before ResBaz (or on Tuesday in the week of ResBaz).
+Some sessions at ResBaz Aotearoa require participants to follow set up instructions before the event. If you have registered for a session requiring set up, you will be provided with a link to the relevant instructions on this page. If you have any trouble following these instructions then please join us at a [HackyHour](https://uoa-eresearch.github.io/HackyHour/) session. We will be running sessions at 3pm on Tuesday in the week before ResBaz, and on Tuesday in the week of ResBaz.
 
 ##### Name of Session
 
@@ -20,10 +20,10 @@ Several sessions at ResBaz Aotearoa require participants to follow set up instru
      * Sub bullets
 </details>
 
-##### Name of Session
+##### Build a Research Portfolio website (using GitHub)
 
 <details>
-  <summary>Click to expand instructions</summary>
+  <summary><b>Click to expand instructions</b></summary>
 This is a hands-on, follow-along workshop, having a dual monitor set-up is highly recommended if possible.
 To prepare for the workshop, before the session please:
 · Set up a free account on [GitHub](https://github.com/) (if you don't already have one)
