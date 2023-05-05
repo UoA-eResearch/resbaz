@@ -24,12 +24,13 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 
 <details>
   <summary><b>Click to expand instructions</b></summary>
+ 
 This is a hands-on, follow-along workshop, having a dual monitor set-up is highly recommended if possible.
 To prepare for the workshop, before the session please:
-· Set up a free account on [GitHub](https://github.com/) (if you don't already have one)
-· Download [GitHub Desktop](https://desktop.github.com/)
-· Download a free text editor ([Visual Studio Code](https://code.visualstudio.com/) recommended)
-· Have some assets you'd like to use for your site (e.g. a profile picture, bio, description of research projects and related images, a brief list of skills and experience, a collection of articles/publications – the raw text, e.g. word documents, will be helpful). Collate these into one folder.
+- Set up a free account on [GitHub](https://github.com/) (if you don't already have one)
+- Download [GitHub Desktop](https://desktop.github.com/)
+- Download a free text editor ([Visual Studio Code](https://code.visualstudio.com/) recommended)
+- Have some assets you'd like to use for your site (e.g. a profile picture, bio, description of research projects and related images, a brief list of skills and experience, a collection of articles/publications – the raw text, e.g. word documents, will be helpful). Collate these into one folder.
  
-Note: Some familiarity with git, HTML and CSS will be beneficial, but not necessary. 
+Note: Some familiarity with git, HTML and CSS will be beneficial, but not necessary.
 </details>
