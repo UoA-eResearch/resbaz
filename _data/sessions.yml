@@ -333,7 +333,7 @@
 -
   id: 078 
   title: "Introduction to High Performance Computing with NeSI"
-  description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Bash for High Performance Computing' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"\">Book here</a>"
+  description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Introduction to the Command Line' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [54, 101]
   themes: ["computing"]
