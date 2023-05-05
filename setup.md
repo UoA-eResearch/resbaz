@@ -33,4 +33,5 @@ To prepare for the workshop, before the session please:
 - Have some assets you'd like to use for your site (e.g. a profile picture, bio, description of research projects and related images, a brief list of skills and experience, a collection of articles/publications – the raw text, e.g. word documents, will be helpful). Collate these into one folder.
  
 Note: Some familiarity with git, HTML and CSS will be beneficial, but not necessary.
+
 </details>
