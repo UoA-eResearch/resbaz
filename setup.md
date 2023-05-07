@@ -11,7 +11,7 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 ##### Name of Session
 
 <details markdown=1>
-  <summary><b>Click to expand instructions</b></summary>
+  <summary>Click to expand instructions</summary>
   
 ## Heading
   1. A numbered
@@ -20,10 +20,10 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
      * Sub bullets
 </details>
 
-##### Build a Research Portfolio website (using GitHub)
+##### <b>Build a Research Portfolio website</b> (using GitHub)
 
 <details markdown=1>
-  <summary><b>Click to expand instructions</b></summary>
+  <summary>Click to expand instructions</summary>
  
 This is a hands-on, follow-along workshop, having a dual monitor set-up is highly recommended if possible.
 To prepare for the workshop, before the session please:
