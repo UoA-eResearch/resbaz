@@ -113,8 +113,8 @@ If you are using Windows, please install Git for Windows. See [here](https://car
   <summary>Click to expand instructions</summary>
  
 If you'd like to follow along you will need to:
-1. Go to https://www.zotero.org/user/register and create a zotero account.
-2. Go to https://www.zotero.org/download/ and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser). On University of Auckland devices: Instead install Zotero through the Software Center (Windows) or Self Service (Mac).
+1. Go to (https://www.zotero.org/user/register) and create a zotero account.
+2. Go to (https://www.zotero.org/download/) and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser). OR on University of Auckland devices: Instead install Zotero through the Software Center (Windows) or Self Service (Mac).
 3. Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details.
 We recommend a two-screen setup for those wishing to follow along.
 
