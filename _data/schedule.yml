@@ -133,7 +133,7 @@
 # Wednesday
 - 
   date: "2023-06-28"
-  dateReadable: "Wednesday 28 May"
+  dateReadable: "Wednesday 28 June"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
