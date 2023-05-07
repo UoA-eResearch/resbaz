@@ -735,10 +735,10 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
 
 -
   id: 112
-  title: "Formatting Documents with Code: An Introduction to LaTeX"
+  title: "Latex 101: Formatting Theses And Manuscripts With Code"
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
-  speakers: []
+  speakers: [110]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: ""
@@ -757,3 +757,14 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
   recorded: ""
   themes: ["publish"]
 
+-
+  id: 114
+  title: "LaTeX, Or How I Earned To Stop Worrying And Love Plain Text"
+  description: "Placeholder description. <a href=\"\">Book here</a>"
+  subtype: workshop
+  speakers: [27]
+  complexity: "Beginner: All welcome"
+  length: "1 hour"
+  capacity: ""
+  recorded: ""
+  themes: ["publish"]
