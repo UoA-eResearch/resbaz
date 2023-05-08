@@ -626,7 +626,7 @@
 
 -
   id: 103
-  title: "Intro to Python's Natural Language Toolkit for textual analysis"
+  title: "Intro to Natural Language Processing using Python"
   description: "What do Lorde, Seinfeld and the Teenage Mutant Ninja Turtles have in common? Properties of all three can be represented as text, whether that be song lyrics, episode scripts, or theme songs. Text allows for a unified representation of data, and researchers across different disciplines and methods all draw from text in different ways. Knowing even just a few basic computational linguistic methods can increase your efficiency as a researcher and open new avenues for research using your data. This short, introductory workshop will demonstrate how to perform basic operations on text, such as counting the frequency of different word types, computing measures of lexical diversity, and performing more complex operations such as sentiment analysis. No prior knowledge of programming is assumed. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [113]
