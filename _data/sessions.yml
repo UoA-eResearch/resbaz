@@ -769,7 +769,7 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
   recorded: ""
   themes: ["publish"]
 
-  -
+-
   id: 115
   title: "Introduction to Web Mapping with Leaflet"
   description: "This workshop will introduce participants to the basics of creating a simple web-based map using the open-source JavaScript library, Leaflet. Participants will learn how to create an interactive map with custom markers, popups, and interactive layers. By the end of the workshop, participants will have the skills to create and publish their own simple web-based maps. Some experience with HTML, CSS, and JavaScript would be useful, but is not necessary. <a href=\"\">Book here</a>"
