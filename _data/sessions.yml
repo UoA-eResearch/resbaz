@@ -342,17 +342,17 @@
   capacity: "40 attendees"
   recorded: "No"
 
-# -
-#   id: 079 
-#   title: "Tidy Data: An Introduction"
-#   description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the 'analysis' itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice.  <a href=\"\">Book here</a>"
-#   subtype: workshop
-#   speakers: [31]
-#   themes: ["computing", "datascience"]
-#   complexity: "Beginner: All welcome"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: ""
+-
+  id: 079 
+  title: "Keeping Your Spreadsheets Tidy"
+  description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the 'analysis' itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice.  <a href=\"\">Book here</a>"
+  subtype: workshop
+  speakers: [31]
+  themes: ["computing", "datascience"]
+  complexity: "Beginner: All welcome"
+  length: "1 hour"
+  capacity: "Unlimited"
+  recorded: ""
 
 -
   id: 080 
@@ -763,6 +763,18 @@ Note: please install R and RStudio prior to the session.https://www.dataquest.io
   description: "Placeholder description. <a href=\"\">Book here</a>"
   subtype: workshop
   speakers: [27]
+  complexity: "Beginner: All welcome"
+  length: "1 hour"
+  capacity: ""
+  recorded: ""
+  themes: ["publish"]
+
+  -
+  id: 115
+  title: "Introduction to Web Mapping with Leaflet"
+  description: "This workshop will introduce participants to the basics of creating a simple web-based map using the open-source JavaScript library, Leaflet. Participants will learn how to create an interactive map with custom markers, popups, and interactive layers. By the end of the workshop, participants will have the skills to create and publish their own simple web-based maps. Some experience with HTML, CSS, and JavaScript would be useful, but is not necessary. <a href=\"\">Book here</a>"
+  subtype: workshop
+  speakers: [30]
   complexity: "Beginner: All welcome"
   length: "1 hour"
   capacity: ""

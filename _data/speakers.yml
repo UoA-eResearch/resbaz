@@ -146,16 +146,16 @@
   ribbon:
    - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
 
-# -
-#   id: 30
-#   name: "Nick"
-#   surname: "Young"
-#   company: "Centre for eResearch"
-#   title: "eResearch Senior Solutions Specialist"
-#   thumbnailUrl: "nick_young.jpg"
-#   rockstar: false 
-#   ribbon:
-#    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+-
+  id: 30
+  name: "Nick"
+  surname: "Young"
+  company: "Centre for eResearch"
+  title: "eResearch Senior Solutions Specialist"
+  thumbnailUrl: "nick_young.jpg"
+  rockstar: false 
+  ribbon:
+   - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 # 
 # -
 #   id: 31
