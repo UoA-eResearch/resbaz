@@ -496,17 +496,17 @@
   ribbon:
     - {abbr: "Otago", title: "University of Otago", url: "https://www.otago.ac.nz/"}
 
-# - 
-#   id: 97
-#   name: "Donna"
-#   surname: "MacColl"
-#   company: "University of Auckland"
-#   title: "Research Services Team Lead"
-#   bio: "Donna has a PhD in Genetics and is a senior member of the Research Service team in Te Tumu Herenga | Libraries and Learning Services, University of Auckland."
-#   thumbnailUrl: "donna_maccoll.jpg"   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+- 
+  id: 97
+  name: "Donna"
+  surname: "MacColl"
+  company: "University of Auckland"
+  title: "Research Services Team Lead"
+  bio: "Donna has a PhD in Genetics and is a senior member of the Research Service team in Te Tumu Herenga | Libraries and Learning Services, University of Auckland."
+  thumbnailUrl: "donna_maccoll.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
 
 # - 
 #   id: 98
