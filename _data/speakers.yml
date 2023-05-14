@@ -664,17 +664,17 @@
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
-# - 
-#   id: 111
-#   name: "Simon"
-#   surname: "Esling"
-#   company: "University of Auckland"
-#   title: "Senior eResearch Engagement Specialist"
-#   bio: "Simon Esling (Ngāti Raukawa) is a Senior eResearch Engagement Specialist at The University of Auckland. His research interests revolve around the support and enhancement of critical thinking for postgraduate students and research data management for academic staff. His current work is exploring the potential for collective critical thinking as a method of navigating novel information by indigenous researchers. Simon has co-authored (with Maree Davies) The use of Quality Talk to foster critical thinking in a low socio-economic secondary Geography classroom (2020) and co-presented (with Dahlia Han) Outreaching, collaborating and connecting: Specialised services supporting researchers for the Performance-Based Research Fund (2017) at the eResearch Australasia Conference, Brisbane."
-#   thumbnailUrl: "simon_esling.jpg"
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+- 
+  id: 111
+  name: "Simon"
+  surname: "Esling"
+  company: "University of Auckland"
+  title: "Senior eResearch Engagement Specialist"
+  bio: "Simon Esling (Ngāti Raukawa) is a Senior eResearch Engagement Specialist at The University of Auckland. His research interests revolve around the support and enhancement of critical thinking for postgraduate students and research data management for academic staff. His current work is exploring the potential for collective critical thinking as a method of navigating novel information by indigenous researchers. Simon has co-authored (with Maree Davies) The use of Quality Talk to foster critical thinking in a low socio-economic secondary Geography classroom (2020) and co-presented (with Dahlia Han) Outreaching, collaborating and connecting: Specialised services supporting researchers for the Performance-Based Research Fund (2017) at the eResearch Australasia Conference, Brisbane."
+  thumbnailUrl: "simon_esling.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
 # -
 #   id: 112
