@@ -1,22 +1,18 @@
-#Add a link <a href=\"\">Book here</a> 
-- 
-  id: 200
-  title: "Break"
-  description: 
+- id: 200
+  title: Break
+  description:
   speakers: []
   hidden: true
 
-- 
-  id: 201
-  title: "Lunch"
-  description: 
+- id: 201
+  title: Lunch
+  description:
   speakers: []
   hidden: true
 
-- 
-  id: 300
-  title: "To Be Announced"
-  description: 
+- id: 300
+  title: To Be Announced
+  description:
   speakers: []
   hidden: true
 
@@ -58,41 +54,58 @@
 #   complexity: "Intermediate"
 #   recorded: ""
 
--
-  id: 001
-  title: "Managing Research Data"
-  description: "An overview of research data management requirements, practices, tools and support across the research data lifecycle. Research data or artefatcs are defined as items created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will hear about policy, legal and ethical requirements, the FAIR, CARE and Maori Data Sovereignty principles, and develop strategies for data management planning, capturing, organising, sharing, and reusing research data. <a href=\"\">Book here</a>"
+- id: 001
+  title: Managing Research Data
+  description: An overview of research data management requirements, practices, tools
+    and support across the research data lifecycle. Research data or artefatcs are
+    defined as items created, collected or observed in the course of producing original
+    research, regardless of format. This introductory workshop is aimed at researchers,
+    particularly those embarking on their research career or starting a new research
+    project. Attendees will hear about policy, legal and ethical requirements, the
+    FAIR, CARE and Maori Data Sovereignty principles, and develop strategies for data
+    management planning, capturing, organising, sharing, and reusing research data.
   subtype: workshop
   speakers: [14, 58]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "Unlimited"
-  recorded: "No"
-  themes: ["publish"]
-
--
-  id: 031
-  title: "Jupyter notebooks for reproducible research"
-  description: "Jupyter Notebooks are a powerful interactive tool that can help you develop and practice your coding skills (especially in Python and Markdown), build reproducible and shareable outputs and easily present the results of your work. This session will discuss some of the pros and cons of using Jupyter Notebooks and give you a chance to follow along and make your first steps in using the tool yourself. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: Unlimited
+  recorded: No
+  themes: [publish]
+  registration_link: https://www.eventbrite.com/e/managing-research-data-tickets-634393306457
+- id: 031
+  title: Jupyter notebooks for reproducible research
+  description: Jupyter Notebooks are a powerful interactive tool that can help you
+    develop and practice your coding skills (especially in Python and Markdown), build
+    reproducible and shareable outputs and easily present the results of your work.
+    This session will discuss some of the pros and cons of using Jupyter Notebooks
+    and give you a chance to follow along and make your first steps in using the tool
+    yourself.
   subtype: workshop
   speakers: [10]
-  themes: ["datascience"]
-  complexity: "Beginner: All welcome"
-  capacity: "30 attendees"
-  length: "1 hour"
-  recorded: ""
+  themes: [datascience]
+  complexity: 'Beginner: All welcome'
+  capacity: 30 attendees
+  length: 1 hour
+  recorded: ''
 
--
-  id: 032
-  title: "NVivo for Literature Reviews"
-  description: "Reviewing the literature is an important part of the research process. Organising relevant papers and findings are more than just data entry or bibliographic tasks, you also need to be able to analyse and integrate this material with the qualitative data you are gathering. This one-hour demonstration will provide an overview of NVivo's functionality with regard to literature reviews. Importing and coding literature, running queries on published material, and working with bibliographic data in conjunction with your NVivo project will all be covered. <a href=\"\">Book here</a>" 
+  registration_link: 
+    https://www.eventbrite.com/e/jupyter-notebooks-for-reproducible-research-tickets-634393296427
+- id: 032
+  title: NVivo for Literature Reviews
+  description: Reviewing the literature is an important part of the research process.
+    Organising relevant papers and findings are more than just data entry or bibliographic
+    tasks, you also need to be able to analyse and integrate this material with the
+    qualitative data you are gathering. This one-hour demonstration will provide an
+    overview of NVivo's functionality with regard to literature reviews. Importing
+    and coding literature, running queries on published material, and working with
+    bibliographic data in conjunction with your NVivo project will all be covered.
   subtype: workshop
   speakers: [36, 114]
-  themes: ["qual"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [qual]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
 # -
 #   id: 036
@@ -106,41 +119,60 @@
 #   capacity: "Unlimited"
 #   recorded: ""
 
--
-  id: 044
-  title: "Introduction to Cleaning & Transforming Data with OpenRefine"
-  description: "OpenRefine is a powerful, free, open-source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, practical workshop will demonstrate how it can help you to: Understand the structure of a data set and resolve inconsistencies; Split data up into more granular parts; Match local data up to other data sets; Enhance a data set with data from other sources. <a href=\"\">Book here</a>"
+  registration_link: https://www.eventbrite.com/e/nvivo-for-literature-reviews-tickets-634393286397
+- id: 044
+  title: Introduction to Cleaning & Transforming Data with OpenRefine
+  description: 'OpenRefine is a powerful, free, open-source tool for working with
+    messy data: cleaning it; transforming it from one format into another; and extending
+    it with web services and external data. This introductory, practical workshop
+    will demonstrate how it can help you to: Understand the structure of a data set
+    and resolve inconsistencies; Split data up into more granular parts; Match local
+    data up to other data sets; Enhance a data set with data from other sources.'
   subtype: workshop
   speakers: [96, 106]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "40 attendees"
-  recorded: "No"
+  themes: [qual, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: 40 attendees
+  recorded: No
 
--
-  id: 045
-  title: "How Can Python Help Your Research?"
-  description: "New to the Python programming language and interested in how it can help your research?  Then this intro session is for you! No prior knowledge of Python required, no hands-on coding involved, just sit back with your favourite beverage and find out about the powerful world of Python. The session is split into 2 parts. Part 1: A holistic overview of Python. Key concepts in Python, how Python is used around the world, and how Python can help you organise, analyse, and visualise your research data. Part 2: Getting started with Python for research. A live demonstration of how to start using Python to investigate research data, including: how to load in a spreadsheet of data, basic manipulation and processing of the data, how to quickly visualise the data to reveal insights into the dataset, and a bunch of useful links to help you launch your journey into using Python! <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/introduction-to-cleaning-transforming-data-with-openrefine-tickets-634393316487
+- id: 045
+  title: How Can Python Help Your Research?
+  description: 'New to the Python programming language and interested in how it can
+    help your research?  Then this intro session is for you! No prior knowledge of
+    Python required, no hands-on coding involved, just sit back with your favourite
+    beverage and find out about the powerful world of Python. The session is split
+    into 2 parts. Part 1: A holistic overview of Python. Key concepts in Python, how
+    Python is used around the world, and how Python can help you organise, analyse,
+    and visualise your research data. Part 2: Getting started with Python for research.
+    A live demonstration of how to start using Python to investigate research data,
+    including: how to load in a spreadsheet of data, basic manipulation and processing
+    of the data, how to quickly visualise the data to reveal insights into the dataset,
+    and a bunch of useful links to help you launch your journey into using Python!'
   subtype: workshop
   speakers: [27, 104]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome" 
-  length: "2 hours"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [computing, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 047
-  title: "Build a Research Portfolio Website (Using GitHub)"
-  description: "Learn how to create an attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/how-can-python-help-your-research-tickets-634393336547
+- id: 047
+  title: Build a Research Portfolio Website (Using GitHub)
+  description: Learn how to create an attractive, functional website to showcase your
+    research career and outputs using GitHub and wowchemy. Some familiarity with git,
+    HTML and CSS will be beneficial, but not necessary.
   subtype: workshop
   speakers: [38]
-  themes: ["publish"]
-  complexity: "Beginner: All welcome" 
-  length: "2 hours"
-  capacity: "50 attendees"
-  recorded: "No"
+  themes: [publish]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: 50 attendees
+  recorded: No
 
 # -
 #   id: 061
@@ -165,53 +197,79 @@
 #   length: "2 hours"
 #   capacity: "50 attendees"
 
--
-  id: 063 
-  title: "Open Access: How to Make Your Publications Open"
-  description: "Open Access to publications and other research outputs ensures you get maximum exposure and recognition for your work. Open publications are viewed, downloaded, and cited at higher rates than closed publications. There are free ways to make your work open regardless of where you publish, so you don't have to publish in OA journals or pay steep publication fees to enjoy the benefits of OA. In this one-hour workshop you'll learn how to make your publications open for free while respecting copyright and publisher agreements. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/build-a-research-portfolio-website-using-github-tickets-634393326517
+- id: 063
+  title: 'Open Access: How to Make Your Publications Open'
+  description: Open Access to publications and other research outputs ensures you
+    get maximum exposure and recognition for your work. Open publications are viewed,
+    downloaded, and cited at higher rates than closed publications. There are free
+    ways to make your work open regardless of where you publish, so you don't have
+    to publish in OA journals or pay steep publication fees to enjoy the benefits
+    of OA. In this one-hour workshop you'll learn how to make your publications open
+    for free while respecting copyright and publisher agreements.
   subtype: workshop
   speakers: [119, 120]
-  themes: ["publish"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [publish]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 064
-  title: "Strategic Publishing: Deciding Where to Publish & Understanding the Process"
-  description: "Confused about where you should publish your research? Want to make sure you're publishing in credible journals? Want to learn more about the publishing process? In this session we'll cover publishing strategies to maximise the impact of your research and provide an overview of the publishing and peer review process so you know what to expect. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/open-access-how-to-make-your-publications-open-tickets-634393356607
+- id: 064
+  title: 'Strategic Publishing: Deciding Where to Publish & Understanding the Process'
+  description: Confused about where you should publish your research? Want to make
+    sure you're publishing in credible journals? Want to learn more about the publishing
+    process? In this session we'll cover publishing strategies to maximise the impact
+    of your research and provide an overview of the publishing and peer review process
+    so you know what to expect.
   subtype: workshop
-  speakers: [99]
-  themes: ["publish"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  speakers: [99, 97]
+  themes: [publish]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 065 
-  title: "Using Researcher Profiles & LinkedIn to Promote You and Your Research"
-  description: "Trying to work that academic hustle, but don't know how to get your name out there? Wondering about the best way to promote your research or track your publications? In this workshop, we'll discuss the reasons why research profiles are important, look at the different types of profiles and their purposes, and brainstorm some strategies to help you manage your online identities. This will help doctoral candidates and early career researchers (ECRs) set the stage for their future research career. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/strategic-publishing-deciding-where-to-publish-understanding-the-process-tickets-634393366637
+- id: 065
+  title: Using Researcher Profiles & LinkedIn to Promote You and Your Research
+  description: Trying to work that academic hustle, but don't know how to get your
+    name out there? Wondering about the best way to promote your research or track
+    your publications? In this workshop, we'll discuss the reasons why research profiles
+    are important, look at the different types of profiles and their purposes, and
+    brainstorm some strategies to help you manage your online identities. This will
+    help doctoral candidates and early career researchers (ECRs) set the stage for
+    their future research career.
   subtype: workshop
   speakers: [100, 121]
-  themes: ["publish"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [publish]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 066 
-  title: "Managing References With Zotero"
-  description: "Academic references are the bread and butter of research life. We spend a lot of time capturing, organising, and consulting references, so it makes sense to use the right tool for the job. Zotero is a free open-source reference manager built by researchers for researchers. It is simple to learn, yet powerful and feature-rich, and will save you countless hours at university and beyond. In this two hour workshop you'll learn how to use Zotero to capture, organise, and cite your references when you need them. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/using-researcher-profiles-linkedin-to-promote-you-and-your-research-tickets-634393386697
+- id: 066
+  title: Managing References With Zotero
+  description: Academic references are the bread and butter of research life. We spend
+    a lot of time capturing, organising, and consulting references, so it makes sense
+    to use the right tool for the job. Zotero is a free open-source reference manager
+    built by researchers for researchers. It is simple to learn, yet powerful and
+    feature-rich, and will save you countless hours at university and beyond. In this
+    two hour workshop you'll learn how to use Zotero to capture, organise, and cite
+    your references when you need them.
   subtype: workshop
   speakers: [58, 114]
-  themes: ["publish"]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [publish]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: Unlimited
+  recorded: ''
 
 # -
 #   id: 067 
@@ -224,147 +282,255 @@
 #   length: "3 hours"
 #   capacity: "40 attendees"
 
--
-  id: 068 
-  title: "Design 101: Presentations, Posters, and PowerPoints for Researchers"
-  description: "Why are you here? What are you presenting? Who are you presenting to? No, this is not the abstract for 'Existentialism with Nietzsche', it's 'Design 101: Presentations, Posters, and PowerPoints for Researchers'! Have you ever seen a research poster or a PowerPoint presentation that was truly terrible and thought, 'Wow, I wonder how I could salvage that? I wonder how I can make research approachable through attractive design?' In this session, we will give you tips on what makes good visual design for research. We will walk you through the do's (and some don'ts) and what to consider when putting together a visual research presentation, whether a poster, a PowerPoint slideshow, or another type of medium. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/managing-references-with-zotero-tickets-634393396727
+- id: 068
+  title: 'Design 101: Presentations, Posters, and PowerPoints for Researchers'
+  description: "Why are you here? What are you presenting? Who are you presenting
+    to? No, this is not the abstract for 'Existentialism with Nietzsche', it's 'Design
+    101: Presentations, Posters, and PowerPoints for Researchers'! Have you ever seen
+    a research poster or a PowerPoint presentation that was truly terrible and thought,
+    'Wow, I wonder how I could salvage that? I wonder how I can make research approachable
+    through attractive design?' In this session, we will give you tips on what makes
+    good visual design for research. We will walk you through the do's (and some don'ts)
+    and what to consider when putting together a visual research presentation, whether
+    a poster, a PowerPoint slideshow, or another type of medium."
   subtype: workshop
-  speakers: [61, 93]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  speakers: [61, 100]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 070 
-  title: "Introduction to R and RStudio"
-  description: "R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of using R including working with data and creating beautiful plots. There will be hands-on exercises for you to practice R coding and we will share tips-and-tricks to help you start your R journey with confidence! <a href=\"\">Join waitlist</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/design-101-presentations-posters-and-powerpoints-for-researchers-tickets-634393376667
+- id: 070
+  title: Introduction to R and RStudio
+  description: R is a free and widely used programming language for data analysis
+    and statistics. This workshop aims to introduce you to the R programming language,
+    and RStudio - free software used to work with R. We will cover the most important
+    parts of using R including working with data and creating beautiful plots. There
+    will be hands-on exercises for you to practice R coding and we will share tips-and-tricks
+    to help you start your R journey with confidence! <a href="">Join waitlist</a>
   subtype: workshop
   speakers: [96, 58, 106]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "50 attendees"
-  recorded: "No"
+  themes: [computing, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: 50 attendees
+  recorded: No
 
--
-  id: 071 
-  title: "Introduction to the Command Line"
-  description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well. Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time. Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows. This session will use the command-line bash shell  to introduce you to the basics, as far as time permits, of how to: navigate the file-system; read, write, and modify files; parse data from and to files; create custom re-usable commands in the form of aliases, shell functions and shell scripts; automate repetitive tasks. If you are using Windows, please install <a href=\"https://carpentries.github.io/workshop-template/#shell\">Git for Windows</a> first. <a href=\"\">Book here</a>"
+  registration_link: https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-634393406757
+- id: 071
+  title: Introduction to the Command Line
+  description: 'The Unix shell is a powerful command-line interface and scripting
+    language which can automate repetitive tasks. The Unix philosophy is that each
+    tool (command) should perform just one task, and perform it well. Learning the
+    command-line is learning how to exploit these tools and compose them to perform
+    tasks that you can find no satisfactory single tool to perform. Along the way,
+    you will learn how to choose appropriate commands for your tasks and develop an
+    understanding of how the command line can help you to save time. Bash is the default
+    shell on most modern implementations of Unix and in most packages that provide
+    Unix-like tools for Windows. This session will use the command-line bash shell  to
+    introduce you to the basics, as far as time permits, of how to: navigate the file-system;
+    read, write, and modify files; parse data from and to files; create custom re-usable
+    commands in the form of aliases, shell functions and shell scripts; automate repetitive
+    tasks. If you are using Windows, please install <a href="https://carpentries.github.io/workshop-template/#shell">Git
+    for Windows</a> first.'
   subtype: workshop
   speakers: [21]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "50 attendees"
-  recorded: "No"
+  themes: [computing, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: 50 attendees
+  recorded: No
 
--
-  id: 072 
-  title: "What is the Julia Programming Language and is it Right for Me?"
-  description: "Julia is a relatively new but exciting, multi-purpose programming language, with increasing adoption among scientific researchers. Interaction with Julia closely resembles that of scripting languages, such as R, MATLAB and python, and a growing number of Julia libraries provide similar functionality for scientific computation. However, extending modifying, or creating new software in these older languages is complicated as all performance critical code must be written in a second, low-level language, like C or FORTRAN, which are more technically demanding, and are slower to test, debug, etc. Julia's careful and elegant design solves this two language problem. In this presentation and Q&A session, find out if Julia is a good match for your research project. Some previous exposure to a programming or scripting language would be useful but not required. Participants in this session may also be interested in <a href=\"\">Getting started with the Julia programming language</a> and <a href=\"\">Introduction to using Julia for machine learning</a>. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/introduction-to-the-command-line-tickets-634393426817
+- id: 072
+  title: What is the Julia Programming Language and is it Right for Me?
+  description: Julia is a relatively new but exciting, multi-purpose programming language,
+    with increasing adoption among scientific researchers. Interaction with Julia
+    closely resembles that of scripting languages, such as R, MATLAB and python, and
+    a growing number of Julia libraries provide similar functionality for scientific
+    computation. However, extending modifying, or creating new software in these older
+    languages is complicated as all performance critical code must be written in a
+    second, low-level language, like C or FORTRAN, which are more technically demanding,
+    and are slower to test, debug, etc. Julia's careful and elegant design solves
+    this two language problem. In this presentation and Q&A session, find out if Julia
+    is a good match for your research project. Some previous exposure to a programming
+    or scripting language would be useful but not required. Participants in this session
+    may also be interested in <a href="">Getting started with the Julia programming
+    language</a> and <a href="">Introduction to using Julia for machine learning</a>.
   subtype: workshop
   speakers: [75]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [computing, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 073 
-  title: "Introduction to Using Julia for Machine Learning"
-  description: "A hands-on, gentle introduction to using the Julia programming language and the MLJ library for machine learning. The basic workflow for training a supervised learning model will be explained, and users will build a basic decision tree model to predict survival probabilities in a hypothetical repeat of the historic Titanic disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful toolbox for quickly selecting, optimizing and comparing diverse machine learning models (as opposed to to frameworks focused on, say, deep learning). Advanced features include the ability to create model pipelines and to combine multiple model predictions in flexible ways. Participants in this session may also be interested in <a href=\"\">Getting started with the Julia programming language</a> and <a href=\"\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: Participants must pre-install workshop resources before the workshop. Instructions are <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2022-Julia-workshop\">here</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. <b>Recommended but not essential</b>: Prior experience with a scripting language, such as python, MATLAB or R. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-634393436847
+- id: 073
+  title: Introduction to Using Julia for Machine Learning
+  description: 'A hands-on, gentle introduction to using the Julia programming language
+    and the MLJ library for machine learning. The basic workflow for training a supervised
+    learning model will be explained, and users will build a basic decision tree model
+    to predict survival probabilities in a hypothetical repeat of the historic Titanic
+    disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful
+    toolbox for quickly selecting, optimizing and comparing diverse machine learning
+    models (as opposed to to frameworks focused on, say, deep learning). Advanced
+    features include the ability to create model pipelines and to combine multiple
+    model predictions in flexible ways. Participants in this session may also be interested
+    in <a href="">Getting started with the Julia programming language</a> and <a href="">What
+    is the Julia programming language and is it right for me?</a>. <b>Requirements</b>:
+    Participants must pre-install workshop resources before the workshop. Instructions
+    are <a href="https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2022-Julia-workshop">here</a>.
+    <b>Recommended</b>: An understanding of basic linear algebra and statistics, such
+    as that covered in first year university courses. <b>Recommended but not essential</b>:
+    Prior experience with a scripting language, such as python, MATLAB or R.'
   subtype: workshop
   speakers: [75]
-  themes: ["computing", "datascience"]
-  complexity: "Intermediate"
-  length: "2 hours"
-  capacity: "40 attendees"
-  recorded: "No"
+  themes: [computing, datascience]
+  complexity: Intermediate
+  length: 2 hours
+  capacity: 40 attendees
+  recorded: No
 
--
-  id: 074 
-  title: "Getting Started With the Julia Programming Language"
-  description: "A two-hour introductory workshop for newcomers to Julia, targeted at users from some technical domain, such as science, economics or engineering. Users will learn how to interact with Julia's powerful command-line interface (REPL) as well as through Pluto notebooks. They will learn how to carry out basic mathematical and statistical operations; how to create custom workflows by learning about functions and basic iteration; and how to perform basic data manipulation and visualization. This session is a pre-requisite for <a href=\"\">Introduction to using Julia for machine learning</a>. Participants in this session may also be interesed in <a href=\"\">What is the Julia programming language and is it right for me?</a>. <b>Requirements</b>: Participants must pre-install workshop resources before the workshop. Instructions are <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2022-Julia-workshop\">here</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics, such as covered in first year university courses. <b>Recommended but not essential</b>: prior experience with a scripting language such as python, MATLAB or R. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-634393466937
+- id: 074
+  title: Getting Started With the Julia Programming Language
+  description: "A two-hour introductory workshop for newcomers to Julia, targeted
+    at users from some technical domain, such as science, economics or engineering.
+    Users will learn how to interact with Julia's powerful command-line interface
+    (REPL) as well as through Pluto notebooks. They will learn how to carry out basic
+    mathematical and statistical operations; how to create custom workflows by learning
+    about functions and basic iteration; and how to perform basic data manipulation
+    and visualization. This session is a pre-requisite for <a href=\"\">Introduction
+    to using Julia for machine learning</a>. Participants in this session may also
+    be interesed in <a href=\"\">What is the Julia programming language and is it
+    right for me?</a>. <b>Requirements</b>: Participants must pre-install workshop
+    resources before the workshop. Instructions are <a href=\"https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2022-Julia-workshop\"\
+    >here</a>. <b>Recommended</b>: An understanding of basic linear algebra and statistics,
+    such as covered in first year university courses. <b>Recommended but not essential</b>:
+    prior experience with a scripting language such as python, MATLAB or R."
   subtype: workshop
   speakers: [75]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "40 attendees"
-  recorded: "No"
+  themes: [computing, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: 40 attendees
+  recorded: No
 
--
-  id: 075 
-  title: "NVivo Showcase"
-  description: "There's a lot more to NVivo than initially meets the eye! In this webinar we'll be showcasing our favourite features of NVivo including matrix coding queries, explore and comparison diagrams, and mind-maps. This session is perfect for researchers who are new to NVivo, as well as those who are familiar with the basics and curious to know what else is possible. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-634393446877
+- id: 075
+  title: NVivo Showcase
+  description: There's a lot more to NVivo than initially meets the eye! In this webinar
+    we'll be showcasing our favourite features of NVivo including matrix coding queries,
+    explore and comparison diagrams, and mind-maps. This session is perfect for researchers
+    who are new to NVivo, as well as those who are familiar with the basics and curious
+    to know what else is possible.
   subtype: workshop
   speakers: [36, 114]
-  themes: ["qual", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [qual, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 076 
-  title: "Research Computing with the Rust Programming Language"
-  description: "What is Rust, and how might you use it for research? Tim McNamara, author of Rust in Action, will give a quick primer on the Rust programming language, and explain how it might be used to speed up, and scale up, your research. No prior experience with the language is necessary. <a href=\"\">Book here</a>"
+  registration_link: https://www.eventbrite.com/e/nvivo-showcase-tickets-634393456907
+- id: 076
+  title: Research Computing with the Rust Programming Language
+  description: What is Rust, and how might you use it for research? Tim McNamara,
+    author of Rust in Action, will give a quick primer on the Rust programming language,
+    and explain how it might be used to speed up, and scale up, your research. No
+    prior experience with the language is necessary. 
   subtype: workshop
   speakers: [74]
-  themes: ["datascience"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
+  themes: [datascience]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
 
--
-  id: 077 
-  title: "Python for Image Manipulation and Repeatable Research Pipelines"
-  description: "You know how to crop an image, but what if you need to crop 65000 images in one go? This applied tutorial will introduce how the Python programming language can be used to create powerful, scalable and repeatable workflows, using image manipulation as an example. The session will include a live demo with commentary, project showcase and questions and answers. Having an entry level understanding of Python or a similar programming language will be helpful, but not essential. <a href=\"\">Book here</a>"
+- id: 077
+  title: Python for Image Manipulation and Repeatable Research Pipelines
+  description: You know how to crop an image, but what if you need to crop 65000 images
+    in one go? This applied tutorial will introduce how the Python programming language
+    can be used to create powerful, scalable and repeatable workflows, using image
+    manipulation as an example. The session will include a live demo with commentary,
+    project showcase and questions and answers. Having an entry level understanding
+    of Python or a similar programming language will be helpful, but not essential.
   subtype: workshop
   speakers: [53]
-  themes: ["publish", "datascience"]
-  complexity: "Beginner/Intermediate"
-  length: "2 hours"
-  capacity: "100 attendees"
-  recorded: "No"
+  themes: [publish, datascience]
+  complexity: Beginner/Intermediate
+  length: 2 hours
+  capacity: 100 attendees
+  recorded: No
 
--
-  id: 078 
-  title: "Introduction to High Performance Computing with NeSI"
-  description: "A hands-on introduction to high performance computing (HPC) on a NeSI supercomputer. Members of the NeSI training team will guide attendees through HPC fundamentals including, software environment modules, scheduler use, profiling and scaling. We recommend you attend 'Introduction to the Command Line' or are already familiar with navigating a command line linux environment. Requirements: NeSI account, details provided after registration and closer to the event. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/python-for-image-manipulation-and-repeatable-research-pipelines-tickets-634393476967
+- id: 078
+  title: Introduction to High Performance Computing with NeSI
+  description: "A hands-on introduction to high performance computing (HPC) on a NeSI
+    supercomputer. Members of the NeSI training team will guide attendees through
+    HPC fundamentals including, software environment modules, scheduler use, profiling
+    and scaling. We recommend you attend 'Introduction to the Command Line' or are
+    already familiar with navigating a command line linux environment. Requirements:
+    NeSI account, details provided after registration and closer to the event."
   subtype: workshop
   speakers: [54, 101]
-  themes: ["computing"]
-  complexity: "Beginner: All welcome"
-  length: "3 hours"
-  capacity: "40 attendees"
-  recorded: "No"
+  themes: [computing]
+  complexity: 'Beginner: All welcome'
+  length: 3 hours
+  capacity: 40 attendees
+  recorded: No
 
--
-  id: 079 
-  title: "Keeping Your Spreadsheets Tidy"
-  description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers can make sense of it. Since this is where most research projects start, this is where we want to start too! Preparing data for analysis is an important part of the research workflow and some have estimated that this data preparation may take 4x as long as the 'analysis' itself. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent, but the foundation is to start with a machine readable datasheet. In this workshop we will cover the basics of good data hygiene and the core principles of the tidy data framework which ensures that your data are machine readable and ready for manipulation/analysis. We encourage you to bring along a device that has access to some kind of spreadsheet software (e.g. google sheets, excel, etc.), so you can spot the problems and work towards putting tidy data into practice.  <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/introduction-to-high-performance-computing-with-nesi-tickets-634393517087
+- id: 079
+  title: Keeping Your Spreadsheets Tidy
+  description: Good data organisation is the foundation of any research project. We
+    often organise data in spreadsheets in ways that we as humans want to work with
+    it, but computers require data be organised in particular ways. In order to use
+    tools that make computation more efficient such as programming languages like
+    R or Python, we need to structure our data the way that computers can make sense
+    of it. Since this is where most research projects start, this is where we want
+    to start too! Preparing data for analysis is an important part of the research
+    workflow and some have estimated that this data preparation may take 4x as long
+    as the 'analysis' itself. Some of this involves data cleaning, where errors in
+    the data are identifed and corrected or formatting made consistent, but the foundation
+    is to start with a machine readable datasheet. In this workshop we will cover
+    the basics of good data hygiene and the core principles of the tidy data framework
+    which ensures that your data are machine readable and ready for manipulation/analysis.
+    We encourage you to bring along a device that has access to some kind of spreadsheet
+    software (e.g. google sheets, excel, etc.), so you can spot the problems and work
+    towards putting tidy data into practice.
   subtype: workshop
   speakers: [31]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [qual, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 080 
-  title: "Research Compute: An Overview of Options at the University of Auckland"
-  description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland staff and doctoral students. <a href=\"\">Book here</a>"
+  registration_link: https://www.eventbrite.com/e/keeping-your-spreadsheets-tidy-tickets-634393507057
+- id: 080
+  title: 'Research Compute: An Overview of Options at the University of Auckland'
+  description: Need more computer power to do your analysis? Is your laptop/desktop
+    struggling to run your analysis? Come along to hear about virtual machines and
+    High Performance Computing options available to University of Auckland staff and
+    doctoral students.
   subtype: workshop
   speakers: [17]
-  themes: ["computing"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [computing]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
 # -
 #   id: 081 
@@ -388,41 +554,51 @@
 #   length: "2 hours"
 #   capacity: "50 attendees"
 
--
-  id: 083 
-  title: "Tidyverse and Beyond: Key Tips for Existing R Users"
-  description: "The tidyverse has changed R programming for data scientists tremendously: cleaning and analysing rectangular data, loops, and parallelization can now be performed through a number of convenient functions. This session offers some recipes and translations for existing R users who want to include more of the tidyverse in their everyday data analysis tasks. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/research-compute-an-overview-of-options-at-the-university-of-auckland-tickets-634393527117
+- id: 083
+  title: 'Tidyverse and Beyond: Key Tips for Existing R Users'
+  description: 'The tidyverse has changed R programming for data scientists tremendously:
+    cleaning and analysing rectangular data, loops, and parallelization can now be
+    performed through a number of convenient functions. This session offers some recipes
+    and translations for existing R users who want to include more of the tidyverse
+    in their everyday data analysis tasks.'
   subtype: workshop
   speakers: [85]
-  themes: ["computing", "datascience"]
-  complexity: "Intermediate"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [qual, datascience]
+  complexity: Intermediate
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 084 
-  title: "Collecting Sensitive Research Data"
-  description: "Are you looking to collect sensitive data, such as personal information, in your research? This session will cover what constitutes sensitive data, and how you can mitigate associated risks with collecting it in Qualtrics, including creating screener surveys, using pre-assigned participant Ids, and anonymising responses. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/tidyverse-and-beyond-key-tips-for-existing-r-users-tickets-634393537147
+- id: 084
+  title: Collecting Sensitive Research Data
+  description: Are you looking to collect sensitive data, such as personal information,
+    in your research? This session will cover what constitutes sensitive data, and
+    how you can mitigate associated risks with collecting it in Qualtrics, including
+    creating screener surveys, using pre-assigned participant Ids, and anonymising
+    responses. 
   subtype: workshop
   speakers: [38, 14]
-  themes: ["qual"]
-  complexity: "Beginner/Intermediate"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [qual]
+  complexity: Beginner/Intermediate
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 085 
-  title: "Introduction to Qualtrics for Research Surveys"
-  description: "This session will introduce you to Qualtrics, a powerful survey tool useful for collecting a range of research data. <a href=\"\">Book here</a>"
+- id: 085
+  title: Introduction to Qualtrics for Research Surveys
+  description: This session will introduce you to Qualtrics, a powerful survey tool
+    useful for collecting a range of research data.
   subtype: workshop
   speakers: [114]
-  themes: ["qual"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [qual]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
 # -
 #   id: 086 
@@ -448,64 +624,97 @@
 #   capacity: "Unlimited"
 #   recorded: ""
 
--
-  id: 088 
-  title: "How to Plan Your Research for Real World Impact"
-  description: "Economic, societal and environmental impact, or the 'non-academic' impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"\">Booking link coming soon</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/introduction-to-qualtrics-for-research-surveys-tickets-634393547177
+- id: 088
+  title: How to Plan Your Research for Real World Impact
+  description: Economic, societal and environmental impact, or the 'non-academic'
+    impact of research, is becoming an increasingly important part of the research
+    ecosystem. It is standard practice for researchers to be asked by funders to describe
+    the benefits of their research and how they might enable that benefit to be achieved.
+    This session offers a high-level step-by-step guide on how to incorporate impact
+    into your research planning. <a href="">Booking link coming soon</a>
   subtype: workshop
   speakers: [29]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
-  themes: ["publish"]
-
--
-  id: 089 
-  title: "Digital Storytelling with KnightLab"
-  description: "Interested in learning how to use a suite of open-source tools to create interactive narratives and visualisations for your research? This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics and see how easy and fun it is to create a compelling StoryMap. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
+  themes: [publish]
+  registration_link: 
+    https://www.eventbrite.com/e/how-to-plan-your-research-for-real-world-impact-tickets-634393557207
+- id: 089
+  title: Digital Storytelling with KnightLab
+  description: Interested in learning how to use a suite of open-source tools to create
+    interactive narratives and visualisations for your research? This session provides
+    an overview of a range of free, easy-to-use tools from KnightLab useful for time
+    or location-based narratives. Learn the basics and see how easy and fun it is
+    to create a compelling StoryMap.
   subtype: workshop
   speakers: [38]
-  themes: ["publish"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [publish]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
--
-  id: 090
-  title: "ResBaz Drop-In Clinic (HackyHour)"
-  description: "Open drop-in session to help with troubleshooting, getting help with installing session requirements, and any ResBaz questions. No registration required, just <a href=\"https://auckland.zoom.us/my/hackyhour\">join via Zoom</a> when the session starts."
+  registration_link: 
+    https://www.eventbrite.com/e/digital-storytelling-with-knightlab-tickets-634393567237
+- id: 090
+  title: ResBaz Drop-In Clinic (HackyHour)
+  description: Open drop-in session to help with troubleshooting, getting help with
+    installing session requirements, and any ResBaz questions. No registration required,
+    just <a href="https://auckland.zoom.us/my/hackyhour">join via Zoom</a> when the
+    session starts.
   subtype: workshop
   speakers: [12, 58]
-  complexity: "Beginner: All welcome" 
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: "No"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: No
 
--
-  id: 091 
-  title: "Visual Abstracts Create an Attention Hook to Your Published Article"
-  description: "Visual abstracts are a 'movie poster' of a journal article displayed on social media that hooks a viewer's attention to read your article. Like a 3-minute thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood in a 30-second glance. Designed with icons and keywords, they are simpler than a graphical abstract and quicker to make. Visual abstracts are a powerful thinking tool for yourself and a valuable communication tool to engage others. The first half of the session is an interactive exploration of visual abstracts to inspire your imagination. The second half is a guided workshop where together we build your creative confidence by making a visual abstract. Please also see this collection of <a href=\"https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:fbec7bab-b69d-3670-90e8-436ae9954bba\">self-paced multimedia resources</a> related to visual abstracts. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/resbaz-drop-in-clinic-hackyhour-tickets-634393577267
+- id: 091
+  title: Visual Abstracts Create an Attention Hook to Your Published Article
+  description: Visual abstracts are a 'movie poster' of a journal article displayed
+    on social media that hooks a viewer's attention to read your article. Like a 3-minute
+    thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood
+    in a 30-second glance. Designed with icons and keywords, they are simpler than
+    a graphical abstract and quicker to make. Visual abstracts are a powerful thinking
+    tool for yourself and a valuable communication tool to engage others. The first
+    half of the session is an interactive exploration of visual abstracts to inspire
+    your imagination. The second half is a guided workshop where together we build
+    your creative confidence by making a visual abstract. Please also see this collection
+    of <a 
+    href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:fbec7bab-b69d-3670-90e8-436ae9954bba">self-paced
+    multimedia resources</a> related to visual abstracts.
   subtype: workshop
   speakers: [95]
-  themes: ["publish"]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "60 attendees"
-  recorded: "No"
+  themes: [publish]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: 60 attendees
+  recorded: No
 
--
-  id: 092 
-  title: "What is NeSI? New Zealand's National High Performance Computers"
-  description: "The computational requirements of high impact research seems to grow further beyond what individual groups and institutions can reasonably provide every year. New Zealand eScience Infrastructure (NeSI) seeks to help meet these requirements for the New Zealand research community. In this talk we will go over the core services relating to high performance computing (HPC) that NeSI is able to provide, the reason why HPC might be suitable for your work, and how your research team can gain access to these resources. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-634393587297
+- id: 092
+  title: What is NeSI? New Zealand's National High Performance Computers
+  description: The computational requirements of high impact research seems to grow
+    further beyond what individual groups and institutions can reasonably provide
+    every year. New Zealand eScience Infrastructure (NeSI) seeks to help meet these
+    requirements for the New Zealand research community. In this talk we will go over
+    the core services relating to high performance computing (HPC) that NeSI is able
+    to provide, the reason why HPC might be suitable for your work, and how your research
+    team can gain access to these resources.
   subtype: workshop
   speakers: [101, 54]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "30 minutes"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [computing, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 30 minutes
+  capacity: Unlimited
+  recorded: ''
 
 # -
 #   id: 093 
@@ -553,29 +762,50 @@
 #   capacity: "Unlimited"
 #   recorded: ""
 
--
-  id: 097 
-  title: "Using the Command Line to Find, Replace, and Manipulate Data"
-  description: "A practical introduction to some powerful command line utilities for efficient searching, parsing and manipulating of files and text. We will cover some of the workhorse commands in the UNIX toolbox, such as find, grep, awk, and sed. These are simple to use for simple applications, but provide powerful ways to perform complex actions. With grep, we introduce regular expressions which are a widely-used language for specifying patterns in text. This workshop follows on from 'Introduction to the command line' session, so it is assumed you will have either participated in this session or already have an understanding of the concepts covered in it. Note:  If you use a Windows computer, please ensure you have git-bash pre-installed (https://gitforwindows.org/). <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/what-is-nesi-new-zealands-national-high-performance-computers-tickets-634393497027
+- id: 097
+  title: Using the Command Line to Find, Replace, and Manipulate Data
+  description: "A practical introduction to some powerful command line utilities for
+    efficient searching, parsing and manipulating of files and text. We will cover
+    some of the workhorse commands in the UNIX toolbox, such as find, grep, awk, and
+    sed. These are simple to use for simple applications, but provide powerful ways
+    to perform complex actions. With grep, we introduce regular expressions which
+    are a widely-used language for specifying patterns in text. This workshop follows
+    on from 'Introduction to the command line' session, so it is assumed you will
+    have either participated in this session or already have an understanding of the
+    concepts covered in it. Note:  If you use a Windows computer, please ensure you
+    have git-bash pre-installed (https://gitforwindows.org/)."
   subtype: workshop
   speakers: [21]
-  themes: ["computing", "datascience"]
-  complexity: "Intermediate"
-  length: "2 hours"
-  capacity: "50 attendees"
-  recorded: "No"
+  themes: [computing, datascience]
+  complexity: Intermediate
+  length: 2 hours
+  capacity: 50 attendees
+  recorded: No
 
--
-  id: 098 
-  title: "Research Collaboration and Reproducibility with Google Colab"
-  description: "Finding it challenging to collaborate with other researchers? Do you want to make your research as accessible and reproducible as possible? Google Colab is a hosted Jupyter notebook service that allows anybody to write and execute python code through the browser, while providing access free of charge to computing resources including GPUs. With a robust free tier, no installation or prerequisites, and a tonne of features, Google Colab can undoubtedly help you. This one-hour introductory workshop will demonstrate the most important features of Google Colab. Some UoA-specific topics will also be covered, such as how to mount your Google Drive or Dropbox so you can utilise your datasets and have your results saved automatically. This workshop's final section will showcase examples of how Google Colab is being used for research and education. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/using-the-command-line-to-find-replace-and-manipulate-data-tickets-634393597327
+- id: 098
+  title: Research Collaboration and Reproducibility with Google Colab
+  description: Finding it challenging to collaborate with other researchers? Do you
+    want to make your research as accessible and reproducible as possible? Google
+    Colab is a hosted Jupyter notebook service that allows anybody to write and execute
+    python code through the browser, while providing access free of charge to computing
+    resources including GPUs. With a robust free tier, no installation or prerequisites,
+    and a tonne of features, Google Colab can undoubtedly help you. This one-hour
+    introductory workshop will demonstrate the most important features of Google Colab.
+    Some UoA-specific topics will also be covered, such as how to mount your Google
+    Drive or Dropbox so you can utilise your datasets and have your results saved
+    automatically. This workshop's final section will showcase examples of how Google
+    Colab is being used for research and education.
   subtype: workshop
   speakers: [104]
-  themes: ["computing", "datascience"]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [computing, datascience]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
 # -
 #   id: 099 
@@ -589,17 +819,23 @@
 #   capacity: ""
 #   recorded: ""
 
--
-  id: 100 
-  title: "Doing Even More with OpenRefine"
-  description: "You know how to use Open Refine to clean up messy data using facets and clustering, and you're curious about some of its powerful features. This demonstration of using transformations will include how to use snippets of reusable code to do things like select part of a sentence, swap author first and last names around, and use Python and Regex in OR.  We will also look at using OR to query web based APIs to enrich a dataset. Prerequisites: Beginner knowledge of Open Refine. <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/research-collaboration-and-reproducibility-with-google-colab-tickets-634393607357
+- id: 100
+  title: Doing Even More with OpenRefine
+  description: "You know how to use Open Refine to clean up messy data using facets
+    and clustering, and you're curious about some of its powerful features. This demonstration
+    of using transformations will include how to use snippets of reusable code to
+    do things like select part of a sentence, swap author first and last names around,
+    and use Python and Regex in OR.  We will also look at using OR to query web based
+    APIs to enrich a dataset. Prerequisites: Beginner knowledge of Open Refine."
   subtype: workshop
   speakers: [108]
-  themes: ["qual", "datascience"]
-  complexity: "Intermediate"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
+  themes: [qual, datascience]
+  complexity: Intermediate
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
 
 # -
 #   id: 101 
@@ -612,171 +848,214 @@
 #   capacity: "Unlimited"
 #   recorded: "No"
 
--
-  id: 102 
-  title: "Authoring Collaborative Research Projects in Quarto"
-  description: "Learn how to develop reproducible and sharable workflows using Quarto and Git. We will take you through how to host collaborative research projects as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, research outputs can be shared as a live link that is consitent with your latest analyses. One benefit of Quarto is flexibility, accepting multiple programming languages (R, Python, Julia...) and output formats (docx, pdf, html...). Requirements: The session is designed to be easy to follow; however, is targeted at people already familiar with basic coding, code editing software, and version control. We will be using R as an example but Python, R, Julia, and Observable JavaScript are the primary languages Quarto support. R-specific experience is not required. Further instructions will be provided closer to the session. Before the session please install: - Quarto (https://quarto.org/docs/get-started/); R (https://www.r-project.org/); Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git); log in to GitHub (or sign up for a free account) (https://github.com/); install VS Code (https://code.visualstudio.com/download) and in the extensions tab of VS Code install the R, Quarto, and Git extensions.  <a href=\"\">Book here</a>"
+  registration_link: 
+    https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-634393617387
+- id: 102
+  title: Authoring Collaborative Research Projects in Quarto
+  description: 'Learn how to develop reproducible and sharable workflows using Quarto
+    and Git. We will take you through how to host collaborative research projects
+    as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version
+    control and markdown syntax, research outputs can be shared as a live link that
+    is consitent with your latest analyses. One benefit of Quarto is flexibility,
+    accepting multiple programming languages (R, Python, Julia...) and output formats
+    (docx, pdf, html...). Requirements: The session is designed to be easy to follow;
+    however, is targeted at people already familiar with basic coding, code editing
+    software, and version control. We will be using R as an example but Python, R,
+    Julia, and Observable JavaScript are the primary languages Quarto support. R-specific
+    experience is not required. Further instructions will be provided closer to the
+    session. Before the session please install: - Quarto (https://quarto.org/docs/get-started/);
+    R (https://www.r-project.org/); Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git);
+    log in to GitHub (or sign up for a free account) (https://github.com/); install
+    VS Code (https://code.visualstudio.com/download) and in the extensions tab of
+    VS Code install the R, Quarto, and Git extensions.  '
   subtype: workshop
   speakers: [66]
-  themes: ["publish"]
-  complexity: "Intermediate"
-  length: "1 hour"
-  capacity: "50 attendees"
-  recorded: ""
+  themes: [publish]
+  complexity: Intermediate
+  length: 1 hour
+  capacity: 50 attendees
+  recorded: ''
 
--
-  id: 103
-  title: "Intro to Natural Language Processing using Python"
-  description: "What do Lorde, Seinfeld and the Teenage Mutant Ninja Turtles have in common? Properties of all three can be represented as text, whether that be song lyrics, episode scripts, or theme songs. Text allows for a unified representation of data, and researchers across different disciplines and methods all draw from text in different ways. Knowing even just a few basic computational linguistic methods can increase your efficiency as a researcher and open new avenues for research using your data. This short, introductory workshop will demonstrate how to perform basic operations on text, such as counting the frequency of different word types, computing measures of lexical diversity, and performing more complex operations such as sentiment analysis. No prior knowledge of programming is assumed. <a href=\"\">Book here</a>"
+- id: 103
+  title: Intro to Natural Language Processing using Python
+  description: What do Lorde, Seinfeld and the Teenage Mutant Ninja Turtles have in
+    common? Properties of all three can be represented as text, whether that be song
+    lyrics, episode scripts, or theme songs. Text allows for a unified representation
+    of data, and researchers across different disciplines and methods all draw from
+    text in different ways. Knowing even just a few basic computational linguistic
+    methods can increase your efficiency as a researcher and open new avenues for
+    research using your data. This short, introductory workshop will demonstrate how
+    to perform basic operations on text, such as counting the frequency of different
+    word types, computing measures of lexical diversity, and performing more complex
+    operations such as sentiment analysis. No prior knowledge of programming is assumed.
   subtype: workshop
   speakers: [113]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
-  themes: ["computing", "datascience"]
-
--
-  id: 104
-  title: "AI Tools for Research"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
+  themes: [computing, datascience]
+  registration_link: 
+    https://www.eventbrite.com/e/intro-to-natural-language-processing-using-python-tickets-634393627417
+- id: 104
+  title: AI Tools for Research
+  description: Placeholder description. 
   subtype: workshop
   speakers: [118, 104]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: "Unlimited"
-  recorded: ""
-  themes: ["computing", "datascience"]
-
--
-  id: 105
-  title: "Modern Data Stack in a Box with DuckDB and dbt"
-  description: "Are you interested in expanding your data engineering skills? Do you have your eyes set on future industry jobs? Whereas dbt is currently well in demand, Duckdb is a newer tool that will be rising in significance in the coming years. The idea of a modern data stack in a box is to make you productive using best data engineering practices minus the high cloud costs. DuckDB is an in-process SQL management system designed for analytics. It is combined with dbt which acts as the transformation layer for your data pipelines, letting you create robust systems for analytics and machine learning. Why use a single machine and not the cloud? As a starting point for data engineering pipelines, this allows you to have a self-contained system and create end-to-end pipelines that can be deployed with ease to other systems. You can also have the option to take your code and deploy it to other dbt adapters. This makes dbt a core part of the modern data stack. Come and learn more about both DuckDB and dbt in this workshop. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: Unlimited
+  recorded: ''
+  themes: [computing, datascience]
+- id: 105
+  title: Modern Data Stack in a Box with DuckDB and dbt
+  description: Are you interested in expanding your data engineering skills? Do you
+    have your eyes set on future industry jobs? Whereas dbt is currently well in demand,
+    Duckdb is a newer tool that will be rising in significance in the coming years.
+    The idea of a modern data stack in a box is to make you productive using best
+    data engineering practices minus the high cloud costs. DuckDB is an in-process
+    SQL management system designed for analytics. It is combined with dbt which acts
+    as the transformation layer for your data pipelines, letting you create robust
+    systems for analytics and machine learning. Why use a single machine and not the
+    cloud? As a starting point for data engineering pipelines, this allows you to
+    have a self-contained system and create end-to-end pipelines that can be deployed
+    with ease to other systems. You can also have the option to take your code and
+    deploy it to other dbt adapters. This makes dbt a core part of the modern data
+    stack. Come and learn more about both DuckDB and dbt in this workshop.
   subtype: workshop
   speakers: [115]
-  complexity: "Intermediate"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
-  themes: ["computing", "datascience"]
-
--
-  id: 106
-  title: "Creating a Story Around Your Data"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: Intermediate
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
+  themes: [computing, datascience]
+  registration_link: 
+    https://www.eventbrite.com/e/modern-data-stack-in-a-box-with-duckdb-and-dbt-tickets-634393637447
+- id: 106
+  title: Creating a Story Around Your Data
+  description: Placeholder description.
   subtype: workshop
   speakers: [117]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: ""
-  themes: ["publish"]
-
--
-  id: 107
-  title: "Using R for Statistical Analysis: A case study"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: Unlimited
+  recorded: ''
+  themes: [publish]
+  registration_link: 
+    https://www.eventbrite.com/e/creating-a-story-around-your-data-tickets-634393647477
+- id: 107
+  title: 'Using R for Statistical Analysis: A case study'
+  description: Placeholder description.
   subtype: workshop
   speakers: [116]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: ""
-  recorded: ""
-  themes: ["computing", "datascience"]
-
--
-  id: 108
-  title: "Hands-on Statistical Analysis with R"
-  description: "A hands-on workshop where we will explore some of the built-in demo data sets available in R. We will apply commonly used statistical analyses such as linear regression, independent-sample t-tests and chi-squared tests, discussing the output and how we might present the results for publication.
-Note: please install R and RStudio prior to the session.https://www.dataquest.io/blog/installing-r-on-your-computer/. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: ''
+  recorded: ''
+  themes: [computing, datascience]
+  registration_link: 
+    https://www.eventbrite.com/e/using-r-for-statistical-analysis-a-case-study-tickets-634393657507
+- id: 108
+  title: Hands-on Statistical Analysis with R
+  description: 'A hands-on workshop where we will explore some of the built-in demo
+    data sets available in R. We will apply commonly used statistical analyses such
+    as linear regression, independent-sample t-tests and chi-squared tests, discussing
+    the output and how we might present the results for publication. Note: please
+    install R and RStudio prior to the session.https://www.dataquest.io/blog/installing-r-on-your-computer/.'
   subtype: workshop
   speakers: [116]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: ""
-  recorded: ""
-  themes: ["computing", "datascience"]
-
--
-  id: 109
-  title: "Introduction to Creating Graphs or Plots for Publications"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: ''
+  recorded: ''
+  themes: [computing, datascience]
+  registration_link: 
+    https://www.eventbrite.com/e/hands-on-statistical-analysis-with-r-tickets-634393667537
+- id: 109
+  title: Introduction to Creating Graphs or Plots for Publications
+  description: Placeholder description.
   subtype: workshop
   speakers: [96, 106]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: ""
-  recorded: ""
-  themes: ["publish"]
-
--
-  id: 110
-  title: "Collaborating on Documents and Tracking Versions"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: ''
+  recorded: ''
+  themes: [publish]
+  registration_link: 
+    https://www.eventbrite.com/e/introduction-to-creating-graphs-or-plots-for-publications-tickets-634393677567
+- id: 110
+  title: Collaborating on Documents and Tracking Versions
+  description: Placeholder description.
   subtype: workshop
   speakers: [96]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: ""
-  recorded: ""
-  themes: ["publish"]
-
--
-  id: 111
-  title: "Introduction to the Python Programming Language"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: ''
+  recorded: ''
+  themes: [publish]
+  registration_link: 
+    https://www.eventbrite.com/e/collaborating-on-documents-and-tracking-versions-tickets-634393687597
+- id: 111
+  title: Introduction to the Python Programming Language
+  description: Placeholder description.
   subtype: workshop
   speakers: [104]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: ""
-  recorded: ""
-  themes: ["computing", "datascience"]
-
--
-  id: 112
-  title: "Latex 101: An Introduction to Formatting Documents With Code"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: ''
+  recorded: ''
+  themes: [computing, datascience]
+  registration_link: https://www.eventbrite.com/e/introduction-to-python-tickets-634393697627
+- id: 112
+  title: 'Latex 101: An Introduction to Formatting Documents With Code'
+  description: Placeholder description.
   subtype: workshop
   speakers: [110]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: ""
-  recorded: ""
-  themes: ["publish"]
-
--
-  id: 113
-  title: "Collaborating with Dropbox: Tips and Tricks"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: ''
+  recorded: ''
+  themes: [publish]
+  registration_link: 
+    https://www.eventbrite.com/e/latex-101-an-introduction-to-formatting-documents-with-code-tickets-634393707657
+- id: 113
+  title: 'Collaborating with Dropbox: Tips and Tricks'
+  description: Placeholder description.
   subtype: workshop
   speakers: []
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: ""
-  recorded: ""
-  themes: ["publish"]
-
--
-  id: 114
-  title: "LaTeX, Or How I Earned To Stop Worrying And Love Plain Text"
-  description: "Placeholder description. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: ''
+  recorded: ''
+  themes: [publish]
+  registration_link: 
+    https://www.eventbrite.com/e/collaborating-with-dropbox-tips-and-tricks-tickets-634393717687
+- id: 114
+  title: LaTeX, Or How I Earned To Stop Worrying And Love Plain Text
+  description: Placeholder description.
   subtype: workshop
   speakers: [27]
-  complexity: "Beginner: All welcome"
-  length: "1 hour"
-  capacity: ""
-  recorded: ""
-  themes: ["publish"]
-
--
-  id: 115
-  title: "Introduction to Web Mapping with Leaflet"
-  description: "This workshop will introduce participants to the basics of creating a simple web-based map using the open-source JavaScript library, Leaflet. Participants will learn how to create an interactive map with custom markers, popups, and interactive layers. By the end of the workshop, participants will have the skills to create and publish their own simple web-based maps. Some experience with HTML, CSS, and JavaScript would be useful, but is not necessary. <a href=\"\">Book here</a>"
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: ''
+  recorded: ''
+  themes: [publish]
+  registration_link: 
+    https://www.eventbrite.com/e/latex-or-how-i-earned-to-stop-worrying-and-love-plain-text-tickets-634393727717
+- id: 115
+  title: Introduction to Web Mapping with Leaflet
+  description: This workshop will introduce participants to the basics of creating
+    a simple web-based map using the open-source JavaScript library, Leaflet. Participants
+    will learn how to create an interactive map with custom markers, popups, and interactive
+    layers. By the end of the workshop, participants will have the skills to create
+    and publish their own simple web-based maps. Some experience with HTML, CSS, and
+    JavaScript would be useful, but is not necessary.
   subtype: workshop
   speakers: [30]
-  complexity: "Beginner: All welcome"
-  length: "2 hours"
-  capacity: ""
-  recorded: ""
-  themes: ["publish"]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  capacity: ''
+  recorded: ''
+  themes: [datascience]
+  registration_link: 
+    https://www.eventbrite.com/e/introduction-to-web-mapping-with-leaflet-tickets-634393737747
