@@ -297,6 +297,7 @@
     a poster, a PowerPoint slideshow, or another type of medium."
   subtype: workshop
   speakers: [61, 100]
+  themes: [publish]
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
