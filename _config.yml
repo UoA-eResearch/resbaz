@@ -67,9 +67,11 @@ heroButtons:
 # aboutTitle: ""
 #aboutSubtitle: "Conference"
 aboutText: |
-  - ResBaz is free and awesome
-  - ResBaz is not like your usual conference as it isn't about research outputs but the process
-  - You can get a taste of various topics and hands-on experience
+  - 40+ free and online digital research skills [sessions](https://resbaz.auckland.ac.nz/sessions/)
+  - Designed for postgraduate students, researchers and those that support them in any discipline - all of the Aotearoa NZ research community
+  - Register for taster and hands-on sessions across a week-long [schedule](https://resbaz.auckland.ac.nz/schedule/)
+  - Look out for local meetups in your institution
+  - Read more [about ResBaz](https://resbaz.auckland.ac.nz/about/)
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
