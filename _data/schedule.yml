@@ -190,7 +190,7 @@
 # Thursday
 - 
   date: "2023-06-29"
-  dateReadable: "Thursday 29 May"
+  dateReadable: "Thursday 29 June"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -253,7 +253,7 @@
 # Friday
 - 
   date: "2023-06-30"
-  dateReadable: "Friday 30 May"
+  dateReadable: "Friday 30 June"
   tracks: 
     - {title: "1", color: "#f27f27"}
     # - {title: "2", color: "#e91e63"}
