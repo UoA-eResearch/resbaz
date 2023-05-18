@@ -66,7 +66,10 @@ heroButtons:
 # About Block
 # aboutTitle: ""
 #aboutSubtitle: "Conference"
-# aboutText: ""
+aboutText: |
+  - ResBaz is free and awesome
+  - ResBaz is not like your usual conference as it isn't about research outputs but the process
+  - You can get a taste of various topics and hands-on experience
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
