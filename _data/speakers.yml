@@ -768,7 +768,7 @@
   company: "University of Auckland"
   title: ""
   bio: ""
-  thumbnailUrl: ""   
+  thumbnailUrl: "maria_mitenkova.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "LLS", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
