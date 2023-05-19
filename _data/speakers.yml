@@ -708,7 +708,7 @@
   company: "Victoria University of Wellington"
   title: "Digital Research Consultant"
   bio: "Dr Hayden Thorne is a Digital Research Consultant in the Centre for Academic Development at Te Herenga Waka Victoria University of Wellington. He works on a regular basis with both academics and professional staff to both optimise their survey setup and perform effective analysis of the data that is collected."
-  thumbnailUrl: ""
+  thumbnailUrl: "hayden_throne.jpg"
   rockstar: false 
   ribbon:
     - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
@@ -796,3 +796,15 @@
   rockstar: false
   ribbon:
     - {abbr: "LLS", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 122
+  name: "Julia"
+  surname: "Mouatt"
+  company: "University of Auckland"
+  title: ""
+  bio: "Julia has a background in academia with a PhD in molecular ecology from the University of Copenhagen and a postdoc focusing on population genetics conducted with the U.S. Geological Survey at Oregon State University. After academia she worked as a product manager at the kiwi start-up Publons, which was acquired by Clarivate in 2017, where she was the head of the Web of Science Academy. While at Publons and Clarivate she helped develop online research integrity training courses and practical courses on how to peer review for journals, and set up a global peer review mentoring community built into the Web of Science Academy. In March 2023 she took on the role of researcher development manager at the University of Auckland to support academics in their professional development at all stages of their career."
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "ORSI", title: "University of Auckland", url: "https://research-hub.auckland.ac.nz/research-project-support/ORSI"}

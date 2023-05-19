@@ -101,13 +101,13 @@ nav {
             display: block;
         }
         a {
-            font-size: $base-font-size;
+            font-size: 18px;
             font-weight: $bold;
             transition: $base-transition;
             text-transform: uppercase;
             color: $nav-color;
             @media (max-width: 767px) {
-                font-size: 16px;
+                font-size: 18px;
                 display: block;
                 padding: 13px 15px 13px 15px;
                 transition: $base-transition;
