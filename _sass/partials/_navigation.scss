@@ -101,7 +101,7 @@ nav {
             display: block;
         }
         a {
-            font-size: 18px;
+            font-size: $base-font-size;
             font-weight: $bold;
             transition: $base-transition;
             text-transform: uppercase;
