@@ -1072,9 +1072,8 @@
   subtype: workshop
   speakers: [122]
   complexity: 'Beginner: All welcome'
-  length: 1 hours
-  capacity: '40'
+  length: 1 hour
+  capacity: 50 attendees
   recorded: ''
   themes: [publish]
   registration_link: 
-    https://www.eventbrite.com/e/introduction-to-web-mapping-with-leaflet-tickets-634393737747
