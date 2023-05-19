@@ -247,7 +247,7 @@
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [106, 108, 116]
+    	sessionIds: [116, 108, 300]
     }
 
 # Friday
