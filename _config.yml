@@ -196,7 +196,7 @@ footerBlocks:
   title: "Partners"
   links:
    - {link: "https://www.academic-consulting.co.nz/", text: "Academic Consulting"}
-   - {link: "https://yousaydata.com/", text: "You Say Data"}
+   - {link: "https://yousaydata.com/", image: "/img/partners/YSD_Logo.png"}
    - {link: "https://dropbox.com/", image: "img/partners/DropboxSecondaryLogo.png"}
   #  - {link: "https://natlib.govt.nz/", text: "National Library of New Zealand"}
  -
