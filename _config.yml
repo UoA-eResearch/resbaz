@@ -185,14 +185,15 @@ footerBlocks:
   title: "Host Organisations"
   links:
    - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland", image: "/img/organizers/UoA Logo Domestic Blue RGB H.png"}
-   - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development and Research Office, Victoria University of Wellington"}
-   - {link: "https://www.otago.ac.nz/", text: "University of Otago"}
+   - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development and Research Office, Victoria University of Wellington", image: "/img/organizers/VUW_green.png"}
+   - {link: "https://www.otago.ac.nz/", text: "University of Otago", image: "/img/organizers/OtagoLogo.png"}
    - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "MBIE-funded Data Science Platform: <em>Beyond Prediction</em>"}
  -
   title: "Partners"
   links:
    - {link: "https://www.academic-consulting.co.nz/", text: "Academic Consulting"}
    - {link: "https://yousaydata.com/", text: "You Say Data"}
+   - {link: "https://dropbox.com/", image: "img/partners/DropboxSecondaryLogo.png"}
   #  - {link: "https://natlib.govt.nz/", text: "National Library of New Zealand"}
  -
   title: "FAQ"
