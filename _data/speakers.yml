@@ -732,22 +732,22 @@
   company: "Victoria University of Wellington"
   title: "Statistical Consultant"
   bio: "Dr. Lisa Woods works as a Statistical Consultant at Victoria University of Wellington, providing statistical advice to postgraduate students and academic staff."
-  thumbnailUrl: ""
+  thumbnailUrl: "lisa_woods.jpg"
   rockstar: false 
   ribbon:
     - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
--
-  id: 117
-  name: "Sydney"
-  surname: "Shep"
-  company: "Victoria University of Wellington"
-  title: ""
-  bio: ""
-  thumbnailUrl: ""
-  rockstar: false 
-  ribbon:
-    - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+# -
+#   id: 117
+#   name: "Sydney"
+#   surname: "Shep"
+#   company: "Victoria University of Wellington"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: ""
+#   rockstar: false 
+#   ribbon:
+#     - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
 -
   id: 118
@@ -756,7 +756,7 @@
   company: "Victoria University of Wellington"
   title: ""
   bio: ""
-  thumbnailUrl: ""
+  thumbnailUrl: "mccallum.jpg"
   rockstar: false 
   ribbon:
     - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
