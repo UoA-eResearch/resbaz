@@ -15,11 +15,13 @@
 			<ul>
 				{% for linkElement in block.links %}
 					<li>
-						<a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}"
-							{% if linkElement.link != null %}target="_blank" {% endif %}>{{ linkElement.text }}</a>
+						<a href="{{ linkElement.link }}" target="_blank">
 							{% if linkElement.image %}
-								<img width="180" src="{{ linkElement.image }}"/>
+								<img width="180" src="{{ linkElement.image }}" alt="{{ linkElement.text }}" title="{{ linkElement.text }}"/>
+							{% else %}
+								{{ linkElement.text }}
 							{% endif %}
+						</a>
 					</li>
 				{% endfor %}
 			</ul>
