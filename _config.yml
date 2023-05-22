@@ -192,7 +192,7 @@ footerBlocks:
   title: "Partners"
   links:
    - {link: "https://www.academic-consulting.co.nz/", text: "Academic Consulting"}
-   - {link: "https://www.nesi.org.nz/", image: "img/partners/nesi_logo.png", text: "NeSI New Zealand eScience Infrastructure"}
+   - {link: "https://www.nesi.org.nz/", image: "/img/partners/nesi_logo.png", text: "NeSI New Zealand eScience Infrastructure"}
    - {link: "https://yousaydata.com/", image: "/img/partners/YSD_Logo.png", text: "You Say Data"}
    - {link: "https://dropbox.com/", image: "/img/partners/DropboxSecondaryLogo.png", text: "Dropbox"}
   #  - {link: "https://natlib.govt.nz/", text: "National Library of New Zealand"}
