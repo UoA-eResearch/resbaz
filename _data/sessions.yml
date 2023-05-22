@@ -1,63 +1,3 @@
-- id: 200
-  title: Break
-  description:
-  speakers: []
-  hidden: true
-
-- id: 201
-  title: Lunch
-  description:
-  speakers: []
-  hidden: true
-
-- id: 300
-  title: To Be Announced
-  description:
-  speakers: []
-  hidden: true
-
-- id: 301
-  title: Session details coming soon
-  description:
-  speakers: []
-  hidden: true
-# -
-#   id: 1127 
-#   title: "Welcome to ResBaz: When all you have is a hammer, every problem looks like a nail: why you should consider learning a new digital tool, and what is the right one to use"
-#   description: "Chris will provide insights from his personal experiences of having had to use a range of different digital tools in research. He'll compare the time spent leaning vs that saved with colleagues who have stuck to their 'hammers', (Excel - I'm looking at you) and hope to show you the benefit of time spent developing a 'toolbox' of digital tools. He will also talk about the advantages and disadvantages of the digital tools that he has encountered with the goal of helping you find identify the right 'tool' for your need. <p> This open session is designed to help attendees to identify other ResBaz sessions that may be useful to them. <a href=\"https://auckland.zoom.us/j/95158293964?pwd=QTJYSVpkWEJIRTR1TGd5cDBDenk1UT09\">Zoom link</a> "
-#   subtype: workshop
-#   speakers: [27]
-#   complexity: "Beginner: All welcome"
-#   recorded: ""
-
-# -
-#   id: 005
-#   title: "Introduction to Nectar virtual machines (- UoA only)"
-#   description: "Is your desktop/laptop struggling to perform research analysis? <p>Using a virtual machine could help. <p>The Centre for eResearch is offering a 1-hour online workshop and practical session to enable University of Auckland researchers to use Nectar Research Cloud (virtual machines). <br>This session is ideal for those considering or starting to use Nectar Research Cloud, presenters will provide practical instruction on getting an allocation and setting up a Windows virtual machine.<br>Please register with your University of Auckland email address.<br> <a href=\"https://www.eventbrite.com/e/introduction-to-nectar-virtual-machines-tickets-124377936757\">Book here</a> "
-#   subtype: workshop
-#   speakers: [48]
-#   complexity: "TBC" 
-#   recorded: ""
-
-# -
-#   id: 069 
-#   title: "Machine Learning 101"
-#   description: "The NeSI team will introduce you to the wonderful world of machine learning via the user-friendly Jupyter on NeSI platform. Come along to acquaint yourself with amazing algorithms and conquer your fear of obscure machine learning jargon. <p> This whirlwind tour of the Scikit-learn Python library will introduce the usual machine learning suspects (aka things that are easy to google). Specifically, attendees will learn about model fitting, evaluation and model selection. At the end of this session you should be more familiar with: <p>- what problems machine learning can help solve</p><p>- the definitions of key machine learning terms</p><p>- the main phases of a machine learning project</p><p>- the types of ML tasks and associated classes of models</p><p>This session provides a taster for a full day workshop provided by NeSI."
-#   subtype: workshop
-#   speakers: [63, 23]
-#   themes: ["datascience"]
-#   complexity: "Beginner: All welcome"
-#   recorded: ""
-
-# -
-#   id: 3269 
-#   title: "Introduction to geospatial tools and manipulations in R"
-#   description: "Geospatial data is being more and more commonly used in scientific research. From modelling distributions or movements of animals, the connectivity of spatial networks, mapping/modelling physical features of our environment or predicting the occurrence of events through space and time. In this workshop we will introduce the fundamental types of geospatial data (points, lines, polygons and gridded) that are commonly used for analysis and mapping. By the end of the workshop you will have had hands on practice with the basics of importing and preparing these kinds of data for a range of analyses and creating publication ready graphs and maps!"
-#   subtype: workshop
-#   speakers: [69, 64, 70, 66]
-#   themes: ["datascience"]
-#   complexity: "Intermediate"
-#   recorded: ""
 - id: 001
   title: Managing Research Data
   description: 'An overview of research data management requirements, practices, tools
@@ -885,18 +825,6 @@
   themes: [computing, datascience]
   registration_link: 
     https://www.eventbrite.com/e/modern-data-stack-in-a-box-with-duckdb-and-dbt-tickets-634393637447
-- id: 106
-  title: Creating a Story Around Your Data
-  description: ''
-  subtype: workshop
-  speakers: [117]
-  complexity: 'Beginner: All welcome'
-  length: 1 hour
-  capacity: Unlimited
-  recorded: ''
-  themes: [publish]
-  registration_link: 
-    https://www.eventbrite.com/e/creating-a-story-around-your-data-tickets-634393647477
 - id: 107
   title: 'Using R for Statistical Analysis: A case study'
   description: This session will demonstrate the process of statistical analysis in
@@ -1069,7 +997,9 @@
 
 - id: 116
   title: Researcher Skills And Career Planning For Academia And Beyond
-  description: Learn about the different capabilities and skills needed for a successful career in academia, tips for planning your career in academia, and what transferable skills academics possess which are relevant outside of academia. 
+  description: 'Learn about the different capabilities and skills needed for a successful
+    career in academia, tips for planning your career in academia, and what transferable
+    skills academics possess which are relevant outside of academia. '
   subtype: workshop
   speakers: [122]
   complexity: 'Beginner: All welcome'
@@ -1078,15 +1008,20 @@
   recorded: ''
   themes: [publish]
   registration_link: 
-
+    https://www.eventbrite.com/e/researcher-skills-and-career-planning-for-academia-and-beyond-tickets-639058028767
 - id: 117
-  title: ABC
-  description: DEF
+  title: Introduction to Quarto
+  description: This workshop aims to introduce Quarto, a powerful tool for efficient
+    document creation. Quarto leverages the simplicity of Markdown and the flexibility
+    of modern web technologies to streamline the process of generating dynamic and
+    interactive documents. In this tutorial, we will explore the key features of Quarto,
+    including its seamless integration with R and Python, support for data visualisations,
+    and collaborative authoring capabilities. By the end, you will have a solid understanding
+    of Quarto's capabilities and be equipped to create stunning, data-driven documents
+    effortlessly. Join us on this tutorial journey and unlock the potential of Quarto
+    for your document workflow.
   subtype: workshop
   speakers: [66]
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: 500 attendees
-  recorded: ''
-  themes: [publish]
-  registration_link: 
