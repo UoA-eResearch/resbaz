@@ -1078,3 +1078,15 @@
   recorded: ''
   themes: [publish]
   registration_link: 
+
+- id: 117
+  title: ABC
+  description: DEF
+  subtype: workshop
+  speakers: [66]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  capacity: 500 attendees
+  recorded: ''
+  themes: [publish]
+  registration_link: 
