@@ -790,7 +790,8 @@
   length: 1 hour
   capacity: Unlimited
   recorded: ''
-
+  registration_link: 
+    https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-634393617387
 # -
 #   id: 101 
 #   title: "Māori Data Sovereignty: Korero with the Poutiaki Rangahau Māori, Waipapa Taumata Rau"
@@ -814,8 +815,7 @@
   themes: [publish]
   recorded: ""
 
-  registration_link: 
-    https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-634393617387
+
 - id: 103
   title: Intro to Natural Language Processing using Python
   description: What do Lorde, Seinfeld and the Teenage Mutant Ninja Turtles have in
