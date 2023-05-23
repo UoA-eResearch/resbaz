@@ -1068,3 +1068,13 @@
   length: 1 hour
   themes: [publish]
   capacity: 500 attendees
+
+- id: 118
+  title: Chat GPT and it's impact on research
+  description: Description to follow soon.
+  subtype: workshop
+  speakers: [118,104]
+  complexity: 'Beginner: All welcome'
+  length: 2 hours
+  themes: [datascience]
+  capacity: 50 attendees
