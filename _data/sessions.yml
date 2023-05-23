@@ -802,6 +802,18 @@
 #   capacity: "Unlimited"
 #   recorded: "No"
 
+- id: 102 
+  title: "Authoring Collaborative Research Projects in Quarto"
+  description: "Learn how to develop reproducible and sharable workflows using Quarto and Git. We will take you through how to host collaborative research projects as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, research outputs can be shared as a live link that is consitent with your latest analyses. One benefit of Quarto is flexibility, accepting multiple programming languages (R, Python, Julia...) and output formats (docx, pdf, html...). Requirements: The session is designed to be easy to follow; however, is targeted at people already familiar with basic coding, code editing software, and version control. We will be using R as an example but Python, R, Julia, and Observable JavaScript are the primary languages Quarto support. R-specific experience is not required. Further instructions will be provided closer to the session. Before the session please install: - Quarto (https://quarto.org/docs/get-started/); R (https://www.r-project.org/); Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git); log in to GitHub (or sign up for a free account) (https://github.com/); install VS Code (https://code.visualstudio.com/download) and in the extensions tab of VS Code install the R, Quarto, and Git extensions.  <a href=\"\">Book here</a>"
+  subtype: workshop
+  speakers: [66]
+  themes: ["publish"]
+  complexity: "Intermediate"
+  length: "1 hour"
+  capacity: "50 attendees"
+  themes: [publish]
+  recorded: ""
+
   registration_link: 
     https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-634393617387
 - id: 103
