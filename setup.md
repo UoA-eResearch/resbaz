@@ -17,6 +17,7 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Introduction to R and RStudio](#introduction-to-r-and-rstudio)
 - [Introduction to the Command Line](#introduction-to-the-command-line)
 - [Introduction to Using Julia for Machine Learning](#introduction-to-using-julia-for-machine-learning)
+- [Introduction to Web Mapping with Leaflet](#introduction-to-web-mapping-with-leaflet)
 - [Managing References with Zotero](#managing-references-with-zotero)
 - [Using The Command Line To Find, Replace, And Manipulate Data](#using-the-command-line-to-find-replace-and-manipulate-data)
 
@@ -78,6 +79,9 @@ If you are using Windows, please install Git for Windows. See [here](https://car
 
 - Recommended: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. 
 - Recommended but not essential: Prior experience with a scripting language, such as python, MATLAB or R.
+
+##### <b>Introduction to Web Mapping with Leaflet</b>
+1. Install [Visual Studio Code](https://code.visualstudio.com/).
 
 ##### <b>Managing References with Zotero</b>
 
