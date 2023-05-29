@@ -53,7 +53,7 @@
   themes: [datascience]
   complexity: 'Beginner: All welcome'
   capacity: 30 attendees
-  length: 1 hour
+  length: 2 hours
   recorded: ''
 
   registration_link: 
@@ -125,7 +125,7 @@
   speakers: [27, 104]
   themes: [computing, datascience]
   complexity: 'Beginner: All welcome'
-  length: 2 hours
+  length: 1 hour
   capacity: Unlimited
   recorded: ''
 
@@ -133,9 +133,11 @@
     https://www.eventbrite.com/e/how-can-python-help-your-research-tickets-634393336547
 - id: 047
   title: Build a Research Portfolio Website (Using GitHub)
-  description: 'Learn how to create an attractive, functional website to showcase
+  description: "Learn how to create an attractive, functional website to showcase
     your research career and outputs using GitHub and wowchemy. Some familiarity with
-    git, HTML and CSS will be beneficial, but not necessary. '
+    git, HTML and CSS will be beneficial, but not necessary. \n\nSetup instructions
+    can be found <a href=\"https://resbaz.auckland.ac.nz/setup/#build-a-research-portfolio-website-using-github\"\
+    >here</a>"
   subtype: workshop
   speakers: [38]
   themes: [publish]
@@ -666,7 +668,7 @@
   speakers: [101, 54]
   themes: [computing, datascience]
   complexity: 'Beginner: All welcome'
-  length: 30 minutes
+  length: 1 hour
   capacity: Unlimited
   recorded: ''
 
@@ -811,7 +813,8 @@
     control and markdown syntax, research outputs can be shared as a live link that
     is consitent with your latest analyses. One benefit of Quarto is flexibility,
     accepting multiple programming languages (R, Python, Julia...) and output formats
-    (docx, pdf, html...). \n\nSetup instructions can be found <a href=\"https://resbaz.auckland.ac.nz/setup/#authoring-collaborative-research-projects-in-quarto\"\
+    (docx, pdf, html...). \nIt is recommended to attend the workshop <a href=\"https://resbaz.auckland.ac.nz/schedule/#session-117Introduction
+    to Quarto</a>\nSetup instructions can be found <a href=\"https://resbaz.auckland.ac.nz/setup/#authoring-collaborative-research-projects-in-quarto\"\
     >here</a>"
   subtype: workshop
   speakers: [66]
@@ -822,6 +825,8 @@
   recorded: ''
 
 
+  registration_link: 
+    https://www.eventbrite.com/e/authoring-collaborative-research-projects-in-quarto-tickets-640976837977
 - id: 103
   title: Intro to Natural Language Processing using Python
   description: What do Lorde, Seinfeld and the Teenage Mutant Ninja Turtles have in
@@ -876,7 +881,7 @@
   subtype: workshop
   speakers: [116]
   complexity: 'Beginner: All welcome'
-  length: 1 hour
+  length: 2 hours
   capacity: ''
   recorded: ''
   themes: [computing, datascience]
@@ -892,7 +897,7 @@
   subtype: workshop
   speakers: [116]
   complexity: 'Beginner: All welcome'
-  length: 2 hours
+  length: 1 hour
   capacity: ''
   recorded: ''
   themes: [computing, datascience]
@@ -922,17 +927,7 @@
     https://www.eventbrite.com/e/introduction-to-creating-graphs-or-plots-for-publications-tickets-634393677567
 - id: 110
   title: Collaborating on Documents and Tracking Versions
-  description: 'The course "Introduction to Creating Graphs or Plots for Publications"
-    is designed to teach participants how to create clear, informative, and publication-quality
-    graphs and plots. Based on the Nature Points of View: Data Visualisation series,
-    the course covers basic principles of data visualisation, including colour theory,
-    chart types, and effective labelling. Select examples will be demonstrated based
-    on The Grammar of Graphics in R in a variety of graphs. The course also covers
-    best practices for formatting and styling graphs, as well as techniques for optimising
-    graphs for different audiences and publications. By the end of the course, participants
-    will understand the principles to create publication-quality graphs and plots
-    that effectively communicate their data and insights to a wide range of audiences.
-    The course is ideal for anyone who needs to communicate data visually.'
+  description: Description to follow soon.
   subtype: workshop
   speakers: [96]
   complexity: 'Beginner: All welcome'
@@ -1069,12 +1064,15 @@
   themes: [publish]
   capacity: 500 attendees
 
+  registration_link: https://www.eventbrite.com/e/introduction-to-quarto-tickets-640269893487
 - id: 118
   title: Chat GPT and it's impact on research
   description: Description to follow soon.
   subtype: workshop
-  speakers: [118,104]
+  speakers: [118, 104]
   complexity: 'Beginner: All welcome'
   length: 2 hours
   themes: [datascience]
   capacity: 50 attendees
+  registration_link: 
+    https://www.eventbrite.com/e/chat-gpt-and-its-impact-on-research-tickets-641684986067
