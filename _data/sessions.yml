@@ -357,7 +357,9 @@
     models (as opposed to to frameworks focused on, say, deep learning). Advanced
     features include the ability to create model pipelines and to combine multiple
     model predictions in flexible ways.This is a tutorial on how to use the MLJ software,
-    and not a course on machine learning itself. \n\nSetup instructions can be found
+    and not a course on machine learning itself. Participants are strongly recommended to attend 
+    <a href=\"https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-634393446877\"\
+    >Getting Started With the Julia Programming Language</a> as a prerequisite for this session. \n\nSetup instructions can be found
     <a href=\"https://resbaz.auckland.ac.nz/setup/#introduction-to-using-julia-for-machine-learning\"\
     >here</a>"
   subtype: workshop
