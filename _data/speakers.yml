@@ -449,17 +449,17 @@
 #   ribbon:
 #     - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
-- 
-  id: 93
-  name: "Evie"
-  surname: "Southwell"
-  company: "University of Auckland"
-  title: "Research Services Adviser"
-  bio: ""
-  thumbnailUrl: "to_be_announced3.png"   
-  rockstar: false
-  ribbon:
-    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+# - 
+#   id: 93
+#   name: "Evie"
+#   surname: "Southwell"
+#   company: "University of Auckland"
+#   title: "Research Services Adviser"
+#   bio: ""
+#   thumbnailUrl: "to_be_announced3.png"   
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
 
 # - 
 #   id: 94
