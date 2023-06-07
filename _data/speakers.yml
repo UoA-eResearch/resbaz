@@ -780,7 +780,7 @@
   company: "University of Auckland"
   title: ""
   bio: ""
-  thumbnailUrl: ""   
+  thumbnailUrl: "ana-aviles.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "LLS", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
