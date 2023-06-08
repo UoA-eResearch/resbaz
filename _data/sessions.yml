@@ -1045,7 +1045,21 @@
   registration_link: https://www.eventbrite.com/e/introduction-to-quarto-tickets-640269893487
 - id: 118
   title: Chat GPT and it's impact on research
-  description: Description to follow soon.
+  description: Are you a researcher looking for ways to improve your productivity
+    and efficiency? If so, then you need to check out AI tools for research. AI tools
+    can help you with everything from finding relevant information to writing code.
+    In this presentation, we will explore the role of AI in research and highlight
+    various tools available to researchers, such as ChatGPT and GitHub Copilot. ChatGPT
+    is a natural language processing tool with applications in many fields of science.
+    GitHub Copilot is an AI pair programmer that offers autocomplete-style suggestions
+    as you code. We will talk about how these tools were developed and how they work.
+    There will also be a demonstration of some real-world applications of these tools.
+    Finally, there will be time to discuss ethical considerations, questions, and
+    answers. This presentation is for researchers of all levels, from beginners to
+    experts. Whether you are just starting your research career or a seasoned veteran,
+    you will learn something new from this presentation. So what are you waiting for?
+    Register for this presentation today and learn how AI can help you take your research
+    to the next level.
   subtype: workshop
   speakers: [118, 104]
   complexity: 'Beginner: All welcome'

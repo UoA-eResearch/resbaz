@@ -767,7 +767,7 @@
   surname: "Mitenkova"
   company: "University of Auckland"
   title: ""
-  bio: ""
+  bio: "Maria has a PhD in English literature from the University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Arts."
   thumbnailUrl: "maria_mitenkova.jpg"   
   rockstar: false
   ribbon:
@@ -808,3 +808,27 @@
   rockstar: false
   ribbon:
     - {abbr: "ORSI", title: "University of Auckland", url: "https://research-hub.auckland.ac.nz/research-project-support/ORSI"}
+
+- 
+  id: 123
+  name: "James"
+  surname: "Harper"
+  company: "University of Auckland"
+  title: "Chief Information Security Officer"
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 124
+  name: "Michael"
+  surname: "Karich"
+  company: "University of Auckland"
+  title: "Deputy Chief Information Security Officer"
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
