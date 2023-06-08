@@ -130,7 +130,7 @@
   surname: "Seal"
   company: "University of Auckland"
   title: "Senior eResearch Solutions Specialist"
-  bio: "Chris is a senior member of the Centre for eResearch's solutions team."
+  bio: "Chris is a Senior Solutions Specialist at the University of Auckland's Centre for eResearch, where he leads the development of the University's Instrument Data Service (IDS), which is built using Python. He has an interest in furthering the use of persistent identifiers (PIDs) as a means of connecting different systems together. Because of this interest, he is a member of the I4IOz, an Australasian community of practice developing best-practice guidance for using PIDs for instruments and is on the international advisory board for the newly developed research activity identifier (RAiD)."
   thumbnailUrl: "chris_seal.jpg"
   rockstar: false 
   ribbon:
