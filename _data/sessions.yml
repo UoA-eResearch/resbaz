@@ -1,3 +1,21 @@
+- id: 200
+  title: Break
+  description:
+  speakers: []
+  hidden: true
+
+- id: 201
+  title: Lunch
+  description:
+  speakers: []
+  hidden: true
+
+- id: 300
+  title: To Be Announced
+  description:
+  speakers: []
+  hidden: true
+
 - id: 001
   title: Managing Research Data
   description: 'An overview of research data management requirements, practices, tools
