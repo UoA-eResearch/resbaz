@@ -1086,3 +1086,25 @@
   capacity: 50 attendees
   registration_link: 
     https://www.eventbrite.com/e/chat-gpt-and-its-impact-on-research-tickets-641684986067
+- id: 119
+  title: Cybersecurity for Researchers - Tips For Avoiding Common Issues
+  description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to breaches, data loss and exposing wider systems to cybersecurity threats. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
+  subtype: workshop
+  speakers: [123]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  themes: []
+  capacity: 500 attendees
+  registration_link: 
+    https://www.eventbrite.com/e/cybersecurity-for-researchers-tips-for-avoiding-common-issues-tickets-653632541527
+- id: 120
+  title: 7 Strategies to Help Keep Your Research Safe
+  description: UoA Security Office provides 7 strategies with actionable steps to help keep your research safe and secure. Attendess will learn how to include security through the entire data lifecycle in partnership with university services. We will provide some practical demos and answers to your questions on how to enable security within research
+  subtype: workshop
+  speakers: [124]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  themes: []
+  capacity: 500 attendees
+  registration_link: 
+    https://www.eventbrite.com/e/7-strategies-to-help-keep-your-research-safe-tickets-653632551557
