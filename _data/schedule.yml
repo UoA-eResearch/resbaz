@@ -247,7 +247,7 @@
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [116, 108, 300]
+    	sessionIds: [116, 108, 119]
     }
 
 # Friday
@@ -256,13 +256,13 @@
   dateReadable: "Friday 30 June"
   tracks: 
     - {title: "1", color: "#f27f27"}
-    # - {title: "2", color: "#e91e63"}
-    # - {title: "3", color: "#3279a8"}
+    - {title: "2", color: "#e91e63"}
+    - {title: "3", color: "#3279a8"}
   timeslots:
     - {
     	startTime: "10:00",
       endTime: "10:50",
-    	sessionIds: [102,118]
+    	sessionIds: [102,118,120]
     }
 
     - {
