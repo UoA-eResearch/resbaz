@@ -1087,8 +1087,8 @@
   registration_link: 
     https://www.eventbrite.com/e/chat-gpt-and-its-impact-on-research-tickets-641684986067
 - id: 119
-  title: Cybersecurity for Researchers - Tips For Avoiding Common Issues
-  description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to breaches, data loss and exposing wider systems to cybersecurity threats. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
+  title: Cybersecurity for Researchers - Would Your Research Survive a Cyberattack?
+  description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to your data being lost or held to ransom. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
   subtype: workshop
   speakers: [123]
   complexity: 'Beginner: All welcome'
