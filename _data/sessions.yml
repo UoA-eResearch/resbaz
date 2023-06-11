@@ -98,7 +98,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 40 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-cleaning-transforming-data-with-openrefine-tickets-634393316487
