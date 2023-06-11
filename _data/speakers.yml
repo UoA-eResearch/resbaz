@@ -815,8 +815,8 @@
   surname: "Harper"
   company: "University of Auckland"
   title: "Chief Information Security Officer"
-  bio: ""
-  thumbnailUrl: ""   
+  bio: "James Harper is Chief Information Security Officer at the University of Auckland, leading the establishment of this position within the institution. Prior to this he held roles in digital architecture and infrastructure operations. James promotes a risk-managed approach to cybersecurity, positioning the practice as an enabler rather than a blocker. With qualifications in Computer Science and Law, James brings a unique perspective to the technical and human challenges of modern cybersecurity threats. He has transitioned the University to a framework-led approach to governing and managing cybersecurity, allowing objective assessment of capabilities and risks, and the ability for priorities and decisions to be backed by data."
+  thumbnailUrl: "james-harper.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
@@ -827,8 +827,8 @@
   surname: "Karich"
   company: "University of Auckland"
   title: "Deputy Chief Information Security Officer"
-  bio: ""
-  thumbnailUrl: ""   
+  bio: "Michael Karich is Deputy Chief Information Security Officer - Research at the University of Auckland, NeSI, and UniServices. Across these roles, he strives to support and enable secure research operations across the entire data lifecycle. Prior to this, he held roles in HPC and cloud infrastructure, data management, and research administration. With qualifications in Computer Science and IT Operations, Michael pulls from a broad background to build and enable secure yet efficient research. He is currently focusing on the enhancement of internationally known capability through governance, staff enablement, and visibility."
+  thumbnailUrl: "Karich-Michael-3369.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
