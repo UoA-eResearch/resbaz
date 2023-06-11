@@ -29,7 +29,7 @@ If you're interested in volunteering to deliver a workshop, help out with a work
 
 ##### Are sessions recorded?
 
-We're currently working on a new recording policy for 2023 - stay tuned!
+2-3 hour sessions will not be recorded in order to encourage participants to attend and to fully engage with instructors. Instructors presenting 1 hour taster sessions will decide whether or not their sessions will be recorded. You can see which sessions will be recorded on the [sessions page](https://resbaz.auckland.ac.nz/sessions/) (check back in the week before ResBaz to see the latest updates). Recordings will be made available following the event.
 
 ##### Code of Conduct
 *By attending or contributing to the Research Bazaar, you agree to be bound by the Code of Conduct.*
