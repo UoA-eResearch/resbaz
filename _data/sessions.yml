@@ -48,7 +48,7 @@
   complexity: 'Beginner: All welcome'
   capacity: 30 attendees
   length: 2 hours
-  recorded: ''
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/jupyter-notebooks-for-reproducible-research-tickets-634393296427
@@ -138,7 +138,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 50 attendees
-  recorded: No
+  recorded: 'No'
 
 # -
 #   id: 061
@@ -236,7 +236,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: Unlimited
-  recorded: ''
+  recorded: 'No'
 
 # -
 #   id: 067 
@@ -288,7 +288,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 50 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-634393406757
 - id: 071
@@ -314,7 +314,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 50 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-the-command-line-tickets-634393426817
@@ -360,7 +360,7 @@
   complexity: Intermediate
   length: 2 hours
   capacity: 40 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-634393466937
@@ -380,7 +380,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 40 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-634393446877
@@ -412,6 +412,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
+  recorded: ''
 
   registration_link: 
     https://www.eventbrite.com/e/research-computing-with-the-rust-programming-language-tickets-637648623197
@@ -429,7 +430,7 @@
   complexity: Beginner/Intermediate
   length: 2 hours
   capacity: 100 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/python-for-image-manipulation-and-repeatable-research-pipelines-tickets-634393476967
@@ -447,7 +448,7 @@
   complexity: 'Beginner: All welcome'
   length: 3 hours
   capacity: 40 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-high-performance-computing-with-nesi-tickets-634393517087
@@ -621,7 +622,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/resbaz-drop-in-clinic-hackyhour-tickets-634393577267
@@ -645,7 +646,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 60 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-634393587297
@@ -732,7 +733,7 @@
   complexity: Intermediate
   length: 2 hours
   capacity: 50 attendees
-  recorded: No
+  recorded: 'No'
 
   registration_link: 
     https://www.eventbrite.com/e/using-the-command-line-to-find-replace-and-manipulate-data-tickets-634393597327
@@ -816,9 +817,7 @@
   length: 2 hours
   capacity: 50 attendees
   themes: [publish]
-  recorded: ''
-
-
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/authoring-collaborative-research-projects-in-quarto-tickets-640976837977
 - id: 103
@@ -877,7 +876,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: ''
-  recorded: ''
+  recorded: 'No'
   themes: [computing, datascience]
   registration_link: 
     https://www.eventbrite.com/e/using-r-for-statistical-analysis-a-case-study-tickets-634393657507
@@ -893,7 +892,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: ''
-  recorded: ''
+  recorded: 'No'
   themes: [computing, datascience]
   registration_link: 
     https://www.eventbrite.com/e/hands-on-statistical-analysis-with-r-tickets-634393667537
@@ -953,7 +952,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: ''
-  recorded: ''
+  recorded: 'No'
   themes: [computing, datascience]
   registration_link: https://www.eventbrite.com/e/introduction-to-python-tickets-634393697627
 - id: 112
@@ -1023,7 +1022,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: ''
-  recorded: ''
+  recorded: 'No'
   themes: [datascience]
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-web-mapping-with-leaflet-tickets-634393737747
@@ -1059,7 +1058,7 @@
   length: 1 hour
   themes: [publish]
   capacity: 500 attendees
-
+  recorded: ''
   registration_link: https://www.eventbrite.com/e/introduction-to-quarto-tickets-640269893487
 - id: 118
   title: Chat GPT and it's impact on research
@@ -1084,6 +1083,7 @@
   length: 2 hours
   themes: [datascience]
   capacity: 50 attendees
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/chat-gpt-and-its-impact-on-research-tickets-641684986067
 - id: 119
@@ -1095,6 +1095,7 @@
   length: 1 hour
   themes: []
   capacity: 500 attendees
+  recorded: ''
   registration_link: 
     https://www.eventbrite.com/e/cybersecurity-for-researchers-tips-for-avoiding-common-issues-tickets-653632541527
 - id: 120
@@ -1106,5 +1107,6 @@
   length: 1 hour
   themes: []
   capacity: 500 attendees
+  recorded: ''
   registration_link: 
     https://www.eventbrite.com/e/7-strategies-to-help-keep-your-research-safe-tickets-653632551557

@@ -153,6 +153,7 @@
   surname: "Young"
   company: "Centre for eResearch"
   title: "eResearch Senior Solutions Specialist"
+  bio: "Nick Young works at the Centre for eResearch as a Research Software Engineer. His primary focus is on research data visualisation, helping researchers across the University visualise their research data with a variety of programming languages."
   thumbnailUrl: "nick_young.jpg"
   rockstar: false 
   ribbon:
