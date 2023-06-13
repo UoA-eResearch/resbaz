@@ -31,7 +31,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: Unlimited
-  recorded: No
+  recorded: 'No'
   themes: [publish]
   registration_link: https://www.eventbrite.com/e/managing-research-data-tickets-634393306457
 - id: 031
@@ -216,7 +216,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
+  recorded: 'Yes'
 
   registration_link: 
     https://www.eventbrite.com/e/using-researcher-profiles-linkedin-to-promote-you-and-your-research-tickets-634393386697
