@@ -139,7 +139,8 @@
   length: 2 hours
   capacity: 50 attendees
   recorded: 'No'
-
+  registration_link: 
+    https://www.eventbrite.com/e/build-a-research-portfolio-website-using-github-tickets-634393326517
 -
   id: 061
   title: "Research Data Collection & Surveys with REDCap: An Overview"
@@ -151,6 +152,8 @@
   length: "1 hour"
   capacity: "Unlimited"
   recorded: ""
+  registration_link: 
+    https://www.eventbrite.com/e/research-data-collection-surveys-with-redcap-an-overview-tickets-658161156737
 
 # -
 #   id: 062
@@ -163,8 +166,6 @@
 #   length: "2 hours"
 #   capacity: "50 attendees"
 
-  registration_link: 
-    https://www.eventbrite.com/e/build-a-research-portfolio-website-using-github-tickets-634393326517
 - id: 063
   title: 'Open Access: How to Make Your Publications Open'
   description: "Open Access to publications and other research outputs ensures you
