@@ -833,3 +833,26 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 125
+  name: "Penny"
+  surname: "Neave"
+  company: "University of Auckland"
+  title: "Data Services Client Manager"
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "Liggins", title: "University of Auckland", url: ""}
+
+- 
+  id: 126
+  name: "Jack"
+  surname: "Wang"
+  company: "University of Auckland"
+  title: "Senior Database Developer"
+  bio: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "Liggins", title: "University of Auckland", url: ""}
