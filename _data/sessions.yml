@@ -832,7 +832,7 @@
   subtype: workshop
   speakers: [116]
   complexity: 'Beginner: All welcome'
-  length: 2 hours
+  length: 1 hours
   capacity: Unlimited
   recorded: 'No'
   themes: [computing, datascience]
@@ -848,7 +848,7 @@
   subtype: workshop
   speakers: [116]
   complexity: 'Beginner: All welcome'
-  length: 1 hour
+  length: 2 hours
   capacity: 50 attendees
   recorded: 'No'
   themes: [computing, datascience]
@@ -1018,7 +1018,7 @@
   recorded: 'No'
   registration_link: https://www.eventbrite.com/e/introduction-to-quarto-tickets-640269893487
 - id: 118
-  title: Chat GPT and it's impact on research
+  title: 'Chat GPT and AI Tools: Their impact on research'
   description: Are you a researcher looking for ways to improve your productivity
     and efficiency? If so, then you need to check out AI tools for research. AI tools
     can help you with everything from finding relevant information to writing code.
