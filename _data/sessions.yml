@@ -49,7 +49,6 @@
   capacity: 30 attendees
   length: 2 hours
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/jupyter-notebooks-for-reproducible-research-tickets-634393296427
 - id: 032
@@ -67,8 +66,8 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
+  registration_link: https://www.eventbrite.com/e/nvivo-for-literature-reviews-tickets-634393286397
 # -
 #   id: 036
 #   title: "Working with Social Media Data?"
@@ -80,8 +79,6 @@
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
-
-  registration_link: https://www.eventbrite.com/e/nvivo-for-literature-reviews-tickets-634393286397
 - id: 044
   title: Introduction to Cleaning & Transforming Data with OpenRefine
   description: "OpenRefine is a powerful, free, open-source tool for working with
@@ -99,7 +96,6 @@
   length: 2 hours
   capacity: 40 attendees
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-cleaning-transforming-data-with-openrefine-tickets-634393316487
 - id: 045
@@ -121,8 +117,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/how-can-python-help-your-research-tickets-634393336547
 - id: 047
@@ -151,10 +146,9 @@
   complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
-  recorded: ""
+  recorded: "No"
   registration_link: 
     https://www.eventbrite.com/e/research-data-collection-surveys-with-redcap-an-overview-tickets-658161156737
-
 # -
 #   id: 062
 #   title: "Creating Professional LaTeX Reports Without Losing Hair"
@@ -165,7 +159,6 @@
 #   complexity: "Beginner: All welcome" 
 #   length: "2 hours"
 #   capacity: "50 attendees"
-
 - id: 063
   title: 'Open Access: How to Make Your Publications Open'
   description: "Open Access to publications and other research outputs ensures you
@@ -181,8 +174,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/open-access-how-to-make-your-publications-open-tickets-634393356607
 - id: 064
@@ -199,7 +191,6 @@
   length: 1 hour
   capacity: Unlimited
   recorded: 'Yes'
-
   registration_link: 
     https://www.eventbrite.com/e/strategic-publishing-deciding-where-to-publish-understanding-the-process-tickets-634393366637
 - id: 065
@@ -218,7 +209,6 @@
   length: 1 hour
   capacity: Unlimited
   recorded: 'Yes'
-
   registration_link: 
     https://www.eventbrite.com/e/using-researcher-profiles-linkedin-to-promote-you-and-your-research-tickets-634393386697
 - id: 066
@@ -238,7 +228,7 @@
   length: 2 hours
   capacity: Unlimited
   recorded: 'No'
-
+  registration_link: https://www.eventbrite.com/e/managing-references-with-zotero-tickets-634393396727
 # -
 #   id: 067 
 #   title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
@@ -249,9 +239,6 @@
 #   complexity: "Beginner: All welcome"
 #   length: "3 hours"
 #   capacity: "40 attendees"
-
-  registration_link: 
-    https://www.eventbrite.com/e/managing-references-with-zotero-tickets-634393396727
 - id: 068
   title: 'Design 101: Presentations, Posters, and PowerPoints for Researchers'
   description: 'Why are you here? What are you presenting? Who are you presenting
@@ -269,8 +256,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'Yes'
   registration_link: 
     https://www.eventbrite.com/e/design-101-presentations-posters-and-powerpoints-for-researchers-tickets-634393376667
 - id: 070
@@ -290,7 +276,6 @@
   length: 2 hours
   capacity: 50 attendees
   recorded: 'No'
-
   registration_link: https://www.eventbrite.com/e/introduction-to-r-and-rstudio-tickets-634393406757
 - id: 071
   title: Introduction to the Command Line
@@ -316,7 +301,6 @@
   length: 2 hours
   capacity: 50 attendees
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-the-command-line-tickets-634393426817
 - id: 072
@@ -337,8 +321,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-634393436847
 - id: 073
@@ -362,7 +345,6 @@
   length: 2 hours
   capacity: 40 attendees
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-using-julia-for-machine-learning-tickets-634393466937
 - id: 074
@@ -382,7 +364,6 @@
   length: 2 hours
   capacity: 40 attendees
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/getting-started-with-the-julia-programming-language-tickets-634393446877
 - id: 075
@@ -398,8 +379,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
   registration_link: https://www.eventbrite.com/e/nvivo-showcase-tickets-634393456907
 - id: 076
   title: Research Computing with the Rust Programming Language
@@ -413,8 +393,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/research-computing-with-the-rust-programming-language-tickets-637648623197
 - id: 077
@@ -432,7 +411,6 @@
   length: 2 hours
   capacity: 100 attendees
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/python-for-image-manipulation-and-repeatable-research-pipelines-tickets-634393476967
 - id: 078
@@ -450,7 +428,6 @@
   length: 3 hours
   capacity: 40 attendees
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-high-performance-computing-with-nesi-tickets-634393517087
 - id: 079
@@ -477,8 +454,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
   registration_link: https://www.eventbrite.com/e/keeping-your-spreadsheets-tidy-tickets-634393507057
 - id: 080
   title: 'Research Compute: An Overview of Options at the University of Auckland'
@@ -493,7 +469,8 @@
   length: 1 hour
   capacity: Unlimited
   recorded: ''
-
+  registration_link: 
+    https://www.eventbrite.com/e/research-compute-an-overview-of-options-at-the-university-of-auckland-tickets-634393527117
 # -
 #   id: 081 
 #   title: "Data and Storytelling: Strategies for Compelling Visual Narratives"
@@ -504,7 +481,6 @@
 #   complexity: "Beginner: All welcome"
 #   length: "1 hour"
 #   capacity: "Unlimited"
-
 # -
 #   id: 082 
 #   title: "Stop Paying for Free Software: Creating a LaTeX Pipeline for Collaboration "
@@ -515,9 +491,6 @@
 #   complexity: "Advanced"
 #   length: "2 hours"
 #   capacity: "50 attendees"
-
-  registration_link: 
-    https://www.eventbrite.com/e/research-compute-an-overview-of-options-at-the-university-of-auckland-tickets-634393527117
 - id: 083
   title: 'Tidyverse and Beyond: Key Tips for Existing R Users'
   description: 'The tidyverse has changed R programming for data scientists tremendously:
@@ -532,7 +505,6 @@
   length: 1 hour
   capacity: Unlimited
   recorded: ''
-
   registration_link: 
     https://www.eventbrite.com/e/tidyverse-and-beyond-key-tips-for-existing-r-users-tickets-634393537147
 - id: 085
@@ -550,7 +522,8 @@
   length: 1 hour
   capacity: Unlimited
   recorded: ''
-
+  registration_link: 
+    https://www.eventbrite.com/e/introduction-to-qualtrics-for-research-surveys-tickets-634393547177
 # -
 #   id: 086 
 #   title: "High Performance Computations with Multithreading"
@@ -562,7 +535,6 @@
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
-
 # -
 #   id: 087 
 #   title: "Parallel Programming with MPI"
@@ -574,9 +546,6 @@
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
-
-  registration_link: 
-    https://www.eventbrite.com/e/introduction-to-qualtrics-for-research-surveys-tickets-634393547177
 - id: 088
   title: How to Plan Your Research for Real World Impact
   description: Economic, societal and environmental impact, or the 'non-academic'
@@ -590,7 +559,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
+  recorded: 'No'
   themes: [publish]
   registration_link: 
     https://www.eventbrite.com/e/how-to-plan-your-research-for-real-world-impact-tickets-634393557207
@@ -608,8 +577,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/digital-storytelling-with-knightlab-tickets-634393567237
 - id: 090
@@ -624,7 +592,6 @@
   length: 1 hour
   capacity: Unlimited
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/resbaz-drop-in-clinic-hackyhour-tickets-634393577267
 - id: 091
@@ -648,7 +615,6 @@
   length: 2 hours
   capacity: 60 attendees
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-634393587297
 - id: 092
@@ -666,8 +632,9 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
+  registration_link: 
+    https://www.eventbrite.com/e/what-is-nesi-new-zealands-national-high-performance-computers-tickets-634393497027
 # -
 #   id: 093 
 #   title: "Data Security: Addressing Risks in Postgraduate Research"
@@ -678,7 +645,6 @@
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
-
 # -
 #   id: 094 
 #   title: "Safeguarding Your Research: Cybersecurity Practices for Researchers"
@@ -689,7 +655,6 @@
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
-
 # -
 #   id: 095 
 #   title: "Applications of Computer Vision in Research"
@@ -701,7 +666,6 @@
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
-
 # -
 #   id: 096 
 #   title: "Bash for High Performance Computing"
@@ -713,9 +677,6 @@
 #   length: "2 hours"
 #   capacity: "Unlimited"
 #   recorded: ""
-
-  registration_link: 
-    https://www.eventbrite.com/e/what-is-nesi-new-zealands-national-high-performance-computers-tickets-634393497027
 - id: 097
   title: Using the Command Line to Find, Replace, and Manipulate Data
   description: "A practical introduction to some powerful command line utilities for
@@ -735,7 +696,6 @@
   length: 2 hours
   capacity: 50 attendees
   recorded: 'No'
-
   registration_link: 
     https://www.eventbrite.com/e/using-the-command-line-to-find-replace-and-manipulate-data-tickets-634393597327
 - id: 098
@@ -757,8 +717,9 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
-
+  recorded: 'No'
+  registration_link: 
+    https://www.eventbrite.com/e/research-collaboration-and-reproducibility-with-google-colab-tickets-634393607357
 # -
 #   id: 099 
 #   title: "Blender for Biochemistry: 3D Rendering Software for Science Communication"
@@ -770,13 +731,10 @@
 #   length: ""
 #   capacity: ""
 #   recorded: ""
-
-  registration_link: 
-    https://www.eventbrite.com/e/research-collaboration-and-reproducibility-with-google-colab-tickets-634393607357
 - id: 100
   title: Doing Even More with OpenRefine
   description: You know how to use Open Refine to clean up messy data using facets
-    and clustering, and you’re curious about some of its  powerful features This demonstration
+    and clustering, and you're curious about some of its  powerful features This demonstration
     of using transformations will include how to use snippets of reusable code to
     do things like select part of a sentence, swap author first and last names around,
     and use Python and Regex in OR.  We will also look at using OR to query web based
@@ -787,7 +745,7 @@
   complexity: Intermediate
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/doing-even-more-with-openrefine-tickets-634393617387
 # -
@@ -800,7 +758,6 @@
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: "No"
-
 - id: 102
   title: Authoring Collaborative Research Projects in Quarto
   description: "Learn how to develop reproducible and sharable workflows using Quarto
@@ -838,7 +795,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
+  recorded: 'No'
   themes: [computing, datascience]
   registration_link: 
     https://www.eventbrite.com/e/intro-to-natural-language-processing-using-python-tickets-634393627417
@@ -862,7 +819,7 @@
   complexity: Intermediate
   length: 1 hour
   capacity: Unlimited
-  recorded: ''
+  recorded: 'No'
   themes: [computing, datascience]
   registration_link: 
     https://www.eventbrite.com/e/modern-data-stack-in-a-box-with-duckdb-and-dbt-tickets-634393637447
@@ -876,7 +833,7 @@
   speakers: [116]
   complexity: 'Beginner: All welcome'
   length: 2 hours
-  capacity: ''
+  capacity: Unlimited
   recorded: 'No'
   themes: [computing, datascience]
   registration_link: 
@@ -892,50 +849,50 @@
   speakers: [116]
   complexity: 'Beginner: All welcome'
   length: 1 hour
-  capacity: ''
+  capacity: 50 attendees
   recorded: 'No'
   themes: [computing, datascience]
   registration_link: 
     https://www.eventbrite.com/e/hands-on-statistical-analysis-with-r-tickets-634393667537
-- id: 109
-  title: Introduction to Creating Graphs or Plots for Publications
-  description: Communicating data visually is an increasingly important skill that
-    all researchers are expected to have. This session provides an introduction to
-    basic principles of data visualisation including colour theory, chart types, and
-    effective labelling. Understanding these concepts will enable you to create clear,
-    informative, publication-quality graphs and plots. A variety of examples will
-    be demonstrated based on The Grammar of Graphics in R. We will also cover best
-    practices for formatting and styling graphs, as well as techniques for optimising
-    graphs for different audiences and publications. By the end of the session, participants
-    will understand how to effectively communicate their data and insights to a wide
-    range of audiences.
-  subtype: workshop
-  speakers: [96, 106]
-  complexity: 'Beginner: All welcome'
-  length: 1 hour
-  capacity: ''
-  recorded: ''
-  themes: [publish]
-  registration_link: 
-    https://www.eventbrite.com/e/introduction-to-creating-graphs-or-plots-for-publications-tickets-634393677567
-- id: 110
-  title: Collaborating on Documents and Tracking Versions
-  description: This workshop aims to provide participants with insights and practical
-    techniques for effectively collaborating on written documents and code using version
-    control systems. Versioning is a critical aspect of successful collaboration,
-    enabling seamless tracking of changes, streamlined teamwork, and improved project
-    management. This webinar will explore the concepts, tools, and best practices
-    that can empower individuals and teams to collaborate efficiently and maintain
-    the integrity of their work.
-  subtype: workshop
-  speakers: [96]
-  complexity: 'Beginner: All welcome'
-  length: 1 hour
-  capacity: ''
-  recorded: ''
-  themes: [publish]
-  registration_link: 
-    https://www.eventbrite.com/e/collaborating-on-documents-and-tracking-versions-tickets-634393687597
+# - id: 109
+#   title: Introduction to Creating Graphs or Plots for Publications
+#   description: Communicating data visually is an increasingly important skill that
+#     all researchers are expected to have. This session provides an introduction to
+#     basic principles of data visualisation including colour theory, chart types, and
+#     effective labelling. Understanding these concepts will enable you to create clear,
+#     informative, publication-quality graphs and plots. A variety of examples will
+#     be demonstrated based on The Grammar of Graphics in R. We will also cover best
+#     practices for formatting and styling graphs, as well as techniques for optimising
+#     graphs for different audiences and publications. By the end of the session, participants
+#     will understand how to effectively communicate their data and insights to a wide
+#     range of audiences.
+#   subtype: workshop
+#   speakers: [96, 106]
+#   complexity: 'Beginner: All welcome'
+#   length: 1 hour
+#   capacity: ''
+#   recorded: ''
+#   themes: [publish]
+#   registration_link: 
+#     https://www.eventbrite.com/e/introduction-to-creating-graphs-or-plots-for-publications-tickets-634393677567
+# - id: 110
+#   title: Collaborating on Documents and Tracking Versions
+#   description: This workshop aims to provide participants with insights and practical
+#     techniques for effectively collaborating on written documents and code using version
+#     control systems. Versioning is a critical aspect of successful collaboration,
+#     enabling seamless tracking of changes, streamlined teamwork, and improved project
+#     management. This webinar will explore the concepts, tools, and best practices
+#     that can empower individuals and teams to collaborate efficiently and maintain
+#     the integrity of their work.
+#   subtype: workshop
+#   speakers: [96]
+#   complexity: 'Beginner: All welcome'
+#   length: 1 hour
+#   capacity: ''
+#   recorded: ''
+#   themes: [publish]
+#   registration_link: 
+#     https://www.eventbrite.com/e/collaborating-on-documents-and-tracking-versions-tickets-634393687597
 - id: 111
   title: Introduction to the Python Programming Language
   description: Embark on a practical and engaging journey into the world of Python
@@ -952,7 +909,7 @@
   speakers: [104]
   complexity: 'Beginner: All welcome'
   length: 2 hours
-  capacity: ''
+  capacity: 50 attendees
   recorded: 'No'
   themes: [computing, datascience]
   registration_link: https://www.eventbrite.com/e/introduction-to-python-tickets-634393697627
@@ -969,8 +926,8 @@
   speakers: [110]
   complexity: 'Beginner: All welcome'
   length: 1 hour
-  capacity: ''
-  recorded: ''
+  capacity: Unlimited
+  recorded: 'No'
   themes: [publish]
   registration_link: 
     https://www.eventbrite.com/e/latex-101-an-introduction-to-formatting-documents-with-code-tickets-634393707657
@@ -987,8 +944,8 @@
   speakers: [14, 19]
   complexity: 'Beginner: All welcome'
   length: 1 hour
-  capacity: ''
-  recorded: ''
+  capacity: Unlimited
+  recorded: 'No'
   themes: [publish]
   registration_link: 
     https://www.eventbrite.com/e/collaborating-with-dropbox-tips-and-tricks-tickets-634393717687
@@ -1005,8 +962,8 @@
   speakers: [27]
   complexity: 'Beginner: All welcome'
   length: 1 hour
-  capacity: ''
-  recorded: ''
+  capacity: 80 attendees
+  recorded: 'No'
   themes: [publish]
   registration_link: 
     https://www.eventbrite.com/e/latex-or-how-i-earned-to-stop-worrying-and-love-plain-text-tickets-634393727717
@@ -1022,12 +979,11 @@
   speakers: [30]
   complexity: 'Beginner: All welcome'
   length: 2 hours
-  capacity: ''
+  capacity: Unlimited
   recorded: 'No'
   themes: [datascience]
   registration_link: 
     https://www.eventbrite.com/e/introduction-to-web-mapping-with-leaflet-tickets-634393737747
-
 - id: 116
   title: Researcher Skills And Career Planning For Academia And Beyond
   description: 'Learn about the different capabilities and skills needed for a successful
@@ -1038,7 +994,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: 50 attendees
-  recorded: ''
+  recorded: 'No'
   themes: [publish]
   registration_link: 
     https://www.eventbrite.com/e/researcher-skills-and-career-planning-for-academia-and-beyond-tickets-639058028767
@@ -1058,8 +1014,8 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   themes: [publish]
-  capacity: 500 attendees
-  recorded: ''
+  capacity: Unlimited
+  recorded: 'No'
   registration_link: https://www.eventbrite.com/e/introduction-to-quarto-tickets-640269893487
 - id: 118
   title: Chat GPT and it's impact on research
@@ -1095,8 +1051,8 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   themes: []
-  capacity: 500 attendees
-  recorded: ''
+  capacity: Unlimited
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/cybersecurity-for-researchers-tips-for-avoiding-common-issues-tickets-653632541527
 - id: 120
@@ -1107,7 +1063,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   themes: []
-  capacity: 500 attendees
-  recorded: ''
+  capacity: Unlimited
+  recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/7-strategies-to-help-keep-your-research-safe-tickets-653632551557
