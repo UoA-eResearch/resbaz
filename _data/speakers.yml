@@ -112,17 +112,17 @@
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
-# -
-#   id: 22
-#   name: "Mike"
-#   surname: "Laverick"
-#   company: "University of Auckland"
-#   title: "Senior eResearch Solutions Specialist"
-#   bio: "Mike is a Senior eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
-#   thumbnailUrl: "mike_laverick.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+-
+  id: 22
+  name: "Mike"
+  surname: "Laverick"
+  company: "University of Auckland"
+  title: "Senior eResearch Solutions Specialist"
+  bio: "Mike is a Senior eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
+  thumbnailUrl: "mike_laverick.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
 -
   id: 27
