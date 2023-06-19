@@ -832,7 +832,7 @@
   subtype: workshop
   speakers: [116]
   complexity: 'Beginner: All welcome'
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   recorded: 'No'
   themes: [computing, datascience]
