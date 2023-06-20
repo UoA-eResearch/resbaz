@@ -339,7 +339,7 @@
     <a href=\"https://resbaz.auckland.ac.nz/setup/#introduction-to-using-julia-for-machine-learning\"\
     >here</a>"
   subtype: workshop
-  speakers: [75]
+  speakers: [75, 12]
   themes: [computing, datascience]
   complexity: Intermediate
   length: 2 hours
@@ -976,7 +976,7 @@
     and publish their own simple web-based maps. Some experience with HTML, CSS, and
     JavaScript would be useful, but is not necessary.
   subtype: workshop
-  speakers: [30]
+  speakers: [30, 12]
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: Unlimited
