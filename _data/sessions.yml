@@ -770,7 +770,7 @@
     to Quarto</a>\nSetup instructions can be found <a href=\"https://resbaz.auckland.ac.nz/setup/#authoring-collaborative-research-projects-in-quarto\"\
     >here</a>"
   subtype: workshop
-  speakers: [66]
+  speakers: [66, 12]
   complexity: Intermediate
   length: 2 hours
   capacity: 50 attendees
