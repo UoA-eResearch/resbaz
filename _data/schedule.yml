@@ -22,7 +22,7 @@
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: [045, 121, 075]
+    	sessionIds: [045, 300, 075]
     }
 
     - {
@@ -184,7 +184,7 @@
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [066, 065, 300]
+    	sessionIds: [066, 065, 121]
     }
 
 # Thursday
