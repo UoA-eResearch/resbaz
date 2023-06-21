@@ -856,3 +856,15 @@
   rockstar: false
   ribbon:
     - {abbr: "Liggins", title: "University of Auckland", url: ""}
+
+- 
+  id: 127
+  name: "Katrin"
+  surname: "O'Donnell"
+  company: "Science Media Centre New Zealand"
+  title: "Kaimanaaki Pāpāho | Media Advisor"
+  bio: "Katrin first joined the Science Media Centre in 2021 while completing her Masters of Science in Society at Te Herenga Waka - Victoria University of Wellington. She is passionate about making science accessible to support civic engagement in complex issues, and supporting researchers to feel confident talking to the media."   
+  thumbnailUrl: "katrin-odonnell.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "Liggins", title: "University of Auckland", url: ""}

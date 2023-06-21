@@ -1057,7 +1057,7 @@
     https://www.eventbrite.com/e/cybersecurity-for-researchers-tips-for-avoiding-common-issues-tickets-653632541527
 - id: 120
   title: 7 Strategies to Help Keep Your Research Safe
-  description: UoA Security Office provides 7 strategies with actionable steps to help keep your research safe and secure. Attendess will learn how to include security through the entire data lifecycle in partnership with university services. We will provide some practical demos and answers to your questions on how to enable security within research
+  description: UoA Security Office provides 7 strategies with actionable steps to help keep your research safe and secure. Attendess will learn how to include security through the entire data lifecycle in partnership with university services. We will provide some practical demos and answers to your questions on how to enable security within research.
   subtype: workshop
   speakers: [124]
   complexity: 'Beginner: All welcome'
@@ -1067,3 +1067,14 @@
   recorded: 'No'
   registration_link: 
     https://www.eventbrite.com/e/7-strategies-to-help-keep-your-research-safe-tickets-653632551557
+- id: 121
+  title: 'When Science Meets the Headlines: Media Engagement for Research Impact'
+  description: Have you got a big paper coming out that you think is newsworthy? The [Science Media Centre](https://www.sciencemediacentre.co.nz/) can help you get journalists' attention. This session will introduce you to [Scimex](https://www.scimex.org/) - our online portal for promoting embargoed research to registered journalists - alongside our other tools and resources for media engagement. You will learn some tips and tricks on what to do when a journalist calls, and how to ensure your expertise has impact.
+  subtype: workshop
+  speakers: [127]
+  complexity: 'Beginner: All welcome'
+  length: 1 hour
+  themes: [publish]
+  capacity: Unlimited
+  recorded: 'No'
+  registration_link: 
