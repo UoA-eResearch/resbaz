@@ -30,9 +30,9 @@ organizerLink: "https://www.eresearch.auckland.ac.nz"
 # Head
 metaKeywords: "event, resbaz, research, bazaar, resbas, rezbaz, uoa, auckland, cer, eresearch"
 twitterAccount: "@eResearchUoA"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/resbaz_logos/ResBaz_transparent_cropped.png"
+socialImageSrcTwitter: "/img/resbaz_logos/ResBaz_transparent_cropped.png"
+socialImageSrcFacebook: "/img/resbaz_logos/ResBaz_transparent_cropped.png"
 
 # Documents
 c4pUrl: "mailto:researchdata@auckland.ac.nz"
