@@ -868,3 +868,15 @@
   rockstar: false
   ribbon:
     - {abbr: "Scimex", title: "Science Media Centre", url: "https://www.sciencemediacentre.co.nz/"}
+
+- 
+  id: 128
+  name: "Paul"
+  surname: "Wescott"
+  company: "University of Auckland"
+  title: "Cybersecurity Architect"
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
