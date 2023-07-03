@@ -5,8 +5,6 @@ permalink: /setup/
 isStaticPost: true
 image: hero.jpg
 ---
-
-**Details to be added in June**
 Some sessions at ResBaz Aotearoa require participants to follow set up instructions before the event. If you have registered for a session requiring set up, you will be provided with a link to the relevant instructions on this page. If you have any trouble following these instructions then please join us at a [HackyHour](https://uoa-eresearch.github.io/HackyHour/) session. We will be running sessions at 3pm on Tuesday in the week before ResBaz, and on Tuesday in the week of ResBaz.
 
 - [Authoring Collaborative Research Projects In Quarto](#authoring-collaborative-research-projects-in-quarto)
