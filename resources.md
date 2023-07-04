@@ -40,8 +40,10 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 - [Research Hub: Publishing Guide](https://research-hub.auckland.ac.nz/subhub/publishing-guide)
 
 ##### **Using Researcher Profiles & Linkedin To Promote You And Your Research**
+- [Slides](https://docs.google.com/presentation/d/1fTm2ekdcvCcsJCOvtRMQNN0GqzYynbDH/edit?usp=sharing&ouid=109225348339496613720&rtpof=true&sd=true)
 
 ##### **Design 101: Presentations, Posters, And Powerpoints For Researchers**
+- [Slides](https://docs.google.com/presentation/d/1nEdIvBlLsC4KUMMWdO0gddS22kU9ZVBo/edit?usp=sharing&ouid=109225348339496613720&rtpof=true&sd=true)
 
 ##### **Managing References With Zotero**
 - [Slides](https://docs.google.com/presentation/d/1bEtpWJwJR4PqV6t8jOZtRHYFVab8JAHW/edit?usp=sharing&ouid=109225348339496613720&rtpof=true&sd=true)
@@ -65,6 +67,7 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 - [Workshop resources](https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2023-Julia-workshop)
 
 ##### **Research Computing With The Rust Programming Language**
+- [Slides](https://protect-au.mimecast.com/s/TB1HCWLVEjtL1nZ1U68mjK?domain=docs.google.com)
 
 ##### **Python For Image Manipulation And Repeatable Research Pipelines**
 
@@ -89,8 +92,6 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 ##### **Digital Storytelling With Knightlab**
 
 ##### **Visual Abstracts Create An Attention Hook To Your Published Article**
-
-##### **Using The Command Line To Find, Replace, And Manipulate Data**
 
 ##### **Authoring Collaborative Research Projects In Quarto**
 - [Slides](https://quinnasena.github.io/resbaz2022/slides/slide_deck.html#/title-slide) 
