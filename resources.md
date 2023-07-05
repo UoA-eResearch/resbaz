@@ -116,7 +116,7 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 
 ##### **When Science Meets the Headlines: Media Engagement for Research Impact**
 - [Science Media Centre Desk Guide](https://www.sciencemediacentre.co.nz/wp-content/upload/2021/05/2020-green-guide-web.pdf)
-- Sign up for an [expert profile](https://www.scimex.org/builders/expert) or the [weekly newsletter](https://www.sciencemediacentre.co.nz/sign-up-to-deadline/). 
+- Sign up for an [expert profile](https://www.scimex.org/builders/expert) or the [weekly newsletter](https://www.sciencemediacentre.co.nz/sign-up-to-deadline/)
 - [Science media training workshops](https://www.sciencemediacentre.co.nz/savvy/)
 - [Working with illustrators](https://www.sciencemediacentre.co.nz/drawing-science/)
 
