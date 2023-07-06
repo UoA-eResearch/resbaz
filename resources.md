@@ -11,6 +11,10 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 - [Slides](http://tiny.cc/RDM-workshop)
 
 ##### **Jupyter Notebooks For Reproducible Research**
+- Install Juyter Lab or test the browser-based version (JupyterLite) [here](https://jupyter.org). 
+- Or install [Anaconda](https://www.anaconda.com) if you are interested in a bundle of data science tools (including RStudio, VSCode, etc.).
+- Use [JupyterLite with the RISE extension](https://notebook.basthon.fr) for interactive presentations, including blackboard use (only in French, for now).
+- Download the Jupyter Notebook we used in the interactive exercise session (subfolder notebooks) and the example datasets (subfolder datasets) from [this](https://github.com/Konstantinna/ResBaz2023) GitHub repo. The notebook contains a range of exercises and links to tips and tricks for Markdown and Python.
 
 ##### **Nvivo For Literature Reviews**
 - [Recording](https://www.youtube.com/watch?v=hHOXI90AXmk)
@@ -25,6 +29,8 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 - [Step-by-Step NVivo Planning Worksheet](https://academic-consulting.ac-page.com/nvivo-planning-worksheet)
 
 ##### **Build a Research Portfolio Website (Using GitHub)**
+- [GitHub repository and notes](https://github.com/matty-plumski/MattsResbazSite2023)
+- Wowchemy [templates](https://wowchemy.com/templates) and [detailed documentation](https://wowchemy.com/docs)
 
 ##### **Research Data Collection & Surveys With Redcap - An Overview** 
 - [Slides](https://docs.google.com/presentation/d/1covC6fVID1fSjXRu60fiXJ8dI5IPNQkG/edit?usp=sharing&ouid=109225348339496613720&rtpof=true&sd=true)
@@ -56,6 +62,9 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 ##### **Introduction To The Command Line**
 - [Slides](https://drive.google.com/file/d/1q3ragZDj0fjckQM38v4BYC2okwldnqkk/view?usp=sharing)
 
+##### **Using the Command Line to Find, Replace, and Manipulate Data**
+- [Slides](https://drive.google.com/file/d/1rrloqa-kbyozF8LBF3e1IiDGrcygkITk/view?usp=sharing)
+
 ##### **What Is The Julia Programming Language And Is It Right For Me?**
 - [Slides](https://drive.google.com/file/d/18bjGZCRFoWIg1kss3kD1yTWuLKPKgAc6/view?usp=sharing)
 
@@ -67,14 +76,14 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 - [Workshop resources](https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2023-Julia-workshop)
 
 ##### **Research Computing With The Rust Programming Language**
-- [Slides](https://protect-au.mimecast.com/s/TB1HCWLVEjtL1nZ1U68mjK?domain=docs.google.com)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRQG0KSqCk5BNujh3j0BVhzmrmEgDh_oKy8PwNc7jfNklR47IAv_dobuTH6ntOZy6mKCrASvXaGawMS/pub?start=false&loop=false#slide=id.g24d30605975_0_20)
+- For more information, visit Tim’s [website](https://www.rustinaction.com) or watch his [YouTube channel](https://www.youtube.com/c/timclicks).
 
 ##### **Python For Image Manipulation And Repeatable Research Pipelines**
+- [Dataset, Python code, and detailed notes](https://github.com/eResearchSandpit/python-image-manipulation-session)
 
 ##### **What Is NeSI? New Zealand’S National High Performance Computers**
 - [Slides](https://docs.google.com/presentation/d/1zZJM4gbL5M_Hf_ZksuxeoL1WHjHBAEvg/edit?usp=sharing&ouid=109225348339496613720&rtpof=true&sd=true)
-
-##### **Introduction To High Performance Computing With Nesi**
 
 ##### **Keeping Your Spreadsheets Tidy**
 - [Slides](https://docs.google.com/presentation/d/1wDsoRx4YKK6keRBaQOeZk2lxG6t9i4g9/edit?usp=sharing&ouid=109225348339496613720&rtpof=true&sd=true)
@@ -83,21 +92,25 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 - [Slides](https://drive.google.com/file/d/1Ihk7mqRbcN6T_lRdU1FmDtMCs6Od-4kj/view?usp=sharing)
 
 ##### **Tidyverse And Beyond: Key Tips For Existing R Users**
-
-##### **Introduction To Qualtrics For Research Surveys**
+- [Recording from 2022](https://www.youtube.com/watch?v=Vuw0G8RD7PY&list=PLx6WzpVrFFhGD2vMOayaj7ylHeKhsO4IO&index=37)
+- [R resources and tidy scripts](https://github.com/YouSayData/YSD_Overview_tidyverse)
 
 ##### **How To Plan Your Research For Real World Impact**
 - [Slides](https://drive.google.com/file/d/1O-4S89ekspbhdaesLXhmjtEtqA9DhAlV/view?usp=sharing)
 
 ##### **Digital Storytelling With Knightlab**
+- [Recording from 2022](https://www.youtube.com/watch?v=YpZ6PdaKv74&list=PLx6WzpVrFFhGD2vMOayaj7ylHeKhsO4IO&index=36&t=9s)
 
 ##### **Visual Abstracts Create An Attention Hook To Your Published Article**
+- Check back soon
 
 ##### **Authoring Collaborative Research Projects In Quarto**
 - [Slides](https://quinnasena.github.io/resbaz2022/slides/slide_deck.html#/title-slide) 
 - [GitHub Repository](https://github.com/QuinnAsena/resbaz2022)
 
 ##### **Intro to Natural Language Processing using Python**
+- [Recording from 2022](https://www.youtube.com/watch?v=CtNNd2FOLCo&list=PLx6WzpVrFFhGD2vMOayaj7ylHeKhsO4IO&index=21)
+- [NLTK and computational linguistics tutorials with Python](https://github.com/scskalicky/SNAP-CL)
 
 ##### **Introduction to Python**
 - [Slides](https://drive.google.com/file/d/1MOZGWgZ964U--QT-xNiHMMTb0b5b11mS/view?usp=sharing)
@@ -107,6 +120,12 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 
 ##### **Chat GPT and AI tools: Their Impact on Research**
 - [Slides](https://drive.google.com/file/d/191BSgVmkC8qswZ4WFu8X28JojWcNuPZe/view?usp=sharing)
+
+##### **Modern Data Stack In A Box With Duckdb And Dbt**
+- [What is analytics engineering](https://www.getdbt.com/what-is-analytics-engineering) 
+- [dbt developer hub and documentation](https://docs.getdbt.com)
+- [DuckDB how-to guides](https://duckdb.org/docs/guides/index) 
+- [GitHub repo](https://github.com/duckdb/duckdb) 
 
 ##### **Cybersecurity for Researchers - Would Your Research Survive a Cyberattack?**
 - [Slides](https://docs.google.com/presentation/d/1C5ir9JIoYmoV69p2iwugCrTBgtnt1VQ9/edit?usp=sharing&ouid=109225348339496613720&rtpof=true&sd=true)
