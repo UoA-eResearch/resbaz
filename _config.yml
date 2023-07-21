@@ -58,12 +58,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "pohutukawa-2.jpg"
-heroTitle: "ResBaz 2023: 26-30 June"
+heroTitle: "ResBaz 2024: See you in July!"
 eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
 heroButtons:
- - {link: "/schedule/", text: "Registration is open"}
+ - {link: "/schedule/", text: "Here's what we did in 2023"}
 
 # About Block
 # aboutTitle: ""
