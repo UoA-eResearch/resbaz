@@ -102,7 +102,7 @@ ResBaz attendees will recieve an email with a link to a survey to provide feedba
 - [Recording from 2022](https://www.youtube.com/watch?v=YpZ6PdaKv74&list=PLx6WzpVrFFhGD2vMOayaj7ylHeKhsO4IO&index=36&t=9s)
 
 ##### **Visual Abstracts Create An Attention Hook To Your Published Article**
-- Check back soon
+- [Resources](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:fbec7bab-b69d-3670-90e8-436ae9954bba)
 
 ##### **Authoring Collaborative Research Projects In Quarto**
 - [Slides](https://quinnasena.github.io/resbaz2022/slides/slide_deck.html#/title-slide) 
