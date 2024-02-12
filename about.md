@@ -29,7 +29,7 @@ If you're interested in volunteering to deliver a workshop, help out with a work
 
 ##### Are sessions recorded?
 
-2-3 hour sessions will not be recorded in order to encourage participants to attend and to fully engage with instructors. Instructors presenting 1 hour taster sessions will decide whether or not their sessions will be recorded. You can see which sessions will be recorded on the [sessions page](https://resbaz.auckland.ac.nz/sessions/) (check back in the week before ResBaz to see the latest updates). Recordings will be made available to ResBaz registrants following the event.
+Sessions will not be recorded. This is to maximise attendance and engagement with live events, and because engagement with recordings from previous years was not high enough to justify the extra time that our volunteer organisers had to spend on preparing, uploading, and distributing recordings.
 
 ##### Code of Conduct
 *By attending or contributing to the Research Bazaar, you agree to be bound by the Code of Conduct.*

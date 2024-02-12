@@ -7,6 +7,7 @@
                 <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
             {% endfor %}
         </select>
+        <p style="text-align:center">Check back later for sessions happening in 2024.</p> 
         <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
             {% for session in site.data.sessions %}
                 {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 

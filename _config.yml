@@ -12,7 +12,7 @@ future: true # Enable future posts (date > current date)
 # Site Settings
 title: "Research Bazaar Aotearoa"
 email: "researchdata@auckland.ac.nz"
-description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
+description: "The Research Bazaar is a worldwide digital research skills event fostering innovation and collaboration."
 baseurl: ""
 url: "https://resbaz.auckland.ac.nz"
 googleTagManagerId: G-0CTZDPQYTZ
@@ -58,12 +58,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "pohutukawa-2.jpg"
-heroTitle: "ResBaz 2024: See you in July!"
+heroTitle: "ResBaz 2024: 8-12 July"
 eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
 heroButtons:
- - {link: "/schedule/", text: "Here's what we did in 2023"}
+ - {link: "/schedule/", text: "Schedule coming soon"}
 
 # About Block
 # aboutTitle: ""
