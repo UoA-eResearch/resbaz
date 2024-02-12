@@ -1,280 +1,22 @@
-# # Monday
-# - 
-#   date: "2023-06-26"
-#   dateReadable: "Monday 26 June"
-#   tracks: 
-#     - {title: "1", color: "#f27f27"}
-#     - {title: "2", color: "#e91e63"}
-#     - {title: "3", color: "#3279a8"}
-#   timeslots:
-#     - {
-#       startTime: "10:00",
-#       endTime: "10:50",
-#       sessionIds: [068, 076, 112]
-#     }
-
-#     - {
-#       startTime: "10:50",
-#       endTime: "11:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#     	startTime: "11:00",
-#       endTime: "12:00",
-#     	sessionIds: [045, 300, 075]
-#     }
-
-#     - {
-#     	startTime: "12:00",
-#       endTime: "13:00",
-#     	sessionIds: [201]
-#     }
-   
-#     - {
-#     	startTime: "13:00",
-#     	endTime: "13:50",
-#     	sessionIds: [071, 001, 092]
-#     }
-
-#     - {
-#     	startTime: "13:50",
-#       endTime: "14:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#       startTime: "14:00",
-#       endTime: "14:50",
-#       sessionIds: [071, 001, 091]
-#     }
-
-#     - {
-#     	startTime: "14:50",
-#       endTime: "15:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#     	startTime: "15:00",
-#     	endTime: "16:00",
-#     	sessionIds: [089, 072, 091]
-#     }
-
-# # Tuesday
-# - 
-#   date: "2023-06-27"
-#   dateReadable: "Tuesday 27 June"
-#   tracks: 
-#     - {title: "1", color: "#f27f27"}
-#     - {title: "2", color: "#e91e63"}
-#     - {title: "3", color: "#3279a8"}
-#   timeslots:
-#     - {
-#     	startTime: "10:00",
-#       endTime: "10:50",
-#     	sessionIds: [070, 047, 111]
-#     }
-
-#     - {
-#     	startTime: "10:50",
-#       endTime: "11:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#     	startTime: "11:00",
-#       endTime: "12:00",
-#     	sessionIds: [070, 047, 111]
-#     }
-
-#     - {
-#     	startTime: "12:00",
-#       endTime: "13:00",
-#     	sessionIds: [201]
-#     }
-   
-#     - {
-#     	startTime: "13:00",
-#     	endTime: "13:50",
-#     	sessionIds: [097, 074, 079]
-#     }
-
-#     - {
-#     	startTime: "13:50",
-#       endTime: "14:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#       startTime: "14:00",
-#       endTime: "14:50",
-#       sessionIds: [097, 074, 117]
-#     }
-
-#     - {
-#     	startTime: "14:50",
-#       endTime: "15:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#     	startTime: "15:00",
-#     	endTime: "16:00",
-#     	sessionIds: [090, 032, 080]
-#     }
-
-# # Wednesday
-# - 
-#   date: "2023-06-28"
-#   dateReadable: "Wednesday 28 June"
-#   tracks: 
-#     - {title: "1", color: "#f27f27"}
-#     - {title: "2", color: "#e91e63"}
-#     - {title: "3", color: "#3279a8"}
-#   timeslots:
-#     - {
-#     	startTime: "10:00",
-#       endTime: "10:50",
-#     	sessionIds: [044, 077, 114]
-#     }
-
-#     - {
-#     	startTime: "10:50",
-#       endTime: "11:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#     	startTime: "11:00",
-#       endTime: "12:00",
-#     	sessionIds: [044, 077, 064]
-#     }
-
-#     - {
-#     	startTime: "12:00",
-#       endTime: "13:00",
-#     	sessionIds: [201]
-#     }
-   
-#     - {
-#     	startTime: "13:00",
-#     	endTime: "13:50",
-#     	sessionIds: [100, 083, 113]
-#     }
-
-#     - {
-#     	startTime: "13:50",
-#       endTime: "14:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#       startTime: "14:00",
-#       endTime: "14:50",
-#       sessionIds: [066, 103, 098]
-#     }
-
-#     - {
-#     	startTime: "14:50",
-#       endTime: "15:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#     	startTime: "15:00",
-#     	endTime: "16:00",
-#     	sessionIds: [066, 065, 121]
-#     }
-
-# # Thursday
-# - 
-#   date: "2023-06-29"
-#   dateReadable: "Thursday 29 June"
-#   tracks: 
-#     - {title: "1", color: "#f27f27"}
-#     - {title: "2", color: "#e91e63"}
-#     - {title: "3", color: "#3279a8"}
-#   timeslots:
-#     - {
-#     	startTime: "10:00",
-#       endTime: "10:50",
-#     	sessionIds: [115, 088, 105]
-#     }
-
-#     - {
-#     	startTime: "10:50",
-#       endTime: "11:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#     	startTime: "11:00",
-#       endTime: "12:00",
-#     	sessionIds: [115, 085, 063]
-#     }
-
-#     - {
-#     	startTime: "12:00",
-#       endTime: "13:00",
-#     	sessionIds: [201]
-#     }
-   
-#     - {
-#     	startTime: "13:00",
-#     	endTime: "13:50",
-#     	sessionIds: [073, 107, 031]
-#     }
-
-#     - {
-#     	startTime: "13:50",
-#       endTime: "14:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#       startTime: "14:00",
-#       endTime: "14:50",
-#       sessionIds: [073, 108, 031]
-#     }
-
-#     - {
-#     	startTime: "14:50",
-#       endTime: "15:00",
-#     	sessionIds: [200]
-#     }
-
-#     - {
-#     	startTime: "15:00",
-#     	endTime: "16:00",
-#     	sessionIds: [116, 108, 119]
-#     }
-
-# # Friday
-# - 
-  date: "2023-06-30"
-  dateReadable: "Friday 30 June"
+# Monday
+- 
+  date: "2023-06-26"
+  dateReadable: "Monday 26 June"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
     - {title: "3", color: "#3279a8"}
   timeslots:
     - {
-    	startTime: "10:00",
-      endTime: "10:50",
-    	sessionIds: [102,118,120]
-    }
-
-    - {
-    	startTime: "10:50",
+      startTime: "10:00",
       endTime: "11:00",
-    	sessionIds: [200]
+      sessionIds: [300, 300, 300]
     }
 
-    - {
+        - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: [102,118,061]
+    	sessionIds: [300, 300, 300]
     }
 
     - {
@@ -285,30 +27,198 @@
    
     - {
     	startTime: "13:00",
-    	endTime: "13:50",
-    	sessionIds: [078,300,300]
+    	endTime: "14:00",
+    	sessionIds: [300, 300, 300]
     }
 
-    - {
-    	startTime: "13:50",
-      endTime: "14:00",
-    	sessionIds: [200]
-    }
-
-    - {
+        - {
       startTime: "14:00",
-      endTime: "14:50",
-      sessionIds: [078,300,300]
-    }
-
-    - {
-    	startTime: "14:50",
       endTime: "15:00",
-    	sessionIds: [200]
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
+    	startTime: "15:00",
+    	endTime: "16:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+# Tuesday
+- 
+  date: "2023-06-27"
+  dateReadable: "Tuesday 27 June"
+  tracks: 
+    - {title: "1", color: "#f27f27"}
+    - {title: "2", color: "#e91e63"}
+    - {title: "3", color: "#3279a8"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
+    	startTime: "11:00",
+      endTime: "12:00",
+    	sessionIds: [300, 300, 300]
     }
 
     - {
+    	startTime: "12:00",
+      endTime: "13:00",
+    	sessionIds: [201]
+    }
+   
+    - {
+    	startTime: "13:00",
+    	endTime: "14:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+        - {
+      startTime: "14:00",
+      endTime: "15:00",
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
     	startTime: "15:00",
-      endTime: "16:00",
-    	sessionIds: [078,300,300]
+    	endTime: "16:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+# Wednesday
+- 
+  date: "2023-06-28"
+  dateReadable: "Wednesday 28 June"
+  tracks: 
+    - {title: "1", color: "#f27f27"}
+    - {title: "2", color: "#e91e63"}
+    - {title: "3", color: "#3279a8"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
+    	startTime: "11:00",
+      endTime: "12:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+    - {
+    	startTime: "12:00",
+      endTime: "13:00",
+    	sessionIds: [201]
+    }
+   
+    - {
+    	startTime: "13:00",
+    	endTime: "14:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+        - {
+      startTime: "14:00",
+      endTime: "15:00",
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
+    	startTime: "15:00",
+    	endTime: "16:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+# Thursday
+- 
+  date: "2023-06-29"
+  dateReadable: "Thursday 29 June"
+  tracks: 
+    - {title: "1", color: "#f27f27"}
+    - {title: "2", color: "#e91e63"}
+    - {title: "3", color: "#3279a8"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
+    	startTime: "11:00",
+      endTime: "12:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+    - {
+    	startTime: "12:00",
+      endTime: "13:00",
+    	sessionIds: [201]
+    }
+   
+    - {
+    	startTime: "13:00",
+    	endTime: "14:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+        - {
+      startTime: "14:00",
+      endTime: "15:00",
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
+    	startTime: "15:00",
+    	endTime: "16:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+# Friday
+- 
+  date: "2023-06-30"
+  dateReadable: "Friday 30 June"
+  tracks: 
+    - {title: "1", color: "#f27f27"}
+    - {title: "2", color: "#e91e63"}
+    - {title: "3", color: "#3279a8"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
+    	startTime: "11:00",
+      endTime: "12:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+    - {
+    	startTime: "12:00",
+      endTime: "13:00",
+    	sessionIds: [201]
+    }
+   
+    - {
+    	startTime: "13:00",
+    	endTime: "14:00",
+    	sessionIds: [300, 300, 300]
+    }
+
+        - {
+      startTime: "14:00",
+      endTime: "15:00",
+      sessionIds: [300, 300, 300]
+    }
+
+        - {
+    	startTime: "15:00",
+    	endTime: "16:00",
+    	sessionIds: [300, 300, 300]
     }
