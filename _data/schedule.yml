@@ -13,7 +13,7 @@
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "11:00",
       endTime: "12:00",
     	sessionIds: [300, 300, 300]
@@ -31,13 +31,13 @@
     	sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
       startTime: "14:00",
       endTime: "15:00",
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "15:00",
     	endTime: "16:00",
     	sessionIds: [300, 300, 300]
@@ -58,7 +58,7 @@
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "11:00",
       endTime: "12:00",
     	sessionIds: [300, 300, 300]
@@ -76,13 +76,13 @@
     	sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
       startTime: "14:00",
       endTime: "15:00",
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "15:00",
     	endTime: "16:00",
     	sessionIds: [300, 300, 300]
@@ -103,7 +103,7 @@
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "11:00",
       endTime: "12:00",
     	sessionIds: [300, 300, 300]
@@ -121,13 +121,13 @@
     	sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
       startTime: "14:00",
       endTime: "15:00",
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "15:00",
     	endTime: "16:00",
     	sessionIds: [300, 300, 300]
@@ -148,7 +148,7 @@
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "11:00",
       endTime: "12:00",
     	sessionIds: [300, 300, 300]
@@ -166,13 +166,13 @@
     	sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
       startTime: "14:00",
       endTime: "15:00",
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "15:00",
     	endTime: "16:00",
     	sessionIds: [300, 300, 300]
@@ -193,7 +193,7 @@
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "11:00",
       endTime: "12:00",
     	sessionIds: [300, 300, 300]
@@ -211,13 +211,13 @@
     	sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
       startTime: "14:00",
       endTime: "15:00",
       sessionIds: [300, 300, 300]
     }
 
-        - {
+    - {
     	startTime: "15:00",
     	endTime: "16:00",
     	sessionIds: [300, 300, 300]
