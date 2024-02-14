@@ -32,7 +32,7 @@
   length: 2 hours
   capacity: Unlimited
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - id: 031
   title: Jupyter notebooks for reproducible research
@@ -48,7 +48,7 @@
   complexity: 'Beginner: All welcome'
   capacity: 30 attendees
   length: 2 hours
-  registration_link:
+  # registration_link:
 
 - id: 032
   title: NVivo for Literature Reviews
@@ -65,7 +65,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 # -
 #   id: 036
@@ -95,7 +95,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 40 attendees
-  registration_link:
+  # registration_link:
 
 - id: 045
   title: How Can Python Help Your Research?
@@ -116,7 +116,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - id: 047
   title: Build a Research Portfolio Website (Using GitHub)
@@ -131,7 +131,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 50 attendees
-  registration_link:
+  # registration_link:
 
 -
   id: 061
@@ -143,7 +143,7 @@
   complexity: "Beginner: All welcome" 
   length: "1 hour"
   capacity: "Unlimited"
-  registration_link:
+  # registration_link:
 
 # -
 #   id: 062
@@ -172,7 +172,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - id: 064
   title: 'Strategic Publishing: Deciding Where to Publish & Understanding the Process'
@@ -187,7 +187,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - id: 065
   title: Using Researcher Profiles & LinkedIn to Promote You and Your Research
@@ -204,7 +204,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - id: 066
   title: Managing References With Zotero
@@ -222,7 +222,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 # -
 #   id: 067 
@@ -252,7 +252,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - id: 070
   title: Introduction to R and RStudio
@@ -270,7 +270,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 50 attendees
-  registration_link:
+  # registration_link:
 
 - id: 071
   title: Introduction to the Command Line
@@ -295,7 +295,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 50 attendees
-  registration_link:
+  # registration_link:
 
 - id: 072
   title: What is the Julia Programming Language and is it Right for Me?
@@ -315,7 +315,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - id: 073
   title: Introduction to Using Julia for Machine Learning
@@ -337,7 +337,7 @@
   complexity: Intermediate
   length: 2 hours
   capacity: 40 attendees
-  registration_link:
+  # registration_link:
 
 - id: 074
   title: Getting Started With the Julia Programming Language
@@ -355,7 +355,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 40 attendees
-  registration_link:
+  # registration_link:
 
 - id: 075
   title: NVivo Showcase
@@ -370,7 +370,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link: 
+  # registration_link: 
 
 - id: 076
   title: Research Computing with the Rust Programming Language
@@ -384,7 +384,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - id: 077
   title: Python for Image Manipulation and Repeatable Research Pipelines
@@ -400,7 +400,7 @@
   complexity: Beginner/Intermediate
   length: 2 hours
   capacity: 100 attendees
-  registration_link:
+  # registration_link:
 
 - id: 078
   title: Introduction to High Performance Computing with NeSI
@@ -416,7 +416,7 @@
   complexity: 'Beginner: All welcome'
   length: 3 hours
   capacity: 40 attendees
-  registration_link:
+  # registration_link:
 
 - id: 079
   title: Keeping Your Spreadsheets Tidy
@@ -442,7 +442,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - id: 080
   title: 'Research Compute: An Overview of Options at the University of Auckland'
@@ -456,7 +456,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 # -
 #   id: 081 
@@ -494,7 +494,7 @@
   complexity: Intermediate
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - 
   id: 085
@@ -511,7 +511,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link: 
+  # registration_link: 
 
 # -
 #   id: 086 
@@ -552,7 +552,7 @@
   length: 1 hour
   capacity: Unlimited
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - 
   id: 089
@@ -569,7 +569,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - 
   id: 090
@@ -583,7 +583,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - 
   id: 091
@@ -606,7 +606,7 @@
   complexity: 'Beginner: All welcome'
   length: 2 hours
   capacity: 60 attendees
-  registration_link:
+  # registration_link:
 
 - 
   id: 092
@@ -624,7 +624,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 # -
 #   id: 093 
@@ -690,7 +690,7 @@
   complexity: Intermediate
   length: 2 hours
   capacity: 50 attendees
-  registration_link:
+  # registration_link:
 
 - 
   id: 098
@@ -712,7 +712,7 @@
   complexity: 'Beginner: All welcome'
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 # -
 #   id: 099 
@@ -741,7 +741,7 @@
   complexity: Intermediate
   length: 1 hour
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 # -
 #   id: 101 
@@ -772,7 +772,7 @@
   length: 2 hours
   capacity: 50 attendees
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - 
   id: 103
@@ -793,7 +793,7 @@
   length: 1 hour
   capacity: Unlimited
   themes: [computing, datascience]
-  registration_link: 
+  # registration_link: 
 
 - 
   id: 105
@@ -817,7 +817,7 @@
   length: 1 hour
   capacity: Unlimited
   themes: [computing, datascience]
-  registration_link:
+  # registration_link:
 
 - 
   id: 107
@@ -832,7 +832,7 @@
   length: 1 hour
   capacity: Unlimited
   themes: [computing, datascience]
-  registration_link:
+  # registration_link:
 
 - 
   id: 108
@@ -848,7 +848,7 @@
   length: 2 hours
   capacity: 50 attendees
   themes: [computing, datascience]
-  registration_link:
+  # registration_link:
 
 - 
   id: 109
@@ -869,7 +869,7 @@
   length: 1 hour
   capacity: ''
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - 
   id: 110
@@ -887,7 +887,7 @@
   length: 1 hour
   capacity: ''
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - 
   id: 111
@@ -908,7 +908,7 @@
   length: 2 hours
   capacity: 50 attendees
   themes: [computing, datascience]
-  registration_link:
+  # registration_link:
 
 - 
   id: 112
@@ -926,7 +926,7 @@
   length: 1 hour
   capacity: Unlimited
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - 
   id: 113
@@ -944,7 +944,7 @@
   length: 1 hour
   capacity: Unlimited
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - 
   id: 114
@@ -962,7 +962,7 @@
   length: 1 hour
   capacity: 80 attendees
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - 
   id: 115
@@ -979,7 +979,7 @@
   length: 2 hours
   capacity: Unlimited
   themes: [datascience]
-  registration_link:
+  # registration_link:
 
 - 
   id: 116
@@ -993,7 +993,7 @@
   length: 1 hour
   capacity: 50 attendees
   themes: [publish]
-  registration_link:
+  # registration_link:
 
 - 
   id: 117
@@ -1013,7 +1013,7 @@
   length: 1 hour
   themes: [publish]
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - 
   id: 118
@@ -1039,7 +1039,7 @@
   length: 2 hours
   themes: [datascience]
   capacity: 50 attendees
-  registration_link:
+  # registration_link:
 
 - 
   id: 119
@@ -1051,7 +1051,7 @@
   length: 1 hour
   themes: []
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - 
   id: 120
@@ -1063,7 +1063,7 @@
   length: 1 hour
   themes: []
   capacity: Unlimited
-  registration_link:
+  # registration_link:
 
 - 
   id: 121
@@ -1075,4 +1075,4 @@
   length: 1 hour
   themes: [publish]
   capacity: Unlimited
-  registration_link:
+  # registration_link:
