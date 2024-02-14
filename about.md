@@ -29,7 +29,7 @@ If you're interested in volunteering to deliver a workshop, help out with a work
 
 ##### Are sessions recorded?
 
-Sessions will not be recorded. This is to maximise attendance and engagement with live events, and because engagement with recordings from previous years was not high enough to justify the extra time that our volunteer organisers had to spend on preparing, uploading, and distributing recordings.
+Sessions will not be recorded. This is to maximise attendance and engagement with live events.
 
 ##### Code of Conduct
 *By attending or contributing to the Research Bazaar, you agree to be bound by the Code of Conduct.*
