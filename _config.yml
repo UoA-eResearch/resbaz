@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 #  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/about/", text: "About"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/schedule/", text: "2023 Schedule"}
+ - {permalink: "/speakers/", text: "2023 Speakers"}
+ - {permalink: "/sessions/", text: "2023 Sessions"}
  - {permalink: "/resources/", text: "Resources"}
 # - {permalink: "/setup/", text: "Setup"}
 
