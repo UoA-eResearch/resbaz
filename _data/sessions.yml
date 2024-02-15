@@ -231,7 +231,7 @@
 
 - id: 068
   title: "Design 101: Presentations, Posters, and PowerPoints for Researchers"
-  description: Why are you here? What are you presenting? Who are you presenting
+  description: "Why are you here? What are you presenting? Who are you presenting
     to? No, this is not the abstract for “Existentialism with Nietzsche”, it's “Design
     101: Presentations, Posters, and PowerPoints for Researchers”! Have you ever seen
     a research poster or a PowerPoint presentation that was truly terrible and thought,
@@ -239,7 +239,7 @@
     through attractive design?” In this session, we will give you tips on what makes
     good visual design for research. We will walk you through the do's (and some don'ts)
     and what to consider when putting together a visual research presentation, whether
-    a poster, a PowerPoint slideshow, or another type of medium.
+    a poster, a PowerPoint slideshow, or another type of medium."
   subtype: workshop
   speakers: [61, 100]
   themes: [publish]
