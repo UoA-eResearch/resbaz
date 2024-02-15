@@ -131,7 +131,7 @@
 
 -
   id: 061
-  title: Research Data Collection & Surveys with REDCap: An Overview
+  title: "Research Data Collection & Surveys with REDCap: An Overview"
   description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
   subtype: workshop
   speakers: [125, 126]
