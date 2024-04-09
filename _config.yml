@@ -63,7 +63,7 @@ eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
 heroButtons:
- - {link: "/schedule/", text: "Schedule coming soon"}
+ - {link: "https://forms.gle/xwidvQanSm7JZ2ig7", text: "Register for updates"}
 
 # About Block
 # aboutTitle: ""
