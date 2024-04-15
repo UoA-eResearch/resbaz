@@ -187,8 +187,8 @@ footerBlocks:
   links:
    - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland", image: "/img/organizers/UoA Logo Domestic Blue RGB H.png"}
    - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development and Research Office, Victoria University of Wellington", image: "/img/organizers/VUW_green.png"}
-   - {link: "https://www.otago.ac.nz/", text: "University of Otago", image: "/img/organizers/pfr_logo.png"}
-   - {link: "https://www.plantandfood.com/en-nz/", text: "Plant & Food Research", image: "/img/organizers/OtagoLogo.png"}
+   - {link: "https://www.otago.ac.nz/", text: "University of Otago", image: "/img/organizers/OtagoLogo.png"}
+   - {link: "https://www.plantandfood.com/en-nz/", text: "Plant & Food Research", image: "/img/organizers/pfr_logo.png"}
    - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "MBIE-funded Data Science Platform: <em>Beyond Prediction</em>"}
  -
   title: "Partners"
