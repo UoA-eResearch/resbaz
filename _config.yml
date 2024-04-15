@@ -69,11 +69,9 @@ heroButtons:
 # aboutTitle: ""
 #aboutSubtitle: "Conference"
 aboutText: |
-  - 40+ free and online digital research skills [sessions](https://resbaz.auckland.ac.nz/sessions/)
-  - Designed for postgraduate students, researchers and those that support them in any discipline - all of the Aotearoa NZ research community
-  - Register for taster and hands-on sessions across a week-long [schedule](https://resbaz.auckland.ac.nz/schedule/)
-  - Look out for local meetups in your institution
-  - Read more [about ResBaz](https://resbaz.auckland.ac.nz/about/)
+  - Everyone in the Aotearoa research community is welcome to participate
+  - Free and online digital research skills workshops taught by researchers
+  - A mix of shorter 'taster' sessions and longer, practical, hands-on sessions
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
