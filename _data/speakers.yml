@@ -795,3 +795,27 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 129
+  name: "Cherie"
+  surname: "Lacey"
+  company: "University of Auckland"
+  title: "Research Impact Manager"
+  bio: "After a decade working as an academic in media and communications, Cherie moved into the area of research impact and strategy. Her focus is on working with researchers to plan, implement, and evaluate real-world research impact for the public good."
+  thumbnailUrl: "cherie-lacey.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 130
+  name: "Li"
+  surname: "Wang"
+  company: "University of Auckland"
+  title: "Research Services Adviser"
+  bio: "Kia ora! My name is Li Wang. I am a Research Services Adviser from Research Services team in Libraries and Learning Services at Waipapa Taumata Rau (University of Auckland). I am also a final-year PhD candidate in Dance Studies programme belonging to Creative Arts and Industries."
+  thumbnailUrl: "li-wang.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
