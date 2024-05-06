@@ -28,7 +28,7 @@
     management planning, capturing, organising, sharing, and reusing research data.
   subtype: workshop
   speakers: [14, 58]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: Unlimited
   themes: [publish]
@@ -45,9 +45,9 @@
   subtype: workshop
   speakers: [10]
   themes: [datascience]
-  complexity: "Beginner: All welcome"
-  capacity: 30 attendees
-  length: 2 hours
+  complexity: "Beginner"
+  capacity: 60 attendees
+  length: 1 hours
   registration_link:
 
 - id: 032
@@ -62,7 +62,7 @@
   subtype: workshop
   speakers: [36, 114]
   themes: [qual]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -74,7 +74,7 @@
 #   subtype: workshop
 #   speakers: [12, 58]
 #   themes: ["computing", "datascience"]
-#   complexity: "Beginner: All welcome" 
+#   complexity: "Beginner" 
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
@@ -90,7 +90,7 @@
   subtype: workshop
   speakers: [96, 106]
   themes: [qual, datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: 40 attendees
   registration_link:
@@ -111,7 +111,7 @@
   subtype: workshop
   speakers: [27, 104]
   themes: [computing, datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -124,7 +124,7 @@
   subtype: workshop
   speakers: [38]
   themes: [publish]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: 50 attendees
   registration_link:
@@ -136,7 +136,7 @@
   subtype: workshop
   speakers: [125, 126]
   themes: [qual]
-  complexity: "Beginner: All welcome" 
+  complexity: "Beginner" 
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -148,7 +148,7 @@
 #   subtype: workshop
 #   speakers: [55, 110]
 #   themes: ["publish"]
-#   complexity: "Beginner: All welcome" 
+#   complexity: "Beginner" 
 #   length: "2 hours"
 #   capacity: "50 attendees"
 
@@ -165,7 +165,7 @@
   subtype: workshop
   speakers: [119, 120]
   themes: [publish]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -180,7 +180,7 @@
   subtype: workshop
   speakers: [99, 97]
   themes: [publish]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -197,7 +197,7 @@
   subtype: workshop
   speakers: [100, 121]
   themes: [publish]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -213,21 +213,21 @@
   subtype: workshop
   speakers: [58, 114]
   themes: [publish]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: Unlimited
   registration_link:
 
-# -
-#   id: 067 
-#   title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
-#   description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Join waitlist</a>"
-#   subtype: workshop
-#   speakers: [60, 12, 110]
-#   themes: ["datascience"]
-#   complexity: "Beginner: All welcome"
-#   length: "3 hours"
-#   capacity: "40 attendees"
+-
+  id: 067 
+  title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
+  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Join waitlist</a>"
+  subtype: workshop
+  speakers: [60, 12, 110]
+  themes: ["datascience"]
+  complexity: "Beginner"
+  length: "3 hours"
+  capacity: "40 attendees"
 
 - id: 068
   title: "Design 101: Presentations, Posters, and PowerPoints for Researchers"
@@ -243,7 +243,7 @@
   subtype: workshop
   speakers: [61, 100]
   themes: [publish]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -259,30 +259,29 @@
   subtype: workshop
   speakers: [96, 58, 106]
   themes: [computing, datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: 50 attendees
   registration_link:
 
 - id: 071
   title: Introduction to the Command Line
-  description: The Unix shell is a powerful command-line interface and scripting
-    language which can automate repetitive tasks. The Unix philosophy is that each
-    tool (command) should perform just one task, and perform it well.\nLearning the
-    command-line is learning how to exploit these tools and compose them to perform
-    tasks that you can find no satisfactory single tool to perform. Along the way,
-    you will learn how to choose appropriate commands for your tasks and develop an
-    understanding of how the command line can help you to save time.\nBash is the
-    default shell on most modern implementations of Unix and in most packages that
-    provide Unix-like tools for Windows.This session will use the command-line bash
-    shell  to introduce you to the basics, as far as time permits, of how to navigate
-    the file-system; read, write, and modify files; parse data from and to files; create custom re-usable commands in the form of aliases, shell functions and
-    shell scripts; and automate repetitive tasks.
+  description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well.
+ Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time.
+ Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows.
+ This session will use the command-line bash shell to introduce you to the basics, as far as time permits, of how to:
+ * navigate the file-system
+ * read, write, and modify files
+ * parse data from and to files
+ * create custom re-usable commands in the form of aliases, shell functions and shell scripts
+ * automate repetitive tasks
+ 
+ Setup instructions can be found <a href=""https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line"">here</a>"
   subtype: workshop
   speakers: [21]
   themes: [computing, datascience]
-  complexity: "Beginner: All welcome"
-  length: 2 hours
+  complexity: "Beginner"
+  length: 5 hours
   capacity: 50 attendees
   registration_link:
 
@@ -301,7 +300,7 @@
   subtype: workshop
   speakers: [75]
   themes: [computing, datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -338,8 +337,8 @@
   subtype: workshop
   speakers: [75]
   themes: [computing, datascience]
-  complexity: "Beginner: All welcome"
-  length: 2 hours
+  complexity: "Beginner"
+  length: 3 hours
   capacity: 40 attendees
   registration_link:
 
@@ -353,7 +352,7 @@
   subtype: workshop
   speakers: [36, 114]
   themes: [qual, datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link: 
@@ -367,7 +366,7 @@
   subtype: workshop
   speakers: [74]
   themes: [datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -399,33 +398,24 @@
   subtype: workshop
   speakers: [54, 101]
   themes: [computing]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 3 hours
   capacity: 40 attendees
   registration_link:
 
 - id: 079
   title: Keeping Your Spreadsheets Tidy
-  description: Good data organisation is the foundation of any research project. We
-    often organise data in spreadsheets in ways that we as humans want to work with
-    it, but computers require data be organised in particular ways. In order to use
-    tools that make computation more efficient such as programming languages like
-    R or Python, we need to structure our data the way that computers can make sense
-    of it. Since this is where most research projects start, this is where we want
-    to start too! Preparing data for analysis is an important part of the research
-    workflow and some have estimated that this data preparation may take 4x as long
-    as the 'analysis' itself. Some of this involves data cleaning, where errors in
-    the data are identifed and corrected or formatting made consistent, but the foundation
-    is to start with a machine readable datasheet. In this workshop we will cover
-    the basics of good data hygiene and the core principles of the tidy data framework
-    which ensures that your data are machine readable and ready for manipulation/analysis.
-    We encourage you to bring along a device that has access to some kind of spreadsheet
-    software (e.g. GoogleSheets, Excel, etc.), so you can spot the problems and work
-    towards putting tidy data into practice.
+  description: Good data organisation is the foundation of any research project.
+  We often organise data in spreadsheets in ways that we as humans want to work with it, 
+  but computers require data to be organised in particular ways. This workshop introduces 
+  'tidy data' principles - a set of recommendations for keeping your projects and spreadsheets 
+  clean and organised. This is especially important if you're planning to analyse your 
+  data with a programming language like R or Python, otherwise you might need to spend hours 
+  and hours tidying up or reformatting your data before you can start your analyses.
   subtype: workshop
   speakers: [111]
   themes: [qual, datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -439,7 +429,7 @@
   subtype: workshop
   speakers: [17]
   themes: [computing]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -451,7 +441,7 @@
 #   subtype: workshop
 #   speakers: [78]
 #   themes: ["datascience"]
-#   complexity: "Beginner: All welcome"
+#   complexity: "Beginner"
 #   length: "1 hour"
 #   capacity: "Unlimited"
 
@@ -494,7 +484,7 @@
   subtype: workshop
   speakers: [114]
   themes: [qual]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link: 
@@ -534,7 +524,7 @@
     into your research planning.
   subtype: workshop
   speakers: [29]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   themes: [publish]
@@ -551,7 +541,7 @@
   subtype: workshop
   speakers: [38]
   themes: [publish]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -565,7 +555,7 @@
     session starts.
   subtype: workshop
   speakers: [12, 58]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -585,7 +575,7 @@
   subtype: workshop
   speakers: [95]
   themes: [publish]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: 60 attendees
   registration_link:
@@ -603,7 +593,7 @@
   subtype: workshop
   speakers: [101, 54]
   themes: [computing, datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -614,7 +604,7 @@
 #   description: "Research data has become a primary target for cyberattacks. Recent reports found that attacks on educational institutions are growing faster than any other sector. It's been clear how vulnerable — and desirable — university research data is to bad actors, emphasizing that having properly secured research will be critical for warding off current and future attacks.And cybersecurity threats to research universities won't stop as Universities will remain repositories of invaluable proprietary and personal data, often tied to corporations and government organizations, that spans medical, military, financial and emerging technologies, and more. A data risk assessment will be the primary step to overcome some of the most common roadblocks preventing universities from securing research data. This one-hour presentation provides guidelines to performing a data risk assessment. A data risk assessment helps researchers gain visibility into all the potential threat vectors that can lead to security or privacy violations, and the awareness of which would help safeguard valuable research. <a href=\"https://www.eventbrite.com/e/data-security-addressing-risks-in-postgraduate-research-tickets-438725538897\">Book here</a>"
 #   subtype: workshop
 #   speakers: [103]
-#   complexity: "Beginner: All welcome"
+#   complexity: "Beginner"
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
@@ -625,7 +615,7 @@
 #   description: "Awareness, accountability, and responsibility are the key tenets of cybersecurity. This one-hour presentation introduces several aspects of cybersecurity with a particular focus to safeguarding post graduate research. It covers cybersecurity practices for researchers including the need for safeguarding your research, what the risks are and who they are from, what parts of your research may be vulnerable, what steps you can take to protect your research, how you can protect your research during travel. This presentation also provides resources, case studies and scenarios. <a href=\"https://www.eventbrite.com/e/safeguarding-your-research-cybersecurity-practices-for-researchers-tickets-438726963157\">Book here</a>"
 #   subtype: workshop
 #   speakers: [103]
-#   complexity: "Beginner: All welcome"
+#   complexity: "Beginner"
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
@@ -637,7 +627,7 @@
 #   subtype: workshop
 #   speakers: [102]
 #   themes: ["datascience"]
-#   complexity: "Beginner: All welcome"
+#   complexity: "Beginner"
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: ""
@@ -649,7 +639,7 @@
 #   subtype: workshop
 #   speakers: [54]
 #   themes: ["computing", "datascience"]
-#   complexity: "Beginner: All welcome"
+#   complexity: "Beginner"
 #   length: "2 hours"
 #   capacity: "Unlimited"
 #   recorded: ""
@@ -690,7 +680,7 @@
   subtype: workshop
   speakers: [104, 22]
   themes: [computing, datascience]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   registration_link:
@@ -702,7 +692,7 @@
 #   subtype: workshop
 #   speakers: [107]
 #   themes: ["datascience"]
-#   complexity: "Beginner: All welcome"
+#   complexity: "Beginner"
 #   length: ""
 #   capacity: ""
 #   recorded: ""
@@ -730,7 +720,7 @@
 #   description: "All researchers are welcome to listen and contribute to this korero (discussion) about Māori Data Sovereignty within the context of undertaking research in Aotearoa. Geremy Hema, Poutiaki Rangahau Māori at Waipapa Taumata Rau | University of Auckland, will provide an introduction to Māori Data Sovereignty and why it is imporant to researchers. Attendees will be invited to respectfully share their successful approaches to weaving the Māori Data Sovereignty principles into how they conduct research. Feedback on training needs, barriers and enablers will be sought to inform future resources and support services.  <a href=\"\">Book here</a>"
 #   subtype: workshop
 #   speakers: [109, 112, 14, 111]
-#   complexity: "Beginner: All welcome"
+#   complexity: "Beginner"
 #   length: "1 hour"
 #   capacity: "Unlimited"
 #   recorded: "No"
@@ -738,16 +728,15 @@
 - 
   id: 102
   title: Authoring Collaborative Research Projects in Quarto
-  description: Learn how to develop reproducible and sharable workflows using Quarto
-    and Git. We will take you through how to host collaborative research projects
-    as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version
-    control and markdown syntax, research outputs can be shared as a live link that
-    is consitent with your latest analyses. One benefit of Quarto is flexibility,
-    accepting multiple programming languages (R, Python, Julia...) and output formats
-    (docx, pdf, html...).
+  description: Learn how to develop reproducible and sharable workflows using Quarto and Git. 
+  We will take you through how to host collaborative research projects as a formatted (and 
+  cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, 
+  research outputs can be shared as a live link that is consitent with your latest analyses. 
+  One benefit of Quarto is flexibility, accepting multiple programming languages (e.g. R, 
+  Python, Julia...) and output formats (e.g. docx, pdf, html...). 
   subtype: workshop
   speakers: [66, 12]
-  complexity: Intermediate
+  complexity: Advanced
   length: 2 hours
   capacity: 50 attendees
   themes: [publish]
@@ -768,7 +757,7 @@
     operations such as sentiment analysis. No prior knowledge of programming is assumed.
   subtype: workshop
   speakers: [113]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   themes: [computing, datascience]
@@ -807,7 +796,7 @@
     present and interpret the results.
   subtype: workshop
   speakers: [116]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   themes: [computing, datascience]
@@ -823,7 +812,7 @@
     install R and RStudio prior to the session.
   subtype: workshop
   speakers: [116]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: 50 attendees
   themes: [computing, datascience]
@@ -844,7 +833,7 @@
     range of audiences.
   subtype: workshop
   speakers: [96, 106]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: ''
   themes: [publish]
@@ -862,7 +851,7 @@
     the integrity of their work.
   subtype: workshop
   speakers: [96]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: ''
   themes: [publish]
@@ -883,7 +872,7 @@
     to start applying Python to your respective research field.
   subtype: workshop
   speakers: [104, 27]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: 50 attendees
   themes: [computing, datascience]
@@ -901,7 +890,7 @@
     your documents.
   subtype: workshop
   speakers: [110]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   themes: [publish]
@@ -919,7 +908,7 @@
     how to use them to streamline workflows.
   subtype: workshop
   speakers: [14, 19]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
   themes: [publish]
@@ -937,7 +926,7 @@
     skills, particularly for academic and technical writing.
   subtype: workshop
   speakers: [27]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: 80 attendees
   themes: [publish]
@@ -954,7 +943,7 @@
     JavaScript would be useful, but is not necessary.
   subtype: workshop
   speakers: [30, 12]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   capacity: Unlimited
   themes: [datascience]
@@ -968,7 +957,7 @@
     skills academics possess which are relevant outside of academia.
   subtype: workshop
   speakers: [122]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   capacity: 50 attendees
   themes: [publish]
@@ -988,7 +977,7 @@
     for your document workflow.
   subtype: workshop
   speakers: [66]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   themes: [publish]
   capacity: Unlimited
@@ -1014,7 +1003,7 @@
     to the next level.
   subtype: workshop
   speakers: [118, 104]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 2 hours
   themes: [datascience]
   capacity: 50 attendees
@@ -1026,7 +1015,7 @@
   description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to your data being lost or held to ransom. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
   subtype: workshop
   speakers: [123]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   themes: []
   capacity: Unlimited
@@ -1038,7 +1027,7 @@
   description: UoA Security Office provides 7 strategies with actionable steps to help keep your research safe and secure. Attendess will learn how to include security through the entire data lifecycle in partnership with university services. We will provide some practical demos and answers to your questions on how to enable security within research.
   subtype: workshop
   speakers: [124, 128]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   themes: []
   capacity: Unlimited
@@ -1050,8 +1039,69 @@
   description: Have you got a big paper coming out that you think is newsworthy? The <a href=\"https://www.sciencemediacentre.co.nz\">Science Media Centre</a> can help you get journalists' attention. This session will introduce you to <a href=\"https://www.scimex.org\">Scimex</a> - our online portal for promoting embargoed research to registered journalists - alongside our other tools and resources for media engagement. You will learn some tips and tricks on what to do when a journalist calls, and how to ensure your expertise has impact.
   subtype: workshop
   speakers: [127]
-  complexity: "Beginner: All welcome"
+  complexity: "Beginner"
   length: 1 hour
   themes: [publish]
+  capacity: Unlimited
+  registration_link:
+
+- 
+  id: 122
+  title: "Getting data from the web: An introduction to webscraping and APIs"
+  description: There are all kinds of useful sources of research data on the web, such as 
+  tables on webpages, or records available only via APIs (Application Programming Interfaces). 
+  Extracting or assembling this data into a useable form by hand is often prohibitively time 
+  consuming or difficult. However, if you know how to scrape data or use an API it opens up 
+  all sorts of interesting data sources for you to include in your research. In this practical, 
+  follow-along workshop, we will start by introducing some important considerations when 
+  working with data from the web (ethics, terms of use, copyright). We’ll then explore how 
+  data can be scraped from webpages, retrieved from APIs, and processed into a tabular form 
+  ready for analysis. Participants are expected to have a novice-level understanding of Python.
+  subtype: workshop
+  speakers: [110]
+  complexity: "Intermediate"
+  length: 2 hour
+  themes: [computing, datascience]
+  capacity: 50 attendees
+  registration_link:
+
+  - 
+  id: 123
+  title: "How to present data & results on a self-updating website, using GitHub Actions"
+  description: This workshop describes a workflow for creating a self-updating website, hosted 
+  on GitHub Pages and powered by GitHub Actions, both of which are free services (with some 
+  limitations). These kinds of websites allow you to build up a dataset over time and display 
+  that data as a dynamic ‘dashboard’ which automatically updates with new data. Participants 
+  will benefit from a basic understanding of web scraping, either by attending "Getting data 
+  from the web", or through prior knowledge. This 2 hour taster session will introduce and 
+  link important concepts, offer a chance to ask questions, and provide participants with 
+  useful resources, but it will not be a hands-on session where participants can follow along. 
+  subtype: workshop
+  speakers: [110,12]
+  complexity: "Intermediate"
+  length: 2 hour
+  themes: [computing, datascience]
+  capacity: Unlimited
+  registration_link:
+
+    - 
+  id: 124
+  title: "Hands-on introduction to leveraging containers in research code"
+  description: Have you ever found yourself with a potpourri of Python versions lingering in 
+  your laptop, conflicting between one another or drowning you in dependency hell? Have you 
+  ever found yourself trying to use custom software environments from a colleague or the 
+  internet, only to find it more difficult to install, than it is to run? Or, have to try to 
+  share your code with lab mates, and they just cannot get it to work without you? If you ever 
+  find yourself running into reproducibility issues in those scenarios, or even with your own 
+  software some years later, this session is for you.This hand-ons workshop will introduce you 
+  to containers, using Docker, to help you create, maintain, share and consume code for your 
+  research in a manner that promotes reproducibility and provenance. And hopefully alleviate 
+  some of those pain points with research software.A minimum knowledge of the command line, 
+  i.e. launching commands, listing and editing files or changing directories is required. 
+  subtype: workshop
+  speakers: []
+  complexity: "Beginner"
+  length: 2 hour
+  themes: [computing, datascience]
   capacity: Unlimited
   registration_link:
