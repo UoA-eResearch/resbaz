@@ -280,7 +280,7 @@
     - parse data from and to files
     - create custom re-usable commands in the form of aliases, shell functions and shell scripts
     - automate repetitive tasks
-    Setup instructions can be found <a href=""https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line"">here</a>"
+    Setup instructions can be found <a href="https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line">here</a>"
   subtype: workshop
   speakers: [21]
   themes: [computing, datascience]
