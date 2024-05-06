@@ -267,16 +267,16 @@
 - id: 071
   title: Introduction to the Command Line
   description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well.
- Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time.
- Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows.
- This session will use the command-line bash shell to introduce you to the basics, as far as time permits, of how to:
- * navigate the file-system
- * read, write, and modify files
- * parse data from and to files
- * create custom re-usable commands in the form of aliases, shell functions and shell scripts
- * automate repetitive tasks
- 
- Setup instructions can be found <a href=""https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line"">here</a>"
+    Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time.
+    Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows.
+    This session will use the command-line bash shell to introduce you to the basics, as far as time permits, of how to:
+    * navigate the file-system
+    * read, write, and modify files
+    * parse data from and to files
+    * create custom re-usable commands in the form of aliases, shell functions and shell scripts
+    * automate repetitive tasks
+    
+    Setup instructions can be found <a href=""https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line"">here</a>"
   subtype: workshop
   speakers: [21]
   themes: [computing, datascience]
@@ -1049,14 +1049,14 @@
   id: 122
   title: "Getting data from the web: An introduction to webscraping and APIs"
   description: There are all kinds of useful sources of research data on the web, such as 
-  tables on webpages, or records available only via APIs (Application Programming Interfaces). 
-  Extracting or assembling this data into a useable form by hand is often prohibitively time 
-  consuming or difficult. However, if you know how to scrape data or use an API it opens up 
-  all sorts of interesting data sources for you to include in your research. In this practical, 
-  follow-along workshop, we will start by introducing some important considerations when 
-  working with data from the web (ethics, terms of use, copyright). We’ll then explore how 
-  data can be scraped from webpages, retrieved from APIs, and processed into a tabular form 
-  ready for analysis. Participants are expected to have a novice-level understanding of Python.
+    tables on webpages, or records available only via APIs (Application Programming Interfaces). 
+    Extracting or assembling this data into a useable form by hand is often prohibitively time 
+    consuming or difficult. However, if you know how to scrape data or use an API it opens up 
+    all sorts of interesting data sources for you to include in your research. In this practical, 
+    follow-along workshop, we will start by introducing some important considerations when 
+    working with data from the web (ethics, terms of use, copyright). We’ll then explore how 
+    data can be scraped from webpages, retrieved from APIs, and processed into a tabular form 
+    ready for analysis. Participants are expected to have a novice-level understanding of Python.
   subtype: workshop
   speakers: [110]
   complexity: "Intermediate"
@@ -1069,13 +1069,13 @@
   id: 123
   title: "How to present data & results on a self-updating website, using GitHub Actions"
   description: This workshop describes a workflow for creating a self-updating website, hosted 
-  on GitHub Pages and powered by GitHub Actions, both of which are free services (with some 
-  limitations). These kinds of websites allow you to build up a dataset over time and display 
-  that data as a dynamic ‘dashboard’ which automatically updates with new data. Participants 
-  will benefit from a basic understanding of web scraping, either by attending "Getting data 
-  from the web", or through prior knowledge. This 2 hour taster session will introduce and 
-  link important concepts, offer a chance to ask questions, and provide participants with 
-  useful resources, but it will not be a hands-on session where participants can follow along. 
+    on GitHub Pages and powered by GitHub Actions, both of which are free services (with some 
+    limitations). These kinds of websites allow you to build up a dataset over time and display 
+    that data as a dynamic ‘dashboard’ which automatically updates with new data. Participants 
+    will benefit from a basic understanding of web scraping, either by attending "Getting data 
+    from the web", or through prior knowledge. This 2 hour taster session will introduce and 
+    link important concepts, offer a chance to ask questions, and provide participants with 
+    useful resources, but it will not be a hands-on session where participants can follow along. 
   subtype: workshop
   speakers: [110,12]
   complexity: "Intermediate"
@@ -1088,16 +1088,16 @@
   id: 124
   title: "Hands-on introduction to leveraging containers in research code"
   description: Have you ever found yourself with a potpourri of Python versions lingering in 
-  your laptop, conflicting between one another or drowning you in dependency hell? Have you 
-  ever found yourself trying to use custom software environments from a colleague or the 
-  internet, only to find it more difficult to install, than it is to run? Or, have to try to 
-  share your code with lab mates, and they just cannot get it to work without you? If you ever 
-  find yourself running into reproducibility issues in those scenarios, or even with your own 
-  software some years later, this session is for you.This hand-ons workshop will introduce you 
-  to containers, using Docker, to help you create, maintain, share and consume code for your 
-  research in a manner that promotes reproducibility and provenance. And hopefully alleviate 
-  some of those pain points with research software.A minimum knowledge of the command line, 
-  i.e. launching commands, listing and editing files or changing directories is required. 
+    your laptop, conflicting between one another or drowning you in dependency hell? Have you 
+    ever found yourself trying to use custom software environments from a colleague or the 
+    internet, only to find it more difficult to install, than it is to run? Or, have to try to 
+    share your code with lab mates, and they just cannot get it to work without you? If you ever 
+    find yourself running into reproducibility issues in those scenarios, or even with your own 
+    software some years later, this session is for you.This hand-ons workshop will introduce you 
+    to containers, using Docker, to help you create, maintain, share and consume code for your 
+    research in a manner that promotes reproducibility and provenance. And hopefully alleviate 
+    some of those pain points with research software.A minimum knowledge of the command line, 
+    i.e. launching commands, listing and editing files or changing directories is required. 
   subtype: workshop
   speakers: []
   complexity: "Beginner"
