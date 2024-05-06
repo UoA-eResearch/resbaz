@@ -408,12 +408,12 @@
 - id: 079
   title: Keeping Your Spreadsheets Tidy
   description: Good data organisation is the foundation of any research project.
-  We often organise data in spreadsheets in ways that we as humans want to work with it, 
-  but computers require data to be organised in particular ways. This workshop introduces 
-  'tidy data' principles - a set of recommendations for keeping your projects and spreadsheets 
-  clean and organised. This is especially important if you're planning to analyse your 
-  data with a programming language like R or Python, otherwise you might need to spend hours 
-  and hours tidying up or reformatting your data before you can start your analyses.
+    We often organise data in spreadsheets in ways that we as humans want to work with it, 
+    but computers require data to be organised in particular ways. This workshop introduces 
+    'tidy data' principles - a set of recommendations for keeping your projects and spreadsheets 
+    clean and organised. This is especially important if you're planning to analyse your 
+    data with a programming language like R or Python, otherwise you might need to spend hours 
+    and hours tidying up or reformatting your data before you can start your analyses.
   subtype: workshop
   speakers: [111]
   themes: [qual, datascience]
@@ -731,11 +731,11 @@
   id: 102
   title: Authoring Collaborative Research Projects in Quarto
   description: Learn how to develop reproducible and sharable workflows using Quarto and Git. 
-  We will take you through how to host collaborative research projects as a formatted (and 
-  cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, 
-  research outputs can be shared as a live link that is consitent with your latest analyses. 
-  One benefit of Quarto is flexibility, accepting multiple programming languages (e.g. R, 
-  Python, Julia...) and output formats (e.g. docx, pdf, html...). 
+    We will take you through how to host collaborative research projects as a formatted (and 
+    cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, 
+    research outputs can be shared as a live link that is consitent with your latest analyses. 
+    One benefit of Quarto is flexibility, accepting multiple programming languages (e.g. R, 
+    Python, Julia...) and output formats (e.g. docx, pdf, html...). 
   subtype: workshop
   speakers: [66, 12]
   complexity: Advanced
