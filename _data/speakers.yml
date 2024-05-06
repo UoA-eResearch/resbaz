@@ -820,14 +820,27 @@
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
 
-    - 
+- 
   id: 131
   name: "Luis"
   surname: "Gracia"
   company: "University of Auckland"
-  title: "Research Services Adviser"
+  title: "Senior Solutions Specialist"
   bio: "Luis is a Senior Solutions Specialist at the Centre for eResearch at the University of Auckland with more than 25 years of experience in eResearch and Linux computing. Luis holds a PhD in Computational Biology from the University of Navarra in Spain and did a postdoc at Weill Cornell Medical College in New York, where he then switched into scientific software specialist role helping researchers in all matters eResearch. He then moved on to advance DevOps engineering at the European Bioinformatics Institute in Cambridge, UK and managed the DevOps group at Rockefeller University in New York. Luis is particularly interested in optimized workflows and reproducible science."
   thumbnailUrl: "luis-gracia.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 132
+  name: "Berit"
+  surname: "Anderson"
+  company: "University of Auckland"
+  title: "Team Leader in Research Services, Libraries and Learning Services"
+  bio: "In 2023, Berit Anderson was the Open Access Delivery Lead at Waipapa Taumata Rau | University of Auckland, developing Open Access content for ResearchHub, organising local Open Access Week events, and co-leading the Universities New Zealand Open Access Toolkit for Aotearoa New Zealand Researchers project. She is now a Team Leader in Ngā Ratonga Manaaki Rangahau o Te Tumu Herenga | Research Services, Libraries and Learning Services."
+  thumbnailUrl: "berit-anderson.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: "https://oaaustralasia.org/open-access-toolkit-for-aotearoa-new-zealand-researchers/"}
+  
