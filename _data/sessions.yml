@@ -266,16 +266,20 @@
 
 - id: 071
   title: Introduction to the Command Line
-  description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. The Unix philosophy is that each tool (command) should perform just one task, and perform it well.
-    Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands for your tasks and develop an understanding of how the command line can help you to save time.
+  description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. 
+    The Unix philosophy is that each tool (command) should perform just one task, and perform it well.
+    Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find
+    no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands
+    for your tasks and develop an understanding of how the command line can help you to save time.
     Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows.
     This session will use the command-line bash shell to introduce you to the basics, as far as time permits, of how to:
-    * navigate the file-system
-    * read, write, and modify files
-    * parse data from and to files
-    * create custom re-usable commands in the form of aliases, shell functions and shell scripts
-    * automate repetitive tasks
-    
+
+
+    - navigate the file-system
+    - read, write, and modify files
+    - parse data from and to files
+    - create custom re-usable commands in the form of aliases, shell functions and shell scripts
+    - automate repetitive tasks
     Setup instructions can be found <a href=""https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line"">here</a>"
   subtype: workshop
   speakers: [21]

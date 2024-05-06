@@ -819,3 +819,15 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
+
+    - 
+  id: 131
+  name: "Luis"
+  surname: "Gracia"
+  company: "University of Auckland"
+  title: "Research Services Adviser"
+  bio: "Luis is a Senior Solutions Specialist at the Centre for eResearch at the University of Auckland with more than 25 years of experience in eResearch and Linux computing. Luis holds a PhD in Computational Biology from the University of Navarra in Spain and did a postdoc at Weill Cornell Medical College in New York, where he then switched into scientific software specialist role helping researchers in all matters eResearch. He then moved on to advance DevOps engineering at the European Bioinformatics Institute in Cambridge, UK and managed the DevOps group at Rockefeller University in New York. Luis is particularly interested in optimized workflows and reproducible science."
+  thumbnailUrl: "luis-gracia.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
