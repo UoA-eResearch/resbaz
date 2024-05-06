@@ -95,26 +95,26 @@
   capacity: 40 attendees
   registration_link:
 
-- id: 045
-  title: How Can Python Help Your Research?
-  description: New to the Python programming language and interested in how it can
-    help your research?  Then this intro session is for you! No prior knowledge of
-    Python required, no hands-on coding involved, just sit back with your favourite
-    beverage and find out about the powerful world of Python. The session is split
-    into 2 parts. Part 1 - A holistic overview of Python. Key concepts in Python, how
-    Python is used around the world, and how Python can help you organise, analyse,
-    and visualise your research data. Part 2 - Getting started with Python for research.
-    A live demonstration of how to start using Python to investigate research data,
-    including - how to load in a spreadsheet of data, basic manipulation and processing
-    of the data, how to quickly visualise the data to reveal insights into the dataset,
-    and a bunch of useful links to help you launch your journey into using Python.
-  subtype: workshop
-  speakers: [27, 104]
-  themes: [computing, datascience]
-  complexity: "Beginner"
-  length: 1 hour
-  capacity: Unlimited
-  registration_link:
+# - id: 045
+#   title: How Can Python Help Your Research?
+#   description: New to the Python programming language and interested in how it can
+#     help your research?  Then this intro session is for you! No prior knowledge of
+#     Python required, no hands-on coding involved, just sit back with your favourite
+#     beverage and find out about the powerful world of Python. The session is split
+#     into 2 parts. Part 1 - A holistic overview of Python. Key concepts in Python, how
+#     Python is used around the world, and how Python can help you organise, analyse,
+#     and visualise your research data. Part 2 - Getting started with Python for research.
+#     A live demonstration of how to start using Python to investigate research data,
+#     including - how to load in a spreadsheet of data, basic manipulation and processing
+#     of the data, how to quickly visualise the data to reveal insights into the dataset,
+#     and a bunch of useful links to help you launch your journey into using Python.
+#   subtype: workshop
+#   speakers: [27, 104]
+#   themes: [computing, datascience]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   capacity: Unlimited
+#   registration_link:
 
 - id: 047
   title: Build a Research Portfolio Website (Using GitHub)
@@ -277,7 +277,7 @@
     <ul><li> - read, write, and modify files</li>
     <ul><li> - parse data from and to files</li>
     <ul><li> - create custom re-usable commands in the form of aliases, shell functions and shell scripts</li>
-    <ul><li> - automate repetitive tasks</li>""
+    <ul><li> - automate repetitive tasks</li>"
   subtype: workshop
   speakers: [21]
   themes: [computing, datascience]
