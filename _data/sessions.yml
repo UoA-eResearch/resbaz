@@ -278,7 +278,7 @@
     <ul><li>parse data from and to files</li>
     <ul><li>create custom re-usable commands in the form of aliases, shell functions and shell scripts</li>
     <ul><li>automate repetitive tasks</li>
-    Setup instructions can be found <a href="https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line">here</a>"
+    Setup instructions can be found <a href='https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line'>here</a>"
   subtype: workshop
   speakers: [21]
   themes: [computing, datascience]
