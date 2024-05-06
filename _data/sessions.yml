@@ -273,12 +273,11 @@
     for your tasks and develop an understanding of how the command line can help you to save time.
     Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows.
     This session will use the command-line bash shell to introduce you to the basics, as far as time permits, of how to:
-    |-
-    - navigate the file-system
-    - read, write, and modify files
-    - parse data from and to files
-    - create custom re-usable commands in the form of aliases, shell functions and shell scripts
-    - automate repetitive tasks
+    <ul><li>navigate the file-system</li>
+    <ul><li>read, write, and modify files</li>
+    <ul><li>parse data from and to files</li>
+    <ul><li>create custom re-usable commands in the form of aliases, shell functions and shell scripts</li>
+    <ul><li>automate repetitive tasks</li>
     Setup instructions can be found <a href="https://resbaz.auckland.ac.nz/setup/#introduction-to-the-command-line">here</a>"
   subtype: workshop
   speakers: [21]
