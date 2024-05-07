@@ -250,17 +250,12 @@
 
 - id: 070
   title: Introduction to R and RStudio
-  description: R is a free and widely used programming language for data analysis
-    and statistics. This workshop aims to introduce you to the R programming language,
-    and RStudio - free software used to work with R. We will cover the most important
-    parts of using R including working with data and creating beautiful plots. There
-    will be hands-on exercises for you to practice R coding and we will share tips-and-tricks
-    to help you start your R journey with confidence!
+  description: R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of starting with  R including setting up your project in R, basic programming principles, reading in data, summarising and subsetting data, and creating simple but beautiful plots. This workshop is aimed at those who are new to R and programming, and covers working with data and basic plotting. For statistical analyses with R, please see Hands-on Statistical Analysis with R.
   subtype: workshop
-  speakers: [96, 58, 106]
+  speakers: [96, 58]
   themes: [computing, datascience]
   complexity: "Beginner"
-  length: 2 hours
+  length: 4 hours
   capacity: 50 attendees
   registration_link:
 
@@ -769,7 +764,7 @@
   title: Modern Data Stack in a Box with DuckDB and dbt
   description: Are you interested in expanding your data engineering skills? Do you
     have your eyes set on future industry jobs? Whereas dbt is currently well in demand,
-    Duckdb is a newer tool that will be rising in significance in the coming years.  The
+    Duckdb is a newer tool that will be rising in significance in the coming years. The
     idea of a modern data stack in a box is to make you productive using best data
     engineering practices minus the high cloud costs. DuckDB is an in-process SQL
     management system designed for analytics. It is combined with dbt which acts as
@@ -806,39 +801,35 @@
 - 
   id: 108
   title: Hands-on Statistical Analysis with R
-  description: A hands-on workshop where we will explore some of the built-in demo
-    data sets available in R. We will apply commonly used statistical analyses such
-    as linear regression, independent-sample t-tests and chi-squared tests, discussing
-    the output and how we might present the results for publication. Please
-    install R and RStudio prior to the session.
+  description: A hands-on workshop where we will explore some of the built-in demo data sets available in R. We will apply commonly used statistical analyses such as linear regression, independent-sample t-tests and chi-squared tests, discussing the output and how we might present the results for publication. This workshop is aimed at those who are wanting to learn how to do statistical tests in R. If you’d like to follow along, you need some basic R knowledge already. For an introduction to R for absolute beginners please see Introduction to R & RStudio. 
   subtype: workshop
   speakers: [116]
   complexity: "Beginner"
   length: 2 hours
-  capacity: 50 attendees
+  capacity: 70 attendees
   themes: [computing, datascience]
   registration_link:
 
-- 
-  id: 109
-  title: Introduction to Creating Graphs or Plots for Publications
-  description: Communicating data visually is an increasingly important skill that
-    all researchers are expected to have. This session provides an introduction to
-    basic principles of data visualisation including colour theory, chart types, and
-    effective labelling. Understanding these concepts will enable you to create clear,
-    informative, publication-quality graphs and plots. A variety of examples will
-    be demonstrated based on The Grammar of Graphics in R. We will also cover best
-    practices for formatting and styling graphs, as well as techniques for optimising
-    graphs for different audiences and publications. By the end of the session, participants
-    will understand how to effectively communicate their data and insights to a wide
-    range of audiences.
-  subtype: workshop
-  speakers: [96, 106]
-  complexity: "Beginner"
-  length: 1 hour
-  capacity: ''
-  themes: [publish]
-  registration_link:
+# - 
+#   id: 109
+#   title: Introduction to Creating Graphs or Plots for Publications
+#   description: Communicating data visually is an increasingly important skill that
+#     all researchers are expected to have. This session provides an introduction to
+#     basic principles of data visualisation including colour theory, chart types, and
+#     effective labelling. Understanding these concepts will enable you to create clear,
+#     informative, publication-quality graphs and plots. A variety of examples will
+#     be demonstrated based on The Grammar of Graphics in R. We will also cover best
+#     practices for formatting and styling graphs, as well as techniques for optimising
+#     graphs for different audiences and publications. By the end of the session, participants
+#     will understand how to effectively communicate their data and insights to a wide
+#     range of audiences.
+#   subtype: workshop
+#   speakers: [96, 106]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   capacity: ''
+#   themes: [publish]
+#   registration_link:
 
 - 
   id: 110
@@ -1066,7 +1057,7 @@
   capacity: 50 attendees
   registration_link:
 
-  - 
+- 
   id: 123
   title: "How to present data & results on a self-updating website, using GitHub Actions"
   description: This workshop describes a workflow for creating a self-updating website, hosted 
@@ -1085,7 +1076,7 @@
   capacity: Unlimited
   registration_link:
 
-    - 
+- 
   id: 124
   title: "Hands-on introduction to leveraging containers in research code"
   description: Have you ever found yourself with a potpourri of Python versions lingering in 
@@ -1100,9 +1091,33 @@
     some of those pain points with research software.A minimum knowledge of the command line, 
     i.e. launching commands, listing and editing files or changing directories is required. 
   subtype: workshop
-  speakers: []
+  speakers: [131]
   complexity: "Beginner"
   length: 2 hour
+  themes: [computing, datascience]
+  capacity: Unlimited
+  registration_link:
+
+- 
+  id: 125
+  title: "Introduction to version control with Git"
+  description: Are you working with code? Do you wish there was a neater way to keep an old copy of your code around, in case you still needed them? Do you need to collaborate with your colleagues? This workshop is for you! We will introduce Git, a version control system, for tracking changes on your local machine. We will also briefly touch on how to use GitHub as a remote repository. Git keeps track of changes to code and free us from the burden of keeping multiple files with increasingly long and complex filenames. Even though version control systems originated in the world of software development, they're just as useful when working with research projects. You can also connect to a remote repository like GitHub, which allows you to keep a backup of your code and its history, sync across your devices, and have powerful features for collaborating with your colleagues. If you're planning to write any kind of code during your research, it's highly recommended you understand and use version control systems like Git and remote repositories like GitHub to improve the way you work and collaborate (and to make it more enjoyable). This is a beginner-friendly workshop - participants will benefit from having some basic experience with a command-line, but this isn't required.
+  subtype: workshop
+  speakers: [131]
+  complexity: "Beginner"
+  length: 3 hour
+  themes: [computing, datascience]
+  capacity: 40 attendees
+  registration_link:
+
+- 
+  id: 126
+  title: "Joining the dots for modern data science workflows"
+  description: Modern research often makes use of programming and other data science tools, but it can be confusing trying to assemble all the pieces and understand how different tools are used together. This workshop uses the example of Python code to plot geospatial data with Geopandas and, along the way, introduces a variety of other tools that are commonly used to help with programming and digital workflows. We'll explain how and why to use a specialised code editor (Visual Studio Code), how to leverage version control with Git and use remote repositories on GitHub, how to use GitHub Actions, and how to incorporate generative AI tools like GitHub Copilot to facilitate writing and augmenting your code. This workshop aims to provide a map of these different tools to show how they can be used together to support reproducibility and openness in the research process. Some prior experience with programming will be beneficial, but this isn't required to attend, as this is not a hands-on code-along session.
+  subtype: workshop
+  speakers: [31, 30]
+  complexity: "Beginner"
+  length: 1 hour
   themes: [computing, datascience]
   capacity: Unlimited
   registration_link:
