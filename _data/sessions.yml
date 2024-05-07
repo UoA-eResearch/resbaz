@@ -129,17 +129,17 @@
   capacity: 50 attendees
   registration_link:
 
--
-  id: 061
-  title: "Research Data Collection & Surveys with REDCap: An Overview"
-  description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
-  subtype: workshop
-  speakers: [125, 126]
-  themes: [qual]
-  complexity: "Beginner" 
-  length: 1 hour
-  capacity: Unlimited
-  registration_link:
+# -
+#   id: 061
+#   title: "Research Data Collection & Surveys with REDCap: An Overview"
+#   description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
+#   subtype: workshop
+#   speakers: [125, 126]
+#   themes: [qual]
+#   complexity: "Beginner" 
+#   length: 1 hour
+#   capacity: Unlimited
+#   registration_link:
 
 -
   id: 062
@@ -1128,6 +1128,18 @@
   description: The session will breakdown the national TR-PSR policy framework into its key aspects and how this aims to prevent foreign interference and espionage within universities.  The session is aimed at academic researchers and professional support staff and is intended to provide them with an understanding of how TR-PSR is being operationalised in a university setting.  Attendees will be provided with specific references to available and upcoming resources (e.g., Universities New Zealand training modules).
   subtype: workshop
   speakers: [133]
+  complexity: "Beginner"
+  length: 1 hour
+  themes: [sec]
+  capacity: Unlimited
+  registration_link:
+
+- 
+  id: 128
+  title: "Nectar Research Cloud services at the University of Auckland"
+  description: Do you need more compute power for your analysis? Or somewhere to test your new workflow before processing your research data? Researchers and doctoral candidates from The University of Auckland can access our cloud computing platform free of charge. The Nectar research cloud offers several cloud computing services, from self-service customisable virtual machines to 'off-the-shelf' virtual desktops accessible through a web browser. This session will provide a comprehensive summary of the services available on Nectar and how to request them.
+  subtype: workshop
+  speakers: [60, 104]
   complexity: "Beginner"
   length: 1 hour
   themes: [sec]
