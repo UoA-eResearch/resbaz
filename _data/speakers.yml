@@ -843,4 +843,15 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: "https://oaaustralasia.org/open-access-toolkit-for-aotearoa-new-zealand-researchers/"}
-  
+
+- 
+  id: 133
+  name: "Simmon"
+  surname: "Hofstetter"
+  company: "University of Auckland"
+  title: "Research Manager Major Initiatives"
+  bio: "Dr Hofstetter is the business lead for the University of Auckland’s TR-PSR Project Team which is working to develop and operationalise processes to prevent foreign interference and espionage.  Dr Hofstetter has worked in academia, industry, and the public sector in a range of research, commercial, and public health initiatives."
+  thumbnailUrl: "simmon-hofstetter.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}

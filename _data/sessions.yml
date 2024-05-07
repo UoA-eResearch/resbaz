@@ -1121,3 +1121,15 @@
   themes: [computing, datascience]
   capacity: Unlimited
   registration_link:
+
+- 
+  id: 127
+  title: "Navigating New Zealand’s Trusted-Research Protective Security Requirements (TR-PSR)"
+  description: The session will breakdown the national TR-PSR policy framework into its key aspects and how this aims to prevent foreign interference and espionage within universities.  The session is aimed at academic researchers and professional support staff and is intended to provide them with an understanding of how TR-PSR is being operationalised in a university setting.  Attendees will be provided with specific references to available and upcoming resources (e.g., Universities New Zealand training modules).
+  subtype: workshop
+  speakers: [133]
+  complexity: "Beginner"
+  length: 1 hour
+  themes: [sec]
+  capacity: Unlimited
+  registration_link:

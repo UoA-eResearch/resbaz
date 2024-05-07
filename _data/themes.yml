@@ -21,3 +21,9 @@
   name: "Data Collection & Cleaning"
   color: "#EB3100"
   fontColor: "#000000"
+
+-
+  id: "sec"
+  name: "Cybersecurity in Research"
+  color: "#EB3100"
+  fontColor: "#6b03fc"
