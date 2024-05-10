@@ -116,18 +116,18 @@
 #   capacity: Unlimited
 #   registration_link:
 
-- id: 047
-  title: Build a Research Portfolio Website (Using GitHub)
-  description: Learn how to create an attractive, functional website to showcase
-    your research career and outputs using GitHub and wowchemy. Some familiarity with
-    git, HTML and CSS will be beneficial, but not necessary. 
-  subtype: workshop
-  speakers: [38]
-  themes: [publish]
-  complexity: "Beginner"
-  length: 2 hours
-  capacity: 50 attendees
-  registration_link:
+# - id: 047
+#   title: Build a Research Portfolio Website (Using GitHub)
+#   description: Learn how to create an attractive, functional website to showcase
+#     your research career and outputs using GitHub and wowchemy. Some familiarity with
+#     git, HTML and CSS will be beneficial, but not necessary. 
+#   subtype: workshop
+#   speakers: [38]
+#   themes: [publish]
+#   complexity: "Beginner"
+#   length: 2 hours
+#   capacity: 50 attendees
+#   registration_link:
 
 # -
 #   id: 061
@@ -185,22 +185,22 @@
   capacity: Unlimited
   registration_link:
 
-- id: 065
-  title: Using Researcher Profiles & LinkedIn to Promote You and Your Research
-  description: Trying to work that academic hustle, but don't know how to get your
-    name out there?\nWondering about the best way to promote your research or track
-    your publications?\nIn this workshop, we'll discuss the reasons why research profiles
-    are important, look at the different types of profiles and their purposes, and
-    brainstorm some strategies to help you manage your online identities. This will
-    help doctoral candidates and early career researchers (ECRs) set the stage for
-    their future research career.
-  subtype: workshop
-  speakers: [100, 121]
-  themes: [publish]
-  complexity: "Beginner"
-  length: 1 hour
-  capacity: Unlimited
-  registration_link:
+# - id: 065
+#   title: Using Researcher Profiles & LinkedIn to Promote You and Your Research
+#   description: Trying to work that academic hustle, but don't know how to get your
+#     name out there?\nWondering about the best way to promote your research or track
+#     your publications?\nIn this workshop, we'll discuss the reasons why research profiles
+#     are important, look at the different types of profiles and their purposes, and
+#     brainstorm some strategies to help you manage your online identities. This will
+#     help doctoral candidates and early career researchers (ECRs) set the stage for
+#     their future research career.
+#   subtype: workshop
+#   speakers: [100, 121]
+#   themes: [publish]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   capacity: Unlimited
+#   registration_link:
 
 - id: 066
   title: Managing References With Zotero
@@ -218,8 +218,7 @@
   capacity: Unlimited
   registration_link:
 
--
-  id: 067 
+- id: 067 
   title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
   description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Join waitlist</a>"
   subtype: workshop
@@ -301,25 +300,25 @@
   capacity: Unlimited
   registration_link:
 
-- id: 073
-  title: Introduction to Using Julia for Machine Learning
-  description: A hands-on, gentle introduction to using the Julia programming language
-    and the MLJ library for machine learning. The basic workflow for training a supervised
-    learning model will be explained, and users will build a basic decision tree model
-    to predict survival probabilities in a hypothetical repeat of the historic Titanic
-    disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful
-    toolbox for quickly selecting, optimizing and comparing diverse machine learning
-    models (as opposed to to frameworks focused on, say, deep learning). Advanced
-    features include the ability to create model pipelines and to combine multiple
-    model predictions in flexible ways.This is a tutorial on how to use the MLJ software,
-    and not a course on machine learning itself.
-  subtype: workshop
-  speakers: [75, 12]
-  themes: [computing, datascience]
-  complexity: Intermediate
-  length: 2 hours
-  capacity: 40 attendees
-  registration_link:
+# - id: 073
+#   title: Introduction to Using Julia for Machine Learning
+#   description: A hands-on, gentle introduction to using the Julia programming language
+#     and the MLJ library for machine learning. The basic workflow for training a supervised
+#     learning model will be explained, and users will build a basic decision tree model
+#     to predict survival probabilities in a hypothetical repeat of the historic Titanic
+#     disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful
+#     toolbox for quickly selecting, optimizing and comparing diverse machine learning
+#     models (as opposed to to frameworks focused on, say, deep learning). Advanced
+#     features include the ability to create model pipelines and to combine multiple
+#     model predictions in flexible ways.This is a tutorial on how to use the MLJ software,
+#     and not a course on machine learning itself.
+#   subtype: workshop
+#   speakers: [75, 12]
+#   themes: [computing, datascience]
+#   complexity: Intermediate
+#   length: 2 hours
+#   capacity: 40 attendees
+#   registration_link:
 
 - id: 074
   title: Getting Started With the Julia Programming Language
@@ -416,19 +415,19 @@
   capacity: Unlimited
   registration_link:
 
-- id: 080
-  title: "Research Compute: An Overview of Options at the University of Auckland"
-  description: Need more computer power to do your analysis? Is your laptop/desktop
-    struggling to run your analysis? Come along to hear about virtual machines and
-    High Performance Computing options available to University of Auckland staff and
-    doctoral students.
-  subtype: workshop
-  speakers: [17]
-  themes: [computing]
-  complexity: "Beginner"
-  length: 1 hour
-  capacity: Unlimited
-  registration_link:
+# - id: 080
+#   title: "Research Compute: An Overview of Options at the University of Auckland"
+#   description: Need more computer power to do your analysis? Is your laptop/desktop
+#     struggling to run your analysis? Come along to hear about virtual machines and
+#     High Performance Computing options available to University of Auckland staff and
+#     doctoral students.
+#   subtype: workshop
+#   speakers: [17]
+#   themes: [computing]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   capacity: Unlimited
+#   registration_link:
 
 # -
 #   id: 081 
@@ -452,21 +451,21 @@
 #   length: "2 hours"
 #   capacity: "50 attendees"
 
-- 
-  id: 083
-  title: "Tidyverse and Beyond: Key Tips for Existing R Users"
-  description: The tidyverse has changed R programming for data scientists tremendously. 
-    Cleaning and analysing rectangular data, loops, and parallelization can now be
-    performed through a number of convenient functions. This session offers some recipes
-    and translations for existing R users who want to include more of the tidyverse
-    in their everyday data analysis tasks. 
-  subtype: workshop
-  speakers: [85]
-  themes: [qual, datascience]
-  complexity: Intermediate
-  length: 1 hour
-  capacity: Unlimited
-  registration_link:
+# - 
+#   id: 083
+#   title: "Tidyverse and Beyond: Key Tips for Existing R Users"
+#   description: The tidyverse has changed R programming for data scientists tremendously. 
+#     Cleaning and analysing rectangular data, loops, and parallelization can now be
+#     performed through a number of convenient functions. This session offers some recipes
+#     and translations for existing R users who want to include more of the tidyverse
+#     in their everyday data analysis tasks. 
+#   subtype: workshop
+#   speakers: [85]
+#   themes: [qual, datascience]
+#   complexity: Intermediate
+#   length: 1 hour
+#   capacity: Unlimited
+#   registration_link:
 
 - 
   id: 085
@@ -640,24 +639,24 @@
 #   capacity: "Unlimited"
 #   recorded: ""
 
-- id: 097
-  title: Using the Command Line to Find, Replace, and Manipulate Data
-  description: A practical introduction to some powerful command line utilities for
-    efficient searching, parsing and manipulating of files and text. We will cover
-    some of the workhorse commands in the UNIX toolbox, such as find, grep, awk, and
-    sed. These are simple to use for simple applications, but provide powerful ways
-    to perform complex actions.\nWith grep, we introduce regular expressions which
-    are a widely-used language for specifying patterns in text.\nThis workshop follows
-    on from \"Introduction to the command line\" session, so it is assumed you will
-    have either participated in this session or already have an understanding of the
-    concepts covered in it.
-  subtype: workshop
-  speakers: [21]
-  themes: [computing, datascience]
-  complexity: Intermediate
-  length: 2 hours
-  capacity: 50 attendees
-  registration_link:
+# - id: 097
+#   title: Using the Command Line to Find, Replace, and Manipulate Data
+#   description: A practical introduction to some powerful command line utilities for
+#     efficient searching, parsing and manipulating of files and text. We will cover
+#     some of the workhorse commands in the UNIX toolbox, such as find, grep, awk, and
+#     sed. These are simple to use for simple applications, but provide powerful ways
+#     to perform complex actions.\nWith grep, we introduce regular expressions which
+#     are a widely-used language for specifying patterns in text.\nThis workshop follows
+#     on from \"Introduction to the command line\" session, so it is assumed you will
+#     have either participated in this session or already have an understanding of the
+#     concepts covered in it.
+#   subtype: workshop
+#   speakers: [21]
+#   themes: [computing, datascience]
+#   complexity: Intermediate
+#   length: 2 hours
+#   capacity: 50 attendees
+#   registration_link:
 
 - 
   id: 098
@@ -738,50 +737,50 @@
   themes: [publish]
   registration_link:
 
-- 
-  id: 103
-  title: Intro to Natural Language Processing using Python
-  description: What do Lorde, Seinfeld and the Teenage Mutant Ninja Turtles have in
-    common? Properties of all three can be represented as text, whether that be song
-    lyrics, episode scripts, or theme songs. Text allows for a unified representation
-    of data, and researchers across different disciplines and methods all draw from
-    text in different ways. Knowing even just a few basic computational linguistic
-    methods can increase your efficiency as a researcher and open new avenues for
-    research using your data. This short, introductory workshop will demonstrate how
-    to perform basic operations on text, such as counting the frequency of different
-    word types, computing measures of lexical diversity, and performing more complex
-    operations such as sentiment analysis. No prior knowledge of programming is assumed.
-  subtype: workshop
-  speakers: [113]
-  complexity: "Beginner"
-  length: 1 hour
-  capacity: Unlimited
-  themes: [computing, datascience]
-  registration_link: 
+# - 
+#   id: 103
+#   title: Intro to Natural Language Processing using Python
+#   description: What do Lorde, Seinfeld and the Teenage Mutant Ninja Turtles have in
+#     common? Properties of all three can be represented as text, whether that be song
+#     lyrics, episode scripts, or theme songs. Text allows for a unified representation
+#     of data, and researchers across different disciplines and methods all draw from
+#     text in different ways. Knowing even just a few basic computational linguistic
+#     methods can increase your efficiency as a researcher and open new avenues for
+#     research using your data. This short, introductory workshop will demonstrate how
+#     to perform basic operations on text, such as counting the frequency of different
+#     word types, computing measures of lexical diversity, and performing more complex
+#     operations such as sentiment analysis. No prior knowledge of programming is assumed.
+#   subtype: workshop
+#   speakers: [113]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   capacity: Unlimited
+#   themes: [computing, datascience]
+#   registration_link: 
 
-- 
-  id: 105
-  title: Modern Data Stack in a Box with DuckDB and dbt
-  description: Are you interested in expanding your data engineering skills? Do you
-    have your eyes set on future industry jobs? Whereas dbt is currently well in demand,
-    Duckdb is a newer tool that will be rising in significance in the coming years. The
-    idea of a modern data stack in a box is to make you productive using best data
-    engineering practices minus the high cloud costs. DuckDB is an in-process SQL
-    management system designed for analytics. It is combined with dbt which acts as
-    the transformation layer for your data pipelines, letting you create robust systems
-    for analytics and machine learning. Why use a single machine and not the cloud?
-    As a starting point for data engineering pipelines, this allows you to have a
-    self-contained system and create end-to-end pipelines that can be deployed with
-    ease to other systems. You can also have the option to take your code and deploy
-    it to other dbt adapters. This makes dbt a core part of the modern data stack.
-    Come and learn more about both DuckDB and dbt in this workshop.
-  subtype: workshop
-  speakers: [115]
-  complexity: Intermediate
-  length: 1 hour
-  capacity: Unlimited
-  themes: [computing, datascience]
-  registration_link:
+# - 
+#   id: 105
+#   title: Modern Data Stack in a Box with DuckDB and dbt
+#   description: Are you interested in expanding your data engineering skills? Do you
+#     have your eyes set on future industry jobs? Whereas dbt is currently well in demand,
+#     Duckdb is a newer tool that will be rising in significance in the coming years. The
+#     idea of a modern data stack in a box is to make you productive using best data
+#     engineering practices minus the high cloud costs. DuckDB is an in-process SQL
+#     management system designed for analytics. It is combined with dbt which acts as
+#     the transformation layer for your data pipelines, letting you create robust systems
+#     for analytics and machine learning. Why use a single machine and not the cloud?
+#     As a starting point for data engineering pipelines, this allows you to have a
+#     self-contained system and create end-to-end pipelines that can be deployed with
+#     ease to other systems. You can also have the option to take your code and deploy
+#     it to other dbt adapters. This makes dbt a core part of the modern data stack.
+#     Come and learn more about both DuckDB and dbt in this workshop.
+#   subtype: workshop
+#   speakers: [115]
+#   complexity: Intermediate
+#   length: 1 hour
+#   capacity: Unlimited
+#   themes: [computing, datascience]
+#   registration_link:
 
 # - 
 #   id: 107
@@ -831,41 +830,32 @@
 #   themes: [publish]
 #   registration_link:
 
-- 
-  id: 110
-  title: Collaborating on Documents and Tracking Versions
-  description: This workshop aims to provide participants with insights and practical
-    techniques for effectively collaborating on written documents and code using version
-    control systems. Versioning is a critical aspect of successful collaboration,
-    enabling seamless tracking of changes, streamlined teamwork, and improved project
-    management. This webinar will explore the concepts, tools, and best practices
-    that can empower individuals and teams to collaborate efficiently and maintain
-    the integrity of their work.
-  subtype: workshop
-  speakers: [96]
-  complexity: "Beginner"
-  length: 1 hour
-  capacity: ''
-  themes: [publish]
-  registration_link:
+# - 
+#   id: 110
+#   title: Collaborating on Documents and Tracking Versions
+#   description: This workshop aims to provide participants with insights and practical
+#     techniques for effectively collaborating on written documents and code using version
+#     control systems. Versioning is a critical aspect of successful collaboration,
+#     enabling seamless tracking of changes, streamlined teamwork, and improved project
+#     management. This webinar will explore the concepts, tools, and best practices
+#     that can empower individuals and teams to collaborate efficiently and maintain
+#     the integrity of their work.
+#   subtype: workshop
+#   speakers: [96]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   capacity: ''
+#   themes: [publish]
+#   registration_link:
 
 - 
   id: 111
   title: Introduction to the Python Programming Language
-  description: Embark on a practical and engaging journey into the world of Python
-    with our hands-on, 2-hour workshop, designed to demystify one of the most popular
-    and versatile programming languages extensively used in a multitude of research
-    disciplines. Whether you're a complete beginner or merely aiming to refresh your
-    understanding of Python basics, we will have an enriching session that navigates
-    the language's fundamental elements. Our aim is to equip you with a comprehensive
-    understanding of Python's essential syntax, control flow, and data structures,
-    providing a solid foundation for you to explore and exploit the language's immense
-    potential further. This workshop will give you the tools and confidence necessary
-    to start applying Python to your respective research field.
+  description: Python is a high-level general purpose programming language that is popular for working with research data owing to an active developer base and wide range of packages that can be leveraged for research.  This comprehensive hands-on session will cover the fundamental building blocks of working with Python to analyse and visualize data. 
   subtype: workshop
-  speakers: [104, 27]
+  speakers: [31, 107]
   complexity: "Beginner"
-  length: 2 hours
+  length: 4 hours
   capacity: 50 attendees
   themes: [computing, datascience]
   registration_link:
@@ -881,7 +871,7 @@
     pay off in the long term by giving you a reliable way to professionally format
     your documents.
   subtype: workshop
-  speakers: [110]
+  speakers: [31]
   complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
@@ -906,40 +896,40 @@
   themes: [publish]
   registration_link:
 
-- 
-  id: 114
-  title: LaTeX, Or How I Learned To Stop Worrying And Love Plain Text
-  description: This session expands upon "LaTeX 101" by introducing more features
-    such as mathematical formulas, tables, figures, and bibliographies. These are
-    the features which make LaTeX a popular, time-saving option for producing sophisticated
-    scientific documents, and for having complete control over the formatting of each
-    element. We will also touch on how to use LaTeX to create slides for presentations.
-    This session is aimed at participants who want to improve their document formatting
-    skills, particularly for academic and technical writing.
-  subtype: workshop
-  speakers: [27]
-  complexity: "Beginner"
-  length: 1 hour
-  capacity: 80 attendees
-  themes: [publish]
-  registration_link:
+# - 
+#   id: 114
+#   title: LaTeX, Or How I Learned To Stop Worrying And Love Plain Text
+#   description: This session expands upon "LaTeX 101" by introducing more features
+#     such as mathematical formulas, tables, figures, and bibliographies. These are
+#     the features which make LaTeX a popular, time-saving option for producing sophisticated
+#     scientific documents, and for having complete control over the formatting of each
+#     element. We will also touch on how to use LaTeX to create slides for presentations.
+#     This session is aimed at participants who want to improve their document formatting
+#     skills, particularly for academic and technical writing.
+#   subtype: workshop
+#   speakers: [27]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   capacity: 80 attendees
+#   themes: [publish]
+#   registration_link:
 
-- 
-  id: 115
-  title: Introduction to Web Mapping with Leaflet
-  description: This workshop will introduce participants to the basics of creating
-    a simple web-based map using the open-source JavaScript library, Leaflet. Participants
-    will learn how to create an interactive map with custom markers, popups, and interactive
-    layers. By the end of the workshop, participants will have the skills to create
-    and publish their own simple web-based maps. Some experience with HTML, CSS, and
-    JavaScript would be useful, but is not necessary.
-  subtype: workshop
-  speakers: [30, 12]
-  complexity: "Beginner"
-  length: 2 hours
-  capacity: Unlimited
-  themes: [datascience]
-  registration_link:
+# - 
+#   id: 115
+#   title: Introduction to Web Mapping with Leaflet
+#   description: This workshop will introduce participants to the basics of creating
+#     a simple web-based map using the open-source JavaScript library, Leaflet. Participants
+#     will learn how to create an interactive map with custom markers, popups, and interactive
+#     layers. By the end of the workshop, participants will have the skills to create
+#     and publish their own simple web-based maps. Some experience with HTML, CSS, and
+#     JavaScript would be useful, but is not necessary.
+#   subtype: workshop
+#   speakers: [30, 12]
+#   complexity: "Beginner"
+#   length: 2 hours
+#   capacity: Unlimited
+#   themes: [datascience]
+#   registration_link:
 
 - 
   id: 116
@@ -955,25 +945,25 @@
   themes: [publish]
   registration_link:
 
-- 
-  id: 117
-  title: Introduction to Quarto
-  description: This workshop aims to introduce Quarto, a powerful tool for efficient
-    document creation. Quarto leverages the simplicity of Markdown and the flexibility
-    of modern web technologies to streamline the process of generating dynamic and
-    interactive documents. In this tutorial, we will explore the key features of Quarto,
-    including its seamless integration with R and Python, support for data visualisations,
-    and collaborative authoring capabilities. By the end, you will have a solid understanding
-    of Quarto's capabilities and be equipped to create stunning, data-driven documents
-    effortlessly. Join us on this tutorial journey and unlock the potential of Quarto
-    for your document workflow.
-  subtype: workshop
-  speakers: [66]
-  complexity: "Beginner"
-  length: 1 hour
-  themes: [publish]
-  capacity: Unlimited
-  registration_link:
+# - 
+#   id: 117
+#   title: Introduction to Quarto
+#   description: This workshop aims to introduce Quarto, a powerful tool for efficient
+#     document creation. Quarto leverages the simplicity of Markdown and the flexibility
+#     of modern web technologies to streamline the process of generating dynamic and
+#     interactive documents. In this tutorial, we will explore the key features of Quarto,
+#     including its seamless integration with R and Python, support for data visualisations,
+#     and collaborative authoring capabilities. By the end, you will have a solid understanding
+#     of Quarto's capabilities and be equipped to create stunning, data-driven documents
+#     effortlessly. Join us on this tutorial journey and unlock the potential of Quarto
+#     for your document workflow.
+#   subtype: workshop
+#   speakers: [66]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   themes: [publish]
+#   capacity: Unlimited
+#   registration_link:
 
 - 
   id: 118
@@ -1013,17 +1003,17 @@
   capacity: Unlimited
   registration_link:
 
-- 
-  id: 120
-  title: 7 Strategies to Help Keep Your Research Safe
-  description: UoA Security Office provides 7 strategies with actionable steps to help keep your research safe and secure. Attendess will learn how to include security through the entire data lifecycle in partnership with university services. We will provide some practical demos and answers to your questions on how to enable security within research.
-  subtype: workshop
-  speakers: [124, 128]
-  complexity: "Beginner"
-  length: 1 hour
-  themes: []
-  capacity: Unlimited
-  registration_link:
+# - 
+#   id: 120
+#   title: 7 Strategies to Help Keep Your Research Safe
+#   description: UoA Security Office provides 7 strategies with actionable steps to help keep your research safe and secure. Attendess will learn how to include security through the entire data lifecycle in partnership with university services. We will provide some practical demos and answers to your questions on how to enable security within research.
+#   subtype: workshop
+#   speakers: [124, 128]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   themes: []
+#   capacity: Unlimited
+#   registration_link:
 
 - 
   id: 121
@@ -1140,6 +1130,17 @@
   description: Do you need more compute power for your analysis? Or somewhere to test your new workflow before processing your research data? Researchers and doctoral candidates from The University of Auckland can access our cloud computing platform free of charge. The Nectar research cloud offers several cloud computing services, from self-service customisable virtual machines to 'off-the-shelf' virtual desktops accessible through a web browser. This session will provide a comprehensive summary of the services available on Nectar and how to request them.
   subtype: workshop
   speakers: [60, 104]
+  complexity: "Beginner"
+  length: 1 hour
+  themes: [sec]
+  capacity: Unlimited
+  registration_link:
+
+- 
+  id: 129
+  title: "An introduction to cloud security for researchers"
+  description: Are you following security best practices? This is a tricky question and can vary widely depending on the technology you are using for your research. Additionally, security can be exceedingly difficult to implement effectively, while maintaining a balance between the level of security needed, and the effort required to implement and manage it. This talk will present security basics accompanied by some technical solutions researchers can implement to secure their cloud computing tools. We will introduce security controls and provide technical ways to implement these controls. For example, the use of network segmentation to secure systems, which can be accomplished in Nectar using private networks and security groups. Our primary cloud platform for demonstrations will be the Nectar Research Cloud - however, the techniques discussed will be transferable to other cloud platforms, such as AWS.
+  speakers: [124, 104]
   complexity: "Beginner"
   length: 1 hour
   themes: [sec]
