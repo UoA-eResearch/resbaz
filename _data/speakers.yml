@@ -855,3 +855,15 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 134
+  name: "James"
+  surname: "Love"
+  company: "University of Auckland"
+  title: "Solutions Specialist"
+  bio: "James Love is an instrument data specialist at the Centre for eResearch, Waipapa Taumata Rau University of Auckland. With an MSc in bioinformatics and a background in cybersecurity research for genomics, James helps develop tools and storage for research data across the university."
+  thumbnailUrl: "james-love.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
