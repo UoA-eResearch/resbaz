@@ -867,3 +867,27 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 135
+  name: "Tom"
+  surname: "Laurenson"
+  company: "University of Auckland"
+  title: "Senior Security Engineer"
+  bio: "Tom Laurenson is a Senior Security Engineer in the Centre of eResearch Platform team at the University of Auckland. His primary responsibility is improving the security posture of research at UoA, from a technical standpoint. Tom recently returned to academia, after various technical positions in the industry as a security engineer and pentester. Before that, he was a lecturer at the Otago Polytechnic after receiving a PhD from the University of Otago. Tom is passionate about programming, breaking stuff, security, and finding the harmonious balance of risk, security and getting things done."
+  thumbnailUrl: "tom-laurenson.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 136
+  name: "Andrew"
+  surname: "Wilson"
+  company: "University of Auckland"
+  title: "Solutions Specialist"
+  bio: ""
+  thumbnailUrl: "andrew-wilson.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
