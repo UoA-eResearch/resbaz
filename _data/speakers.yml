@@ -223,7 +223,7 @@
   surname: "Saunders"
   company: "University of Auckland"
   title: "eResearch Engagement Specialist"
-  bio: "Tom organises and delivers digital research skills workshops and has been involved with organising resbaz since 2022. He consults with researchers on the management of research data and tries to make sure they are getting the most out of the services offered by the Centre for eResearch."
+  bio: "Tom is a co-organiser of ResBaz Aotearoa and works in the Centre for eResearch at the University of Auckland. Tom coordinates researcher development events in the Centre by planning, organising, and in some cases teaching digital research skills workshops, as  certified Carpentries instructor. He also consults with researchers on managing research data throughout the research project lifecycle and is an administrator on the University of Auckland's institutional Figshare repository."
   thumbnailUrl: "tom_saunders.jpg"   
   rockstar: false
   ribbon:
@@ -250,12 +250,12 @@
   name: "Ben"
   surname: "Collings"
   company: "University of Auckland"
-  title: "Doctoral Candidate"
-  bio: "Ben is undertaking doctoral research that considers the application of satellite data to assess coastline change in New Zealand."
+  title: "Engagement Specialist"
+  bio: "Ben is an Engagement Specialist at the Centre for eResearch. Recently submitting his PhD thesis, investigating national-scale coastal change through the application of Satellite Remote Sensing data. He is involved in the organisation, delivery, and development of digital skills workshops, specifically for researchers, to help them upskill and enhance their research capabilty." 
   thumbnailUrl: "ben_collings.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "FOS", title: "Faculty of Science", url: "https://science.auckland.ac.nz"}
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
 - 
   id: 61
