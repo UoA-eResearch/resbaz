@@ -1093,7 +1093,7 @@
   title: "Introduction to version control with Git"
   description: Are you working with code? Do you wish there was a neater way to keep an old copy of your code around, in case you still needed them? Do you need to collaborate with your colleagues? This workshop is for you! We will introduce Git, a version control system, for tracking changes on your local machine. We will also briefly touch on how to use GitHub as a remote repository. Git keeps track of changes to code and free us from the burden of keeping multiple files with increasingly long and complex filenames. Even though version control systems originated in the world of software development, they're just as useful when working with research projects. You can also connect to a remote repository like GitHub, which allows you to keep a backup of your code and its history, sync across your devices, and have powerful features for collaborating with your colleagues. If you're planning to write any kind of code during your research, it's highly recommended you understand and use version control systems like Git and remote repositories like GitHub to improve the way you work and collaborate (and to make it more enjoyable). This is a beginner-friendly workshop - participants will benefit from having some basic experience with a command-line, but this isn't required.
   subtype: workshop
-  speakers: [131]
+  speakers: [12]
   complexity: "Beginner"
   length: 3 hour
   themes: [computing, datascience]
