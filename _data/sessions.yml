@@ -415,19 +415,17 @@
   capacity: Unlimited
   registration_link:
 
-# - id: 080
-#   title: "Research Compute: An Overview of Options at the University of Auckland"
-#   description: Need more computer power to do your analysis? Is your laptop/desktop
-#     struggling to run your analysis? Come along to hear about virtual machines and
-#     High Performance Computing options available to University of Auckland staff and
-#     doctoral students.
-#   subtype: workshop
-#   speakers: [17]
-#   themes: [computing]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: Unlimited
-#   registration_link:
+- id: 080
+  title: "Is your computer struggling to analyse your research data?"
+  description: "Does your computer take hours to run an analysis or produce visualisation? Would it help to process data or run analysis elsewhere and keep your computer for day-to-day work? Do you need to collaborate to process or analyse research data?
+  Join us to hear about different research computational options. We'll discuss what virtual machines and high performance computers are, how these can be accessed and how they are useful to researchers."
+  subtype: workshop
+  speakers: [17]
+  themes: [computing]
+  complexity: "Beginner"
+  length: 1 hour
+  capacity: Unlimited
+  registration_link:
 
 # -
 #   id: 081 
@@ -709,16 +707,16 @@
   capacity: Unlimited
   registration_link:
 
-# -
-#   id: 101 
-#   title: "Māori Data Sovereignty: Korero with the Poutiaki Rangahau Māori, Waipapa Taumata Rau"
-#   description: "All researchers are welcome to listen and contribute to this korero (discussion) about Māori Data Sovereignty within the context of undertaking research in Aotearoa. Geremy Hema, Poutiaki Rangahau Māori at Waipapa Taumata Rau | University of Auckland, will provide an introduction to Māori Data Sovereignty and why it is imporant to researchers. Attendees will be invited to respectfully share their successful approaches to weaving the Māori Data Sovereignty principles into how they conduct research. Feedback on training needs, barriers and enablers will be sought to inform future resources and support services.  <a href=\"\">Book here</a>"
-#   subtype: workshop
-#   speakers: [109, 112, 14, 111]
-#   complexity: "Beginner"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: "No"
+-
+  id: 101 
+  title: "Tikanga, Māori Research Ethics and Māori Data Sovereignty"
+  description: "All researchers are welcome to listen and contribute to this korero (discussion) about Tikanga, Māori Research Ethics  and Māori Data Sovereignty within the context of undertaking research in Aotearoa. Our presenters will provide an introduction to the concepts and issues and why they are important to researchers. Attendees will be invited to respectfully ask questions and share their successful approaches to weaving Tikanga and Māori Data Sovereignty principles into how they conduct research."
+  subtype: workshop
+  speakers: [109, 112, 137]
+  complexity: "Beginner"
+  length: "1 hour"
+  capacity: "Unlimited"
+  recorded: "No"
 
 - 
   id: 102
@@ -1141,6 +1139,28 @@
   title: "An introduction to cloud security for researchers"
   description: Are you following security best practices? This is a tricky question and can vary widely depending on the technology you are using for your research. Additionally, security can be exceedingly difficult to implement effectively, while maintaining a balance between the level of security needed, and the effort required to implement and manage it. This talk will present security basics accompanied by some technical solutions researchers can implement to secure their cloud computing tools. We will introduce security controls and provide technical ways to implement these controls. For example, the use of network segmentation to secure systems, which can be accomplished in Nectar using private networks and security groups. Our primary cloud platform for demonstrations will be the Nectar Research Cloud - however, the techniques discussed will be transferable to other cloud platforms, such as AWS.
   speakers: [124, 104]
+  complexity: "Beginner"
+  length: 1 hour
+  themes: [sec]
+  capacity: Unlimited
+  registration_link:
+
+- 
+  id: 129
+  title: "Using digital tools for transcription"
+  description: Transcribing audio into text is part of the research process for many researchers. Manually transcribing text can be time consuming, so an increasing number of researchers are using software to transcribe, for example, interview or focus group audio recordings. Join us to hear about various transcription tools, including a demonstration of OpenAI's Whisper - an automatic speech recognition system trained on a Large (multi-lingual) Language Model that can be run on a local computer or restricted access virtiual machine
+  speakers: [14, 60, 138]
+  complexity: "Beginner"
+  length: 1 hour
+  themes: [sec]
+  capacity: Unlimited
+  registration_link:
+
+- 
+  id: 130
+  title: "Data Management Planning"
+  description: Data Management Plans are a useful way of mapping out the collection, storage, analysis, and publication of research data. They surface important institutional or funder requirements, and ensure that project members are aware of their ethical and legal responsibilities when working with project data. This session will provide an overview of how Data Management Plans are a useful tool for researchers at all stages of their work, and in particular, when revisiting research data over time or onboarding new project members. 
+  speakers: [111]
   complexity: "Beginner"
   length: 1 hour
   themes: [sec]
