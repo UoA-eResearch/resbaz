@@ -273,7 +273,7 @@
     <ul><li> - create custom re-usable commands in the form of aliases, shell functions and shell scripts</li>
     <ul><li> - automate repetitive tasks</li>"
   subtype: workshop
-  speakers: [21]
+  speakers: [96]
   themes: [computing, datascience]
   complexity: "Beginner"
   length: 5 hours
@@ -806,7 +806,7 @@
   complexity: "Beginner"
   length: 2 hours
   capacity: Limited
-  themes: [computing, datascience]
+  themes: [datascience]
   registration_link:
 
 # - 
@@ -857,7 +857,7 @@
   complexity: "Beginner"
   length: 4 hours
   capacity: Limited
-  themes: [computing, datascience]
+  themes: [datascience]
   registration_link:
 
 - 
@@ -1043,7 +1043,7 @@
   speakers: [110]
   complexity: "Intermediate"
   length: 2 hour
-  themes: [computing, datascience]
+  themes: [datascience]
   capacity: Limited
   registration_link:
 
@@ -1062,7 +1062,7 @@
   speakers: [110,12]
   complexity: "Intermediate"
   length: 2 hour
-  themes: [computing, datascience]
+  themes: [datascience]
   capacity: Unlimited
   registration_link:
 
@@ -1098,7 +1098,7 @@
   speakers: [31, 30]
   complexity: "Beginner"
   length: 1 hour
-  themes: [computing, datascience]
+  themes: [datascience]
   capacity: Unlimited
   registration_link:
 
@@ -1122,7 +1122,7 @@
   speakers: [60, 104]
   complexity: "Beginner"
   length: 1 hour
-  themes: [computing, datascience]
+  themes: [computing]
   capacity: Unlimited
   registration_link:
 
@@ -1155,6 +1155,6 @@
   speakers: [111]
   complexity: "Beginner"
   length: 1 hour
-  themes: [sec, qual]
+  themes: [qual]
   capacity: Unlimited
   registration_link:
