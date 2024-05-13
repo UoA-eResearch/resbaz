@@ -46,7 +46,7 @@
   speakers: [10]
   themes: [datascience]
   complexity: "Beginner"
-  capacity: 60 attendees
+  capacity: Limited
   length: 1 hours
   registration_link:
 
@@ -92,7 +92,7 @@
   themes: [qual, datascience]
   complexity: "Beginner"
   length: 2 hours
-  capacity: 40 attendees
+  capacity: Limited
   registration_link:
 
 # - id: 045
@@ -126,7 +126,7 @@
 #   themes: [publish]
 #   complexity: "Beginner"
 #   length: 2 hours
-#   capacity: 50 attendees
+#   capacity: Limited
 #   registration_link:
 
 # -
@@ -150,7 +150,7 @@
   themes: ["publish"]
   complexity: "Intermediate" 
   length: "2 hours"
-  capacity: "60 attendees"
+  capacity: "Limited"
 
 - 
   id: 063
@@ -226,7 +226,7 @@
   themes: ["datascience"]
   complexity: "Beginner"
   length: "3 hours"
-  capacity: "40 attendees"
+  capacity: "Limited"
 
 - id: 068
   title: "Design 101: Presentations, Posters, and PowerPoints for Researchers"
@@ -255,7 +255,7 @@
   themes: [computing, datascience]
   complexity: "Beginner"
   length: 4 hours
-  capacity: 50 attendees
+  capacity: Limited
   registration_link:
 
 - id: 071
@@ -277,7 +277,7 @@
   themes: [computing, datascience]
   complexity: "Beginner"
   length: 5 hours
-  capacity: 50 attendees
+  capacity: Limited
   registration_link:
 
 - id: 072
@@ -317,7 +317,7 @@
 #   themes: [computing, datascience]
 #   complexity: Intermediate
 #   length: 2 hours
-#   capacity: 40 attendees
+#   capacity: Limited
 #   registration_link:
 
 - id: 074
@@ -334,7 +334,7 @@
   themes: [computing, datascience]
   complexity: "Beginner"
   length: 3 hours
-  capacity: 40 attendees
+  capacity: Limited
   registration_link:
 
 - id: 075
@@ -379,7 +379,7 @@
   themes: [computing, datascience]
   complexity: Beginner/Intermediate
   length: 2 hours
-  capacity: 100 attendees
+  capacity: 1Limited
   registration_link:
 
 - id: 078
@@ -395,7 +395,7 @@
   themes: [computing]
   complexity: "Beginner"
   length: 3 hours
-  capacity: 40 attendees
+  capacity: Limited
   registration_link:
 
 - id: 079
@@ -447,7 +447,7 @@
 #   themes: ["publish"]
 #   complexity: "Advanced"
 #   length: "2 hours"
-#   capacity: "50 attendees"
+#   capacity: "Limited"
 
 # - 
 #   id: 083
@@ -570,7 +570,7 @@
   themes: [publish]
   complexity: "Beginner"
   length: 2 hours
-  capacity: 60 attendees
+  capacity: Limited
   registration_link:
 
 - 
@@ -653,7 +653,7 @@
 #   themes: [computing, datascience]
 #   complexity: Intermediate
 #   length: 2 hours
-#   capacity: 50 attendees
+#   capacity: Limited
 #   registration_link:
 
 - 
@@ -731,7 +731,7 @@
   speakers: [66, 12]
   complexity: Advanced
   length: 2 hours
-  capacity: 50 attendees
+  capacity: Limited
   themes: [publish]
   registration_link:
 
@@ -803,7 +803,7 @@
   speakers: [116]
   complexity: "Beginner"
   length: 2 hours
-  capacity: 70 attendees
+  capacity: Limited
   themes: [computing, datascience]
   registration_link:
 
@@ -849,12 +849,12 @@
 - 
   id: 111
   title: Introduction to the Python Programming Language
-  description: Python is a high-level general purpose programming language that is popular for working with research data owing to an active developer base and wide range of packages that can be leveraged for research.  This comprehensive hands-on session will cover the fundamental building blocks of working with Python to analyse and visualize data. 
+  description: Python is a high-level general purpose programming language that is popular for working with research data owing to an active developer base and wide range of packages that can be leveraged for research.  This comprehensive hands-on session will cover the fundamental building blocks of working with Python to analyse and visualize data. Together we'll interactively learn how to use Python to generate a plot from a csv file, getting to grips with the core functionality of the language along the way.  
   subtype: workshop
   speakers: [31, 107]
   complexity: "Beginner"
   length: 4 hours
-  capacity: 50 attendees
+  capacity: Limited
   themes: [computing, datascience]
   registration_link:
 
@@ -908,7 +908,7 @@
 #   speakers: [27]
 #   complexity: "Beginner"
 #   length: 1 hour
-#   capacity: 80 attendees
+#   capacity: Limited
 #   themes: [publish]
 #   registration_link:
 
@@ -939,7 +939,7 @@
   speakers: [122]
   complexity: "Beginner"
   length: 1 hour
-  capacity: 50 attendees
+  capacity: Limited
   themes: [publish]
   registration_link:
 
@@ -986,7 +986,7 @@
   complexity: "Beginner"
   length: 2 hours
   themes: [datascience]
-  capacity: 50 attendees
+  capacity: Limited
   registration_link:
 
 - 
@@ -1042,7 +1042,7 @@
   complexity: "Intermediate"
   length: 2 hour
   themes: [computing, datascience]
-  capacity: 50 attendees
+  capacity: Limited
   registration_link:
 
 - 
@@ -1095,7 +1095,7 @@
   complexity: "Beginner"
   length: 3 hour
   themes: [computing, datascience]
-  capacity: 40 attendees
+  capacity: Limited
   registration_link:
 
 - 
