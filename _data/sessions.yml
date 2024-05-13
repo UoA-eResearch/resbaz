@@ -1130,7 +1130,7 @@
   id: 129
   title: "An introduction to cloud security for researchers"
   description: Are you following security best practices? This is a tricky question and can vary widely depending on the technology you are using for your research. Additionally, security can be exceedingly difficult to implement effectively, while maintaining a balance between the level of security needed, and the effort required to implement and manage it. This talk will present security basics accompanied by some technical solutions researchers can implement to secure their cloud computing tools. We will introduce security controls and provide technical ways to implement these controls. For example, the use of network segmentation to secure systems, which can be accomplished in Nectar using private networks and security groups. Our primary cloud platform for demonstrations will be the Nectar Research Cloud - however, the techniques discussed will be transferable to other cloud platforms, such as AWS.
-  speakers: [124, 104]
+  speakers: [124, 135]
   complexity: "Beginner"
   length: 1 hour
   themes: [sec]
