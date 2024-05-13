@@ -862,8 +862,8 @@
   surname: "Hopkins"
   company: "University of Auckland"
   title: "Engagement Specialist"
-  bio: ""
-  thumbnailUrl: ""   
+  bio: "Sarah Hopkins is an Engagement Specialist at the Centre for eResearch for Waipapa Taumata Rau | University of Auckland. Sarah has a clinical research background in exercise physiology and youth mental health. She is enthusiastic about supporting researchers to navigate the evolving requirements for research data management and to increase digital skills and capabilities to enhance their research."
+  thumbnailUrl: "sarah-hopkins.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}

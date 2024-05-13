@@ -129,17 +129,17 @@
 #   capacity: Limited
 #   registration_link:
 
-# -
-#   id: 061
-#   title: "Research Data Collection & Surveys with REDCap: An Overview"
-#   description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
-#   subtype: workshop
-#   speakers: [125, 126]
-#   themes: [qual]
-#   complexity: "Beginner" 
-#   length: 1 hour
-#   capacity: Unlimited
-#   registration_link:
+-
+  id: 061
+  title: "Research Data Collection & Surveys with REDCap: An Overview"
+  description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
+  subtype: workshop
+  speakers: [125, 126]
+  themes: [qual]
+  complexity: "Beginner" 
+  length: 1 hour
+  capacity: Unlimited
+  registration_link:
 
 -
   id: 062
@@ -252,7 +252,7 @@
   description: R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of starting with  R including setting up your project in R, basic programming principles, reading in data, summarising and subsetting data, and creating simple but beautiful plots. This workshop is aimed at those who are new to R and programming, and covers working with data and basic plotting. For statistical analyses with R, please see Hands-on Statistical Analysis with R.
   subtype: workshop
   speakers: [96, 58]
-  themes: [computing, datascience]
+  themes: [datascience]
   complexity: "Beginner"
   length: 4 hours
   capacity: Limited
@@ -409,7 +409,7 @@
     and hours tidying up or reformatting your data before you can start your analyses.
   subtype: workshop
   speakers: [111]
-  themes: [qual, datascience]
+  themes: [datascience]
   complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
@@ -1130,7 +1130,7 @@
   id: 129
   title: "An introduction to cloud security for researchers"
   description: Are you following security best practices? This is a tricky question and can vary widely depending on the technology you are using for your research. Additionally, security can be exceedingly difficult to implement effectively, while maintaining a balance between the level of security needed, and the effort required to implement and manage it. This talk will present security basics accompanied by some technical solutions researchers can implement to secure their cloud computing tools. We will introduce security controls and provide technical ways to implement these controls. For example, the use of network segmentation to secure systems, which can be accomplished in Nectar using private networks and security groups. Our primary cloud platform for demonstrations will be the Nectar Research Cloud - however, the techniques discussed will be transferable to other cloud platforms, such as AWS.
-  speakers: [124, 104]
+  speakers: [124, 135]
   complexity: "Beginner"
   length: 1 hour
   themes: [sec]
