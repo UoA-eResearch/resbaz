@@ -129,17 +129,17 @@
 #   capacity: Limited
 #   registration_link:
 
-# -
-#   id: 061
-#   title: "Research Data Collection & Surveys with REDCap: An Overview"
-#   description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
-#   subtype: workshop
-#   speakers: [125, 126]
-#   themes: [qual]
-#   complexity: "Beginner" 
-#   length: 1 hour
-#   capacity: Unlimited
-#   registration_link:
+-
+  id: 061
+  title: "Research Data Collection & Surveys with REDCap: An Overview"
+  description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
+  subtype: workshop
+  speakers: [125, 126]
+  themes: [qual]
+  complexity: "Beginner" 
+  length: 1 hour
+  capacity: Unlimited
+  registration_link:
 
 -
   id: 062
@@ -220,7 +220,7 @@
 
 - id: 067 
   title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
-  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary. <a href=\"https://www.eventbrite.com/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-430504148497\">Join waitlist</a>"
+  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary."
   subtype: workshop
   speakers: [60, 12, 110]
   themes: ["datascience"]
@@ -362,7 +362,7 @@
   speakers: [74]
   themes: [datascience]
   complexity: "Beginner"
-  length: 1 hour
+  length: 2 hours
   capacity: Unlimited
   registration_link:
 
@@ -516,7 +516,7 @@
     This session offers a high-level step-by-step guide on how to incorporate impact
     into your research planning.
   subtype: workshop
-  speakers: [29]
+  speakers: [129]
   complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
@@ -730,7 +730,7 @@
     One benefit of Quarto is flexibility, accepting multiple programming languages (e.g. R, 
     Python, Julia...) and output formats (e.g. docx, pdf, html...). 
   subtype: workshop
-  speakers: [66, 12]
+  speakers: [66]
   complexity: Advanced
   length: 2 hours
   capacity: Limited
@@ -965,31 +965,31 @@
 #   capacity: Unlimited
 #   registration_link:
 
-- 
-  id: 118
-  title: "Chat GPT and AI Tools: Their impact on research"
-  description: Are you a researcher looking for ways to improve your productivity
-    and efficiency? If so, then you need to check out AI tools for research. AI tools
-    can help you with everything from finding relevant information to writing code.
-    In this presentation, we will explore the role of AI in research and highlight
-    various tools available to researchers, such as ChatGPT and GitHub Copilot. ChatGPT
-    is a natural language processing tool with applications in many fields of science.
-    GitHub Copilot is an AI pair programmer that offers autocomplete-style suggestions
-    as you code. We will talk about how these tools were developed and how they work.
-    There will also be a demonstration of some real-world applications of these tools.
-    Finally, there will be time to discuss ethical considerations, questions, and
-    answers. This presentation is for researchers of all levels, from beginners to
-    experts. Whether you are just starting your research career or a seasoned veteran,
-    you will learn something new from this presentation. So what are you waiting for?
-    Register for this presentation today and learn how AI can help you take your research
-    to the next level.
-  subtype: workshop
-  speakers: [118, 104]
-  complexity: "Beginner"
-  length: 2 hours
-  themes: [datascience]
-  capacity: Limited
-  registration_link:
+# - 
+#   id: 118
+#   title: "Chat GPT and AI Tools: Their impact on research"
+#   description: Are you a researcher looking for ways to improve your productivity
+#     and efficiency? If so, then you need to check out AI tools for research. AI tools
+#     can help you with everything from finding relevant information to writing code.
+#     In this presentation, we will explore the role of AI in research and highlight
+#     various tools available to researchers, such as ChatGPT and GitHub Copilot. ChatGPT
+#     is a natural language processing tool with applications in many fields of science.
+#     GitHub Copilot is an AI pair programmer that offers autocomplete-style suggestions
+#     as you code. We will talk about how these tools were developed and how they work.
+#     There will also be a demonstration of some real-world applications of these tools.
+#     Finally, there will be time to discuss ethical considerations, questions, and
+#     answers. This presentation is for researchers of all levels, from beginners to
+#     experts. Whether you are just starting your research career or a seasoned veteran,
+#     you will learn something new from this presentation. So what are you waiting for?
+#     Register for this presentation today and learn how AI can help you take your research
+#     to the next level.
+#   subtype: workshop
+#   speakers: [118, 104]
+#   complexity: "Beginner"
+#   length: 2 hours
+#   themes: [datascience]
+#   capacity: Limited
+#   registration_link:
 
 # - 
 #   id: 119
@@ -1015,17 +1015,17 @@
 #   capacity: Unlimited
 #   registration_link:
 
-- 
-  id: 121
-  title: "When Science Meets the Headlines: Media Engagement for Research Impact"
-  description: Have you got a big paper coming out that you think is newsworthy? The <a href=\"https://www.sciencemediacentre.co.nz\">Science Media Centre</a> can help you get journalists' attention. This session will introduce you to <a href=\"https://www.scimex.org\">Scimex</a> - our online portal for promoting embargoed research to registered journalists - alongside our other tools and resources for media engagement. You will learn some tips and tricks on what to do when a journalist calls, and how to ensure your expertise has impact.
-  subtype: workshop
-  speakers: [127]
-  complexity: "Beginner"
-  length: 1 hour
-  themes: [publish]
-  capacity: Unlimited
-  registration_link:
+# - 
+#   id: 121
+#   title: "When Science Meets the Headlines: Media Engagement for Research Impact"
+#   description: Have you got a big paper coming out that you think is newsworthy? The <a href=\"https://www.sciencemediacentre.co.nz\">Science Media Centre</a> can help you get journalists' attention. This session will introduce you to <a href=\"https://www.scimex.org\">Scimex</a> - our online portal for promoting embargoed research to registered journalists - alongside our other tools and resources for media engagement. You will learn some tips and tricks on what to do when a journalist calls, and how to ensure your expertise has impact.
+#   subtype: workshop
+#   speakers: [127]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   themes: [publish]
+#   capacity: Unlimited
+#   registration_link:
 
 - 
   id: 122
@@ -1036,7 +1036,7 @@
     consuming or difficult. However, if you know how to scrape data or use an API it opens up 
     all sorts of interesting data sources for you to include in your research. In this practical, 
     follow-along workshop, we will start by introducing some important considerations when 
-    working with data from the web (ethics, terms of use, copyright). We’ll then explore how 
+    working with data from the web (ethics, terms of use, copyright). We'll then explore how 
     data can be scraped from webpages, retrieved from APIs, and processed into a tabular form 
     ready for analysis. Participants are expected to have a novice-level understanding of Python.
   subtype: workshop
@@ -1053,7 +1053,7 @@
   description: This workshop describes a workflow for creating a self-updating website, hosted 
     on GitHub Pages and powered by GitHub Actions, both of which are free services (with some 
     limitations). These kinds of websites allow you to build up a dataset over time and display 
-    that data as a dynamic ‘dashboard’ which automatically updates with new data. Participants 
+    that data as a dynamic 'dashboard' which automatically updates with new data. Participants 
     will benefit from a basic understanding of web scraping, either by attending "Getting data 
     from the web", or through prior knowledge. This 2 hour taster session will introduce and 
     link important concepts, offer a chance to ask questions, and provide participants with 
