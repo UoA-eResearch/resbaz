@@ -25,5 +25,5 @@
 -
   id: "sec"
   name: "Cybersecurity in Research"
-  color: "#EB3100"
-  fontColor: "#6b03fc"
+  color: "#6b03fc"
+  fontColor: "#000000"
