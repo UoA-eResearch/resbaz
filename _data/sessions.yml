@@ -129,17 +129,17 @@
 #   capacity: Limited
 #   registration_link:
 
-# -
-#   id: 061
-#   title: "Research Data Collection & Surveys with REDCap: An Overview"
-#   description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
-#   subtype: workshop
-#   speakers: [125, 126]
-#   themes: [qual]
-#   complexity: "Beginner" 
-#   length: 1 hour
-#   capacity: Unlimited
-#   registration_link:
+-
+  id: 061
+  title: "Research Data Collection & Surveys with REDCap: An Overview"
+  description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
+  subtype: workshop
+  speakers: [125, 126]
+  themes: [qual]
+  complexity: "Beginner" 
+  length: 1 hour
+  capacity: Unlimited
+  registration_link:
 
 -
   id: 062
