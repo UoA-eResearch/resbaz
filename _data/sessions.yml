@@ -47,7 +47,7 @@
   themes: [datascience]
   complexity: "Beginner"
   capacity: Limited
-  length: 1 hours
+  length: 1 hour
   registration_link:
 
 - id: 032
@@ -322,7 +322,7 @@
 
 - id: 074
   title: Getting Started With the Julia Programming Language
-  description: A two-hour introductory workshop for newcomers to Julia, targeted
+  description: A three-hour introductory workshop for newcomers to Julia, targeted
     at users from some technical domain, such as science, economics or engineering.
     Users will learn how to interact with Julia's powerful command-line interface
     (REPL) as well as through Pluto notebooks. They will learn how to carry out basic
@@ -1042,7 +1042,7 @@
   subtype: workshop
   speakers: [110]
   complexity: "Intermediate"
-  length: 2 hour
+  length: 2 hours
   themes: [datascience]
   capacity: Limited
   registration_link:
@@ -1061,7 +1061,7 @@
   subtype: workshop
   speakers: [110,12]
   complexity: "Intermediate"
-  length: 2 hour
+  length: 2 hours
   themes: [datascience]
   capacity: Unlimited
   registration_link:
@@ -1073,7 +1073,7 @@
   subtype: workshop
   speakers: [131]
   complexity: "Beginner"
-  length: 2 hour
+  length: 3 hours
   themes: [computing]
   capacity: Unlimited
   registration_link:
@@ -1085,7 +1085,7 @@
   subtype: workshop
   speakers: [12, 134]
   complexity: "Beginner"
-  length: 3 hour
+  length: 3 hours
   themes: [computing]
   capacity: Limited
   registration_link:
