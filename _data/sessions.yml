@@ -46,7 +46,7 @@
   speakers: [10]
   themes: [datascience]
   complexity: "Beginner"
-  capacity: 60 attendees
+  capacity: Limited
   length: 1 hours
   registration_link:
 
@@ -92,7 +92,7 @@
   themes: [qual, datascience]
   complexity: "Beginner"
   length: 2 hours
-  capacity: 40 attendees
+  capacity: Limited
   registration_link:
 
 # - id: 045
@@ -126,7 +126,7 @@
 #   themes: [publish]
 #   complexity: "Beginner"
 #   length: 2 hours
-#   capacity: 50 attendees
+#   capacity: Limited
 #   registration_link:
 
 # -
@@ -150,7 +150,7 @@
   themes: ["publish"]
   complexity: "Intermediate" 
   length: "2 hours"
-  capacity: "60 attendees"
+  capacity: "Limited"
 
 - 
   id: 063
@@ -226,7 +226,7 @@
   themes: ["datascience"]
   complexity: "Beginner"
   length: "3 hours"
-  capacity: "40 attendees"
+  capacity: "Limited"
 
 - id: 068
   title: "Design 101: Presentations, Posters, and PowerPoints for Researchers"
@@ -255,7 +255,7 @@
   themes: [computing, datascience]
   complexity: "Beginner"
   length: 4 hours
-  capacity: 50 attendees
+  capacity: Limited
   registration_link:
 
 - id: 071
@@ -277,7 +277,7 @@
   themes: [computing, datascience]
   complexity: "Beginner"
   length: 5 hours
-  capacity: 50 attendees
+  capacity: Limited
   registration_link:
 
 - id: 072
@@ -317,7 +317,7 @@
 #   themes: [computing, datascience]
 #   complexity: Intermediate
 #   length: 2 hours
-#   capacity: 40 attendees
+#   capacity: Limited
 #   registration_link:
 
 - id: 074
@@ -334,7 +334,7 @@
   themes: [computing, datascience]
   complexity: "Beginner"
   length: 3 hours
-  capacity: 40 attendees
+  capacity: Limited
   registration_link:
 
 - id: 075
@@ -379,7 +379,7 @@
   themes: [computing, datascience]
   complexity: Beginner/Intermediate
   length: 2 hours
-  capacity: 100 attendees
+  capacity: 1Limited
   registration_link:
 
 - id: 078
@@ -395,7 +395,7 @@
   themes: [computing]
   complexity: "Beginner"
   length: 3 hours
-  capacity: 40 attendees
+  capacity: Limited
   registration_link:
 
 - id: 079
@@ -415,19 +415,17 @@
   capacity: Unlimited
   registration_link:
 
-# - id: 080
-#   title: "Research Compute: An Overview of Options at the University of Auckland"
-#   description: Need more computer power to do your analysis? Is your laptop/desktop
-#     struggling to run your analysis? Come along to hear about virtual machines and
-#     High Performance Computing options available to University of Auckland staff and
-#     doctoral students.
-#   subtype: workshop
-#   speakers: [17]
-#   themes: [computing]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: Unlimited
-#   registration_link:
+- id: 080
+  title: "Is your computer struggling to analyse your research data?"
+  description: "Does your computer take hours to run an analysis or produce visualisation? Would it help to process data or run analysis elsewhere and keep your computer for day-to-day work? Do you need to collaborate to process or analyse research data?
+  Join us to hear about different research computational options. We'll discuss what virtual machines and high performance computers are, how these can be accessed and how they are useful to researchers."
+  subtype: workshop
+  speakers: [17]
+  themes: [computing]
+  complexity: "Beginner"
+  length: 1 hour
+  capacity: Unlimited
+  registration_link:
 
 # -
 #   id: 081 
@@ -449,7 +447,7 @@
 #   themes: ["publish"]
 #   complexity: "Advanced"
 #   length: "2 hours"
-#   capacity: "50 attendees"
+#   capacity: "Limited"
 
 # - 
 #   id: 083
@@ -550,6 +548,7 @@
     session starts.
   subtype: workshop
   speakers: [12, 58]
+  themes: [computing, datascience]
   complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
@@ -572,7 +571,7 @@
   themes: [publish]
   complexity: "Beginner"
   length: 2 hours
-  capacity: 60 attendees
+  capacity: Limited
   registration_link:
 
 - 
@@ -655,7 +654,7 @@
 #   themes: [computing, datascience]
 #   complexity: Intermediate
 #   length: 2 hours
-#   capacity: 50 attendees
+#   capacity: Limited
 #   registration_link:
 
 - 
@@ -709,16 +708,17 @@
   capacity: Unlimited
   registration_link:
 
-# -
-#   id: 101 
-#   title: "Māori Data Sovereignty: Korero with the Poutiaki Rangahau Māori, Waipapa Taumata Rau"
-#   description: "All researchers are welcome to listen and contribute to this korero (discussion) about Māori Data Sovereignty within the context of undertaking research in Aotearoa. Geremy Hema, Poutiaki Rangahau Māori at Waipapa Taumata Rau | University of Auckland, will provide an introduction to Māori Data Sovereignty and why it is imporant to researchers. Attendees will be invited to respectfully share their successful approaches to weaving the Māori Data Sovereignty principles into how they conduct research. Feedback on training needs, barriers and enablers will be sought to inform future resources and support services.  <a href=\"\">Book here</a>"
-#   subtype: workshop
-#   speakers: [109, 112, 14, 111]
-#   complexity: "Beginner"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: "No"
+-
+  id: 101 
+  title: "Tikanga, Māori Research Ethics and Māori Data Sovereignty"
+  description: "All researchers are welcome to listen and contribute to this korero (discussion) about Tikanga, Māori Research Ethics  and Māori Data Sovereignty within the context of undertaking research in Aotearoa. Our presenters will provide an introduction to the concepts and issues and why they are important to researchers. Attendees will be invited to respectfully ask questions and share their successful approaches to weaving Tikanga and Māori Data Sovereignty principles into how they conduct research."
+  subtype: workshop
+  speakers: [109, 112, 137]
+  themes: [qual, publishing]
+  complexity: "Beginner"
+  length: "1 hour"
+  capacity: "Unlimited"
+  recorded: "No"
 
 - 
   id: 102
@@ -733,7 +733,7 @@
   speakers: [66, 12]
   complexity: Advanced
   length: 2 hours
-  capacity: 50 attendees
+  capacity: Limited
   themes: [publish]
   registration_link:
 
@@ -805,7 +805,7 @@
   speakers: [116]
   complexity: "Beginner"
   length: 2 hours
-  capacity: 70 attendees
+  capacity: Limited
   themes: [computing, datascience]
   registration_link:
 
@@ -851,12 +851,12 @@
 - 
   id: 111
   title: Introduction to the Python Programming Language
-  description: Python is a high-level general purpose programming language that is popular for working with research data owing to an active developer base and wide range of packages that can be leveraged for research.  This comprehensive hands-on session will cover the fundamental building blocks of working with Python to analyse and visualize data. 
+  description: Python is a high-level general purpose programming language that is popular for working with research data owing to an active developer base and wide range of packages that can be leveraged for research.  This comprehensive hands-on session will cover the fundamental building blocks of working with Python to analyse and visualize data. Together we'll interactively learn how to use Python to generate a plot from a csv file, getting to grips with the core functionality of the language along the way.  
   subtype: workshop
   speakers: [31, 107]
   complexity: "Beginner"
   length: 4 hours
-  capacity: 50 attendees
+  capacity: Limited
   themes: [computing, datascience]
   registration_link:
 
@@ -910,7 +910,7 @@
 #   speakers: [27]
 #   complexity: "Beginner"
 #   length: 1 hour
-#   capacity: 80 attendees
+#   capacity: Limited
 #   themes: [publish]
 #   registration_link:
 
@@ -941,7 +941,7 @@
   speakers: [122]
   complexity: "Beginner"
   length: 1 hour
-  capacity: 50 attendees
+  capacity: Limited
   themes: [publish]
   registration_link:
 
@@ -988,20 +988,20 @@
   complexity: "Beginner"
   length: 2 hours
   themes: [datascience]
-  capacity: 50 attendees
+  capacity: Limited
   registration_link:
 
-- 
-  id: 119
-  title: Cybersecurity for Researchers - Would Your Research Survive a Cyberattack?
-  description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to your data being lost or held to ransom. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
-  subtype: workshop
-  speakers: [123]
-  complexity: "Beginner"
-  length: 1 hour
-  themes: []
-  capacity: Unlimited
-  registration_link:
+# - 
+#   id: 119
+#   title: Cybersecurity for Researchers - Would Your Research Survive a Cyberattack?
+#   description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to your data being lost or held to ransom. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
+#   subtype: workshop
+#   speakers: [123]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   themes: []
+#   capacity: Unlimited
+#   registration_link:
 
 # - 
 #   id: 120
@@ -1044,7 +1044,7 @@
   complexity: "Intermediate"
   length: 2 hour
   themes: [computing, datascience]
-  capacity: 50 attendees
+  capacity: Limited
   registration_link:
 
 - 
@@ -1069,22 +1069,12 @@
 - 
   id: 124
   title: "Hands-on introduction to leveraging containers in research code"
-  description: Have you ever found yourself with a potpourri of Python versions lingering in 
-    your laptop, conflicting between one another or drowning you in dependency hell? Have you 
-    ever found yourself trying to use custom software environments from a colleague or the 
-    internet, only to find it more difficult to install, than it is to run? Or, have to try to 
-    share your code with lab mates, and they just cannot get it to work without you? If you ever 
-    find yourself running into reproducibility issues in those scenarios, or even with your own 
-    software some years later, this session is for you.This hand-ons workshop will introduce you 
-    to containers, using Docker, to help you create, maintain, share and consume code for your 
-    research in a manner that promotes reproducibility and provenance. And hopefully alleviate 
-    some of those pain points with research software.A minimum knowledge of the command line, 
-    i.e. launching commands, listing and editing files or changing directories is required. 
+  description: Have you ever found yourself with a potpourri of Python versions lingering in your laptop, conflicting between one another or drowning you in dependency hell? Have you ever found yourself trying to use custom software environments from a colleague or the internet, only to find it more difficult to install, than it is to run? Or, have to try to share your code with lab mates, and they just cannot get it to work without you? If you ever find yourself running into reproducibility issues in those scenarios, or even with your own software some years later, this session is for you.This hand-ons workshop will introduce you to containers, using Docker, to help you create, maintain, share and consume code for your research in a manner that promotes reproducibility and provenance. And hopefully alleviate some of those pain points with research software.A minimum knowledge of the command line, i.e. launching commands, listing and editing files or changing directories is required. 
   subtype: workshop
   speakers: [131]
   complexity: "Beginner"
   length: 2 hour
-  themes: [computing, datascience]
+  themes: [computing]
   capacity: Unlimited
   registration_link:
 
@@ -1096,8 +1086,8 @@
   speakers: [12, 134]
   complexity: "Beginner"
   length: 3 hour
-  themes: [computing, datascience]
-  capacity: 40 attendees
+  themes: [computing]
+  capacity: Limited
   registration_link:
 
 - 
@@ -1132,7 +1122,7 @@
   speakers: [60, 104]
   complexity: "Beginner"
   length: 1 hour
-  themes: [computing]
+  themes: [computing, datascience]
   capacity: Unlimited
   registration_link:
 
@@ -1144,5 +1134,27 @@
   complexity: "Beginner"
   length: 1 hour
   themes: [sec]
+  capacity: Unlimited
+  registration_link:
+
+- 
+  id: 130
+  title: "Using digital tools for transcription"
+  description: Transcribing audio into text is part of the research process for many researchers. Manually transcribing text can be time consuming, so an increasing number of researchers are using software to transcribe, for example, interview or focus group audio recordings. Join us to hear about various transcription tools, including a demonstration of OpenAI's Whisper - an automatic speech recognition system trained on a Large (multi-lingual) Language Model that can be run on a local computer or restricted access virtiual machine
+  speakers: [14, 60, 138]
+  complexity: "Beginner"
+  length: 1 hour
+  themes: [qual]
+  capacity: Unlimited
+  registration_link:
+
+- 
+  id: 131
+  title: "Data Management Planning"
+  description: Data Management Plans are a useful way of mapping out the collection, storage, analysis, and publication of research data. They surface important institutional or funder requirements, and ensure that project members are aware of their ethical and legal responsibilities when working with project data. This session will provide an overview of how Data Management Plans are a useful tool for researchers at all stages of their work, and in particular, when revisiting research data over time or onboarding new project members. 
+  speakers: [111]
+  complexity: "Beginner"
+  length: 1 hour
+  themes: [sec, qual]
   capacity: Unlimited
   registration_link:

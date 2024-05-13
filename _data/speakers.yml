@@ -557,17 +557,17 @@
   ribbon:
     - {abbr: "UC", title: "University of Canterbury", url: "https://www.canterbury.ac.nz/"}
 
-# -
-#   id: 109
-#   name: "Geremy"
-#   surname: "Hema"
-#   company: "University of Auckland"
-#   title: "Poutiaki Rangahau Māori"
-#   bio: "Geremy Hema (Ngāti Paoa, Te Rarawa) is the Poutiaki Rangahau Māori Māori Research and Data Sovereignty Steward, based in the Ihonuku Māori Office at Waipapa Taumata Rau. He holds a B.Sc and LLB from Waipapa Taumata Rau | The University of Auckland, and is an admitted barrister and solicitor of the High Court of New Zealand. "
-#   thumbnailUrl: "geremy_hema.png"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
+-
+  id: 109
+  name: "Geremy"
+  surname: "Hema"
+  company: "University of Auckland"
+  title: "Poutiaki Rangahau Māori"
+  bio: "Geremy Hema (Ngāti Paoa, Te Rarawa) is the Poutiaki Rangahau Māori Māori Research and Data Sovereignty Steward, based in the Ihonuku Māori Office at Waipapa Taumata Rau. He holds a B.Sc and LLB from Waipapa Taumata Rau | The University of Auckland, and is an admitted barrister and solicitor of the High Court of New Zealand. "
+  thumbnailUrl: "geremy_hema.png"
+  rockstar: false 
+  ribbon:
+    - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
 
 - 
   id: 110
@@ -593,17 +593,17 @@
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
-# -
-#   id: 112
-#   name: "Hinearangi"
-#   surname: "Busby"
-#   company: "University of Auckland"
-#   title: "Poutaki Rangahau Vision Mātauranga "
-#   bio: "Hinearangi Busby (Te Rarawa, Ngāpuhi), has held various roles at Waipapa Taumata Rau within the Library Learning Service Division and more recently as Poutaki Rangahau| Vision Mātauranga - Research Manager | Vision Mātauranga with Te Tari Rautaki Rangahau, Matatika - Office of Research Strategy & Integrity. She has a background in Mātauranga Māori, Contemporary Māori Policy Development, Contemporary Māori Economic development and has an interest in Indigenous Pedagogies as a praxis to transformation."
-#   thumbnailUrl: "hinearangi_busby.png"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
+-
+  id: 112
+  name: "Hinearangi"
+  surname: "Busby"
+  company: "University of Auckland"
+  title: "Poutaki Rangahau Vision Mātauranga "
+  bio: "Hinearangi Busby (Te Rarawa, Ngāpuhi), has held various roles at Waipapa Taumata Rau within the Library Learning Service Division and more recently as Poutaki Rangahau| Vision Mātauranga - Research Manager | Vision Mātauranga with Te Tari Rautaki Rangahau, Matatika - Office of Research Strategy & Integrity. She has a background in Mātauranga Māori, Contemporary Māori Policy Development, Contemporary Māori Economic development and has an interest in Indigenous Pedagogies as a praxis to transformation."
+  thumbnailUrl: "hinearangi_busby.png"
+  rockstar: false 
+  ribbon:
+    - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
 
 -
   id: 113
@@ -891,3 +891,27 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 137
+  name: "Larissa"
+  surname: "Renfrew"
+  company: "University of Auckland"
+  title: "Research Fellow"
+  bio: "Larissa Renfrew has graduated with a Masters in Psychology from the University of Auckland. She is also a research fellow at the School of Psychology. Her Masters thesis was on the topic of Rangatahi relationalities with their environment and used visual data analysis. Larissa research interest also include Māori data sovereignty and ethics of using visual data within kaupapa Māori research."
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: ""}
+
+- 
+  id: 138
+  name: "Sarah"
+  surname: "Hopkins"
+  company: "University of Auckland"
+  title: "Engagement Specialist"
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
