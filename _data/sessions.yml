@@ -252,7 +252,7 @@
   description: R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of starting with  R including setting up your project in R, basic programming principles, reading in data, summarising and subsetting data, and creating simple but beautiful plots. This workshop is aimed at those who are new to R and programming, and covers working with data and basic plotting. For statistical analyses with R, please see Hands-on Statistical Analysis with R.
   subtype: workshop
   speakers: [96, 58]
-  themes: [computing, datascience]
+  themes: [datascience]
   complexity: "Beginner"
   length: 4 hours
   capacity: Limited
@@ -409,7 +409,7 @@
     and hours tidying up or reformatting your data before you can start your analyses.
   subtype: workshop
   speakers: [111]
-  themes: [qual, datascience]
+  themes: [datascience]
   complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
