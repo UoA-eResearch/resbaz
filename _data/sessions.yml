@@ -548,6 +548,7 @@
     session starts.
   subtype: workshop
   speakers: [12, 58]
+  themes: [computing, datascience]
   complexity: "Beginner"
   length: 1 hour
   capacity: Unlimited
@@ -713,6 +714,7 @@
   description: "All researchers are welcome to listen and contribute to this korero (discussion) about Tikanga, Māori Research Ethics  and Māori Data Sovereignty within the context of undertaking research in Aotearoa. Our presenters will provide an introduction to the concepts and issues and why they are important to researchers. Attendees will be invited to respectfully ask questions and share their successful approaches to weaving Tikanga and Māori Data Sovereignty principles into how they conduct research."
   subtype: workshop
   speakers: [109, 112, 137]
+  themes: [qual, publishing]
   complexity: "Beginner"
   length: "1 hour"
   capacity: "Unlimited"
@@ -989,17 +991,17 @@
   capacity: Limited
   registration_link:
 
-- 
-  id: 119
-  title: Cybersecurity for Researchers - Would Your Research Survive a Cyberattack?
-  description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to your data being lost or held to ransom. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
-  subtype: workshop
-  speakers: [123]
-  complexity: "Beginner"
-  length: 1 hour
-  themes: []
-  capacity: Unlimited
-  registration_link:
+# - 
+#   id: 119
+#   title: Cybersecurity for Researchers - Would Your Research Survive a Cyberattack?
+#   description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to your data being lost or held to ransom. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
+#   subtype: workshop
+#   speakers: [123]
+#   complexity: "Beginner"
+#   length: 1 hour
+#   themes: []
+#   capacity: Unlimited
+#   registration_link:
 
 # - 
 #   id: 120
@@ -1067,22 +1069,12 @@
 - 
   id: 124
   title: "Hands-on introduction to leveraging containers in research code"
-  description: Have you ever found yourself with a potpourri of Python versions lingering in 
-    your laptop, conflicting between one another or drowning you in dependency hell? Have you 
-    ever found yourself trying to use custom software environments from a colleague or the 
-    internet, only to find it more difficult to install, than it is to run? Or, have to try to 
-    share your code with lab mates, and they just cannot get it to work without you? If you ever 
-    find yourself running into reproducibility issues in those scenarios, or even with your own 
-    software some years later, this session is for you.This hand-ons workshop will introduce you 
-    to containers, using Docker, to help you create, maintain, share and consume code for your 
-    research in a manner that promotes reproducibility and provenance. And hopefully alleviate 
-    some of those pain points with research software.A minimum knowledge of the command line, 
-    i.e. launching commands, listing and editing files or changing directories is required. 
+  description: Have you ever found yourself with a potpourri of Python versions lingering in your laptop, conflicting between one another or drowning you in dependency hell? Have you ever found yourself trying to use custom software environments from a colleague or the internet, only to find it more difficult to install, than it is to run? Or, have to try to share your code with lab mates, and they just cannot get it to work without you? If you ever find yourself running into reproducibility issues in those scenarios, or even with your own software some years later, this session is for you.This hand-ons workshop will introduce you to containers, using Docker, to help you create, maintain, share and consume code for your research in a manner that promotes reproducibility and provenance. And hopefully alleviate some of those pain points with research software.A minimum knowledge of the command line, i.e. launching commands, listing and editing files or changing directories is required. 
   subtype: workshop
   speakers: [131]
   complexity: "Beginner"
   length: 2 hour
-  themes: [computing, datascience]
+  themes: [computing]
   capacity: Unlimited
   registration_link:
 
@@ -1094,7 +1086,7 @@
   speakers: [12, 134]
   complexity: "Beginner"
   length: 3 hour
-  themes: [computing, datascience]
+  themes: [computing]
   capacity: Limited
   registration_link:
 
@@ -1130,7 +1122,7 @@
   speakers: [60, 104]
   complexity: "Beginner"
   length: 1 hour
-  themes: [computing]
+  themes: [computing, datascience]
   capacity: Unlimited
   registration_link:
 
@@ -1146,23 +1138,23 @@
   registration_link:
 
 - 
-  id: 129
+  id: 130
   title: "Using digital tools for transcription"
   description: Transcribing audio into text is part of the research process for many researchers. Manually transcribing text can be time consuming, so an increasing number of researchers are using software to transcribe, for example, interview or focus group audio recordings. Join us to hear about various transcription tools, including a demonstration of OpenAI's Whisper - an automatic speech recognition system trained on a Large (multi-lingual) Language Model that can be run on a local computer or restricted access virtiual machine
   speakers: [14, 60, 138]
   complexity: "Beginner"
   length: 1 hour
-  themes: [sec]
+  themes: [qual]
   capacity: Unlimited
   registration_link:
 
 - 
-  id: 130
+  id: 131
   title: "Data Management Planning"
   description: Data Management Plans are a useful way of mapping out the collection, storage, analysis, and publication of research data. They surface important institutional or funder requirements, and ensure that project members are aware of their ethical and legal responsibilities when working with project data. This session will provide an overview of how Data Management Plans are a useful tool for researchers at all stages of their work, and in particular, when revisiting research data over time or onboarding new project members. 
   speakers: [111]
   complexity: "Beginner"
   length: 1 hour
-  themes: [sec]
+  themes: [sec, qual]
   capacity: Unlimited
   registration_link:
