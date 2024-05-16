@@ -114,7 +114,7 @@
 
 # Wednesday
 - 
-  date: "2024-07-09"
+  date: "2024-07-10"
   dateReadable: "Wedsnesday 10 July"
   tracks: 
     - {title: "1", color: "#f27f27"}
@@ -171,7 +171,7 @@
 
 # Thursday
 - 
-  date: "2024-07-10"
+  date: "2024-07-11"
   dateReadable: "Thursday 11 July"
   tracks: 
     - {title: "1", color: "#f27f27"}
@@ -228,7 +228,7 @@
 
 # Friday
 - 
-  date: "2024-07-11"
+  date: "2024-07-12"
   dateReadable: "Friday 12 July"
   tracks: 
     - {title: "1", color: "#f27f27"}
