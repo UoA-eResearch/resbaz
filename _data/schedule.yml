@@ -79,7 +79,7 @@
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: [098, 088, 071]
+    	sessionIds: ['098', '088', '071']
     }
 
     - {
