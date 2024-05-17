@@ -47,10 +47,13 @@
   complexity: Beginner
   capacity: Limited
 <<<<<<< HEAD
+<<<<<<< HEAD
   length: 1 hours
   registration_link: 
     https://www.eventbrite.co.nz/e/jupyter-notebooks-for-reproducible-research-tickets-907927273917
 =======
+=======
+>>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 1 hour
   registration_link:
 
@@ -278,7 +281,11 @@
 - id: 074
   title: Getting Started With the Julia Programming Language
 <<<<<<< HEAD
+<<<<<<< HEAD
   description: 'A two-hour introductory workshop for newcomers to Julia, targeted
+=======
+  description: A three-hour introductory workshop for newcomers to Julia, targeted
+>>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
 =======
   description: A three-hour introductory workshop for newcomers to Julia, targeted
 >>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
@@ -660,6 +667,9 @@
   complexity: Intermediate
 =======
   complexity: "Intermediate"
+<<<<<<< HEAD
+>>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
+=======
 >>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 2 hours
   themes: [datascience]
@@ -684,6 +694,9 @@
 =======
   speakers: [110,12]
   complexity: "Intermediate"
+<<<<<<< HEAD
+>>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
+=======
 >>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 2 hours
   themes: [datascience]
@@ -711,6 +724,9 @@
   complexity: Beginner
 =======
   complexity: "Beginner"
+<<<<<<< HEAD
+>>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
+=======
 >>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 3 hours
   themes: [computing]
@@ -741,6 +757,9 @@
   complexity: Beginner
 =======
   complexity: "Beginner"
+<<<<<<< HEAD
+>>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
+=======
 >>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 3 hours
   themes: [computing]
