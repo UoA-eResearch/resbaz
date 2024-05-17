@@ -16,13 +16,13 @@
     - {
       startTime: "10:00",
       endTime: "11:00",
-      sessionIds: [079, '072', '044']
+      sessionIds: [079, 072, 044]
     }
 
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: ['075', '080', '044']
+    	sessionIds: [075, 080, 044]
     }
 
     - {
@@ -34,19 +34,19 @@
     - {
     	startTime: "13:00",
     	endTime: "14:00",
-    	sessionIds: ['001', 122, '064']
+    	sessionIds: [001, 122, 064]
     }
 
     - {
       startTime: "14:00",
       endTime: "15:00",
-      sessionIds: ['001', 122, 116]
+      sessionIds: [001, 122, 116]
     }
 
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [126, '089', 128]
+    	sessionIds: [126, 089, 128]
     }
 
     - {
@@ -67,43 +67,43 @@
     - {
     	startTime: "09:00",
     	endTime: "10:00",
-    	sessionIds: ['102', 091, 300]
+    	sessionIds: [102, 091, 300]
     }
 
     - {
       startTime: "10:00",
       endTime: "11:00",
-      sessionIds: [102, '091', '071']
+      sessionIds: [102, 091, 071]
     }
 
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: ['098', '088', '071']
+    	sessionIds: [098, 088, 071]
     }
 
     - {
     	startTime: "12:00",
       endTime: "13:00",
-    	sessionIds: [201, 201, '071']
+    	sessionIds: [201, 201, 071]
     }
    
     - {
     	startTime: "13:00",
     	endTime: "14:00",
-    	sessionIds: [113, 124, '071']
+    	sessionIds: [113, 124, 071]
     }
 
     - {
       startTime: "14:00",
       endTime: "15:00",
-      sessionIds: [112, 124, '071']
+      sessionIds: [112, 124, 071]
     }
 
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: ['090', 124, 129]
+    	sessionIds: [090, 124, 129]
     }
 
     - {
@@ -124,19 +124,19 @@
     - {
     	startTime: "09:00",
     	endTime: "10:00",
-    	sessionIds: ['092', '067', 131]
+    	sessionIds: [092, 067, 131]
     }
 
     - {
       startTime: "10:00",
       endTime: "11:00",
-      sessionIds: ['063', '067', 100]
+      sessionIds: [063, 067, 100]
     }
 
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: [068, '067', 127]
+    	sessionIds: [068, 067, 127]
     }
 
     - {
@@ -148,25 +148,25 @@
     - {
     	startTime: "13:00",
     	endTime: "14:00",
-    	sessionIds: ['070', 111, '074']
+    	sessionIds: [070, 111, 074]
     }
 
     - {
       startTime: "14:00",
       endTime: "15:00",
-      sessionIds: ['070', 111, '074']
+      sessionIds: [070, 111, 074]
     }
 
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: ['070', 111, '074']
+    	sessionIds: [070, 111, 074]
     }
 
     - {
     	startTime: "16:00",
     	endTime: "17:00",
-    	sessionIds: ['070', 111, 300]
+    	sessionIds: [070, 111, 300]
     }
 
 # Thursday
@@ -181,19 +181,19 @@
     - {
     	startTime: "09:00",
     	endTime: "10:00",
-    	sessionIds: [300, '032', 125]
+    	sessionIds: [300, 032, 125]
     }
 
     - {
       startTime: "10:00",
       endTime: "11:00",
-      sessionIds: ['076', 130, 125]
+      sessionIds: [076, 130, 125]
     }
 
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: ['076', '061', 125]
+    	sessionIds: [076, 061, 125]
     }
 
     - {
@@ -205,19 +205,19 @@
     - {
     	startTime: "13:00",
     	endTime: "14:00",
-    	sessionIds: ['077', '062', 123]
+    	sessionIds: [077, 062, 123]
     }
 
     - {
       startTime: "14:00",
       endTime: "15:00",
-      sessionIds: ['077', '062', 123]
+      sessionIds: [077, 062, 123]
     }
 
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: ['031', '085', 101]
+    	sessionIds: [031, 085, 101]
     }
 
     - {
@@ -238,19 +238,19 @@
     - {
     	startTime: "09:00",
     	endTime: "10:00",
-    	sessionIds: ['078', 300, 300]
+    	sessionIds: [078, 300, 300]
     }
 
     - {
       startTime: "10:00",
       endTime: "11:00",
-      sessionIds: ['078', '066', 108]
+      sessionIds: [078, 066, 108]
     }
 
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: [078, '066', 108]
+    	sessionIds: [078, 066, 108]
     }
 
     - {
