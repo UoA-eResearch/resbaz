@@ -46,7 +46,7 @@
   themes: [datascience]
   complexity: Beginner
   capacity: Limited
-  length: 1 hours
+  length: 1 hour
   registration_link: 
     https://www.eventbrite.co.nz/e/jupyter-notebooks-for-reproducible-research-tickets-907927273917
 - id: 032
@@ -62,7 +62,7 @@
   speakers: [36, 114]
   themes: [qual]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   recorded: "Yes"
   registration_link: https://www.eventbrite.co.nz/e/nvivo-for-literature-reviews-tickets-908001927207
@@ -99,7 +99,7 @@
   speakers: [125, 126]
   themes: [qual]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/research-data-collection-surveys-with-redcap-tickets-908001887087
@@ -132,7 +132,7 @@
   speakers: [119, 120]
   themes: [publish]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/open-access-how-to-make-your-publications-open-tickets-908001917177
@@ -147,7 +147,7 @@
   speakers: [99, 97]
   themes: [publish]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/strategic-publishing-deciding-where-to-publish-understanding-the-process-tickets-908001877057
@@ -203,7 +203,7 @@
   speakers: [61, 100]
   themes: [publish]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/design-101-presentations-posters-and-powerpoints-for-researchers-tickets-908001957297
@@ -266,7 +266,7 @@
   speakers: [75]
   themes: [computing, datascience]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-908001997417
@@ -299,7 +299,7 @@
   speakers: [36, 114]
   themes: [qual, datascience]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   recorded: "Yes"
   registration_link: https://www.eventbrite.co.nz/e/nvivo-showcase-tickets-908002027507
@@ -363,7 +363,7 @@
   speakers: [111]
   themes: [datascience]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/keeping-your-spreadsheets-tidy-tickets-908002077657
@@ -379,7 +379,7 @@
   speakers: [17]
   themes: [computing]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/is-your-computer-struggling-to-analyse-your-research-data-tickets-908002388587
@@ -395,7 +395,7 @@
   speakers: [114]
   themes: [qual]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/introduction-to-qualtrics-for-research-surveys-tickets-908002087687
@@ -410,7 +410,7 @@
   subtype: workshop
   speakers: [129]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   themes: [publish]
   registration_link: 
@@ -426,7 +426,7 @@
   speakers: [38]
   themes: [publish]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/digital-storytelling-with-knightlab-tickets-908002107747
@@ -440,7 +440,7 @@
   speakers: [12, 58]
   themes: [computing, datascience]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/resbaz-drop-in-clinic-hackyhour-tickets-908002117777
@@ -476,7 +476,7 @@
   speakers: [101, 54]
   themes: [computing, datascience]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/what-is-nesi-new-zealands-national-high-performance-computers-tickets-908002057597
@@ -497,7 +497,7 @@
   speakers: [104, 22]
   themes: [computing, datascience]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/research-collaboration-and-reproducibility-with-google-colab-tickets-908002147867
@@ -513,7 +513,7 @@
   speakers: [108]
   themes: [qual, datascience]
   complexity: Intermediate
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   registration_link: 
     https://www.eventbrite.co.nz/e/doing-even-more-with-openrefine-tickets-908002157897
@@ -530,7 +530,7 @@
   speakers: [109, 112, 137]
   themes: [qual, publishing]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   recorded: No
 
@@ -599,7 +599,7 @@
   subtype: workshop
   speakers: [31]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   themes: [publish]
   registration_link: 
@@ -616,7 +616,7 @@
   subtype: workshop
   speakers: [14, 19]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Unlimited
   themes: [publish]
   registration_link: 
@@ -629,7 +629,7 @@
   subtype: workshop
   speakers: [122]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   capacity: Limited
   themes: [publish]
   registration_link: 
@@ -740,7 +740,7 @@
   subtype: workshop
   speakers: [31, 30]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   themes: [datascience]
   capacity: Unlimited
   registration_link: 
@@ -758,7 +758,7 @@
   subtype: workshop
   speakers: [133]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   themes: [sec]
   capacity: Unlimited
   registration_link: 
@@ -775,7 +775,7 @@
   subtype: workshop
   speakers: [60, 104]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   themes: [computing]
   capacity: Unlimited
   registration_link: 
@@ -796,7 +796,7 @@
     such as AWS.
   speakers: [124, 135]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   themes: [sec]
   capacity: Unlimited
   registration_link: 
@@ -812,7 +812,7 @@
     local computer or restricted access virtiual machine
   speakers: [14, 60, 138]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   themes: [qual]
   capacity: Unlimited
   registration_link: 
@@ -828,7 +828,7 @@
     time or onboarding new project members. '
   speakers: [111]
   complexity: Beginner
-  length: 1 hours
+  length: 1 hour
   themes: [qual]
   capacity: Unlimited
   registration_link: https://www.eventbrite.co.nz/e/data-management-planning-tickets-908002378557
