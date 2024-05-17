@@ -28,12 +28,11 @@
     management planning, capturing, organising, sharing, and reusing research data.
   subtype: workshop
   speakers: [14, 58]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 2 hours
   capacity: Unlimited
   themes: [publish]
-  registration_link:
-
+  registration_link: https://www.eventbrite.co.nz/e/managing-research-data-tickets-907927263887
 - id: 031
   title: Jupyter notebooks for reproducible research
   description: Jupyter Notebooks are a powerful interactive tool that can help you
@@ -45,116 +44,82 @@
   subtype: workshop
   speakers: [10]
   themes: [datascience]
-  complexity: "Beginner"
+  complexity: Beginner
   capacity: Limited
   length: 1 hours
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/jupyter-notebooks-for-reproducible-research-tickets-907927273917
 - id: 032
   title: NVivo for Literature Reviews
   description: Reviewing the literature is an important part of the research process.
     Organising relevant papers and findings are more than just data entry or bibliographic
     tasks, you also need to be able to analyse and integrate this material with the
     qualitative data you are gathering. This one-hour demonstration will provide an
-    overview of NVivo's functionality with regard to literature reviews. Importing
+    overview of NVivo’s functionality with regard to literature reviews. Importing
     and coding literature, running queries on published material, and working with
     bibliographic data in conjunction with your NVivo project will all be covered.
   subtype: workshop
   speakers: [36, 114]
   themes: [qual]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
-# -
-#   id: 036
-#   title: Working with Social Media Data?
-#   description: Social media data can enable insightful research into areas like social behaviour and current events. Join this session to connect with and learn from others working with social media data within the Aotearoa research community. More details to come! <a href=\"https://www.eventbrite.com/e/working-with-social-media-data-tickets-431288414257\">Book here</a>
-#   subtype: workshop
-#   speakers: [12, 58]
-#   themes: ["computing", "datascience"]
-#   complexity: "Beginner" 
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: ""
-
+  registration_link: https://www.eventbrite.co.nz/e/nvivo-for-literature-reviews-tickets-908001927207
 - id: 044
   title: Introduction to Cleaning & Transforming Data with OpenRefine
-  description: OpenRefine is a powerful, free, open-source tool for working with
-    messy data - cleaning it; transforming it from one format into another; and extending
+  description: "OpenRefine is a powerful, free, open-source tool for working with
+    messy data: cleaning it; transforming it from one format into another; and extending
     it with web services and external data. This introductory, practical workshop
-    will demonstrate how it can help you to - Understand the structure of a data set
+    will demonstrate how it can help you to: Understand the structure of a data set
     and resolve inconsistencies; Split data up into more granular parts; Match local
-    data up to other data sets; Enhance a data set with data from other sources.
+    data up to other data sets; Enhance a data set with data from other sources. \n
+    \n Setup instructions can be found <a href=\"https://resbaz.auckland.ac.nz/setup/#introduction-to-cleaning--transforming-data-with-openrefine\"\
+    >here</a>"
   subtype: workshop
   speakers: [96, 106]
   themes: [qual, datascience]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 2 hours
   capacity: Limited
-  registration_link:
-
-# - id: 045
-#   title: How Can Python Help Your Research?
-#   description: New to the Python programming language and interested in how it can
-#     help your research?  Then this intro session is for you! No prior knowledge of
-#     Python required, no hands-on coding involved, just sit back with your favourite
-#     beverage and find out about the powerful world of Python. The session is split
-#     into 2 parts. Part 1 - A holistic overview of Python. Key concepts in Python, how
-#     Python is used around the world, and how Python can help you organise, analyse,
-#     and visualise your research data. Part 2 - Getting started with Python for research.
-#     A live demonstration of how to start using Python to investigate research data,
-#     including - how to load in a spreadsheet of data, basic manipulation and processing
-#     of the data, how to quickly visualise the data to reveal insights into the dataset,
-#     and a bunch of useful links to help you launch your journey into using Python.
-#   subtype: workshop
-#   speakers: [27, 104]
-#   themes: [computing, datascience]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: Unlimited
-#   registration_link:
-
-# - id: 047
-#   title: Build a Research Portfolio Website (Using GitHub)
-#   description: Learn how to create an attractive, functional website to showcase
-#     your research career and outputs using GitHub and wowchemy. Some familiarity with
-#     git, HTML and CSS will be beneficial, but not necessary. 
-#   subtype: workshop
-#   speakers: [38]
-#   themes: [publish]
-#   complexity: "Beginner"
-#   length: 2 hours
-#   capacity: Limited
-#   registration_link:
-
--
-  id: 061
-  title: "Research Data Collection & Surveys with REDCap: An Overview"
-  description: A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys, including those containing sensitive data.
+  registration_link: 
+    https://www.eventbrite.co.nz/e/introduction-to-cleaning-transforming-data-with-openrefine-tickets-908001867027
+- id: 061
+  title: 'Research Data Collection & Surveys with REDCap: An Overview'
+  description: REDCap is used by researchers to create surveys or databases to collect
+    and track information and research data, and schedule study events. It is ideal
+    for sensitive research data, including personally identifiable data and consent.
+    It supports different levels of access for collaborators, including from multiple
+    sites and institutions, and tracking of data entry and revision history. REDCap
+    enables online and offline data collection, data sovereignty obligations, and
+    export of data into common software. It is used across the Aotearoa research community,
+    including Universities, CRIs and Te Whatu Ora. Join us to hear about and see a
+    demonstration of how this tool can help your research.
   subtype: workshop
   speakers: [125, 126]
   themes: [qual]
-  complexity: "Beginner" 
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
--
-  id: 062
-  title: "How to Create a LaTeX Report Without Losing Hair"
-  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants."
+  registration_link: 
+    https://www.eventbrite.co.nz/e/research-data-collection-surveys-with-redcap-tickets-908001887087
+- id: 062
+  title: How to Create a LaTeX Report Without Losing Hair
+  description: Go beyond the basics in this workshop. You will learn how LaTeX documents
+    can be split up into styles, pages, appendices, etc. so that you can work in manageable
+    chunks. This workshop will demonstrate several useful LaTeX packages and show
+    you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX
+    is helpful, but not required. A template will be provided for participants.
   subtype: workshop
   speakers: [55]
-  themes: ["publish"]
-  complexity: "Intermediate" 
-  length: "2 hours"
-  capacity: "Limited"
+  themes: [publish]
+  complexity: Intermediate
+  length: 2 hours
+  capacity: Limited
 
-- 
-  id: 063
-  title: "Open Access: How to Make Your Publications Open"
+  registration_link: 
+    https://www.eventbrite.co.nz/e/how-to-create-a-latex-report-without-losing-hair-tickets-908002338437
+- id: 063
+  title: 'Open Access: How to Make Your Publications Open'
   description: Open Access to publications and other research outputs ensures you
     get maximum exposure and recognition for your work. Open publications are viewed,
     downloaded, and cited at higher rates than closed publications. There are free
@@ -165,43 +130,26 @@
   subtype: workshop
   speakers: [119, 120]
   themes: [publish]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/open-access-how-to-make-your-publications-open-tickets-908001917177
 - id: 064
-  title: "Strategic Publishing: Deciding Where to Publish & Understanding the Process"
+  title: 'Strategic Publishing: Deciding Where to Publish & Understanding the Process'
   description: Confused about where you should publish your research? Want to make
-    sure you're publishing in credible journals? Want to learn more about the publishing
-    process? In this session we'll cover publishing strategies to maximise the impact
+    sure you’re publishing in credible journals? Want to learn more about the publishing
+    process? In this session we’ll cover publishing strategies to maximise the impact
     of your research and provide an overview of the publishing and peer review process
     so you know what to expect.
   subtype: workshop
   speakers: [99, 97]
   themes: [publish]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
-# - id: 065
-#   title: Using Researcher Profiles & LinkedIn to Promote You and Your Research
-#   description: Trying to work that academic hustle, but don't know how to get your
-#     name out there?\nWondering about the best way to promote your research or track
-#     your publications?\nIn this workshop, we'll discuss the reasons why research profiles
-#     are important, look at the different types of profiles and their purposes, and
-#     brainstorm some strategies to help you manage your online identities. This will
-#     help doctoral candidates and early career researchers (ECRs) set the stage for
-#     their future research career.
-#   subtype: workshop
-#   speakers: [100, 121]
-#   themes: [publish]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: Unlimited
-#   registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/strategic-publishing-deciding-where-to-publish-understanding-the-process-tickets-908001877057
 - id: 066
   title: Managing References With Zotero
   description: Researchers spend a lot of time capturing, organising, and consulting
@@ -213,79 +161,100 @@
   subtype: workshop
   speakers: [58, 114]
   themes: [publish]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 2 hours
   capacity: Unlimited
-  registration_link:
-
-- id: 067 
-  title: "An Introduction to Processing Remote Sensing Data With Google Earth Engine"
-  description: "Google Earth Engine (GEE) can be considered a one-stop-shop for your raster-based geospatial needs without the hassle of pre-processing. This practical workshop provides a comprehensive introduction to using GEE through the Javascript based code editor and aims to provide you with the necessary knowledge to leverage Earth Engine for you own geospatial research. This workshop will be delivered in 3 parts focused around accessing satellite imagery, performing analysis and image classification. This workshop is aimed at (but not limited to) novices using raster data in research, or for people who are interested in learning about a new tool to analyse geospatial data. Experience working with Javascript is beneficial but not necessary."
+  registration_link: 
+    https://www.eventbrite.co.nz/e/managing-references-with-zotero-tickets-908001907147
+- id: 067
+  title: An Introduction to Processing Remote Sensing Data With Google Earth Engine
+  description: Google Earth Engine (GEE) can be considered a one-stop-shop for your
+    raster-based geospatial needs without the hassle of pre-processing. This practical
+    workshop provides a comprehensive introduction to using GEE through the Javascript
+    based code editor and aims to provide you with the necessary knowledge to leverage
+    Earth Engine for you own geospatial research. This workshop will be delivered
+    in 3 parts focused around accessing satellite imagery, performing analysis and
+    image classification. This workshop is aimed at (but not limited to) novices using
+    raster data in research, or for people who are interested in learning about a
+    new tool to analyse geospatial data. Experience working with Javascript is beneficial
+    but not necessary.
   subtype: workshop
   speakers: [60, 12, 110]
-  themes: ["datascience"]
-  complexity: "Beginner"
-  length: "3 hours"
-  capacity: "Limited"
+  themes: [datascience]
+  complexity: Beginner
+  length: 3 hours
+  capacity: Limited
 
+  registration_link: 
+    https://www.eventbrite.co.nz/e/an-introduction-to-processing-remote-sensing-data-with-google-earth-engine-tickets-908002318377
 - id: 068
-  title: "Design 101: Presentations, Posters, and PowerPoints for Researchers"
-  description: "Why are you here? What are you presenting? Who are you presenting
-    to? No, this is not the abstract for “Existentialism with Nietzsche”, it's “Design
+  title: 'Design 101: Presentations, Posters, and PowerPoints for Researchers'
+  description: 'Why are you here? What are you presenting? Who are you presenting
+    to? No, this is not the abstract for “Existentialism with Nietzsche”, it’s “Design
     101: Presentations, Posters, and PowerPoints for Researchers”! Have you ever seen
     a research poster or a PowerPoint presentation that was truly terrible and thought,
     “Wow, I wonder how I could salvage that? I wonder how I can make research approachable
     through attractive design?” In this session, we will give you tips on what makes
-    good visual design for research. We will walk you through the do's (and some don'ts)
+    good visual design for research. We will walk you through the do’s (and some don’ts)
     and what to consider when putting together a visual research presentation, whether
-    a poster, a PowerPoint slideshow, or another type of medium."
+    a poster, a PowerPoint slideshow, or another type of medium.'
   subtype: workshop
   speakers: [61, 100]
   themes: [publish]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/design-101-presentations-posters-and-powerpoints-for-researchers-tickets-908001957297
 - id: 070
   title: Introduction to R and RStudio
-  description: R is a free and widely used programming language for data analysis and statistics. This workshop aims to introduce you to the R programming language, and RStudio - free software used to work with R. We will cover the most important parts of starting with  R including setting up your project in R, basic programming principles, reading in data, summarising and subsetting data, and creating simple but beautiful plots. This workshop is aimed at those who are new to R and programming, and covers working with data and basic plotting. For statistical analyses with R, please see Hands-on Statistical Analysis with R.
+  description: R is a free and widely used programming language for data analysis
+    and statistics. This workshop aims to introduce you to the R programming language,
+    and RStudio - free software used to work with R. We will cover the most important
+    parts of starting with  R including setting up your project in R, basic programming
+    principles, reading in data, summarising and subsetting data, and creating simple
+    but beautiful plots. This workshop is aimed at those who are new to R and programming,
+    and covers working with data and basic plotting. For statistical analyses with
+    R, please see Hands-on Statistical Analysis with R.
   subtype: workshop
   speakers: [96, 58]
   themes: [datascience]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 4 hours
   capacity: Limited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/introduction-to-r-and-rstudio-tickets-908001977357
 - id: 071
   title: Introduction to the Command Line
-  description: "The Unix shell is a powerful command-line interface and scripting language which can automate repetitive tasks. 
-    The Unix philosophy is that each tool (command) should perform just one task, and perform it well.
-    Learning the command-line is learning how to exploit these tools and compose them to perform tasks that you can find
-    no satisfactory single tool to perform. Along the way, you will learn how to choose appropriate commands
-    for your tasks and develop an understanding of how the command line can help you to save time.
-    Bash is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows.
-    This session will use the command-line bash shell to introduce you to the basics, as far as time permits, of how to:
-    <ul><li> - navigate the file-system</li>
-    <ul><li> - read, write, and modify files</li>
-    <ul><li> - parse data from and to files</li>
-    <ul><li> - create custom re-usable commands in the form of aliases, shell functions and shell scripts</li>
-    <ul><li> - automate repetitive tasks</li>"
+  description: "The Unix shell is a powerful tool that allows users to perform complex
+    tasks, such as making a series of changes to a large number of images or text
+    files, often with just a few keystrokes or lines of code. It helps users automate
+    repetitive tasks and easily combine smaller tasks into larger, more powerful workflows.
+    Use of the command line is often required to interact with High Performance Computing
+    services such as those offered by NeSI, and it is used extensively in the the
+    data manipulation workflows in some disciplines. This workshop will introduce
+    you to this powerful tool so that you can apply it to your research work. The
+    target audience is learners who have little to no prior computational experience,
+    and the instructors prioritise creating a friendly environment to build confidence
+    in research computing. Even those with some experience will benefit, as the goal
+    is to create automated and reproducible workflows. For instance, after attending
+    this workshop you will be able to navigate the filesystem, manipulate files, change
+    the behaviour of commands with options and arguments, write scripts to perform
+    actions on many files at once.\n\n "
   subtype: workshop
   speakers: [96]
   themes: [computing, datascience]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 5 hours
   capacity: Limited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/introduction-to-the-command-line-tickets-908001987387
 - id: 072
   title: What is the Julia Programming Language and is it Right for Me?
-  description: Julia is a relatively new but exciting, multi-purpose programming
-    language, with increasing adoption among scientific researchers. Interaction with
-    Julia closely resembles that of scripting languages, such as R, MATLAB and python,
-    and a growing number of Julia libraries provide similar functionality for scientific
+  description: Julia is a relatively new but exciting, multi-purpose programming language,
+    with increasing adoption among scientific researchers. Interaction with Julia
+    closely resembles that of scripting languages, such as R, MATLAB and python, and
+    a growing number of Julia libraries provide similar functionality for scientific
     computation. However, extending modifying, or creating new software in these older
     languages is complicated as all performance critical code must be written in a
     second, low-level language, like C or FORTRAN, which are more technically demanding,
@@ -295,48 +264,29 @@
   subtype: workshop
   speakers: [75]
   themes: [computing, datascience]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
-# - id: 073
-#   title: Introduction to Using Julia for Machine Learning
-#   description: A hands-on, gentle introduction to using the Julia programming language
-#     and the MLJ library for machine learning. The basic workflow for training a supervised
-#     learning model will be explained, and users will build a basic decision tree model
-#     to predict survival probabilities in a hypothetical repeat of the historic Titanic
-#     disaster. MLJ (https://alan-turing-institute.github.io/MLJ.jl/dev/) is a powerful
-#     toolbox for quickly selecting, optimizing and comparing diverse machine learning
-#     models (as opposed to to frameworks focused on, say, deep learning). Advanced
-#     features include the ability to create model pipelines and to combine multiple
-#     model predictions in flexible ways.This is a tutorial on how to use the MLJ software,
-#     and not a course on machine learning itself.
-#   subtype: workshop
-#   speakers: [75, 12]
-#   themes: [computing, datascience]
-#   complexity: Intermediate
-#   length: 2 hours
-#   capacity: Limited
-#   registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-908001997417
 - id: 074
   title: Getting Started With the Julia Programming Language
-  description: A two-hour introductory workshop for newcomers to Julia, targeted
+  description: 'A two-hour introductory workshop for newcomers to Julia, targeted
     at users from some technical domain, such as science, economics or engineering.
-    Users will learn how to interact with Julia's powerful command-line interface
-    (REPL) as well as through Pluto notebooks. They will learn how to carry out basic
-    mathematical and statistical operations; how to create custom workflows by learning
-    about functions and basic iteration; and how to perform basic data manipulation
-    and visualization.
+    The primary focus will be helping users interact with Julia through its powerful
+    command-line interface (REPL) as well as through Pluto notebooks, although other
+    options will be discussed.  Further topics will be selected from the following,
+    according to time and participant interest: Carrying out basic mathematical and
+    statistical operations; Creating custom workflows using functions and basic iteration;
+    Performing basic data manipulation and visualization; Suggestions for self-study. '
   subtype: workshop
   speakers: [75]
   themes: [computing, datascience]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 3 hours
   capacity: Limited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/getting-started-with-the-julia-programming-language-tickets-908002007447
 - id: 075
   title: NVivo Showcase
   description: There's a lot more to NVivo than initially meets the eye! In this webinar
@@ -347,11 +297,10 @@
   subtype: workshop
   speakers: [36, 114]
   themes: [qual, datascience]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link: 
-
+  registration_link: https://www.eventbrite.co.nz/e/nvivo-showcase-tickets-908002027507
 - id: 076
   title: Research Computing with the Rust Programming Language
   description: What is Rust, and how might you use it for research? Tim McNamara,
@@ -361,153 +310,94 @@
   subtype: workshop
   speakers: [74]
   themes: [datascience]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 2 hours
   capacity: Unlimited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/research-computing-with-the-rust-programming-language-tickets-908002037537
 - id: 077
   title: Python for Image Manipulation and Repeatable Research Pipelines
-  description: You know how to crop an image, but what if you need to crop 65000
-    images in one go? This applied tutorial will introduce how the Python programming
-    language can be used to create powerful, scalable and repeatable workflows, using
-    image manipulation as an example. The session will include a live demo with commentary,
+  description: You know how to crop an image, but what if you need to crop 65000 images
+    in one go? This applied tutorial will introduce how the Python programming language
+    can be used to create powerful, scalable and repeatable workflows, using image
+    manipulation as an example. The session will include a live demo with commentary,
     project showcase and questions and answers. Having an entry level understanding
-    of Python or a similar programming language will be helpful, but not essential. 
+    of Python or a similar programming language will be helpful, but not essential.
   subtype: workshop
   speakers: [53]
   themes: [computing, datascience]
   complexity: Beginner/Intermediate
   length: 2 hours
   capacity: 1Limited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/python-for-image-manipulation-and-repeatable-research-pipelines-tickets-908002047567
 - id: 078
   title: Introduction to High Performance Computing with NeSI
-  description: A hands-on introduction to high performance computing (HPC) on a NeSI
+  description: "A hands-on introduction to high performance computing (HPC) on a NeSI
     supercomputer. Members of the NeSI training team will guide attendees through
     HPC fundamentals including, software environment modules, scheduler use, profiling
     and scaling. We recommend you attend 'Introduction to the Command Line' or are
-    already familiar with navigating a command line linux environment. Requirements -
-    NeSI account, details provided after registration and closer to the event.
+    already familiar with navigating a command line linux environment. Requirements:
+    NeSI account, details provided after registration and closer to the event."
   subtype: workshop
   speakers: [54, 101]
   themes: [computing]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 3 hours
   capacity: Limited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/introduction-to-high-performance-computing-with-nesi-tickets-908002067627
 - id: 079
   title: Keeping Your Spreadsheets Tidy
-  description: Good data organisation is the foundation of any research project.
-    We often organise data in spreadsheets in ways that we as humans want to work with it, 
-    but computers require data to be organised in particular ways. This workshop introduces 
-    'tidy data' principles - a set of recommendations for keeping your projects and spreadsheets 
-    clean and organised. This is especially important if you're planning to analyse your 
-    data with a programming language like R or Python, otherwise you might need to spend hours 
-    and hours tidying up or reformatting your data before you can start your analyses.
+  description: Good data organisation is the foundation of any research project. We
+    often organise data in spreadsheets in ways that we as humans want to work with
+    it, but computers require data to be organised in particular ways. This workshop
+    introduces 'tidy data' principles - a set of recommendations for keeping your
+    projects and spreadsheets clean and organised. This is especially important if
+    you're planning to analyse your data with a programming language like R or Python,
+    otherwise you might need to spend hours and hours tidying up or reformatting your
+    data before you can start your analyses.
   subtype: workshop
   speakers: [111]
   themes: [datascience]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
+  registration_link: 
+    https://www.eventbrite.co.nz/e/keeping-your-spreadsheets-tidy-tickets-908002077657
 - id: 080
-  title: "Is your computer struggling to analyse your research data?"
-  description: "Does your computer take hours to run an analysis or produce visualisation? Would it help to process data or run analysis elsewhere and keep your computer for day-to-day work? Do you need to collaborate to process or analyse research data?
-  Join us to hear about different research computational options. We'll discuss what virtual machines and high performance computers are, how these can be accessed and how they are useful to researchers."
+  title: Is your computer struggling to analyse your research data?
+  description: "Does your computer take hours to run an analysis or produce visualisation?
+    Would it help to process data or run analysis elsewhere and keep your computer
+    for day-to-day work? Do you need to collaborate to process or analyse research
+    data?\nJoin us to hear about different research computational options. We'll discuss
+    what virtual machines and high performance computers are, how these can be accessed
+    and how they are useful to researchers."
   subtype: workshop
   speakers: [17]
   themes: [computing]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
-# -
-#   id: 081 
-#   title: "Data and Storytelling: Strategies for Compelling Visual Narratives"
-#   description: "Why you should care about storytelling and why plots, charts, infographics and visualisations are just the beginning. Data scientist and visual artist Robert Carter looks at ways to bring your data to life. <a href=\"https://www.eventbrite.com/e/data-and-storytelling-strategies-for-compelling-visual-narratives-tickets-428184741087\">Book here</a>"
-#   subtype: workshop
-#   speakers: [78]
-#   themes: ["datascience"]
-#   complexity: "Beginner"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-
-# -
-#   id: 082 
-#   title: "Stop Paying for Free Software: Creating a LaTeX Pipeline for Collaboration "
-#   description: "Overleaf is a great tool to get a LaTeX project up and running, but has many limitations, including paywalling collaboration features. We'll empower you to create your own local setup for writing LaTeX documents so that you can fine tune your environment to suit your needs. In the first hour, you will learn to create a dockerized LaTeX set up, keep it tidy, and automated. The second hour will give you the confidence to create your own customisations and content will be driven by participant interest. This session is for you if you're a LaTeX user and need to collaborate with others, want to keep an up-to-date electronic notebook, or want the freedom of creating a distraction-free environment to focus on your writing. Participants should have attended an introduction to the command line. Some Python background would be helpful, but not required. A LaTeX project template will be provided. <a href=\"\">Join waitlist</a>"
-#   subtype: workshop
-#   speakers: [55, 31]
-#   themes: ["publish"]
-#   complexity: "Advanced"
-#   length: "2 hours"
-#   capacity: "Limited"
-
-# - 
-#   id: 083
-#   title: "Tidyverse and Beyond: Key Tips for Existing R Users"
-#   description: The tidyverse has changed R programming for data scientists tremendously. 
-#     Cleaning and analysing rectangular data, loops, and parallelization can now be
-#     performed through a number of convenient functions. This session offers some recipes
-#     and translations for existing R users who want to include more of the tidyverse
-#     in their everyday data analysis tasks. 
-#   subtype: workshop
-#   speakers: [85]
-#   themes: [qual, datascience]
-#   complexity: Intermediate
-#   length: 1 hour
-#   capacity: Unlimited
-#   registration_link:
-
-- 
-  id: 085
+  registration_link: 
+    https://www.eventbrite.co.nz/e/is-your-computer-struggling-to-analyse-your-research-data-tickets-908002388587
+- id: 085
   title: Introduction to Qualtrics for Research Surveys
   description: This session will introduce you to the Qualtrics survey tool, with
     a particular focus on how it can be used to help your research. Qualtrics is an
     easy to use, yet powerful tool that allows you to create and distribute fully
-    customisable surveys for a broad range of purposes. The session will traduce you
+    customisable surveys for a broad range of purposes. The session will traduce you
     to setting up a survey, options for distribution, and options for analysing your
-    data. 
+    data.
   subtype: workshop
   speakers: [114]
   themes: [qual]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
   registration_link: 
-
-# -
-#   id: 086 
-#   title: "High Performance Computations with Multithreading"
-#   description: "A C-based workshop on using multiple threads to improve performance of your code. In shared-memory parallelism applications achieve parallelism by executing more than one thread at a time across cores within one node. Each of the threads see and manipulate the same memory that the initial process allocated. The workshop explains how parallelism is achieved in HPC applications, what considerations are to be given to the code, what are the benefits and drawbacks of multithreading. <a href=\"https://www.eventbrite.com/e/high-performance-computations-with-multithreading-tickets-427699850767\">Book here</a>"
-#   subtype: workshop
-#   speakers: [77]
-#   themes: ["datascience"]
-#   complexity: "Intermediate"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: ""
-
-# -
-#   id: 087 
-#   title: "Parallel Programming with MPI"
-#   description: "A C-based workshop targeting distributed programming in high performance environment. In distributed-memory parallelism an application achieves parallelism by running multiple instances of itself across multiple nodes to solve the problem. Each instance is allocated its own chunk of virtual memory and communicates to other instances via a message passing interface such as MPI. Distributed memory type jobs have many advantages, among which are more cores to tackle the problem and a far greater amount of memory. The workshop explains details of MPI environment, types of operations MPI employs and considerations given to various implementation models. <a href=\"https://www.eventbrite.com/e/parallel-programming-with-mpi-tickets-427700532807\">Book here</a>"
-#   subtype: workshop
-#   speakers: [77]
-#   themes: ["datascience"]
-#   complexity: "Intermediate"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: ""
-
-- 
-  id: 088
+    https://www.eventbrite.co.nz/e/introduction-to-qualtrics-for-research-surveys-tickets-908002087687
+- id: 088
   title: How to Plan Your Research for Real World Impact
   description: Economic, societal and environmental impact, or the 'non-academic'
     impact of research, is becoming an increasingly important part of the research
@@ -517,30 +407,28 @@
     into your research planning.
   subtype: workshop
   speakers: [129]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
   themes: [publish]
-  registration_link:
-
-- 
-  id: 089
+  registration_link: 
+    https://www.eventbrite.co.nz/e/how-to-plan-your-research-for-real-world-impact-tickets-908002097717
+- id: 089
   title: Digital Storytelling with KnightLab
-  description: Interested in learning how to use a suite of open-source tools to
-    create interactive narratives and visualisations for your research? This session
-    provides an overview of a range of free, easy-to-use tools from KnightLab useful
-    for time or location-based narratives. Learn the basics and see how easy and fun
-    it is to create a compelling StoryMap.
+  description: Interested in learning how to use a suite of open-source tools to create
+    interactive narratives and visualisations for your research? This session provides
+    an overview of a range of free, easy-to-use tools from KnightLab useful for time
+    or location-based narratives. Learn the basics and see how easy and fun it is
+    to create a compelling StoryMap.
   subtype: workshop
   speakers: [38]
   themes: [publish]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 090
+  registration_link: 
+    https://www.eventbrite.co.nz/e/digital-storytelling-with-knightlab-tickets-908002107747
+- id: 090
   title: ResBaz Drop-In Clinic (HackyHour)
   description: Open drop-in session to help with troubleshooting, getting help with
     installing session requirements, and any ResBaz questions. No registration required,
@@ -549,15 +437,14 @@
   subtype: workshop
   speakers: [12, 58]
   themes: [computing, datascience]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 091
+  registration_link: 
+    https://www.eventbrite.co.nz/e/resbaz-drop-in-clinic-hackyhour-tickets-908002117777
+- id: 091
   title: Visual Abstracts Create an Attention Hook to Your Published Article
-  description: Visual abstracts are a 'movie poster' of a journal article displayed
+  description: "Visual abstracts are a 'movie poster' of a journal article displayed
     on social media that hooks a viewer's attention to read your article. Like a 3-minute
     thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood
     in a 30-second glance. Designed with icons and keywords, they are simpler than
@@ -565,100 +452,33 @@
     tool for yourself and a valuable communication tool to engage others. The first
     half of the session is an interactive exploration of visual abstracts to inspire
     your imagination. The second half is a guided workshop where together we build
-    your creative confidence by making a visual abstract.
+    your creative confidence by making a visual abstract. "
   subtype: workshop
   speakers: [95]
   themes: [publish]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 2 hours
   capacity: Limited
-  registration_link:
-
-- 
-  id: 092
+  registration_link: 
+    https://www.eventbrite.co.nz/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-908002137837
+- id: 092
   title: What is NeSI? New Zealand's National High Performance Computers
-  description: The computational requirements of high impact research seems to grow
+  description: "The computational requirements of high impact research seems to grow
     further beyond what individual groups and institutions can reasonably provide
     every year. New Zealand eScience Infrastructure (NeSI) seeks to help meet these
-    requirements for the New Zealand research community.\n\nIn this talk we will go
-    over the core services relating to high performance computing (HPC) that NeSI
+    requirements for the New Zealand research community.\n \n In this talk we will
+    go over the core services relating to high performance computing (HPC) that NeSI
     is able to provide, the reason why HPC might be suitable for your work, and how
-    your research team can gain access to these resources.
+    your research team can gain access to these resources."
   subtype: workshop
   speakers: [101, 54]
   themes: [computing, datascience]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
-# -
-#   id: 093 
-#   title: "Data Security: Addressing Risks in Postgraduate Research"
-#   description: "Research data has become a primary target for cyberattacks. Recent reports found that attacks on educational institutions are growing faster than any other sector. It's been clear how vulnerable — and desirable — university research data is to bad actors, emphasizing that having properly secured research will be critical for warding off current and future attacks.And cybersecurity threats to research universities won't stop as Universities will remain repositories of invaluable proprietary and personal data, often tied to corporations and government organizations, that spans medical, military, financial and emerging technologies, and more. A data risk assessment will be the primary step to overcome some of the most common roadblocks preventing universities from securing research data. This one-hour presentation provides guidelines to performing a data risk assessment. A data risk assessment helps researchers gain visibility into all the potential threat vectors that can lead to security or privacy violations, and the awareness of which would help safeguard valuable research. <a href=\"https://www.eventbrite.com/e/data-security-addressing-risks-in-postgraduate-research-tickets-438725538897\">Book here</a>"
-#   subtype: workshop
-#   speakers: [103]
-#   complexity: "Beginner"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: ""
-
-# -
-#   id: 094 
-#   title: "Safeguarding Your Research: Cybersecurity Practices for Researchers"
-#   description: "Awareness, accountability, and responsibility are the key tenets of cybersecurity. This one-hour presentation introduces several aspects of cybersecurity with a particular focus to safeguarding post graduate research. It covers cybersecurity practices for researchers including the need for safeguarding your research, what the risks are and who they are from, what parts of your research may be vulnerable, what steps you can take to protect your research, how you can protect your research during travel. This presentation also provides resources, case studies and scenarios. <a href=\"https://www.eventbrite.com/e/safeguarding-your-research-cybersecurity-practices-for-researchers-tickets-438726963157\">Book here</a>"
-#   subtype: workshop
-#   speakers: [103]
-#   complexity: "Beginner"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: ""
-
-# -
-#   id: 095 
-#   title: "Applications of Computer Vision in Research"
-#   description: "This session revolves around exploring the applications of Deep Learning and computer vision in research. We will look at different research domains and the practical applications of computer vision deep learning models. Some of the areas we will look at during this session will be Optical Character Recognition, Image classification and segmentation for biomedical sciences and Archaeology. We will also briefly explore the applications of Deep Learning models in other research domains such as prediction/forecasting and anomaly detection. <a href=\"\">Book here</a>"
-#   subtype: workshop
-#   speakers: [102]
-#   themes: ["datascience"]
-#   complexity: "Beginner"
-#   length: "1 hour"
-#   capacity: "Unlimited"
-#   recorded: ""
-
-# -
-#   id: 096 
-#   title: "Bash for High Performance Computing"
-#   description: "A precursor to 'Introduction to High Performance Computing with NeSI' that will introduce the basics of bash command line use required for using the NeSI high performance computers. We will cover accessing the cluster, some high performance computing concepts and the bare essentials of navigating a command line based environment. If you would like to learn more about bash, but don't plan on attending 'Introduction to High Performance Computing with NeSI' please see 'Introduction to command line'. <a href=\"https://www.eventbrite.com/e/bash-for-high-performance-computing-tickets-438794475087\">Book here</a>"
-#   subtype: workshop
-#   speakers: [54]
-#   themes: ["computing", "datascience"]
-#   complexity: "Beginner"
-#   length: "2 hours"
-#   capacity: "Unlimited"
-#   recorded: ""
-
-# - id: 097
-#   title: Using the Command Line to Find, Replace, and Manipulate Data
-#   description: A practical introduction to some powerful command line utilities for
-#     efficient searching, parsing and manipulating of files and text. We will cover
-#     some of the workhorse commands in the UNIX toolbox, such as find, grep, awk, and
-#     sed. These are simple to use for simple applications, but provide powerful ways
-#     to perform complex actions.\nWith grep, we introduce regular expressions which
-#     are a widely-used language for specifying patterns in text.\nThis workshop follows
-#     on from \"Introduction to the command line\" session, so it is assumed you will
-#     have either participated in this session or already have an understanding of the
-#     concepts covered in it.
-#   subtype: workshop
-#   speakers: [21]
-#   themes: [computing, datascience]
-#   complexity: Intermediate
-#   length: 2 hours
-#   capacity: Limited
-#   registration_link:
-
-- 
-  id: 098
+  registration_link: 
+    https://www.eventbrite.co.nz/e/what-is-nesi-new-zealands-national-high-performance-computers-tickets-908002057597
+- id: 098
   title: Research Collaboration and Reproducibility with Google Colab
   description: Finding it challenging to collaborate with other researchers? Do you
     want to make your research as accessible and reproducible as possible? Google
@@ -674,28 +494,15 @@
   subtype: workshop
   speakers: [104, 22]
   themes: [computing, datascience]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
-# -
-#   id: 099 
-#   title: "Blender for Biochemistry: 3D Rendering Software for Science Communication"
-#   description: "Come along and learn about utilising free open source 3D rendering software (Blender) to make stunning images. This presentation will cover a very basic introduction to Blender and navigating a 3d space, importing protein models, setting up lighting and material shading and rendering images out for publication. Requirements if you want to follow along: Blender (3.3) preinstalled. A mouse with 3 buttons is preferable but not necessary. <a href=\"\">Book here</a>"
-#   subtype: workshop
-#   speakers: [107]
-#   themes: ["datascience"]
-#   complexity: "Beginner"
-#   length: ""
-#   capacity: ""
-#   recorded: ""
-
-- 
-  id: 100
+  registration_link: 
+    https://www.eventbrite.co.nz/e/research-collaboration-and-reproducibility-with-google-colab-tickets-908002147867
+- id: 100
   title: Doing Even More with OpenRefine
   description: You know how to use Open Refine to clean up messy data using facets
-    and clustering, and you're curious about some of its  powerful features This demonstration
+    and clustering, and you’re curious about some of its powerful features This demonstration
     of using transformations will include how to use snippets of reusable code to
     do things like select part of a sentence, swap author first and last names around,
     and use Python and Regex in OR. We will also look at using OR to query web based
@@ -704,165 +511,82 @@
   speakers: [108]
   themes: [qual, datascience]
   complexity: Intermediate
-  length: 1 hour
+  length: 1 hours
   capacity: Unlimited
-  registration_link:
-
--
-  id: 101 
-  title: "Tikanga, Māori Research Ethics and Māori Data Sovereignty"
-  description: "All researchers are welcome to listen and contribute to this korero (discussion) about Tikanga, Māori Research Ethics  and Māori Data Sovereignty within the context of undertaking research in Aotearoa. Our presenters will provide an introduction to the concepts and issues and why they are important to researchers. Attendees will be invited to respectfully ask questions and share their successful approaches to weaving Tikanga and Māori Data Sovereignty principles into how they conduct research."
+  registration_link: 
+    https://www.eventbrite.co.nz/e/doing-even-more-with-openrefine-tickets-908002157897
+- id: 101
+  title: Tikanga, Māori Research Ethics and Māori Data Sovereignty
+  description: All researchers are welcome to listen and contribute to this korero
+    (discussion) about Tikanga, Māori Research Ethics and Māori Data Sovereignty within
+    the context of undertaking research in Aotearoa. Our presenters will provide an
+    introduction to the concepts and issues and why they are important to researchers.
+    Attendees will be invited to respectfully ask questions and share their successful
+    approaches to weaving Tikanga and Māori Data Sovereignty principles into how they
+    conduct research.
   subtype: workshop
   speakers: [109, 112, 137]
   themes: [qual, publishing]
-  complexity: "Beginner"
-  length: "1 hour"
-  capacity: "Unlimited"
-  recorded: "No"
+  complexity: Beginner
+  length: 1 hours
+  capacity: Unlimited
+  recorded: No
 
-- 
-  id: 102
+  registration_link: 
+    https://www.eventbrite.co.nz/e/tikanga-maori-research-ethics-and-maori-data-sovereignty-tickets-908002398617
+- id: 102
   title: Authoring Collaborative Research Projects in Quarto
-  description: Learn how to develop reproducible and sharable workflows using Quarto and Git. 
-    We will take you through how to host collaborative research projects as a formatted (and 
-    cool looking) HTML on GitHub. With some easy-to-learn version control and markdown syntax, 
-    research outputs can be shared as a live link that is consitent with your latest analyses. 
-    One benefit of Quarto is flexibility, accepting multiple programming languages (e.g. R, 
-    Python, Julia...) and output formats (e.g. docx, pdf, html...). 
+  description: 'Learn how to develop reproducible and sharable workflows using Quarto
+    and Git. We will take you through how to host collaborative research projects
+    as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version
+    control and markdown syntax, research outputs can be shared as a live link that
+    is consitent with your latest analyses. One benefit of Quarto is flexibility,
+    accepting multiple programming languages (e.g. R, Python, Julia...) and output
+    formats (e.g. docx, pdf, html...). '
   subtype: workshop
   speakers: [66]
   complexity: Advanced
   length: 2 hours
   capacity: Limited
   themes: [publish]
-  registration_link:
-
-# - 
-#   id: 103
-#   title: Intro to Natural Language Processing using Python
-#   description: What do Lorde, Seinfeld and the Teenage Mutant Ninja Turtles have in
-#     common? Properties of all three can be represented as text, whether that be song
-#     lyrics, episode scripts, or theme songs. Text allows for a unified representation
-#     of data, and researchers across different disciplines and methods all draw from
-#     text in different ways. Knowing even just a few basic computational linguistic
-#     methods can increase your efficiency as a researcher and open new avenues for
-#     research using your data. This short, introductory workshop will demonstrate how
-#     to perform basic operations on text, such as counting the frequency of different
-#     word types, computing measures of lexical diversity, and performing more complex
-#     operations such as sentiment analysis. No prior knowledge of programming is assumed.
-#   subtype: workshop
-#   speakers: [113]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: Unlimited
-#   themes: [computing, datascience]
-#   registration_link: 
-
-# - 
-#   id: 105
-#   title: Modern Data Stack in a Box with DuckDB and dbt
-#   description: Are you interested in expanding your data engineering skills? Do you
-#     have your eyes set on future industry jobs? Whereas dbt is currently well in demand,
-#     Duckdb is a newer tool that will be rising in significance in the coming years. The
-#     idea of a modern data stack in a box is to make you productive using best data
-#     engineering practices minus the high cloud costs. DuckDB is an in-process SQL
-#     management system designed for analytics. It is combined with dbt which acts as
-#     the transformation layer for your data pipelines, letting you create robust systems
-#     for analytics and machine learning. Why use a single machine and not the cloud?
-#     As a starting point for data engineering pipelines, this allows you to have a
-#     self-contained system and create end-to-end pipelines that can be deployed with
-#     ease to other systems. You can also have the option to take your code and deploy
-#     it to other dbt adapters. This makes dbt a core part of the modern data stack.
-#     Come and learn more about both DuckDB and dbt in this workshop.
-#   subtype: workshop
-#   speakers: [115]
-#   complexity: Intermediate
-#   length: 1 hour
-#   capacity: Unlimited
-#   themes: [computing, datascience]
-#   registration_link:
-
-# - 
-#   id: 107
-#   title: "Using R for Statistical Analysis: A case study"
-#   description: This session will demonstrate the process of statistical analysis in
-#     R. We will work through an example from start to finish, including a discussion
-#     about how to select an appropriate statistical analysis, implement it in R, and
-#     present and interpret the results.
-#   subtype: workshop
-#   speakers: [116]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: Unlimited
-#   themes: [computing, datascience]
-#   registration_link:
-
-- 
-  id: 108
+  registration_link: 
+    https://www.eventbrite.co.nz/e/authoring-collaborative-research-projects-in-quarto-tickets-908002177957
+- id: 108
   title: Hands-on Statistical Analysis with R
-  description: A hands-on workshop where we will explore some of the built-in demo data sets available in R. We will apply commonly used statistical analyses such as linear regression, independent-sample t-tests and chi-squared tests, discussing the output and how we might present the results for publication. This workshop is aimed at those who are wanting to learn how to do statistical tests in R. If you’d like to follow along, you need some basic R knowledge already. For an introduction to R for absolute beginners please see Introduction to R & RStudio. 
+  description: 'A hands-on workshop where we will explore some of the built-in demo
+    data sets available in R. We will apply commonly used statistical analyses such
+    as linear regression, independent-sample t-tests and chi-squared tests, discussing
+    the output and how we might present the results for publication. This workshop
+    is aimed at those who are wanting to learn how to do statistical tests in R. If
+    you’d like to follow along, you need some basic R knowledge already. For an introduction
+    to R for absolute beginners please see Introduction to R & RStudio. '
   subtype: workshop
   speakers: [116]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 2 hours
   capacity: Limited
   themes: [datascience]
-  registration_link:
-
-# - 
-#   id: 109
-#   title: Introduction to Creating Graphs or Plots for Publications
-#   description: Communicating data visually is an increasingly important skill that
-#     all researchers are expected to have. This session provides an introduction to
-#     basic principles of data visualisation including colour theory, chart types, and
-#     effective labelling. Understanding these concepts will enable you to create clear,
-#     informative, publication-quality graphs and plots. A variety of examples will
-#     be demonstrated based on The Grammar of Graphics in R. We will also cover best
-#     practices for formatting and styling graphs, as well as techniques for optimising
-#     graphs for different audiences and publications. By the end of the session, participants
-#     will understand how to effectively communicate their data and insights to a wide
-#     range of audiences.
-#   subtype: workshop
-#   speakers: [96, 106]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: ''
-#   themes: [publish]
-#   registration_link:
-
-# - 
-#   id: 110
-#   title: Collaborating on Documents and Tracking Versions
-#   description: This workshop aims to provide participants with insights and practical
-#     techniques for effectively collaborating on written documents and code using version
-#     control systems. Versioning is a critical aspect of successful collaboration,
-#     enabling seamless tracking of changes, streamlined teamwork, and improved project
-#     management. This webinar will explore the concepts, tools, and best practices
-#     that can empower individuals and teams to collaborate efficiently and maintain
-#     the integrity of their work.
-#   subtype: workshop
-#   speakers: [96]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: ''
-#   themes: [publish]
-#   registration_link:
-
-- 
-  id: 111
+  registration_link: 
+    https://www.eventbrite.co.nz/e/hands-on-statistical-analysis-with-r-tickets-908002187987
+- id: 111
   title: Introduction to the Python Programming Language
-  description: Python is a high-level general purpose programming language that is popular for working with research data owing to an active developer base and wide range of packages that can be leveraged for research.  This comprehensive hands-on session will cover the fundamental building blocks of working with Python to analyse and visualize data. Together we'll interactively learn how to use Python to generate a plot from a csv file, getting to grips with the core functionality of the language along the way.  
+  description: "Python is a high-level general purpose programming language that is
+    popular for working with research data owing to an active developer base and wide
+    range of packages that can be leveraged for research.  This comprehensive hands-on
+    session will cover the fundamental building blocks of working with Python to analyse
+    and visualize data. Together we'll interactively learn how to use Python to generate
+    a plot from a csv file, getting to grips with the core functionality of the language
+    along the way. "
   subtype: workshop
   speakers: [31, 107]
-  complexity: "Beginner"
+  complexity: Beginner
   length: 4 hours
   capacity: Limited
   themes: [datascience]
-  registration_link:
-
-- 
-  id: 112
-  title: "Latex 101: An Introduction to Formatting Documents With Code"
+  registration_link: 
+    https://www.eventbrite.co.nz/e/introduction-to-programming-with-python-tickets-908002198017
+- id: 112
+  title: 'Latex 101: An Introduction to Formatting Documents With Code'
   description: This session will introduce attendees to LaTeX, a popular typesetting
     system and programming language used to create professional-looking documents.
     We will cover the basics of LaTeX, explore how it differs from Microsoft Word,
@@ -872,15 +596,14 @@
     your documents.
   subtype: workshop
   speakers: [31]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
   themes: [publish]
-  registration_link:
-
-- 
-  id: 113
-  title: "Collaborating with Dropbox: Tips and Tricks"
+  registration_link: 
+    https://www.eventbrite.co.nz/e/latex-101-an-introduction-to-formatting-documents-with-code-tickets-908002208047
+- id: 113
+  title: 'Collaborating with Dropbox: Tips and Tricks'
   description: Led by the experts from Dropbox, this seminar is designed to help you
     make use of key features of this collaborative platform. Hosts will provide practical
     insights into how to effectively utilise Dropbox to improve collaboration, including
@@ -890,271 +613,220 @@
     how to use them to streamline workflows.
   subtype: workshop
   speakers: [14, 19]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Unlimited
   themes: [publish]
-  registration_link:
-
-# - 
-#   id: 114
-#   title: LaTeX, Or How I Learned To Stop Worrying And Love Plain Text
-#   description: This session expands upon "LaTeX 101" by introducing more features
-#     such as mathematical formulas, tables, figures, and bibliographies. These are
-#     the features which make LaTeX a popular, time-saving option for producing sophisticated
-#     scientific documents, and for having complete control over the formatting of each
-#     element. We will also touch on how to use LaTeX to create slides for presentations.
-#     This session is aimed at participants who want to improve their document formatting
-#     skills, particularly for academic and technical writing.
-#   subtype: workshop
-#   speakers: [27]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   capacity: Limited
-#   themes: [publish]
-#   registration_link:
-
-# - 
-#   id: 115
-#   title: Introduction to Web Mapping with Leaflet
-#   description: This workshop will introduce participants to the basics of creating
-#     a simple web-based map using the open-source JavaScript library, Leaflet. Participants
-#     will learn how to create an interactive map with custom markers, popups, and interactive
-#     layers. By the end of the workshop, participants will have the skills to create
-#     and publish their own simple web-based maps. Some experience with HTML, CSS, and
-#     JavaScript would be useful, but is not necessary.
-#   subtype: workshop
-#   speakers: [30, 12]
-#   complexity: "Beginner"
-#   length: 2 hours
-#   capacity: Unlimited
-#   themes: [datascience]
-#   registration_link:
-
-- 
-  id: 116
+  registration_link: 
+    https://www.eventbrite.co.nz/e/collaborating-with-dropbox-tips-and-tricks-tickets-908002218077
+- id: 116
   title: Researcher Skills And Career Planning For Academia And Beyond
   description: Learn about the different capabilities and skills needed for a successful
     career in academia, tips for planning your career in academia, and what transferable
     skills academics possess which are relevant outside of academia.
   subtype: workshop
   speakers: [122]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   capacity: Limited
   themes: [publish]
-  registration_link:
-
-# - 
-#   id: 117
-#   title: Introduction to Quarto
-#   description: This workshop aims to introduce Quarto, a powerful tool for efficient
-#     document creation. Quarto leverages the simplicity of Markdown and the flexibility
-#     of modern web technologies to streamline the process of generating dynamic and
-#     interactive documents. In this tutorial, we will explore the key features of Quarto,
-#     including its seamless integration with R and Python, support for data visualisations,
-#     and collaborative authoring capabilities. By the end, you will have a solid understanding
-#     of Quarto's capabilities and be equipped to create stunning, data-driven documents
-#     effortlessly. Join us on this tutorial journey and unlock the potential of Quarto
-#     for your document workflow.
-#   subtype: workshop
-#   speakers: [66]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   themes: [publish]
-#   capacity: Unlimited
-#   registration_link:
-
-# - 
-#   id: 118
-#   title: "Chat GPT and AI Tools: Their impact on research"
-#   description: Are you a researcher looking for ways to improve your productivity
-#     and efficiency? If so, then you need to check out AI tools for research. AI tools
-#     can help you with everything from finding relevant information to writing code.
-#     In this presentation, we will explore the role of AI in research and highlight
-#     various tools available to researchers, such as ChatGPT and GitHub Copilot. ChatGPT
-#     is a natural language processing tool with applications in many fields of science.
-#     GitHub Copilot is an AI pair programmer that offers autocomplete-style suggestions
-#     as you code. We will talk about how these tools were developed and how they work.
-#     There will also be a demonstration of some real-world applications of these tools.
-#     Finally, there will be time to discuss ethical considerations, questions, and
-#     answers. This presentation is for researchers of all levels, from beginners to
-#     experts. Whether you are just starting your research career or a seasoned veteran,
-#     you will learn something new from this presentation. So what are you waiting for?
-#     Register for this presentation today and learn how AI can help you take your research
-#     to the next level.
-#   subtype: workshop
-#   speakers: [118, 104]
-#   complexity: "Beginner"
-#   length: 2 hours
-#   themes: [datascience]
-#   capacity: Limited
-#   registration_link:
-
-# - 
-#   id: 119
-#   title: Cybersecurity for Researchers - Would Your Research Survive a Cyberattack?
-#   description: Researchers are increasingly utilising digital tools and technologies to make research bigger, faster, more efficient or tackle problems in new ways. However, digital tools come with risks - web applications for collecting data, virtual machines for running analysis, and sharing research data online can lead to your data being lost or held to ransom. How would your research project cope with a significant delay as data and systems were recovered? Join this session to hear about the risks and our advice to avoid or address frequently seen vulnerabilities.
-#   subtype: workshop
-#   speakers: [123]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   themes: []
-#   capacity: Unlimited
-#   registration_link:
-
-# - 
-#   id: 120
-#   title: 7 Strategies to Help Keep Your Research Safe
-#   description: UoA Security Office provides 7 strategies with actionable steps to help keep your research safe and secure. Attendess will learn how to include security through the entire data lifecycle in partnership with university services. We will provide some practical demos and answers to your questions on how to enable security within research.
-#   subtype: workshop
-#   speakers: [124, 128]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   themes: []
-#   capacity: Unlimited
-#   registration_link:
-
-# - 
-#   id: 121
-#   title: "When Science Meets the Headlines: Media Engagement for Research Impact"
-#   description: Have you got a big paper coming out that you think is newsworthy? The <a href=\"https://www.sciencemediacentre.co.nz\">Science Media Centre</a> can help you get journalists' attention. This session will introduce you to <a href=\"https://www.scimex.org\">Scimex</a> - our online portal for promoting embargoed research to registered journalists - alongside our other tools and resources for media engagement. You will learn some tips and tricks on what to do when a journalist calls, and how to ensure your expertise has impact.
-#   subtype: workshop
-#   speakers: [127]
-#   complexity: "Beginner"
-#   length: 1 hour
-#   themes: [publish]
-#   capacity: Unlimited
-#   registration_link:
-
-- 
-  id: 122
-  title: "Getting data from the web: An introduction to webscraping and APIs"
-  description: There are all kinds of useful sources of research data on the web, such as 
-    tables on webpages, or records available only via APIs (Application Programming Interfaces). 
-    Extracting or assembling this data into a useable form by hand is often prohibitively time 
-    consuming or difficult. However, if you know how to scrape data or use an API it opens up 
-    all sorts of interesting data sources for you to include in your research. In this practical, 
-    follow-along workshop, we will start by introducing some important considerations when 
-    working with data from the web (ethics, terms of use, copyright). We'll then explore how 
-    data can be scraped from webpages, retrieved from APIs, and processed into a tabular form 
-    ready for analysis. Participants are expected to have a novice-level understanding of Python.
+  registration_link: 
+    https://www.eventbrite.co.nz/e/researcher-skills-and-career-planning-for-academia-and-beyond-tickets-908002228107
+- id: 122
+  title: 'Getting data from the web: An introduction to webscraping and APIs'
+  description: 'There are all kinds of useful sources of research data on the web,
+    such as tables on webpages, or records available only via APIs (Application Programming
+    Interfaces). Extracting or assembling this data into a useable form by hand is
+    often prohibitively time consuming or difficult. However, if you know how to scrape
+    data or use an API it opens up all sorts of interesting data sources for you to
+    include in your research. In this practical, follow-along workshop, we will start
+    by introducing some important considerations when working with data from the web
+    (ethics, terms of use, copyright). We’ll then explore how data can be scraped
+    from webpages, retrieved from APIs, and processed into a tabular form ready for
+    analysis. Participants are expected to have a novice-level understanding of Python. '
   subtype: workshop
   speakers: [110]
-  complexity: "Intermediate"
-  length: 2 hour
+  complexity: Intermediate
+  length: 2 hours
   themes: [datascience]
   capacity: Limited
-  registration_link:
-
-- 
-  id: 123
-  title: "How to present data & results on a self-updating website, using GitHub Actions"
-  description: This workshop describes a workflow for creating a self-updating website, hosted 
-    on GitHub Pages and powered by GitHub Actions, both of which are free services (with some 
-    limitations). These kinds of websites allow you to build up a dataset over time and display 
-    that data as a dynamic 'dashboard' which automatically updates with new data. Participants 
-    will benefit from a basic understanding of web scraping, either by attending "Getting data 
-    from the web", or through prior knowledge. This 2 hour taster session will introduce and 
-    link important concepts, offer a chance to ask questions, and provide participants with 
-    useful resources, but it will not be a hands-on session where participants can follow along. 
+  registration_link: 
+    https://www.eventbrite.co.nz/e/getting-data-from-the-web-an-introduction-to-webscraping-and-apis-tickets-908002258197
+- id: 123
+  title: How to present data & results on a self-updating website, using GitHub Actions
+  description: 'This workshop describes a workflow for creating a self-updating website,
+    hosted on GitHub Pages and powered by GitHub Actions, both of which are free services
+    (with some limitations). These kinds of websites allow you to build up a dataset
+    over time and display that data as a dynamic ‘dashboard’ which automatically updates
+    with new data. Participants will benefit from a basic understanding of web scraping,
+    either by attending "Getting data from the web", or through prior knowledge. This
+    2 hour taster session will introduce and link important concepts, offer a chance
+    to ask questions, and provide participants with useful resources, but it will
+    not be a hands-on session where participants can follow along. '
   subtype: workshop
-  speakers: [110,12]
-  complexity: "Intermediate"
-  length: 2 hour
+  speakers: [110, 12]
+  complexity: Intermediate
+  length: 2 hours
   themes: [datascience]
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 124
-  title: "Hands-on introduction to leveraging containers in research code"
-  description: Have you ever found yourself with a potpourri of Python versions lingering in your laptop, conflicting between one another or drowning you in dependency hell? Have you ever found yourself trying to use custom software environments from a colleague or the internet, only to find it more difficult to install, than it is to run? Or, have to try to share your code with lab mates, and they just cannot get it to work without you? If you ever find yourself running into reproducibility issues in those scenarios, or even with your own software some years later, this session is for you.This hand-ons workshop will introduce you to containers, using Docker, to help you create, maintain, share and consume code for your research in a manner that promotes reproducibility and provenance. And hopefully alleviate some of those pain points with research software.A minimum knowledge of the command line, i.e. launching commands, listing and editing files or changing directories is required. 
+  registration_link: 
+    https://www.eventbrite.co.nz/e/how-to-present-data-results-on-a-self-updating-website-using-github-actions-tickets-908002268227
+- id: 124
+  title: Hands-on introduction to leveraging containers in research code
+  description: Have you ever found yourself with a potpourri of Python versions lingering
+    in your laptop, conflicting between one another or drowning you in dependency
+    hell? Have you ever found yourself trying to use custom software environments
+    from a colleague or the internet, only to find it more difficult to install, than
+    it is to run? Or, have to try to share your code with lab mates, and they just
+    cannot get it to work without you? If you ever find yourself running into reproducibility
+    issues in those scenarios, or even with your own software some years later, this
+    session is for you.This hand-ons workshop will introduce you to containers, using
+    Docker, to help you create, maintain, share and consume code for your research
+    in a manner that promotes reproducibility and provenance. And hopefully alleviate
+    some of those pain points with research software.A minimum knowledge of the command
+    line, i.e. launching commands, listing and editing files or changing directories
+    is required.
   subtype: workshop
   speakers: [131]
-  complexity: "Beginner"
-  length: 2 hour
+  complexity: Beginner
+  length: 3 hours
   themes: [computing]
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 125
-  title: "Introduction to version control with Git"
-  description: Are you working with code? Do you wish there was a neater way to keep an old copy of your code around, in case you still needed them? Do you need to collaborate with your colleagues? This workshop is for you! We will introduce Git, a version control system, for tracking changes on your local machine. We will also briefly touch on how to use GitHub as a remote repository. Git keeps track of changes to code and free us from the burden of keeping multiple files with increasingly long and complex filenames. Even though version control systems originated in the world of software development, they're just as useful when working with research projects. You can also connect to a remote repository like GitHub, which allows you to keep a backup of your code and its history, sync across your devices, and have powerful features for collaborating with your colleagues. If you're planning to write any kind of code during your research, it's highly recommended you understand and use version control systems like Git and remote repositories like GitHub to improve the way you work and collaborate (and to make it more enjoyable). This is a beginner-friendly workshop - participants will benefit from having some basic experience with a command-line, but this isn't required.
+  registration_link: 
+    https://www.eventbrite.co.nz/e/hands-on-introduction-to-leveraging-containers-in-research-code-tickets-908002288287
+- id: 125
+  title: Introduction to version control with Git
+  description: Are you working with code? Do you wish there was a neater way to keep
+    an old copy of your code around, in case you still needed them? Do you need to
+    collaborate with your colleagues? This workshop is for you! We will introduce
+    Git, a version control system, for tracking changes on your local machine. We
+    will also briefly touch on how to use GitHub as a remote repository. Git keeps
+    track of changes to code and free us from the burden of keeping multiple files
+    with increasingly long and complex filenames. Even though version control systems
+    originated in the world of software development, they're just as useful when working
+    with research projects. You can also connect to a remote repository like GitHub,
+    which allows you to keep a backup of your code and its history, sync across your
+    devices, and have powerful features for collaborating with your colleagues. If
+    you're planning to write any kind of code during your research, it's highly recommended
+    you understand and use version control systems like Git and remote repositories
+    like GitHub to improve the way you work and collaborate (and to make it more enjoyable).
+    This is a beginner-friendly workshop - participants will benefit from having some
+    basic experience with a command-line, but this isn't required.
   subtype: workshop
   speakers: [12, 134]
-  complexity: "Beginner"
-  length: 3 hour
+  complexity: Beginner
+  length: 3 hours
   themes: [computing]
   capacity: Limited
-  registration_link:
-
-- 
-  id: 126
-  title: "Joining the dots for modern data science workflows"
-  description: Modern research often makes use of programming and other data science tools, but it can be confusing trying to assemble all the pieces and understand how different tools are used together. This workshop uses the example of Python code to plot geospatial data with Geopandas and, along the way, introduces a variety of other tools that are commonly used to help with programming and digital workflows. We'll explain how and why to use a specialised code editor (Visual Studio Code), how to leverage version control with Git and use remote repositories on GitHub, how to use GitHub Actions, and how to incorporate generative AI tools like GitHub Copilot to facilitate writing and augmenting your code. This workshop aims to provide a map of these different tools to show how they can be used together to support reproducibility and openness in the research process. Some prior experience with programming will be beneficial, but this isn't required to attend, as this is not a hands-on code-along session.
+  registration_link: 
+    https://www.eventbrite.co.nz/e/introduction-to-version-control-with-git-tickets-908002348467
+- id: 126
+  title: Joining the dots for modern data science workflows
+  description: Modern research often makes use of programming and other data science
+    tools, but it can be confusing trying to assemble all the pieces and understand
+    how different tools are used together. This workshop uses the example of Python
+    code to plot geospatial data with Geopandas and, along the way, introduces a variety
+    of other tools that are commonly used to help with programming and digital workflows.
+    We'll explain how and why to use a specialised code editor (Visual Studio Code),
+    how to leverage version control with Git and use remote repositories on GitHub,
+    how to use GitHub Actions, and how to incorporate generative AI tools like GitHub
+    Copilot to facilitate writing and augmenting your code. This workshop aims to
+    provide a map of these different tools to show how they can be used together to
+    support reproducibility and openness in the research process. Some prior experience
+    with programming will be beneficial, but this isn't required to attend, as this
+    is not a hands-on code-along session.
   subtype: workshop
   speakers: [31, 30]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   themes: [datascience]
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 127
-  title: "Navigating New Zealand’s Trusted-Research Protective Security Requirements (TR-PSR)"
-  description: The session will breakdown the national TR-PSR policy framework into its key aspects and how this aims to prevent foreign interference and espionage within universities.  The session is aimed at academic researchers and professional support staff and is intended to provide them with an understanding of how TR-PSR is being operationalised in a university setting.  Attendees will be provided with specific references to available and upcoming resources (e.g., Universities New Zealand training modules).
+  registration_link: 
+    https://www.eventbrite.co.nz/e/joining-the-dots-for-modern-data-science-workflows-tickets-908002298317
+- id: 127
+  title: Navigating New Zealand’s Trusted-Research Protective Security Requirements
+    (TR-PSR)
+  description: The session will breakdown the national TR-PSR policy framework into
+    its key aspects and how this aims to prevent foreign interference and espionage
+    within universities.  The session is aimed at academic researchers and professional
+    support staff and is intended to provide them with an understanding of how TR-PSR
+    is being operationalised in a university setting.  Attendees will be provided
+    with specific references to available and upcoming resources (e.g., Universities
+    New Zealand training modules).
   subtype: workshop
   speakers: [133]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   themes: [sec]
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 128
-  title: "Nectar Research Cloud services at the University of Auckland"
-  description: Do you need more compute power for your analysis? Or somewhere to test your new workflow before processing your research data? Researchers and doctoral candidates from The University of Auckland can access our cloud computing platform free of charge. The Nectar research cloud offers several cloud computing services, from self-service customisable virtual machines to 'off-the-shelf' virtual desktops accessible through a web browser. This session will provide a comprehensive summary of the services available on Nectar and how to request them.
+  registration_link: 
+    https://www.eventbrite.co.nz/e/navigating-new-zealands-trusted-research-protective-security-requirements-tr-psr-tickets-908002368527
+- id: 128
+  title: Nectar Research Cloud services at the University of Auckland
+  description: Do you need more compute power for your analysis? Or somewhere to test
+    your new workflow before processing your research data? Researchers and doctoral
+    candidates from The University of Auckland can access our cloud computing platform
+    free of charge. The Nectar research cloud offers several cloud computing services,
+    from self-service customisable virtual machines to 'off-the-shelf' virtual desktops
+    accessible through a web browser. This session will provide a comprehensive summary
+    of the services available on Nectar and how to request them.
   subtype: workshop
   speakers: [60, 104]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   themes: [computing]
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 129
-  title: "An introduction to cloud security for researchers"
-  description: Are you following security best practices? This is a tricky question and can vary widely depending on the technology you are using for your research. Additionally, security can be exceedingly difficult to implement effectively, while maintaining a balance between the level of security needed, and the effort required to implement and manage it. This talk will present security basics accompanied by some technical solutions researchers can implement to secure their cloud computing tools. We will introduce security controls and provide technical ways to implement these controls. For example, the use of network segmentation to secure systems, which can be accomplished in Nectar using private networks and security groups. Our primary cloud platform for demonstrations will be the Nectar Research Cloud - however, the techniques discussed will be transferable to other cloud platforms, such as AWS.
+  registration_link: 
+    https://www.eventbrite.co.nz/e/nectar-research-cloud-services-at-the-university-of-auckland-tickets-908002278257
+- id: 129
+  title: An introduction to cloud security for researchers
+  description: Are you following security best practices? This is a tricky question
+    and can vary widely depending on the technology you are using for your research.
+    Additionally, security can be exceedingly difficult to implement effectively,
+    while maintaining a balance between the level of security needed, and the effort
+    required to implement and manage it. This talk will present security basics accompanied
+    by some technical solutions researchers can implement to secure their cloud computing
+    tools. We will introduce security controls and provide technical ways to implement
+    these controls. For example, the use of network segmentation to secure systems,
+    which can be accomplished in Nectar using private networks and security groups.
+    Our primary cloud platform for demonstrations will be the Nectar Research Cloud
+    - however, the techniques discussed will be transferable to other cloud platforms,
+    such as AWS.
   speakers: [124, 135]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   themes: [sec]
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 130
-  title: "Using digital tools for transcription"
-  description: Transcribing audio into text is part of the research process for many researchers. Manually transcribing text can be time consuming, so an increasing number of researchers are using software to transcribe, for example, interview or focus group audio recordings. Join us to hear about various transcription tools, including a demonstration of OpenAI's Whisper - an automatic speech recognition system trained on a Large (multi-lingual) Language Model that can be run on a local computer or restricted access virtiual machine
+  registration_link: 
+    https://www.eventbrite.co.nz/e/an-introduction-to-cloud-security-for-researchers-tickets-908002248167
+- id: 130
+  title: Using digital tools for transcription
+  description: Transcribing audio into text is part of the research process for many
+    researchers. Manually transcribing text can be time consuming, so an increasing
+    number of researchers are using software to transcribe, for example, interview
+    or focus group audio recordings. Join us to hear about various transcription tools,
+    including a demonstration of OpenAI's Whisper - an automatic speech recognition
+    system trained on a Large (multi-lingual) Language Model that can be run on a
+    local computer or restricted access virtiual machine
   speakers: [14, 60, 138]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   themes: [qual]
   capacity: Unlimited
-  registration_link:
-
-- 
-  id: 131
-  title: "Data Management Planning"
-  description: Data Management Plans are a useful way of mapping out the collection, storage, analysis, and publication of research data. They surface important institutional or funder requirements, and ensure that project members are aware of their ethical and legal responsibilities when working with project data. This session will provide an overview of how Data Management Plans are a useful tool for researchers at all stages of their work, and in particular, when revisiting research data over time or onboarding new project members. 
+  registration_link: 
+    https://www.eventbrite.co.nz/e/using-digital-tools-for-transcription-tickets-908002408647
+- id: 131
+  title: Data Management Planning
+  description: 'Data Management Plans are a useful way of mapping out the collection,
+    storage, analysis, and publication of research data. They surface important institutional
+    or funder requirements, and ensure that project members are aware of their ethical
+    and legal responsibilities when working with project data. This session will provide
+    an overview of how Data Management Plans are a useful tool for researchers at
+    all stages of their work, and in particular, when revisiting research data over
+    time or onboarding new project members. '
   speakers: [111]
-  complexity: "Beginner"
-  length: 1 hour
+  complexity: Beginner
+  length: 1 hours
   themes: [qual]
   capacity: Unlimited
-  registration_link:
+  registration_link: https://www.eventbrite.co.nz/e/data-management-planning-tickets-908002378557

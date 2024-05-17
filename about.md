@@ -3,7 +3,7 @@ layout: post
 title: About Research Bazaar
 permalink: /about/
 isStaticPost: true
-image: hero.jpg
+image: aurora.jpg
 ---
 - [What is ResBaz?](#what-is-resbaz)
 - [What is ResBaz Aotearoa?](#what-is-resbaz-aotearoa)
