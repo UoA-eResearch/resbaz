@@ -46,18 +46,9 @@
   themes: [datascience]
   complexity: Beginner
   capacity: Limited
-<<<<<<< HEAD
-<<<<<<< HEAD
   length: 1 hours
   registration_link: 
     https://www.eventbrite.co.nz/e/jupyter-notebooks-for-reproducible-research-tickets-907927273917
-=======
-=======
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
-  length: 1 hour
-  registration_link:
-
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
 - id: 032
   title: NVivo for Literature Reviews
   description: Reviewing the literature is an important part of the research process.
@@ -280,15 +271,7 @@
     https://www.eventbrite.co.nz/e/what-is-the-julia-programming-language-and-is-it-right-for-me-tickets-908001997417
 - id: 074
   title: Getting Started With the Julia Programming Language
-<<<<<<< HEAD
-<<<<<<< HEAD
   description: 'A two-hour introductory workshop for newcomers to Julia, targeted
-=======
-  description: A three-hour introductory workshop for newcomers to Julia, targeted
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
-=======
-  description: A three-hour introductory workshop for newcomers to Julia, targeted
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
     at users from some technical domain, such as science, economics or engineering.
     The primary focus will be helping users interact with Julia through its powerful
     command-line interface (REPL) as well as through Pluto notebooks, although other
@@ -663,14 +646,7 @@
     analysis. Participants are expected to have a novice-level understanding of Python. '
   subtype: workshop
   speakers: [110]
-<<<<<<< HEAD
   complexity: Intermediate
-=======
-  complexity: "Intermediate"
-<<<<<<< HEAD
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
-=======
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 2 hours
   themes: [datascience]
   capacity: Limited
@@ -688,16 +664,8 @@
     to ask questions, and provide participants with useful resources, but it will
     not be a hands-on session where participants can follow along. '
   subtype: workshop
-<<<<<<< HEAD
   speakers: [110, 12]
   complexity: Intermediate
-=======
-  speakers: [110,12]
-  complexity: "Intermediate"
-<<<<<<< HEAD
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
-=======
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 2 hours
   themes: [datascience]
   capacity: Unlimited
@@ -720,14 +688,7 @@
     is required.
   subtype: workshop
   speakers: [131]
-<<<<<<< HEAD
   complexity: Beginner
-=======
-  complexity: "Beginner"
-<<<<<<< HEAD
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
-=======
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 3 hours
   themes: [computing]
   capacity: Unlimited
@@ -753,14 +714,7 @@
     basic experience with a command-line, but this isn't required.
   subtype: workshop
   speakers: [12, 134]
-<<<<<<< HEAD
   complexity: Beginner
-=======
-  complexity: "Beginner"
-<<<<<<< HEAD
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
-=======
->>>>>>> e6accbf1338771d582a018badc6ad2cd4d068c7d
   length: 3 hours
   themes: [computing]
   capacity: Limited
