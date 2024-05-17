@@ -64,6 +64,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: Unlimited
+  recorded: "Yes"
   registration_link: https://www.eventbrite.co.nz/e/nvivo-for-literature-reviews-tickets-908001927207
 - id: 044
   title: Introduction to Cleaning & Transforming Data with OpenRefine
@@ -300,6 +301,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: Unlimited
+  recorded: "Yes"
   registration_link: https://www.eventbrite.co.nz/e/nvivo-showcase-tickets-908002027507
 - id: 076
   title: Research Computing with the Rust Programming Language
