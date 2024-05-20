@@ -107,7 +107,7 @@
   description: Go beyond the basics in this workshop. You will learn how LaTeX documents
     can be split up into styles, pages, appendices, etc. so that you can work in manageable
     chunks. This workshop will demonstrate several useful LaTeX packages and show
-    you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX
+    you how to create documents with Overleaf. Prior knowledge in Bash and LaTeX
     is helpful, but not required. A template will be provided for participants.
   subtype: workshop
   speakers: [55]

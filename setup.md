@@ -8,16 +8,13 @@ image: aurora.jpg
 Some sessions at ResBaz Aotearoa require participants to follow set up instructions before the event. If you have registered for a session requiring set up, you will be provided with a link to the relevant instructions on this page. If you have any trouble following these instructions then please join us at a [HackyHour](https://uoa-eresearch.github.io/HackyHour/) session. We will be running sessions at 3pm on Tuesday in the week before ResBaz, and on Tuesday in the week of ResBaz.
 
 - [Authoring Collaborative Research Projects In Quarto](#authoring-collaborative-research-projects-in-quarto)
-- [Build a Research Portfolio Website (Using GitHub)](#build-a-research-portfolio-website-using-github)
 - [Digital Storytelling with KnightLab](#digital-storytelling-with-knightlab)
 - [Getting Started with the Julia Programming Language](#getting-started-with-the-julia-programming-language)
 - [Introduction to Cleaning \& Transforming Data with OpenRefine](#introduction-to-cleaning--transforming-data-with-openrefine)
 - [Introduction to R and RStudio](#introduction-to-r-and-rstudio)
 - [Introduction to the Command Line](#introduction-to-the-command-line)
-- [Introduction to Using Julia for Machine Learning](#introduction-to-using-julia-for-machine-learning)
-- [Introduction to Web Mapping with Leaflet](#introduction-to-web-mapping-with-leaflet)
 - [Managing References with Zotero](#managing-references-with-zotero)
-- [Using The Command Line To Find, Replace, And Manipulate Data](#using-the-command-line-to-find-replace-and-manipulate-data)
+- [How to Create a LaTeX Report Without Losing Hair](#how-to-create-a-latex-report-without-losing-hair)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -32,17 +29,6 @@ Before the session, install:
     - R
     - Quarto
     - Git
-
-##### <b>Build a Research Portfolio Website (Using GitHub)</b>
-
-This is a hands-on, follow-along workshop, and having a dual monitor set-up is highly recommended if possible.
-To prepare for the workshop, before the session please:
-1. Set up a free account on [GitHub](https://github.com/) (if you don't already have one)
-2. Download [GitHub Desktop](https://desktop.github.com/)
-3. Download a free text editor ([Visual Studio Code](https://code.visualstudio.com/) recommended)
-4. Have some assets you'd like to use for your site (e.g. a profile picture, bio, description of research projects and related images, a brief list of skills and experience, a collection of articles/publications – the raw text, e.g. word documents, will be helpful). Collate these into one folder.
-
-Note: Some familiarity with git, HTML and CSS will be beneficial, but not necessary.
 
 ##### <b>Digital Storytelling with KnightLab</b>
 
@@ -70,18 +56,6 @@ b.	If you’re using a University of Auckland device, search for ‘r project’
 
 If you are using Windows, please install Git for Windows. See [here](https://carpentries.github.io/workshop-template/#shell) for instructions.
 
-##### <b>Introduction to Using Julia for Machine Learning</b>
-
-1. [Install Julia 1.9](https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md). 
-2. [Install workshop resources](https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2023-Julia-workshop). 
-
-- **Highly recommended:** Attend 'Getting Started with the Julia Programming Language' before attending this workshop.
-- Recommended: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. 
-- Recommended but not essential: Prior experience with a scripting language, such as python, MATLAB or R.
-
-##### <b>Introduction to Web Mapping with Leaflet</b>
-1. Install [Visual Studio Code](https://code.visualstudio.com/).
-
 ##### <b>Managing References with Zotero</b>
 
 If you'd like to follow along you will need to:
@@ -90,6 +64,6 @@ If you'd like to follow along you will need to:
 3. Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details.
 We recommend a two-screen setup for those wishing to follow along.
 
-##### <b>Using The Command Line To Find, Replace, And Manipulate Data</b>
+##### <b>How to Create a LaTeX Report Without Losing Hair</b>
 
-If you are using Windows, please install Git for Windows. See [here](https://carpentries.github.io/workshop-template/#shell) for instructions.
+We will run through some set up instructions in the workshop, but you'll need to have created an [Overleaf](https://www.overleaf.com/) account prior to the workshop, and have logged in to it.
