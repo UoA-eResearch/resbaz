@@ -879,3 +879,15 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 140
+  name: "John"
+  surname: "Whiting"
+  company: "National eScience Infrastructure"
+  title: "Applications Support Analyst"
+  bio: "After ~3 years of using NeSI for my own research, I now have the pleasure of supporting users as a member of the Research Support Team. My colleagues and I help eScientists from all domains get the most out of our services. From my background in computational chemistry I have a particular interest in supporting chemists, however, I enjoy seeing and working on all the other novel research that happens on our machines."
+  thumbnailUrl: "john-whiteside.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "NeSI", url: "https://www.nesi.org.nz/"}

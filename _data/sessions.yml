@@ -472,7 +472,7 @@
     is able to provide, the reason why HPC might be suitable for your work, and how
     your research team can gain access to these resources."
   subtype: workshop
-  speakers: [101, 54]
+  speakers: [140]
   themes: [computing, datascience]
   complexity: Beginner
   length: 1 hour
