@@ -7,11 +7,6 @@
     - {title: "2", color: "#e91e63"}
     - {title: "3", color: "#3279a8"}
   timeslots:
-    - {
-    	startTime: "09:00",
-    	endTime: "10:00",
-    	sessionIds: [300]
-    }
 
     - {
       startTime: "10:00",
@@ -47,12 +42,6 @@
     	startTime: "15:00",
     	endTime: "16:00",
     	sessionIds: [126, 089, 128]
-    }
-
-    - {
-    	startTime: "16:00",
-    	endTime: "17:00",
-    	sessionIds: [300]
     }
 
 # Tuesday
@@ -104,12 +93,6 @@
     	startTime: "15:00",
     	endTime: "16:00",
     	sessionIds: [090, 124, 129]
-    }
-
-    - {
-    	startTime: "16:00",
-    	endTime: "17:00",
-    	sessionIds: [300]
     }
 
 # Wednesday
@@ -220,12 +203,6 @@
     	sessionIds: [031, 085, 101]
     }
 
-    - {
-    	startTime: "16:00",
-    	endTime: "17:00",
-    	sessionIds: [300]
-    }
-
 # Friday
 - 
   date: "2024-07-12"
@@ -257,28 +234,4 @@
     	startTime: "12:00",
       endTime: "13:00",
     	sessionIds: [201]
-    }
-   
-    - {
-    	startTime: "13:00",
-    	endTime: "14:00",
-    	sessionIds: [300]
-    }
-
-    - {
-      startTime: "14:00",
-      endTime: "15:00",
-      sessionIds: [300]
-    }
-
-    - {
-    	startTime: "15:00",
-    	endTime: "16:00",
-    	sessionIds: [300]
-    }
-
-    - {
-    	startTime: "16:00",
-    	endTime: "17:00",
-    	sessionIds: [300]
     }

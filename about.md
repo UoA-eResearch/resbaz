@@ -13,11 +13,11 @@ image: aurora.jpg
 
 ##### What is ResBaz?
 
-The Research Bazaar (ResBaz) is a worldwide festival promoting digital literacy at the centre of modern research. Every year, ResBaz events are held across the globe. The aim of these events is to equip the research community with the digital skills and tools required to do their research better, faster and smarter. Traditionally an in-person event blending academic and social life, ResBaz is an event unlike any academic conference. 
+The Research Bazaar (ResBaz) is a worldwide festival promoting digital literacy at the centre of modern research. Every year, ResBaz events are held across the globe. The aim of these events is to equip the research community with the digital skills and tools required to do their research better, faster and smarter. ResBaz is an event unlike any academic conference. 
 
 ##### What is ResBaz Aotearoa?
 
-Research Bazaar Aotearoa is free and open to everyone within the Aotearoa research community. We take an inclusive approach, and define the research community as everyone who applies digital skills to research. This includes researchers, research students, research support, technicians, librarians, research communicators, volunpeers, archivists, citizen scientists, and more. Registrations are provided through EventBrite. You can find a booking link attached to each session description on the sessions page, or by clicking the session name on the schedule page. Some sessions have a limited capacity and this is displayed next to the duration and level of the session. Please only register for limited capacity sessions if you intend to attend the live event. If you need to cancel your registration before the event, please see [these instructions](https://www.eventbrite.co.nz/support/articles/en_US/How_To/how-to-cancel-your-free-registration?lg=en_MY) from EventBrite.
+Research Bazaar Aotearoa is a free online digital research skills workshop series. It is open to everyone within the Aotearoa research community. We take an inclusive approach, and define the research community as everyone who applies digital skills to research. This includes researchers, research students, research support, technicians, librarians, research communicators, volunpeers, archivists, citizen scientists, and more. Registrations are provided through EventBrite. You can find a booking link attached to each session description on the sessions page, or by clicking the session name on the schedule page. Some sessions have a limited capacity and this is displayed next to the duration and level of the session. Please only register for limited capacity sessions if you intend to attend the live event. If you need to cancel your registration before the event, please see [these instructions](https://www.eventbrite.co.nz/support/articles/en_US/How_To/how-to-cancel-your-free-registration?lg=en_MY) from EventBrite.
 
 All participants will be invited to join the Centre for eResearch ResBaz Slack channel.
 
@@ -29,7 +29,7 @@ If you're interested in volunteering to deliver a workshop, help out with a work
 
 ##### Are sessions recorded?
 
-Sessions will not be recorded. This is to maximise attendance and engagement with live events.
+Sessions will not be recorded unless otherwise stated.
 
 ##### Code of Conduct
 *By attending or contributing to the Research Bazaar, you agree to be bound by the Code of Conduct.*

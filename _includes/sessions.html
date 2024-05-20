@@ -7,7 +7,7 @@
                 <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
             {% endfor %}
         </select>
-        <p style="text-align:center">Here are our sessions from 2023. Check back in May for 2024's offerings.</p> 
+        <p style="text-align:center">Please see below for the online workshops offered in 2024.</p> 
         <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
             {% for session in site.data.sessions %}
                 {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 

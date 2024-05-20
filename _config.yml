@@ -44,11 +44,11 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 #  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/about/", text: "About"}
- - {permalink: "/schedule/", text: "2023 Schedule"}
- - {permalink: "/speakers/", text: "2023 Speakers"}
- - {permalink: "/sessions/", text: "2023 Sessions"}
- - {permalink: "/resources/", text: "Resources"}
-# - {permalink: "/setup/", text: "Setup"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/sessions/", text: "Sessions"}
+ # - {permalink: "/resources/", text: "Resources"}
+ # - {permalink: "/setup/", text: "Setup"}
 
 
 bottomNavigationLinks:
@@ -63,16 +63,17 @@ eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
 heroButtons:
- - {link: "https://forms.gle/xwidvQanSm7JZ2ig7", text: "Register for updates"}
+ - {link: "/schedule/", text: "Registrations are open"}
 
 # About Block
 # aboutTitle: ""
 #aboutSubtitle: "Conference"
 aboutText: |
-  - Register for updates now to be notified when workshop registrations open
   - Everyone in the Aotearoa research community is welcome to participate
   - Free and online digital research skills workshops taught by researchers
-  - A mix of shorter 'taster' sessions and longer, practical, hands-on sessions
+  - A mix of shorter 'taster' sessions and longer, practical, hands-on sessions, aimed at active researchers
+  - Workshops cover everything from managng research data to programming languages
+  - Sessions will not be recorded unless otherwise stated
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
