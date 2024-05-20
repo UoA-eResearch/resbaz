@@ -307,13 +307,14 @@
   description: What is Rust, and how might you use it for research? Tim McNamara,
     author of Rust in Action, will give a quick primer on the Rust programming language,
     and explain how it might be used to speed up, and scale up, your research. No
-    prior experience with the language is necessary.
+    prior experience with the language is necessary. <b>Please note this session is recorded.</b>
   subtype: workshop
   speakers: [74]
   themes: [datascience]
   complexity: Beginner
   length: 2 hours
   capacity: Unlimited
+  recorded: "Yes"
   registration_link: 
     https://www.eventbrite.co.nz/e/research-computing-with-the-rust-programming-language-tickets-908002037537
 - id: 077
@@ -531,7 +532,7 @@
   complexity: Beginner
   length: 1 hour
   capacity: Unlimited
-  recorded: No
+  recorded: "No"
 
   registration_link: 
     https://www.eventbrite.co.nz/e/tikanga-maori-research-ethics-and-maori-data-sovereignty-tickets-908002398617
