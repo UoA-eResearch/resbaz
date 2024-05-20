@@ -74,7 +74,7 @@
     it with web services and external data. This introductory, practical workshop
     will demonstrate how it can help you to: Understand the structure of a data set
     and resolve inconsistencies; Split data up into more granular parts; Match local
-    data up to other data sets; Enhance a data set with data from other sources.
+    data up to other data sets; Enhance a data set with data from other sources."
   subtype: workshop
   speakers: [96, 106]
   themes: [qual, datascience]
