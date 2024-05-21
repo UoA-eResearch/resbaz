@@ -15,6 +15,8 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Introduction to the Command Line](#introduction-to-the-command-line)
 - [Managing References with Zotero](#managing-references-with-zotero)
 - [How to Create a LaTeX Report Without Losing Hair](#how-to-create-a-latex-report-without-losing-hair)
+- [Nvivo Showcase](#nvivo-showcase)
+- [Nvivo For Literature Reviews](#nvivo-for-literature-reviews)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -67,3 +69,11 @@ We recommend a two-screen setup for those wishing to follow along.
 ##### <b>How to Create a LaTeX Report Without Losing Hair</b>
 
 We will run through some set up instructions in the workshop, but you'll need to have created an [Overleaf](https://www.overleaf.com/) account prior to the workshop, and have logged in to it.
+
+##### <b>Nvivo Showcase</b>
+
+Please sign up to the externally-hosted Zoom webinar [here](https://us02web.zoom.us/webinar/register/WN_MBF-Y5SRQtOhe6UW9_LmIg) in advance.
+
+##### <b>Nvivo For Literature Reviews</b>
+
+Please sign up to the externally-hosted Zoom webinar [here](https://us02web.zoom.us/webinar/register/WN_pMNFXBWITDyTCUf6NrNwng) in advance.
