@@ -692,7 +692,7 @@
   complexity: Beginner
   length: 3 hours
   themes: [computing]
-  capacity: Unlimited
+  capacity: Limited
   registration_link: 
     https://www.eventbrite.co.nz/e/hands-on-introduction-to-leveraging-containers-in-research-code-tickets-908002288287
 - id: 125
