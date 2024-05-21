@@ -873,7 +873,7 @@
   name: "Ana"
   surname: "Avilés"
   company: "University of Auckland"
-  title: "Research Services Advsior, Libraries and Learning Services"
+  title: "Research Services Adviser, Libraries and Learning Services"
   bio: "Ana provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Education and Social Work. She offers consultations on information resources, researcher profiles and identifiers, impact and metrics, research data management, open access, and scholarly publishing. Ana collaborates to develop, support and deliver researcher skills development, partnering with research stakeholders to support University research reporting and benchmarking."
   thumbnailUrl: "ana-aviles.jpg"   
   rockstar: false
@@ -891,3 +891,15 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "NeSI", url: "https://www.nesi.org.nz/"}
+
+- 
+  id: 141
+  name: "Dawn"
+  surname: "Carlisle"
+  company: "University of Auckland"
+  title: "Research Services Adviser, Libraries and Learning Services"
+  bio: "Dawn Carlisle is a Research Adviser at Libraries and Learning Services. With over 25 years of experience in library services, Dawn specialises in supporting and enhancing the research activities of postgraduate students and staff within the Faculty of Health and Medical Science. She provides expert advice and consultations on systematic reviews, research skills, research data management, and publishing."
+  thumbnailUrl: "dawn-carlisle.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
