@@ -107,7 +107,7 @@
   description: Go beyond the basics in this workshop. You will learn how LaTeX documents
     can be split up into styles, pages, appendices, etc. so that you can work in manageable
     chunks. This workshop will demonstrate several useful LaTeX packages and show
-    you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX
+    you how to create documents with Overleaf. Prior knowledge in Bash and LaTeX
     is helpful, but not required. A template will be provided for participants.
   subtype: workshop
   speakers: [55]
@@ -143,7 +143,7 @@
     of your research and provide an overview of the publishing and peer review process
     so you know what to expect.
   subtype: workshop
-  speakers: [99, 97]
+  speakers: [99, 130]
   themes: [publish]
   complexity: Beginner
   length: 1 hour
@@ -199,7 +199,7 @@
     and what to consider when putting together a visual research presentation, whether
     a poster, a PowerPoint slideshow, or another type of medium.'
   subtype: workshop
-  speakers: [120]
+  speakers: [141, 120]
   themes: [publish]
   complexity: Beginner
   length: 1 hour
@@ -307,13 +307,14 @@
   description: What is Rust, and how might you use it for research? Tim McNamara,
     author of Rust in Action, will give a quick primer on the Rust programming language,
     and explain how it might be used to speed up, and scale up, your research. No
-    prior experience with the language is necessary.
+    prior experience with the language is necessary. <b>Please note this session is recorded.</b>
   subtype: workshop
   speakers: [74]
   themes: [datascience]
   complexity: Beginner
   length: 2 hours
   capacity: Unlimited
+  recorded: "Yes"
   registration_link: 
     https://www.eventbrite.co.nz/e/research-computing-with-the-rust-programming-language-tickets-908002037537
 - id: 077
@@ -472,7 +473,7 @@
     is able to provide, the reason why HPC might be suitable for your work, and how
     your research team can gain access to these resources."
   subtype: workshop
-  speakers: [101, 54]
+  speakers: [140]
   themes: [computing, datascience]
   complexity: Beginner
   length: 1 hour
@@ -531,7 +532,7 @@
   complexity: Beginner
   length: 1 hour
   capacity: Unlimited
-  recorded: No
+  recorded: "No"
 
   registration_link: 
     https://www.eventbrite.co.nz/e/tikanga-maori-research-ethics-and-maori-data-sovereignty-tickets-908002398617

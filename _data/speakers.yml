@@ -873,9 +873,33 @@
   name: "Ana"
   surname: "Avilés"
   company: "University of Auckland"
-  title: "Research Services Advsior, Libraries and Learning Services"
+  title: "Research Services Adviser, Libraries and Learning Services"
   bio: "Ana provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Education and Social Work. She offers consultations on information resources, researcher profiles and identifiers, impact and metrics, research data management, open access, and scholarly publishing. Ana collaborates to develop, support and deliver researcher skills development, partnering with research stakeholders to support University research reporting and benchmarking."
   thumbnailUrl: "ana-aviles.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 140
+  name: "John"
+  surname: "Whiting"
+  company: "National eScience Infrastructure"
+  title: "Applications Support Analyst"
+  bio: "After ~3 years of using NeSI for my own research, I now have the pleasure of supporting users as a member of the Research Support Team. My colleagues and I help eScientists from all domains get the most out of our services. From my background in computational chemistry I have a particular interest in supporting chemists, however, I enjoy seeing and working on all the other novel research that happens on our machines."
+  thumbnailUrl: "john-whiting.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "NeSI", url: "https://www.nesi.org.nz/"}
+
+- 
+  id: 141
+  name: "Dawn"
+  surname: "Carlisle"
+  company: "University of Auckland"
+  title: "Research Services Adviser, Libraries and Learning Services"
+  bio: "Dawn Carlisle is a Research Adviser at Libraries and Learning Services. With over 25 years of experience in library services, Dawn specialises in supporting and enhancing the research activities of postgraduate students and staff within the Faculty of Health and Medical Science. She provides expert advice and consultations on systematic reviews, research skills, research data management, and publishing."
+  thumbnailUrl: "dawn-carlisle.jpg"   
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
