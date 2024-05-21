@@ -17,6 +17,8 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [How to Create a LaTeX Report Without Losing Hair](#how-to-create-a-latex-report-without-losing-hair)
 - [Nvivo Showcase](#nvivo-showcase)
 - [Nvivo For Literature Reviews](#nvivo-for-literature-reviews)
+- [Introduction to R and RStudio](#introduction-to-r-and-rstudio-1)
+- [Hands-On Statistical Analysis with R](#hands-on-statistical-analysis-with-r)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -77,3 +79,20 @@ Please sign up to the externally-hosted Zoom webinar [here](https://us02web.zoom
 ##### <b>Nvivo For Literature Reviews</b>
 
 Please sign up to the externally-hosted Zoom webinar [here](https://us02web.zoom.us/webinar/register/WN_pMNFXBWITDyTCUf6NrNwng) in advance.
+
+##### <b>Introduction to R and RStudio</b>
+
+Participants will need to install R and RStudio:
+- On personal or unrestricted machines, install [R](https://cran.r-project.org/bin/windows/base/) and then [RStudio](https://posit.co/download/rstudio-desktop/) directly.
+- On restricted machines (e.g. University of Auckland), install R & RStudio from your institutional software repository (e.g. Software Center/Self Service). 
+
+Open RStudio, navigate to the top Tools menu > Install Packages, then enter tidyverse and click install. It may take a minute or two to install, and once finished, you will see a blue > symbol in the console pane on the left.
+
+##### <b>Hands-On Statistical Analysis with R</b>
+
+Participants will need to install R and RStudio:
+- On personal or unrestricted machines, install [R](https://cran.r-project.org/bin/windows/base/) and then [RStudio](https://posit.co/download/rstudio-desktop/) directly.
+- On restricted machines (e.g. University of Auckland), install R & RStudio from your institutional software repository (e.g. Software Center/Self Service). 
+
+Please also execute the following command in the console to install packages required for the lesson:
+`install.packages(c("tidyverse","car","emmeans"))`
