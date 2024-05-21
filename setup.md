@@ -11,13 +11,12 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Digital Storytelling with KnightLab](#digital-storytelling-with-knightlab)
 - [Getting Started with the Julia Programming Language](#getting-started-with-the-julia-programming-language)
 - [Introduction to Cleaning \& Transforming Data with OpenRefine](#introduction-to-cleaning--transforming-data-with-openrefine)
-- [Introduction to R and RStudio](#introduction-to-r-and-rstudio)
 - [Introduction to the Command Line](#introduction-to-the-command-line)
 - [Managing References with Zotero](#managing-references-with-zotero)
 - [How to Create a LaTeX Report Without Losing Hair](#how-to-create-a-latex-report-without-losing-hair)
 - [Nvivo Showcase](#nvivo-showcase)
 - [Nvivo For Literature Reviews](#nvivo-for-literature-reviews)
-- [Introduction to R and RStudio](#introduction-to-r-and-rstudio-1)
+- [Introduction to R and RStudio](#introduction-to-r-and-rstudio)
 - [Hands-On Statistical Analysis with R](#hands-on-statistical-analysis-with-r)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
@@ -51,21 +50,19 @@ If possible, bring along some information on your favourite movie such as name, 
 a.	If you’re using a personal device follow the instructions [here](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html#openrefine) under ‘OpenRefine’.
 b.	If you’re using a University of Auckland device, search for and install ‘Corretto OpenJDK’ in Software Center (Windows) or Self-Service (Mac). Then go [here](https://openrefine.org/download.html) and download the latest version of ‘Windows (without Java)’ under ‘Other platforms and versions’.
 
-##### <b>Introduction to R and RStudio</b>
-
-a.	If you’re using a personal device follow the instructions [here](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html#r-and-rstudio) for your operating system.
-b.	If you’re using a University of Auckland device, search for ‘r project’ in Software Center (Windows) or Self-Service (Mac) and install ‘R’, then search for and install ‘RStudio’.
-
 ##### <b>Introduction to the Command Line</b>
 
-If you are using Windows, please install Git for Windows. See [here](https://carpentries.github.io/workshop-template/#shell) for instructions.
+Please follow the instructions found [here](https://murraycadzow.github.io/2024-07-09-nz-unix/#the-bash-shell) for your operating system.
 
 ##### <b>Managing References with Zotero</b>
 
 If you'd like to follow along you will need to:
 1. Go to (https://www.zotero.org/user/register) and create a zotero account.
-2. Go to (https://www.zotero.org/download/) and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser). OR on University of Auckland devices: Instead install Zotero through the Software Center (Windows) or Self Service (Mac).
-3. Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details.
+2. Install Zotero:
+   - On personal or unrestricted devices: Go to (https://www.zotero.org/download/) and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser) 
+   - On restricted devices (e.g. University of Auckland) install Zotero through the Software Center (Windows) or Self Service (Mac).
+
+Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details.
 We recommend a two-screen setup for those wishing to follow along.
 
 ##### <b>How to Create a LaTeX Report Without Losing Hair</b>
