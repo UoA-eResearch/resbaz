@@ -39,11 +39,7 @@ If possible, bring along some information on your favourite movie such as name, 
 
 ##### <b>Getting Started with the Julia Programming Language</b>
 
-1. [Install Julia 1.9](https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md). 
-2. [Install workshop resources](https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2023-Julia-workshop). 
-
-- Recommended: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. 
-- Recommended but not essential: Prior experience with a scripting language, such as python, MATLAB or R.
+Please follow the setup instructions [here](https://github.com/ablaom/HelloJulia.jl/blob/dev/INSTALLATION.md).
 
 ##### <b>Introduction to Cleaning & Transforming Data with OpenRefine</b>
 
