@@ -43,8 +43,9 @@ Please follow the setup instructions [here](https://github.com/ablaom/HelloJulia
 
 ##### <b>Introduction to Cleaning & Transforming Data with OpenRefine</b>
 
-a.	If you’re using a personal device follow the instructions [here](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html#openrefine) under ‘OpenRefine’.
-b.	If you’re using a University of Auckland device, search for and install ‘Corretto OpenJDK’ in Software Center (Windows) or Self-Service (Mac). Then go [here](https://openrefine.org/download.html) and download the latest version of ‘Windows (without Java)’ under ‘Other platforms and versions’.
+Install OpenRefine:
+- If using an unrestricted device, follow the instructions under 'OpenRefine' [here](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html#openrefine).
+- If using a restricted device (e.g. University of Auckland), search for and install ‘Corretto OpenJDK’ in Software Center (Windows) or Self-Service (Mac). Then download OpenRefine 3.7.9 [here](https://github.com/OpenRefine/OpenRefine/releases/download/3.7.9/openrefine-win-3.7.9.zip) and extract the contents to your user folder (C:\users\abcd001). You should end up with a folder called 'openrefine-3.7.9' in your user folder.
 
 ##### <b>Introduction to the Command Line</b>
 
@@ -55,11 +56,10 @@ Please follow the instructions found [here](https://murraycadzow.github.io/2024-
 If you'd like to follow along you will need to:
 1. Go to (https://www.zotero.org/user/register) and create a zotero account.
 2. Install Zotero:
-   - On personal or unrestricted devices: Go to (https://www.zotero.org/download/) and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser) 
+   - On personal or unrestricted devices: Go to (https://www.zotero.org/download/) and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser). 
    - On restricted devices (e.g. University of Auckland) install Zotero through the Software Center (Windows) or Self Service (Mac).
 
-Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details.
-We recommend a two-screen setup for those wishing to follow along.
+Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details, then select OK. We recommend a two-screen setup for those wishing to follow along.
 
 ##### <b>How to Create a LaTeX Report Without Losing Hair</b>
 
@@ -77,9 +77,9 @@ Please sign up to the externally-hosted Zoom webinar [here](https://us02web.zoom
 
 Participants will need to install R and RStudio:
 - On personal or unrestricted machines, install [R](https://cran.r-project.org/bin/windows/base/) and then [RStudio](https://posit.co/download/rstudio-desktop/) directly.
-- On restricted machines (e.g. University of Auckland), install R & RStudio from your institutional software repository (e.g. Software Center/Self Service). 
+- On restricted machines (e.g. University of Auckland), install both R and RStudio (in that order) from your institutional software repository (e.g. Software Center/Self Service). 
 
-Open RStudio, navigate to the top Tools menu > Install Packages, then enter tidyverse and click install. It may take a minute or two to install, and once finished, you will see a blue > symbol in the console pane on the left.
+Open RStudio, navigate to the top Tools menu > Install Packages, then enter tidyverse and click install. It may take a minute or two to install, and once finished, you will see a blue '>' symbol in the console pane on the left.
 
 ##### <b>Hands-On Statistical Analysis with R</b>
 
