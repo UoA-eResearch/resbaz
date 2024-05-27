@@ -738,7 +738,7 @@
     with programming will be beneficial, but this isn't required to attend, as this
     is not a hands-on code-along session.
   subtype: workshop
-  speakers: [31, 30]
+  speakers: [31]
   complexity: Beginner
   length: 1 hour
   themes: [datascience]
