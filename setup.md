@@ -18,6 +18,9 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Nvivo For Literature Reviews](#nvivo-for-literature-reviews)
 - [Introduction to R and RStudio](#introduction-to-r-and-rstudio)
 - [Hands-On Statistical Analysis with R](#hands-on-statistical-analysis-with-r)
+- [Introduction to programming with Python](#introduction-to-programming-with-python)
+- [Hands-on introduction to leveraging containers in research code](#hands-on-introduction-to-leveraging-containers-in-research-code)
+- [Introduction to Version Control with Git](#introduction-to-version-control-with-git)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -49,7 +52,7 @@ Install OpenRefine:
 
 ##### <b>Introduction to the Command Line</b>
 
-Please follow the instructions found [here](https://murraycadzow.github.io/2024-07-09-nz-unix/#the-bash-shell) for your operating system.
+Please follow the instructions for your operating system found [here](https://murraycadzow.github.io/2024-07-09-nz-unix/#the-bash-shell).
 
 ##### <b>Managing References with Zotero</b>
 
@@ -85,7 +88,19 @@ Open RStudio, navigate to the top Tools menu > Install Packages, then enter tidy
 
 Participants will need to install R and RStudio:
 - On personal or unrestricted machines, install [R](https://cran.r-project.org/bin/windows/base/) and then [RStudio](https://posit.co/download/rstudio-desktop/) directly.
-- On restricted machines (e.g. University of Auckland), install R & RStudio from your institutional software repository (e.g. Software Center/Self Service). 
+- On restricted machines (e.g. University of Auckland), install both R and RStudio (in that order) from your institutional software repository (e.g. Software Center/Self Service). 
 
 Please also execute the following command in the console to install packages required for the lesson:
 `install.packages(c("tidyverse","car","emmeans"))`
+
+##### <b>Introduction to programming with Python</b>
+
+We will be using Google Colab for this workshop so you'll need a Google account if you don't already have one. University of Auckland participants can use their @aucklanduni.ac.nz address to sign in to Colab.
+
+##### <b>Hands-on introduction to leveraging containers in research code</b>
+
+We will provide access to a Linux VM for the duration of the session, which you will access through your browser. Alternatively, you could use your own computer with Docker pre-installed, but if you choose to do this please note that we will not be able to help you install Docker during the session (see https://docs.docker.com/get-docker/ for installation instructions).
+
+##### <b>Introduction to Version Control with Git</b>
+
+
