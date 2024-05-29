@@ -11,11 +11,9 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Digital Storytelling with KnightLab](#digital-storytelling-with-knightlab)
 - [Getting Started with the Julia Programming Language](#getting-started-with-the-julia-programming-language)
 - [Introduction to Cleaning \& Transforming Data with OpenRefine](#introduction-to-cleaning--transforming-data-with-openrefine)
-- [Introduction to R and RStudio](#introduction-to-r-and-rstudio)
 - [Introduction to the Command Line](#introduction-to-the-command-line)
 - [Managing References with Zotero](#managing-references-with-zotero)
 - [How to Create a LaTeX Report Without Losing Hair](#how-to-create-a-latex-report-without-losing-hair)
-- [Introduction to Google Earth Engine](#introduction-to-google-earth-engine)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -37,47 +35,28 @@ If possible, bring along some information on your favourite movie such as name, 
 
 ##### <b>Getting Started with the Julia Programming Language</b>
 
-1. [Install Julia 1.9](https://github.com/ablaom/HelloJulia.jl/blob/dev/FIRST_STEPS.md). 
-2. [Install workshop resources](https://github.com/ablaom/HelloJulia.jl/wiki/Preparing-for-your-ResBaz-2023-Julia-workshop). 
-
-- Recommended: An understanding of basic linear algebra and statistics, such as that covered in first year university courses. 
-- Recommended but not essential: Prior experience with a scripting language, such as python, MATLAB or R.
+Please follow the setup instructions [here](https://github.com/ablaom/HelloJulia.jl/blob/dev/INSTALLATION.md).
 
 ##### <b>Introduction to Cleaning & Transforming Data with OpenRefine</b>
 
-a.	If you’re using a personal device follow the instructions [here](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html#openrefine) under ‘OpenRefine’.
-b.	If you’re using a University of Auckland device, search for and install ‘Corretto OpenJDK’ in Software Center (Windows) or Self-Service (Mac). Then go [here](https://openrefine.org/download.html) and download the latest version of ‘Windows (without Java)’ under ‘Other platforms and versions’.
-
-##### <b>Introduction to R and RStudio</b>
-
-a.	If you’re using a personal device follow the instructions [here](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html#r-and-rstudio) for your operating system.
-b.	If you’re using a University of Auckland device, search for ‘r project’ in Software Center (Windows) or Self-Service (Mac) and install ‘R’, then search for and install ‘RStudio’.
+Install OpenRefine:
+- If using an unrestricted device, follow the instructions under 'OpenRefine' [here](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html#openrefine).
+- If using a restricted device (e.g. University of Auckland), search for and install ‘Corretto OpenJDK’ in Software Center (Windows) or Self-Service (Mac). Then download OpenRefine 3.7.9 [here](https://github.com/OpenRefine/OpenRefine/releases/download/3.7.9/openrefine-win-3.7.9.zip) and extract the contents to your user folder (C:\users\abcd001). You should end up with a folder called 'openrefine-3.7.9' in your user folder.
 
 ##### <b>Introduction to the Command Line</b>
 
-If you are using Windows, please install Git for Windows. See [here](https://carpentries.github.io/workshop-template/#shell) for instructions.
+Please follow the instructions for your operating system found [here](https://murraycadzow.github.io/2024-07-09-nz-unix/#the-bash-shell).
 
 ##### <b>Managing References with Zotero</b>
 
 If you'd like to follow along you will need to:
 1. Go to (https://www.zotero.org/user/register) and create a zotero account.
-2. Go to (https://www.zotero.org/download/) and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser). OR on University of Auckland devices: Instead install Zotero through the Software Center (Windows) or Self Service (Mac).
-3. Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details.
-We recommend a two-screen setup for those wishing to follow along.
+2. Install Zotero:
+   - On personal or unrestricted devices: Go to (https://www.zotero.org/download/) and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser). 
+   - On restricted devices (e.g. University of Auckland) install Zotero through the Software Center (Windows) or Self Service (Mac).
+
+Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details, then select OK. We recommend a two-screen setup for those wishing to follow along.
 
 ##### <b>How to Create a LaTeX Report Without Losing Hair</b>
 
 We will run through some set up instructions in the workshop, but you'll need to have created an [Overleaf](https://www.overleaf.com/) account prior to the workshop, and have logged in to it.
-
-##### <b>Introduction to Google Earth Engine</b>
-
-These practical sessions require that users have a GEE account to follow along with the exercises. See below for instructions on creating an GEE account. 
-
-1. Go to [Google Earth Engine](https://earthengine.google.com/platform/)
-2. Navigate to **sign up** in the top right corner of the page.
-3. Fill in your details using some of the following details:
->>* EMAIL: Use a google account email
->>* INSTITUTION TYPE: Academia or Research
->>* WHAT WOULD YOU LIKE TO ACCOMPLISH WITH EARTH ENGINE: I am taking part in a practical introductory workshop at the University of Auckland to learn how to use GEE. 
-4. Once registered you will receive an email titled ‘Welcome to Google Earth Engine’ with instructions on getting started. Sometimes this can be sent to your spam and sometimes your account is activated before the email is sent. 
-5. It’s worth checking to see if you’re account has been activated after 72 hours by heading to [Google Earth Engine](https://earthengine.google.com/platform/) and navigating to **Platform > Code Editor** to see if you have access.  
