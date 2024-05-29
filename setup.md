@@ -15,6 +15,7 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Introduction to the Command Line](#introduction-to-the-command-line)
 - [Managing References with Zotero](#managing-references-with-zotero)
 - [How to Create a LaTeX Report Without Losing Hair](#how-to-create-a-latex-report-without-losing-hair)
+- [Introduction to Google Earth Engine](#introduction-to-google-earth-engine)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -67,3 +68,16 @@ We recommend a two-screen setup for those wishing to follow along.
 ##### <b>How to Create a LaTeX Report Without Losing Hair</b>
 
 We will run through some set up instructions in the workshop, but you'll need to have created an [Overleaf](https://www.overleaf.com/) account prior to the workshop, and have logged in to it.
+
+##### <b>Introduction to Google Earth Engine</b>
+
+These practical sessions require that users have a GEE account to follow along with the exercises. See below for instructions on creating an GEE account. 
+
+1. Go to [Google Earth Engine](https://earthengine.google.com/platform/)
+2. Navigate to **sign up** in the top right corner of the page.
+3. Fill in your details using some of the following details:
+>>* EMAIL: Use a google account email
+>>* INSTITUTION TYPE: Academia or Research
+>>* WHAT WOULD YOU LIKE TO ACCOMPLISH WITH EARTH ENGINE: I am taking part in a practical introductory workshop at the University of Auckland to learn how to use GEE. 
+4. Once registered you will receive an email titled ‘Welcome to Google Earth Engine’ with instructions on getting started. Sometimes this can be sent to your spam and sometimes your account is activated before the email is sent. 
+5. It’s worth checking to see if you’re account has been activated after 72 hours by heading to [Google Earth Engine](https://earthengine.google.com/platform/) and navigating to **Platform > Code Editor** to see if you have access.  
