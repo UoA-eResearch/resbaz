@@ -342,7 +342,7 @@
     already familiar with navigating a command line linux environment. Requirements:
     NeSI account, details provided after registration and closer to the event."
   subtype: workshop
-  speakers: [54, 101]
+  speakers: [54]
   themes: [computing]
   complexity: Beginner
   length: 3 hours
