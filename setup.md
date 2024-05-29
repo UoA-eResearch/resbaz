@@ -21,6 +21,7 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Introduction to programming with Python](#introduction-to-programming-with-python)
 - [Hands-on introduction to leveraging containers in research code](#hands-on-introduction-to-leveraging-containers-in-research-code)
 - [Introduction to Version Control with Git](#introduction-to-version-control-with-git)
+- [Introduction to Google Earth Engine](#introduction-to-google-earth-engine)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -104,3 +105,15 @@ We will provide access to a Linux VM for the duration of the session, which you 
 ##### <b>Introduction to Version Control with Git</b>
 
 
+##### <b>Introduction to Google Earth Engine</b>
+
+These practical sessions require that users have a GEE account to follow along with the exercises. See below for instructions on creating an GEE account. 
+
+1. Go to [Google Earth Engine](https://earthengine.google.com/platform/)
+2. Navigate to **sign up** in the top right corner of the page.
+3. Fill in your details using some of the following details:
+>>* EMAIL: Use a google account email
+>>* INSTITUTION TYPE: Academia or Research
+>>* WHAT WOULD YOU LIKE TO ACCOMPLISH WITH EARTH ENGINE: I am taking part in a practical introductory workshop at the University of Auckland to learn how to use GEE. 
+4. Once registered you will receive an email titled ‘Welcome to Google Earth Engine’ with instructions on getting started. Sometimes this can be sent to your spam and sometimes your account is activated before the email is sent. 
+5. It’s worth checking to see if you’re account has been activated after 72 hours by heading to [Google Earth Engine](https://earthengine.google.com/platform/) and navigating to **Platform > Code Editor** to see if you have access.  
