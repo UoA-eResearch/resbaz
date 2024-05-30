@@ -198,8 +198,8 @@
   name: "Callum"
   surname: "Walley"
   company: "National eScience Infrastructure"
-  title: "Application Support Analyst"
-  bio: "Engineering Applications Support at New Zealand eScience Infrastructure (NeSI), Software Carpentry Instructor."
+  title: "Research Support Analyst"
+  bio: "Research Support Analyst at New Zealand eScience Infrastructure (NeSI), Software Carpentry Instructor."
   thumbnailUrl: "callum_walley.jpeg"   
   rockstar: false
   ribbon:
@@ -210,8 +210,8 @@
   name: "Eirian"
   surname: "Perkins"
   company: "National eScience Infrastructure"
-  title: "Analyst Programmer"
-  bio: "Eirian Perkins is a software developer at the New Zealand eScience Infrastructure, earned a Master of Science in Computer Science from the University of Colorado Boulder and has well over a decade of professional experience. She is also a doctoral student in biological sciences at the University of Auckland - Waipapa Taumata Rau."
+  title: "DevOps and Integration Programmer"
+  bio: "Eirian Perkins is a DevOps and Integration Programmer at the New Zealand eScience Infrastructure, earned a Master of Science in Computer Science from the University of Colorado Boulder and has well over a decade of professional experience. She is also a doctoral student in biological sciences at the University of Auckland - Waipapa Taumata Rau."
   thumbnailUrl: "eirian_perkins.jpeg"   
   rockstar: false
   ribbon:
@@ -442,8 +442,8 @@
   name: "Anthony"
   surname: "Shaw"
   company: "National eScience Infrastructure"
-  title: "Support Analyst"
-  bio: "Applications Support at New Zealand eScience Infrastructure (NeSI)."
+  title: "Research Support Analyst"
+  bio: "Research Support Analyst at New Zealand eScience Infrastructure (NeSI)."
   thumbnailUrl: "anthony_shaw.jpg"   
   rockstar: false
   ribbon:
@@ -695,7 +695,7 @@
   surname: "Karich"
   company: "University of Auckland"
   title: "Deputy Chief Information Security Officer"
-  bio: "Michael Karich is Deputy Chief Information Security Officer - Research at the University of Auckland, NeSI, and UniServices. Across these roles, he strives to support and enable secure research operations across the entire data lifecycle. Prior to this, he held roles in HPC and cloud infrastructure, data management, and research administration. With qualifications in Computer Science and IT Operations, Michael pulls from a broad background to build and enable secure yet efficient research. He is currently focusing on the enhancement of internationally known capability through governance, staff enablement, and visibility."
+  bio: "Michael Karich is Deputy Chief Information Security Officer - Research at the University of Auckland, New Zealand eScience Infrastructure, and UniServices. Across these roles, he strives to support and enable secure research operations across the entire data lifecycle. Prior to this, he held roles in HPC and cloud infrastructure, data management, and research administration. With qualifications in Computer Science and IT Operations, Michael pulls from a broad background to build and enable secure yet efficient research. He is currently focusing on the enhancement of internationally known capability through governance, staff enablement, and visibility."
   thumbnailUrl: "Karich-Michael-3369.jpg"   
   rockstar: false
   ribbon:
@@ -885,12 +885,12 @@
   name: "John"
   surname: "Whiting"
   company: "National eScience Infrastructure"
-  title: "Applications Support Analyst"
-  bio: "After ~3 years of using NeSI for my own research, I now have the pleasure of supporting users as a member of the Research Support Team. My colleagues and I help eScientists from all domains get the most out of our services. From my background in computational chemistry I have a particular interest in supporting chemists, however, I enjoy seeing and working on all the other novel research that happens on our machines."
+  title: "Research Support Analyst"
+  bio: "After ~3 years of using New Zealand eScience Infrastructure for my own research, I now have the pleasure of supporting users as a member of the Research Support Team. My colleagues and I help eScientists from all domains get the most out of our services. From my background in computational chemistry I have a particular interest in supporting chemists, however, I enjoy seeing and working on all the other novel research that happens on our machines."
   thumbnailUrl: "john-whiting.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "NeSI", url: "https://www.nesi.org.nz/"}
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.New Zealand eScience Infrastructure.org.nz/"}
 
 - 
   id: 141
