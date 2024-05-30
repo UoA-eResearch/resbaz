@@ -231,7 +231,7 @@
     files, often with just a few keystrokes or lines of code. It helps users automate
     repetitive tasks and easily combine smaller tasks into larger, more powerful workflows.
     Use of the command line is often required to interact with High Performance Computing
-    services such as those offered by NeSI, and it is used extensively in the the
+    services such as those offered by New Zealand eScience Infrastructure, and it is used extensively in the the
     data manipulation workflows in some disciplines. This workshop will introduce
     you to this powerful tool so that you can apply it to your research work. The
     target audience is learners who have little to no prior computational experience,
@@ -334,13 +334,13 @@
   registration_link: 
     https://www.eventbrite.co.nz/e/python-for-image-manipulation-and-repeatable-research-pipelines-tickets-908002047567
 - id: 078
-  title: Introduction to High Performance Computing with NeSI
-  description: "A hands-on introduction to high performance computing (HPC) on a NeSI
-    supercomputer. Members of the NeSI training team will guide attendees through
+  title: Introduction to High Performance Computing with New Zealand eScience Infrastructure
+  description: "A hands-on introduction to high performance computing (HPC) on a New Zealand eScience Infrastructure
+    supercomputer. Members of the New Zealand eScience Infrastructure training team will guide attendees through
     HPC fundamentals including, software environment modules, scheduler use, profiling
     and scaling. We recommend you attend 'Introduction to the Command Line' or are
     already familiar with navigating a command line linux environment. Requirements:
-    NeSI account, details provided after registration and closer to the event."
+    New Zealand eScience Infrastructure account, details provided after registration and closer to the event."
   subtype: workshop
   speakers: [54]
   themes: [computing]
@@ -464,12 +464,12 @@
   registration_link: 
     https://www.eventbrite.co.nz/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-908002137837
 - id: 092
-  title: What is NeSI? New Zealand's National High Performance Computers
+  title: What is the New Zealand eScience Infrastructure?
   description: "The computational requirements of high impact research seems to grow
     further beyond what individual groups and institutions can reasonably provide
     every year. New Zealand eScience Infrastructure (NeSI) seeks to help meet these
     requirements for the New Zealand research community.\n \n In this talk we will
-    go over the core services relating to high performance computing (HPC) that NeSI
+    go over the core services relating to high performance computing (HPC) that New Zealand eScience Infrastructure
     is able to provide, the reason why HPC might be suitable for your work, and how
     your research team can gain access to these resources."
   subtype: workshop
