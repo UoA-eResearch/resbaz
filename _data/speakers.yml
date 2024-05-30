@@ -197,7 +197,7 @@
   id: 54
   name: "Callum"
   surname: "Walley"
-  company: "National eScience Infrastructure"
+  company: "New Zealand eScience Infrastructure"
   title: "Research Support Analyst"
   bio: "Research Support Analyst at New Zealand eScience Infrastructure (NeSI), Software Carpentry Instructor."
   thumbnailUrl: "callum_walley.jpeg"   
@@ -209,7 +209,7 @@
   id: 55
   name: "Eirian"
   surname: "Perkins"
-  company: "National eScience Infrastructure"
+  company: "New Zealand eScience Infrastructure"
   title: "DevOps and Integration Programmer"
   bio: "Eirian Perkins is a DevOps and Integration Programmer at the New Zealand eScience Infrastructure, earned a Master of Science in Computer Science from the University of Colorado Boulder and has well over a decade of professional experience. She is also a doctoral student in biological sciences at the University of Auckland - Waipapa Taumata Rau."
   thumbnailUrl: "eirian_perkins.jpeg"   
@@ -285,7 +285,7 @@
 #   id: 67
 #   name: "Dinindu"
 #   surname: "Senanayake"
-#   company: "National eScience Infrastructure"
+#   company: "New Zealand eScience Infrastructure"
 #   title: "HPC applications support specialist"
 #   bio: "Dinindu Senanayakeis a NeSI Applications Support Specialist, specifically in Genomics/Bioinformatics. He has approximately seven years of research experience in Cancer Genetics, Chemical Genetics and Systems Biology. Originally from Sri Lanka, he moved to New Zealand in 2006, arriving for studies and staying for nature."
 #   thumbnailUrl: "dinindu_senanayake.jpeg"   
@@ -321,7 +321,7 @@
 #   id: 77
 #   name: "Gene"
 #   surname: "Soudlenkov"
-#   company: "National eScience Infrastructure"
+#   company: "New Zealand eScience Infrastructure"
 #   title: "Research Support Team Lead"
 #   bio: "Gene is a member of the University of Auckland office of NeSI as a Research Support Team Lead."
 #   thumbnailUrl: "gene_soudlenkov.jpg"   
@@ -441,7 +441,7 @@
   id: 101
   name: "Anthony"
   surname: "Shaw"
-  company: "National eScience Infrastructure"
+  company: "New Zealand eScience Infrastructure"
   title: "Research Support Analyst"
   bio: "Research Support Analyst at New Zealand eScience Infrastructure (NeSI)."
   thumbnailUrl: "anthony_shaw.jpg"   
@@ -884,7 +884,7 @@
   id: 140
   name: "John"
   surname: "Whiting"
-  company: "National eScience Infrastructure"
+  company: "New Zealand eScience Infrastructure"
   title: "Research Support Analyst"
   bio: "After ~3 years of using New Zealand eScience Infrastructure for my own research, I now have the pleasure of supporting users as a member of the Research Support Team. My colleagues and I help eScientists from all domains get the most out of our services. From my background in computational chemistry I have a particular interest in supporting chemists, however, I enjoy seeing and working on all the other novel research that happens on our machines."
   thumbnailUrl: "john-whiting.jpg"   
