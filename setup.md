@@ -22,6 +22,7 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Hands-on introduction to leveraging containers in research code](#hands-on-introduction-to-leveraging-containers-in-research-code)
 - [Introduction to Version Control with Git](#introduction-to-version-control-with-git)
 - [Introduction to Google Earth Engine](#introduction-to-google-earth-engine)
+- [Python For Image Manipulation And Repeatable Research Pipelines](#python-for-image-manipulation-and-repeatable-research-pipelines)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -117,3 +118,7 @@ These practical sessions require that users have a GEE account to follow along w
 >>* WHAT WOULD YOU LIKE TO ACCOMPLISH WITH EARTH ENGINE: I am taking part in a practical introductory workshop at the University of Auckland to learn how to use GEE. 
 4. Once registered you will receive an email titled ‘Welcome to Google Earth Engine’ with instructions on getting started. Sometimes this can be sent to your spam and sometimes your account is activated before the email is sent. 
 5. It’s worth checking to see if you’re account has been activated after 72 hours by heading to [Google Earth Engine](https://earthengine.google.com/platform/) and navigating to **Platform > Code Editor** to see if you have access.  
+
+##### <b>Python For Image Manipulation And Repeatable Research Pipelines</b>
+
+Please see [here](https://github.com/andre-geldenhuis/python-image-manipulation-session/blob/main/SETUP.md) for this workshop's set up instructions.

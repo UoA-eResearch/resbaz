@@ -903,3 +903,27 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
+
+- 
+  id: 142
+  name: "Katrina"
+  surname: "Poppe"
+  company: "University of Auckland"
+  title: "Associate Professor, Faculty of Medical and Health Sciences"
+  bio: "Katrina Poppe is a biostatistician and clinical cardiac physiologist with extensive experience in cardiovascular disease from the perspectives of data science, clinical practice, and clinical, epidemiological and methodological research. Health data represents people and must be respected - from how it is collected, to how it is managed and stored, and importantly, how it is understood, analysed and interpreted."
+  thumbnailUrl: "katrina-poppe.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: "https://www.auckland.ac.nz/en/fmhs.html"}
+
+- 
+  id: 143
+  name: "Vanessa"
+  surname: "Selak"
+  company: "University of Auckland"
+  title: "Associate Professor, Faculty of Medical and Health Sciences"
+  bio: "Vanessa Selak is an epidemiologist and Public Health Medicine Specialist with 20 years' health sector experience in clinical, planning, funding, and quality roles. The use of routinely collected health data to improve health outcomes and equity has underpinned Vanessa's academic and health sector roles."
+  thumbnailUrl: "vanessa-selak.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "University of Auckland", url: "https://www.auckland.ac.nz/en/fmhs.html"}

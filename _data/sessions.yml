@@ -832,3 +832,14 @@
   themes: [qual]
   capacity: Unlimited
   registration_link: https://www.eventbrite.co.nz/e/data-management-planning-tickets-908002378557
+- id: 132
+  title: Health care data for research at the University of Auckland
+  description: 'Please note this session is intended primarily for University of Auckland researchers. Administrative data are increasingly used to undertake research because of their considerable volume and variety and ability to be captured automatically, over time, and to be linked. Their use is not without challenges though. 
+In this session, Katrina Poppe and Vanessa Selak draw on their use of New Zealand health care data for research to outline potential data sources, processes for access and data management and curation issues. They will briefly describe the recently established 
+<a href="https://www.healthdata.auckland.ac.nz/">UoA Health Data Platform</a>.'
+  speakers: [142, 143]
+  complexity: Beginner
+  length: 1 hour
+  themes: [publish, qual]
+  capacity: Unlimited
+  registration_link: 
