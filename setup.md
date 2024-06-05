@@ -5,12 +5,13 @@ permalink: /setup/
 isStaticPost: true
 image: aurora.jpg
 ---
-Some sessions at ResBaz Aotearoa require participants to follow set up instructions before the event. If you have registered for a session requiring set up, you will be provided with a link to the relevant instructions on this page. If you have any trouble following these instructions then please join us at a [HackyHour](https://uoa-eresearch.github.io/HackyHour/) session. We will be running sessions at 3pm on Tuesday in the week before ResBaz, and on Tuesday in the week of ResBaz.
+If you have registered for a session requiring set up, you will be provided with a link to the relevant instructions on this page. If you have any trouble following these instructions then please join us at a [HackyHour](https://uoa-eresearch.github.io/HackyHour/) session at 3pm on Tuesday in the week before ResBaz, and on Tuesday in the week of ResBaz.
 
 - [Authoring Collaborative Research Projects In Quarto](#authoring-collaborative-research-projects-in-quarto)
 - [Digital Storytelling with KnightLab](#digital-storytelling-with-knightlab)
 - [Getting Started with the Julia Programming Language](#getting-started-with-the-julia-programming-language)
 - [Introduction to Cleaning \& Transforming Data with OpenRefine](#introduction-to-cleaning--transforming-data-with-openrefine)
+- [Doing Even More with OpenRefine](#doing-even-more-with-openrefine)
 - [Introduction to the Command Line](#introduction-to-the-command-line)
 - [Managing References with Zotero](#managing-references-with-zotero)
 - [How to Create a LaTeX Report Without Losing Hair](#how-to-create-a-latex-report-without-losing-hair)
@@ -23,6 +24,7 @@ Some sessions at ResBaz Aotearoa require participants to follow set up instructi
 - [Introduction to Version Control with Git](#introduction-to-version-control-with-git)
 - [Introduction to Google Earth Engine](#introduction-to-google-earth-engine)
 - [Python For Image Manipulation And Repeatable Research Pipelines](#python-for-image-manipulation-and-repeatable-research-pipelines)
+- [Jupyter Notebooks For Reproducible Research](#jupyter-notebooks-for-reproducible-research)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
@@ -48,9 +50,17 @@ Please follow the setup instructions [here](https://github.com/ablaom/HelloJulia
 
 ##### <b>Introduction to Cleaning & Transforming Data with OpenRefine</b>
 
-Install OpenRefine:
-- If using an unrestricted device, follow the instructions under 'OpenRefine' [here](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html#openrefine).
-- If using a restricted device (e.g. University of Auckland), search for and install ‘Corretto OpenJDK’ in Software Center (Windows) or Self-Service (Mac). Then download OpenRefine 3.7.9 [here](https://github.com/OpenRefine/OpenRefine/releases/download/3.7.9/openrefine-win-3.7.9.zip) and extract the contents to your user folder (C:\users\abcd001). You should end up with a folder called 'openrefine-3.7.9' in your user folder.
+OpenRefine is a Java program that runs on your local machine (not on the cloud). Although it displays in your browser, no web connection is needed and your data remains local. 
+
+Install OpenRefine from [here](https://openrefine.org/download.html).
+
+Mac users: You may get an error message: “OpenRefine.app can’t be opened because it is from an unidentified developer.” If you get this message, open your system preferences and click “Security & Privacy”. You will see a message “OpenRefine.app was blocked from opening because it is from an unidentified developer.” Click “Open Anyway” and “Yes”. OpenRefine should open in your default web browser.
+
+OpenRefine does not support Internet Explorer or Edge. Please use Firefox, Chrome or Safari instead.
+
+##### <b>Doing Even More with OpenRefine</b>
+
+As above, you will need OpenRefine installed.
 
 ##### <b>Introduction to the Command Line</b>
 
@@ -60,9 +70,7 @@ Please follow the instructions for your operating system found [here](https://mu
 
 If you'd like to follow along you will need to:
 1. Go to (https://www.zotero.org/user/register) and create a zotero account.
-2. Install Zotero:
-   - On personal or unrestricted devices: Go to (https://www.zotero.org/download/) and install both Zotero (a standalone app) and the appropriate Zotero Connector (an extension for your browser). 
-   - On restricted devices (e.g. University of Auckland) install Zotero through the Software Center (Windows) or Self Service (Mac).
+2. [Install Zotero](https://www.zotero.org/download/) and the appropriate Zotero Connector (an extension for your browser). 
 
 Open Zotero and from the top menu bar select Edit > Preferences > Sync and fill in your zotero account details, then select OK. We recommend a two-screen setup for those wishing to follow along.
 
@@ -105,6 +113,7 @@ We will provide access to a Linux VM for the duration of the session, which you 
 
 ##### <b>Introduction to Version Control with Git</b>
 
+Instructions coming soon.
 
 ##### <b>Introduction to Google Earth Engine</b>
 
@@ -122,3 +131,7 @@ These practical sessions require that users have a GEE account to follow along w
 ##### <b>Python For Image Manipulation And Repeatable Research Pipelines</b>
 
 Please see [here](https://github.com/andre-geldenhuis/python-image-manipulation-session/blob/main/SETUP.md) for this workshop's set up instructions.
+
+##### <b>Jupyter Notebooks For Reproducible Research</b>
+
+Instructions coming soon.
