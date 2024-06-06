@@ -74,17 +74,17 @@
 #   ribbon:
 #     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
-# - 
-#   id: 19
-#   name: "Yvette"
-#   surname: "Wharton"
-#   company: "Centre for eResearch"
-#   title: "eResearch Solutions Lead"
-#   bio: "Yvette is the team lead of the Centre for eResearch's Solutions team."
-#   thumbnailUrl: "yvette_wharton.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+- 
+  id: 19
+  name: "Yvette"
+  surname: "Wharton"
+  company: "Centre for eResearch"
+  title: "eResearch Solutions Lead"
+  bio: "Yvette is the team lead of the Centre for eResearch's Solutions team."
+  thumbnailUrl: "yvette_wharton.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
   
 # -
 #   id: 21
@@ -110,17 +110,17 @@
 #   ribbon:
 #     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
-# -
-#   id: 27
-#   name: "Chris"
-#   surname: "Seal"
-#   company: "University of Auckland"
-#   title: "Senior eResearch Solutions Specialist"
-#   bio: "Chris is a Senior Solutions Specialist at the University of Auckland's Centre for eResearch, where he leads the development of the University's Instrument Data Service (IDS), which is built using Python. He has an interest in furthering the use of persistent identifiers (PIDs) as a means of connecting different systems together. Because of this interest, he is a member of the I4IOz, an Australasian community of practice developing best-practice guidance for using PIDs for instruments and is on the international advisory board for the newly developed research activity identifier (RAiD)."
-#   thumbnailUrl: "chris_seal.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+-
+  id: 27
+  name: "Chris"
+  surname: "Seal"
+  company: "University of Auckland"
+  title: "Senior eResearch Solutions Specialist"
+  bio: "Chris is a Senior Solutions Specialist at the University of Auckland's Centre for eResearch, where he leads the development of the University's Instrument Data Service (IDS), which is built using Python. He has an interest in furthering the use of persistent identifiers (PIDs) as a means of connecting different systems together. Because of this interest, he is a member of the I4IOz, an Australasian community of practice developing best-practice guidance for using PIDs for instruments and is on the international advisory board for the newly developed research activity identifier (RAiD)."
+  thumbnailUrl: "chris_seal.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
 # -
 #   id: 29
@@ -185,9 +185,9 @@
   id: 53
   name: "Andre"
   surname: "Geldenhuis"
-  company: "Victoria University of Wellington"
-  title: "Research Software engineer"
-  bio: "Andre is a research software engineer based in Victoria University of Wellington's Centre for Academic Development Andre works with academics and post-graduate students to deliver high-technology research and teaching outcomes and solutions."
+  company: "University of Auckland"
+  title: "Senior Solutions Specialist"
+  bio: "André Geldenhuis is a Senior Solutions Specialist at the University of Auckland's Centre for eResearch, focusing on Secure Research Environments and training academics in their use. At Victoria University of Wellington, he was responsible for overseeing the university's high-performance computing operations. André holds a Master's in Physics and a Bachelor's degree in Philosophy from the University of Canterbury. He has a fondness for electronics projects and model rocketry."
   thumbnailUrl: "andre.geldenhuis.jpg"
   rockstar: false 
   ribbon:
@@ -222,8 +222,8 @@
   name: "Tom"
   surname: "Saunders"
   company: "University of Auckland"
-  title: "eResearch Engagement Specialist"
-  bio: "Tom is a co-organiser of ResBaz Aotearoa and works in the Centre for eResearch at the University of Auckland. Tom coordinates the Centre's researcher development events by planning, organising, and in some cases teaching digital research skills workshops, as a certified Carpentries instructor. He also consults with researchers on managing research data throughout the research project lifecycle and is an administrator on the University of Auckland's institutional Figshare repository."
+  title: "Engagement Specialist"
+  bio: "Tom is a co-organiser of ResBaz Aotearoa. He works in the Centre for eResearch at the University of Auckland where he coordinates researcher development events by planning, organising, and in some cases teaching digital research skills workshops, as a certified Carpentries instructor. He also consults with researchers on managing research data throughout the research project lifecycle and is an administrator on the University of Auckland's institutional Figshare repository."
   thumbnailUrl: "tom_saunders.jpg"   
   rockstar: false
   ribbon:
@@ -485,17 +485,17 @@
 #   ribbon:
 #     - {abbr: "MU", title: "Massey University", url: "https://www.nzias.ac.nz/"}
 
-# -
-#   id: 106
-#   name: "Mandy"
-#   surname: "Phipps-Green"
-#   company: "University of Otago"
-#   title: "Research Services Librarian"
-#   bio: "Mandy is a newly-minted Research Services Librarian at the University of Otago, having worked in genetic disease research for the past 15 years. She holds a BA(Hons) in Anthropology and an MSc in Forensic Science, and is interested in open access/data/science, data science skills, research data management and bibliometrics. Mandy currently manages the University's of Otago's institutional repository, OUR Archive."
-#   thumbnailUrl: "mandy_phipps-green.jpeg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "UoO", title: "University of Otago", url: "https://www.otago.ac.nz/"}
+-
+  id: 106
+  name: "Mandy"
+  surname: "Phipps-Green"
+  company: "University of Otago"
+  title: "Research Services Librarian"
+  bio: "Mandy is a newly-minted Research Services Librarian at the University of Otago, having worked in genetic disease research for the past 15 years. She holds a BA(Hons) in Anthropology and an MSc in Forensic Science, and is interested in open access/data/science, data science skills, research data management and bibliometrics. Mandy currently manages the University's of Otago's institutional repository, OUR Archive."
+  thumbnailUrl: "mandy_phipps-green.jpeg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "UoO", title: "University of Otago", url: "https://www.otago.ac.nz/"}
 
 # -
 #   id: 107
@@ -587,7 +587,7 @@
   surname: "Thorne"
   company: "Victoria University of Wellington"
   title: "Digital Research Consultant"
-  bio: "Dr Hayden Thorne is a Digital Research Consultant in the Centre for Academic Development at Te Herenga Waka Victoria University of Wellington. He works on a regular basis with both academics and professional staff to both optimise their survey setup and perform effective analysis of the data that is collected."
+  bio: "Dr Hayden Thorne is currently a Research Funding Adviser at Te Herenga Waka Victoria University of Wellington. In a past life, he worked in a digital research team, and has worked extensively with academic and professional staff to both optimise their survey setup and perform effective analysis of the data that is collected."
   thumbnailUrl: "hayden_throne.jpg"
   rockstar: false 
   ribbon:
@@ -927,3 +927,15 @@
   rockstar: false
   ribbon:
     - {abbr: "", title: "University of Auckland", url: "https://www.auckland.ac.nz/en/fmhs.html"}
+
+- 
+  id: 144
+  name: "Shamim"
+  surname: "Shadfar"
+  company: "University of Auckland"
+  title: "Engagement Specialist"
+  bio: "."
+  thumbnailUrl: "shamim-shadfar.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}

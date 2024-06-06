@@ -27,7 +27,7 @@
     FAIR, CARE and Maori Data Sovereignty principles, and develop strategies for data
     management planning, capturing, organising, sharing, and reusing research data.
   subtype: workshop
-  speakers: [14, 58]
+  speakers: [14, 138]
   complexity: Beginner
   length: 2 hours
   capacity: Unlimited
@@ -159,7 +159,7 @@
     your sources. In this two hour workshop you'll learn how to use Zotero to capture,
     organise, and cite your references when you need them.
   subtype: workshop
-  speakers: [58]
+  speakers: [58, 134]
   themes: [publish]
   complexity: Beginner
   length: 2 hours
@@ -242,7 +242,7 @@
     the behaviour of commands with options and arguments, write scripts to perform
     actions on many files at once.\n\n "
   subtype: workshop
-  speakers: [96]
+  speakers: [96, 144]
   themes: [computing, datascience]
   complexity: Beginner
   length: 5 hours
@@ -376,7 +376,7 @@
     what virtual machines and high performance computers are, how these can be accessed
     and how they are useful to researchers."
   subtype: workshop
-  speakers: [17]
+  speakers: [17, 14, 58]
   themes: [computing]
   complexity: Beginner
   length: 1 hour
@@ -437,7 +437,7 @@
     just <a href="https://auckland.zoom.us/my/hackyhour">join via Zoom</a> when the
     session starts.
   subtype: workshop
-  speakers: [12, 58]
+  speakers: [12]
   themes: [computing, datascience]
   complexity: Beginner
   length: 1 hour
@@ -533,7 +533,6 @@
   length: 1 hour
   capacity: Unlimited
   recorded: "No"
-
   registration_link: 
     https://www.eventbrite.co.nz/e/tikanga-maori-research-ethics-and-maori-data-sovereignty-tickets-908002398617
 - id: 102
@@ -546,7 +545,7 @@
     accepting multiple programming languages (e.g. R, Python, Julia...) and output
     formats (e.g. docx, pdf, html...). '
   subtype: workshop
-  speakers: [66]
+  speakers: [66, 58, 135]
   complexity: Advanced
   length: 2 hours
   capacity: Limited
@@ -563,7 +562,7 @@
     you’d like to follow along, you need some basic R knowledge already. For an introduction
     to R for absolute beginners please see Introduction to R & RStudio. '
   subtype: workshop
-  speakers: [116]
+  speakers: [116, 53]
   complexity: Beginner
   length: 2 hours
   capacity: Limited
@@ -580,7 +579,7 @@
     a plot from a csv file, getting to grips with the core functionality of the language
     along the way. "
   subtype: workshop
-  speakers: [31, 107]
+  speakers: [31, 60]
   complexity: Beginner
   length: 4 hours
   capacity: Limited
@@ -597,7 +596,7 @@
     pay off in the long term by giving you a reliable way to professionally format
     your documents.
   subtype: workshop
-  speakers: [31]
+  speakers: [31, 110]
   complexity: Beginner
   length: 1 hour
   capacity: Unlimited
@@ -647,7 +646,7 @@
     from webpages, retrieved from APIs, and processed into a tabular form ready for
     analysis. Participants are expected to have a novice-level understanding of Python. '
   subtype: workshop
-  speakers: [110]
+  speakers: [110, 136]
   complexity: Intermediate
   length: 2 hours
   themes: [datascience]
@@ -666,7 +665,7 @@
     to ask questions, and provide participants with useful resources, but it will
     not be a hands-on session where participants can follow along. '
   subtype: workshop
-  speakers: [110, 12]
+  speakers: [27, 58, 136]
   complexity: Intermediate
   length: 2 hours
   themes: [datascience]
@@ -689,7 +688,7 @@
     line, i.e. launching commands, listing and editing files or changing directories
     is required.
   subtype: workshop
-  speakers: [131]
+  speakers: [131, 53]
   complexity: Beginner
   length: 3 hours
   themes: [computing]
@@ -715,7 +714,7 @@
     This is a beginner-friendly workshop - participants will benefit from having some
     basic experience with a command-line, but this isn't required.
   subtype: workshop
-  speakers: [12, 134]
+  speakers: [12, 134, 144]
   complexity: Beginner
   length: 3 hours
   themes: [computing]
