@@ -47,8 +47,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/setup/", text: "Setup"}
  # - {permalink: "/resources/", text: "Resources"}
- # - {permalink: "/setup/", text: "Setup"}
 
 
 bottomNavigationLinks:
