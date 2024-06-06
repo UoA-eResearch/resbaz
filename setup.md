@@ -31,10 +31,10 @@ If you have registered for a session requiring set up, you will be provided with
 This session is designed to be easy to follow but is targeted at people already familiar with basic coding, code editing software, and version control. We will be using R as an example but Python, R, Julia, and Observable JavaScript are the primary languages Quarto supports. Experience with R is not required.
 Before the session, install:
 1. [Quarto](https://quarto.org/docs/get-started/)
-2. [R](https://www.r-project.org/) or use Software Center/Self Service on University of Auckland devices.
+2. [R](https://www.r-project.org/)
 3. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 4. [Log in to GitHub (or sign up for a free account)](https://github.com/)
-5. [VS Code](https://code.visualstudio.com/download) or use Software Center/Self Service on University of Auckland devices.
+5. [VS Code](https://code.visualstudio.com/download)
   - VS Code Extensions (install in the extensions tab in VS Code):
     - R
     - Quarto
