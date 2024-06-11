@@ -658,8 +658,8 @@
   name: "Ana"
   surname: "Avilés"
   company: "University of Auckland"
-  title: ""
-  bio: ""
+  title: "Research Services Adviser"
+  bio: "Ana provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Education and Social Work. She offers consultations on information resources, researcher profiles and identifiers, impact and metrics, research data management, open access, and scholarly publishing. Ana collaborates to develop, support and deliver researcher skills development, partnering with research stakeholders to support University research reporting and benchmarking."
   thumbnailUrl: "ana-aviles.jpg"   
   rockstar: false
   ribbon:
@@ -867,18 +867,6 @@
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-
-- 
-  id: 139
-  name: "Ana"
-  surname: "Avilés"
-  company: "University of Auckland"
-  title: "Research Services Adviser, Libraries and Learning Services"
-  bio: "Ana provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Education and Social Work. She offers consultations on information resources, researcher profiles and identifiers, impact and metrics, research data management, open access, and scholarly publishing. Ana collaborates to develop, support and deliver researcher skills development, partnering with research stakeholders to support University research reporting and benchmarking."
-  thumbnailUrl: "ana-aviles.jpg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
 
 - 
   id: 140
