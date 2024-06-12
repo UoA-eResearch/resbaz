@@ -113,7 +113,7 @@ We will provide access to a Linux VM for the duration of the session, which you 
 
 ##### <b>Introduction to Version Control with Git</b>
 
-Instructions coming soon.
+Please see [here](https://uoa-eresearch.github.io/git-novice/#installing-git) for set up instructions.
 
 ##### <b>Introduction to Google Earth Engine</b>
 
