@@ -223,7 +223,7 @@
   length: 4 hours
   capacity: Limited
   registration_link: 
-    https://www.eventbrite.co.nz/e/introduction-to-r-and-rstudio-tickets-908001977357
+    full
 - id: 071
   title: Introduction to the Command Line
   description: "The Unix shell is a powerful tool that allows users to perform complex
@@ -568,7 +568,7 @@
   capacity: Limited
   themes: [datascience]
   registration_link: 
-    https://www.eventbrite.co.nz/e/hands-on-statistical-analysis-with-r-tickets-908002187987
+    full
 - id: 111
   title: Introduction to the Python Programming Language
   description: "Python is a high-level general purpose programming language that is
@@ -585,7 +585,7 @@
   capacity: Limited
   themes: [datascience]
   registration_link: 
-    https://www.eventbrite.co.nz/e/introduction-to-programming-with-python-tickets-908002198017
+    full
 - id: 112
   title: 'Latex 101: An Introduction to Formatting Documents With Code'
   description: This session will introduce attendees to LaTeX, a popular typesetting
