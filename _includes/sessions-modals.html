@@ -25,8 +25,12 @@
 						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span>
 						{% endif %}
 						{% if session.registration_link != null %}
-						<span class="theme-metadata"><a href="{{ session.registration_link }}">Registration link</a></span>
-						{% endif %}
+                            {% if session.registration_link contains 'https:' %}
+                                <p><span class="theme-metadata"><a href="{{ session.registration_link }}">Registration link</a></span></p>
+                            {% else %}
+                                <p><span class="theme-metadata"><span class="caption">Note: </span>This session is now full.</span></p>
+                            {% endif %}
+                        {% endif %}
 						{% if session.video %}
 						<div class="theme-video embed-responsive embed-responsive-16by9">
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>

@@ -25,9 +25,13 @@
                         <p>{% if session.recorded != null %}
                         <span class="theme-metadata"><span class="caption">Recorded: </span>{{ session.recorded }}</span>
                         {% endif %}</p>
-                        <p>{% if session.registration_link != null %}
-                            <span class="theme-metadata"><a href="{{ session.registration_link }}">Registration link</a></span>
-                        {% endif %}</p>
+                        {% if session.registration_link != null %}
+                            {% if session.registration_link contains 'https:' %}
+                                <p><span class="theme-metadata"><a href="{{ session.registration_link }}">Registration link</a></span></p>
+                            {% else %}
+                                <p><span class="theme-metadata"><span class="caption">Note: </span>This session is now full.</span></p>
+                            {% endif %}
+                        {% endif %}
                         <hr />
                         <span class="text-body">{{ session.description }}</span>
                         <div class="slot-theme">
