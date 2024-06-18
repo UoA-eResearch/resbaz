@@ -670,8 +670,7 @@
   length: 2 hours
   themes: [datascience]
   capacity: Unlimited
-  registration_link: 
-    https://www.eventbrite.co.nz/e/how-to-present-data-results-on-a-self-updating-website-using-github-actions-tickets-908002268227
+  registration_link: full
 - id: 124
   title: Hands-on introduction to leveraging containers in research code
   description: Have you ever found yourself with a potpourri of Python versions lingering
