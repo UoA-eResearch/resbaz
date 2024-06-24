@@ -134,4 +134,4 @@ Please see [here](https://github.com/andre-geldenhuis/python-image-manipulation-
 
 ##### <b>Jupyter Notebooks For Reproducible Research</b>
 
-Instructions coming soon.
+We will use a web-based version of Jupyter Notebooks called [JupyterLite](https://jupyter.org/try-jupyter/lab/), so you do not need to download or install any software before the session. After the intro on using Jupyter Notebooks in your research, we will do an exercise in exploratory data analysis using an [open dataset on Aphantasia](https://osf.io/a8yb3) from OSF (Brainbridge et al., 2021). You can choose to sit back and watch or follow along via the [exercise notebook](https://github.com/Konstantinna/ResBaz2024) uploaded on GitHub. 
