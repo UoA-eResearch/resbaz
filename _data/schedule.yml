@@ -188,13 +188,13 @@
     - {
     	startTime: "13:00",
     	endTime: "14:00",
-    	sessionIds: [077, 062, 123]
+    	sessionIds: [077, 062, 300]
     }
 
     - {
       startTime: "14:00",
       endTime: "15:00",
-      sessionIds: [077, 062, 123]
+      sessionIds: [077, 062, 300]
     }
 
     - {

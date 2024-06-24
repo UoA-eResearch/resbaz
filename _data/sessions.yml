@@ -653,24 +653,24 @@
   capacity: Limited
   registration_link: 
     https://www.eventbrite.co.nz/e/getting-data-from-the-web-an-introduction-to-webscraping-and-apis-tickets-908002258197
-- id: 123
-  title: How to present data & results on a self-updating website, using GitHub Actions
-  description: 'This workshop describes a workflow for creating a self-updating website,
-    hosted on GitHub Pages and powered by GitHub Actions, both of which are free services
-    (with some limitations). These kinds of websites allow you to build up a dataset
-    over time and display that data as a dynamic ‘dashboard’ which automatically updates
-    with new data. Participants will benefit from a basic understanding of web scraping,
-    either by attending "Getting data from the web", or through prior knowledge. This
-    2 hour taster session will introduce and link important concepts, offer a chance
-    to ask questions, and provide participants with useful resources, but it will
-    not be a hands-on session where participants can follow along. '
-  subtype: workshop
-  speakers: [27, 58, 136]
-  complexity: Intermediate
-  length: 2 hours
-  themes: [datascience]
-  capacity: Unlimited
-  registration_link: full
+# - id: 123
+#   title: How to present data & results on a self-updating website, using GitHub Actions
+#   description: 'This workshop describes a workflow for creating a self-updating website,
+#     hosted on GitHub Pages and powered by GitHub Actions, both of which are free services
+#     (with some limitations). These kinds of websites allow you to build up a dataset
+#     over time and display that data as a dynamic ‘dashboard’ which automatically updates
+#     with new data. Participants will benefit from a basic understanding of web scraping,
+#     either by attending "Getting data from the web", or through prior knowledge. This
+#     2 hour taster session will introduce and link important concepts, offer a chance
+#     to ask questions, and provide participants with useful resources, but it will
+#     not be a hands-on session where participants can follow along. '
+#   subtype: workshop
+#   speakers: [27, 58, 136]
+#   complexity: Intermediate
+#   length: 2 hours
+#   themes: [datascience]
+#   capacity: Unlimited
+#   registration_link: full
 - id: 124
   title: Hands-on introduction to leveraging containers in research code
   description: Have you ever found yourself with a potpourri of Python versions lingering
