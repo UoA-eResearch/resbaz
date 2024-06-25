@@ -801,14 +801,8 @@
     https://www.eventbrite.co.nz/e/an-introduction-to-cloud-security-for-researchers-tickets-908002248167
 - id: 130
   title: Using digital tools for transcription
-  description: Transcribing audio into text is part of the research process for many
-    researchers. Manually transcribing text can be time consuming, so an increasing
-    number of researchers are using software to transcribe, for example, interview
-    or focus group audio recordings. Join us to hear about various transcription tools,
-    including a demonstration of OpenAI's Whisper - an automatic speech recognition
-    system trained on a Large (multi-lingual) Language Model that can be run on a
-    local computer or restricted access virtiual machine
-  speakers: [14, 60, 138]
+  description: Transcribing audio into text is part of the research process for many researchers. Manually transcribing text can be time consuming, so an increasing number of researchers are using software to transcribe, for example, interview or focus group audio recordings. Join us to hear about various transcription tools, selection considerations and a demonstration of OpenAI's Whisper - an automatic speech recognition system trained on a Large (multi-lingual) Language Model that can be run on a local computer or restricted access virtual machine.
+  speakers: [14, 60, 102]
   complexity: Beginner
   length: 1 hour
   themes: [qual]
