@@ -927,3 +927,15 @@
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+
+- 
+  id: 145
+  name: "Jonathan"
+  surname: "Williman"
+  company: "University of Otago, Christchurch"
+  title: "Senior Research Fellow, Biostatistics and Computation Biology Unit"
+  bio: "Jonathan Williman is a biostatistician with over 10 years experience collaborating on clinical trials and epidemiological studies using routinely collected health data. Good data management practices are too often neglected in research but can have a strong bearing on the quality and validity of reported results."
+  thumbnailUrl: ""   
+  rockstar: false
+  ribbon:
+    - {abbr: "Otago", title: "University of Otago", url: "https://www.otago.ac.nz/christchurch/research/biostatistics"}

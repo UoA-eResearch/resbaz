@@ -85,17 +85,9 @@
     https://www.eventbrite.co.nz/e/introduction-to-cleaning-transforming-data-with-openrefine-tickets-908001867027
 - id: 061
   title: 'Research Data Collection & Surveys with REDCap: An Overview'
-  description: REDCap is used by researchers to create surveys or databases to collect
-    and track information and research data, and schedule study events. It is ideal
-    for sensitive research data, including personally identifiable data and consent.
-    It supports different levels of access for collaborators, including from multiple
-    sites and institutions, and tracking of data entry and revision history. REDCap
-    enables online and offline data collection, data sovereignty obligations, and
-    export of data into common software. It is used across the Aotearoa research community,
-    including Universities, CRIs and Te Whatu Ora. Join us to hear about and see a
-    demonstration of how this tool can help your research.
+  description: REDCap is used by researchers to create surveys or databases to collect and track information and research data, and schedule study events. It is ideal for sensitive research data, including personally identifiable data and consent. It supports different levels of access for collaborators, including from multiple sites and institutions, and tracking of data entry and revision history. REDCap enables online and offline data collection, data sovereignty obligations, and export of data into common software. It is used across the Aotearoa research community, including Universities, CRIs and Te Whatu Ora. Sarah will provide a short introduction before Jonathan covers the basics of how longitudinal or repeated data may be captured using a variety of tools within REDCap. He’ll start with an introduction of the underlying data structures, then cover the use of events and repeating forms, and how to export the data in a way that simplifies the analysis to be undertaken. Join us to hear the presentation and ask questions.
   subtype: workshop
-  speakers: [125, 126]
+  speakers: [145, 138]
   themes: [qual]
   complexity: Beginner
   length: 1 hour
