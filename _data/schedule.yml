@@ -98,7 +98,7 @@
 # Wednesday
 - 
   date: "2024-07-10"
-  dateReadable: "Wedsnesday 10 July"
+  dateReadable: "Wednesday 10 July"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
