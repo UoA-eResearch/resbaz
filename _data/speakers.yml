@@ -939,3 +939,15 @@
   rockstar: false
   ribbon:
     - {abbr: "Otago", title: "University of Otago", url: "https://www.otago.ac.nz/christchurch/research/biostatistics"}
+
+- 
+  id: 146
+  name: "Victoria"
+  surname: "Hewitt"
+  company: "University of Auckland"
+  title: "Researcher Development Adviser"
+  bio: "I am a researcher development adviser supporting research training opportunities at the University of Auckland. My scientific research explored cellular mechanisms of neurodegeneration looking at the role of mitochondria in neuronal function. After a PhD at Monash University, I was awarded an EMBO Long-term Fellowship and worked as a postdoc at the University of Cambridge and an associate research scientist at Columbia University, New York. During my PhD I was part of the working group that created the Faculty Graduate School program with a focus on the transferable skills and taught classes in scientific writing and communication. While a postdoc at Columbia, I worked with postdocs, PhD students, technical, administrative and academic staff to build training, mentoring and networking programs to foster a more collaborative and supportive training environment for all researchers."
+  thumbnailUrl: "victoria-hewitt.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "ORSI", title: "University of Auckland", url: "https://research-hub.auckland.ac.nz/research-project-support/ORSI"}
