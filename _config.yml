@@ -47,8 +47,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {permalink: "/setup/", text: "Setup"}
- # - {permalink: "/resources/", text: "Resources"}
+#  - {permalink: "/setup/", text: "Setup"}
+ - {permalink: "/resources/", text: "Resources"}
 
 
 bottomNavigationLinks:
@@ -58,12 +58,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "silver_eye.jpg"
-heroTitle: "ResBaz 2024: 8-12 July"
+heroTitle: "Thanks For Attending ResBaz 2024"
 eventDate: ""
 typeoutTextValues: " is starting soon"
 typeoutFallback: ""
 heroButtons:
- - {link: "/schedule/", text: "Registrations are open"}
+ - {link: "/schedule/", text: "See what we did in 2024"}
 
 # About Block
 # aboutTitle: ""
