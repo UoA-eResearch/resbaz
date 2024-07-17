@@ -14,6 +14,7 @@ If workshop presenters have shared their slides and other materials they will be
 - [Strategic Publishing: Deciding Where To Publish \& Understanding The Process](#strategic-publishing-deciding-where-to-publish--understanding-the-process)
 - [Researcher Skills And Career Planning For Academia And Beyond](#researcher-skills-and-career-planning-for-academia-and-beyond)
 - [Nectar Research Cloud services at the University of Auckland](#nectar-research-cloud-services-at-the-university-of-auckland)
+- [Visual Abstracts Create An Attention Hook To Your Published Article](#visual-abstracts-create-an-attention-hook-to-your-published-article)
 - [Authoring Collaborative Research Projects In Quarto](#authoring-collaborative-research-projects-in-quarto)
 - [Introduction To The Command Line](#introduction-to-the-command-line)
 - [Research Collaboration And Reproducibility With Google Colab](#research-collaboration-and-reproducibility-with-google-colab)
@@ -81,7 +82,9 @@ Further information:
 
 <!-- ##### <b>Joining the dots for modern data science workflows</b> -->
 
-<!-- ##### <b>Visual Abstracts Create An Attention Hook To Your Published Article</b> -->
+##### <b>Visual Abstracts Create An Attention Hook To Your Published Article</b>
+
+[Slides](/assets/resbaz-2024/visual-abstracts.pdf)
 
 ##### <b>Authoring Collaborative Research Projects In Quarto</b>
 
