@@ -14,12 +14,14 @@ If workshop presenters have shared their slides and other materials they will be
 - [Strategic Publishing: Deciding Where To Publish \& Understanding The Process](#strategic-publishing-deciding-where-to-publish--understanding-the-process)
 - [Researcher Skills And Career Planning For Academia And Beyond](#researcher-skills-and-career-planning-for-academia-and-beyond)
 - [Nectar Research Cloud services at the University of Auckland](#nectar-research-cloud-services-at-the-university-of-auckland)
+- [Joining the dots for modern data science workflows](#joining-the-dots-for-modern-data-science-workflows)
 - [Visual Abstracts Create An Attention Hook To Your Published Article](#visual-abstracts-create-an-attention-hook-to-your-published-article)
 - [Authoring Collaborative Research Projects In Quarto](#authoring-collaborative-research-projects-in-quarto)
 - [Introduction To The Command Line](#introduction-to-the-command-line)
 - [Research Collaboration And Reproducibility With Google Colab](#research-collaboration-and-reproducibility-with-google-colab)
 - [Collaborating With Dropbox: Tips And Tricks](#collaborating-with-dropbox-tips-and-tricks)
 - [Hands-on introduction to leveraging containers in research code](#hands-on-introduction-to-leveraging-containers-in-research-code)
+- [Latex 101: An Introduction to Formatting Documents With Code](#latex-101-an-introduction-to-formatting-documents-with-code)
 - [An introduction to cloud security for researchers](#an-introduction-to-cloud-security-for-researchers)
 - [An Introduction to Processing Remote Sensing Data With Google Earth Engine](#an-introduction-to-processing-remote-sensing-data-with-google-earth-engine)
 - [Data Management Planning](#data-management-planning)
@@ -39,6 +41,8 @@ If workshop presenters have shared their slides and other materials they will be
 - [Introduction To High Performance Computing With NeSI](#introduction-to-high-performance-computing-with-nesi)
 - [Managing References With Zotero](#managing-references-with-zotero)
 - [Hands-On Statistical Analysis With R](#hands-on-statistical-analysis-with-r)
+
+
 
 ##### <b>Introduction To Cleaning & Transforming Data With Openrefine</b>
 
@@ -80,7 +84,9 @@ Further information:
 
 [Slides](/assets/resbaz-2024/nectar-services.pdf)
 
-<!-- ##### <b>Joining the dots for modern data science workflows</b> -->
+##### <b>Joining the dots for modern data science workflows</b>
+
+[Slides](https://jensbri.github.io/QuartoSlides/JoiningTheDots#/live-demo)
 
 ##### <b>Visual Abstracts Create An Attention Hook To Your Published Article</b>
 
@@ -106,7 +112,9 @@ Please see [here](https://github.com/VictorGambarini/ColabWorkshop/blob/main/Res
 
 Please see [this GitHub repository](https://github.com/UoA-eResearch/resbaz-2024-containers).
 
-<!-- ##### <b>Latex 101: An Introduction to Formatting Documents With Code</b> -->
+##### <b>Latex 101: An Introduction to Formatting Documents With Code</b>
+
+[Slides](https://jensbri.github.io/QuartoSlides/LaTeX101-24#/title-slide)
 
 ##### <b>An introduction to cloud security for researchers</b>
 
@@ -144,7 +152,7 @@ Please see [this GitHub repository](https://github.com/ablaom/HelloJulia.jl/tree
 
 ##### <b>Introduction to programming with Python</b>
 
-[Slides](/assets/resbaz-2024/python-intro.pptx)
+Please see the [Slides](/assets/resbaz-2024/python-intro.pptx) and [this GitHub repository](https://github.com/UoA-eResearch/ResBaz24Python)
 
 ##### <b>Introduction to version control with Git</b>
 
