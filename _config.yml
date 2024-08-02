@@ -58,12 +58,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "silver_eye.jpg"
-heroTitle: "Thanks For Attending ResBaz 2024"
+heroTitle: "ResBaz 2025: 30 June - 4 July"
 eventDate: ""
-typeoutTextValues: " is starting soon"
+typeoutTextValues: ""
 typeoutFallback: ""
 heroButtons:
- - {link: "/schedule/", text: "See what we did in 2024"}
+ - {link: "https://forms.office.com/r/rGu5B858B9", text: "Sign up to be notified"}
 
 # About Block
 # aboutTitle: ""
