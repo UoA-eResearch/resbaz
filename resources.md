@@ -5,7 +5,7 @@ permalink: /resources/
 isStaticPost: true
 image: aurora.jpg
 ---
-If workshop presenters have shared their slides and other materials they will be linked below.
+See below for 2024 resources.
 
 - [Introduction To Cleaning \& Transforming Data With Openrefine](#introduction-to-cleaning--transforming-data-with-openrefine)
 - [Keeping Your Spreadsheets Tidy](#keeping-your-spreadsheets-tidy)

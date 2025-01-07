@@ -8,21 +8,7 @@
   thumbnailUrl: "konstantina.vasileva.jpg"
   rockstar: false
   ribbon:
-    - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
-
-# - 
-#   id: 11
-#   name: "Jay"
-#   surname: "Gattuso"
-#   company: "National Library Of New Zealand"
-#   title: "Digital Preservation Analyst"
-#   bio: ""
-#   thumbnailUrl: "to_be_announced1.png"
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "NLNZ", title: "National Library Of New Zealand", url: "https://natlib.govt.nz/"}
-#   social: 
-#     - {name: "github", link: "https://github.com/Hganavak"}
+    - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
 - 
   id: 12
@@ -62,23 +48,11 @@
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
-# - 
-#   id: 18
-#   name: "Libby"
-#   surname: "Li"
-#   company: "Centre for eResearch"
-#   title: "eResearch Solutions Specialist"
-#   bio: "Libby is an eResearch Solutions Specialist."
-#   thumbnailUrl: "libby_li.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-
 - 
   id: 19
   name: "Yvette"
   surname: "Wharton"
-  company: "Centre for eResearch"
+  company: "University of Auckland"
   title: "eResearch Solutions Lead"
   bio: "Yvette is the team lead of the Centre for eResearch's Solutions team."
   thumbnailUrl: "yvette_wharton.jpg"
@@ -94,18 +68,6 @@
 #   title: "eResearch Solutions Analyst"
 #   bio: "Anita is a Centre for eResearch Platform & Services Team Engineer."
 #   thumbnailUrl: "anita_kean.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-
-# -
-#   id: 22
-#   name: "Mike"
-#   surname: "Laverick"
-#   company: "University of Auckland"
-#   title: "Senior eResearch Solutions Specialist"
-#   bio: "Mike is a Senior eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
-#   thumbnailUrl: "mike_laverick.jpg"
 #   rockstar: false 
 #   ribbon:
 #     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -126,33 +88,21 @@
 #   id: 29
 #   name: "Faith"
 #   surname: "Welch"
-#   company: "Office of Research Strategy and Integrity"
+#   company: "University of Auckland"
 #   title: "Research Impact Manager"
 #   thumbnailUrl: "faith-welch.jpg"
 #   rockstar: false 
 #   ribbon:
-#    - {abbr: "ORSI", title: "Office of Research Strategy and Integrity", url: "https://www.auckland.ac.nz"}
+#    - {abbr: "RIO", title: "Research & Innovation Office", url: "https://www.auckland.ac.nz"}
 
 -
   id: 30
   name: "Nick"
   surname: "Young"
   company: "Centre for eResearch"
-  title: "eResearch Senior Solutions Specialist"
+  title: "Senior eResearch Solutions Specialist"
   bio: "Nick Young works at the Centre for eResearch as a Research Software Engineer. His primary focus is on research data visualisation, helping researchers across the University visualise their research data with a variety of programming languages."
   thumbnailUrl: "nick_young.jpg"
-  rockstar: false 
-  ribbon:
-   - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-
--
-  id: 31
-  name: "Jens"
-  surname: "Brinkmann"
-  company: "University of Auckland"
-  title: "Senior eResearch Engagement Specialist"
-  bio: "Jens is passionate about learning how things work and teaching. After working as a consultant in engineering roles in several countries, he came to the University of Auckland for a PhD. After completing his PhD, he went on to teach for a year at Unitec. He enjoys working at the Centre for eResearch (CeR), where he aims to provide the same high level of support to researchers and staff members as what he received from CeR during his own PhD."
-  thumbnailUrl: "jens_brinkmann.jpg"
   rockstar: false 
   ribbon:
    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -181,17 +131,17 @@
   ribbon:
     - {abbr: "VUW", title: "Research Office, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
--
-  id: 53
-  name: "Andre"
-  surname: "Geldenhuis"
-  company: "University of Auckland"
-  title: "Senior Solutions Specialist"
-  bio: "André Geldenhuis is a Senior Solutions Specialist at the University of Auckland's Centre for eResearch, focusing on Secure Research Environments and training academics in their use. At Victoria University of Wellington, he was responsible for overseeing the university's high-performance computing operations. André holds a Master's in Physics and a Bachelor's degree in Philosophy from the University of Canterbury. He has a fondness for electronics projects and model rocketry."
-  thumbnailUrl: "andre.geldenhuis.jpg"
-  rockstar: false 
-  ribbon:
-    - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+# -
+#   id: 53
+#   name: "Andre"
+#   surname: "Geldenhuis"
+#   company: "University of Auckland"
+#   title: "Senior Solutions Specialist"
+#   bio: "André Geldenhuis is a Senior Solutions Specialist at the University of Auckland's Centre for eResearch, focusing on Secure Research Environments and training academics in their use. At Victoria University of Wellington, he was responsible for overseeing the university's high-performance computing operations. André holds a Master's in Physics and a Bachelor's degree in Philosophy from the University of Canterbury. He has a fondness for electronics projects and model rocketry."
+#   thumbnailUrl: "andre.geldenhuis.jpg"
+#   rockstar: false 
+#   ribbon:
+#     - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
 - 
   id: 54
@@ -203,7 +153,7 @@
   thumbnailUrl: "callum_walley.jpeg"   
   rockstar: false
   ribbon:
-    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
 
 - 
   id: 55
@@ -215,7 +165,7 @@
   thumbnailUrl: "eirian_perkins.jpeg"   
   rockstar: false
   ribbon:
-    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
 
 - 
   id: 58
@@ -223,7 +173,7 @@
   surname: "Saunders"
   company: "University of Auckland"
   title: "Engagement Specialist"
-  bio: "Tom is a co-organiser of ResBaz Aotearoa. He works in the Centre for eResearch at the University of Auckland where he coordinates researcher development events by planning, organising, and in some cases teaching digital research skills workshops, as a certified Carpentries instructor. He also consults with researchers on managing research data throughout the research project lifecycle and is an administrator on the University of Auckland's institutional Figshare repository."
+  bio: "Tom is a co-organiser of ResBaz Aotearoa. He works in the Centre for eResearch at the University of Auckland where he coordinates researcher development events by planning, organising, and in some cases teaching digital research skills workshops, as a certified Carpentries instructor. He also consults with researchers on managing research data throughout the research project lifecycle and is an administrator of the University of Auckland's institutional Figshare repository."
   thumbnailUrl: "tom_saunders.jpg"   
   rockstar: false
   ribbon:
@@ -232,30 +182,6 @@
     - {name: "site", link: "https://tomsaunders.me/"}
     - {name: "twitter", link: "https://bsky.app/profile/tomsaunders.me"} 
     - {name: "github", link: "https://github.com/tesaunders"}
-
-# - 
-#   id: 59
-#   name: "Fiona"
-#   surname: "Lamont"
-#   company: "University of Auckland"
-#   title: "Research Services Team Leader"
-#   bio: "Fiona is a Research Services Team Lead within Libraries and Learning Services, University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff, particularly those within the creative arts."
-#   thumbnailUrl: "fiona_lamont.png"   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
-
-- 
-  id: 60
-  name: "Ben"
-  surname: "Collings"
-  company: "University of Auckland"
-  title: "Engagement Specialist"
-  bio: "Ben is an Engagement Specialist at the Centre for eResearch. Recently submitting his PhD thesis, investigating national-scale coastal change through the application of Satellite Remote Sensing data. He is involved in the organisation, delivery, and development of digital skills workshops, specifically for researchers, to help them upskill and enhance their research capabilty." 
-  thumbnailUrl: "ben_collings.jpg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
 # - 
 #   id: 63
@@ -279,19 +205,7 @@
   thumbnailUrl: "quinn_asena.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-
-# - 
-#   id: 67
-#   name: "Dinindu"
-#   surname: "Senanayake"
-#   company: "New Zealand eScience Infrastructure"
-#   title: "HPC applications support specialist"
-#   bio: "Dinindu Senanayakeis a NeSI Applications Support Specialist, specifically in Genomics/Bioinformatics. He has approximately seven years of research experience in Cancer Genetics, Chemical Genetics and Systems Biology. Originally from Sri Lanka, he moved to New Zealand in 2006, arriving for studies and staying for nature."
-#   thumbnailUrl: "dinindu_senanayake.jpeg"   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
+    - {abbr: "", title: "", url: ""}
 
 - 
   id: 74
@@ -303,43 +217,7 @@
   thumbnailUrl: "tim_mcnamara.jpeg"   
   rockstar: false
   ribbon:
-    - {abbr: "ACC", title: "Accelerant.dev", url: "https://tim.mcnamara.nz/"}
-
-- 
-  id: 75
-  name: "Anthony"
-  surname: "Blaom"
-  company: "University of Auckland"
-  title: "Senior Research Fellow"
-  bio: "Dr. Blaom is a mathematician who has published in differential geometry, dynamical systems, fluid mechanics and machine learning. He also lectured in mathematics for many years. He is a co-creator and lead contributor for MLJ, an open-source machine learning platform launched by the Alan Turing Institute, London, in 2019."
-  thumbnailUrl: "blaom_portrait.jpg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "FOS", title: "Faculty of Science", url: "https://science.auckland.ac.nz"}
-
-# - 
-#   id: 77
-#   name: "Gene"
-#   surname: "Soudlenkov"
-#   company: "New Zealand eScience Infrastructure"
-#   title: "Research Support Team Lead"
-#   bio: "Gene is a member of the University of Auckland office of NeSI as a Research Support Team Lead."
-#   thumbnailUrl: "gene_soudlenkov.jpg"   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
-
-# -
-#   id: 84
-#   name: "Jonny"
-#   surname: "Flutey"
-#   company: "Victoria University of Wellington"
-#   title: "Deputy Director, CAD"
-#   bio: "Jonathan Flutey is the Deputy Director of Victoria University of Wellington's Centre for Academic Development. He has led  digital development across the university including supporting e-initiatives into new areas of teaching and research."
-#   thumbnailUrl: "jonathan-flutey.jpg"
-#   rockstar: true 
-#   ribbon:
-#    - {abbr: "CAD", title: "Centre for Academic Development", url: "http://www.cad.vuw.ac.nz/cad/"}
+    - {abbr: "", title: "Accelerant.dev", url: "https://tim.mcnamara.nz/"}
 
 # -
 #   id: 85
@@ -353,41 +231,17 @@
 #   ribbon:
 #    - {abbr: "You say data", title: "You say data", url: "https://thomaskoentges.com/"}
   
-# - 
-#   id: 92
-#   name: "Billie"
-#   surname: "Berry"
-#   company: "Victoria University of Wellington"
-#   title: "Learning Designer"
-#   bio: "Billie has recently graduated with an MA looking at the philosophy of statistics. In her work at VUW's Centre for Academic Development, she helps academics use digital resources, tools and methods to support student engagement."
-#   thumbnailUrl: "billie-berry.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
-
-# - 
-#   id: 94
-#   name: "Reuben"
-#   surname: "Ayeleke"
-#   company: "University of Auckland"
-#   title: "Clinical Research Data Manager"
-#   bio: "I'm currently the Clinical Research Data Manager for the Liggins Institute. I trained and practiced as a medical practitioner in Nigeria. Besides my medical degree, I hold a master's degree (MSc) in Public Health and Health Services Research from the University of Aberdeen (UK) and a doctoral degree (PhD) in Health Sciences from the University of Auckland."
-#   thumbnailUrl: "to_be_announced4.png"   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "Liggins", title: "Liggins Institute", url: "https://www.auckland.ac.nz/en/liggins.html"}
-
 - 
   id: 95
   name: "Amanda"
   surname: "Charlton"
   company: "University of Auckland"
-  title: "Hon Clinical Senior Lecturer"
+  title: "Hon. Clinical Senior Lecturer"
   bio: "Amanda is an enthusiastic biomedical educator at the University of Auckland and an Anatomical Pathologist at Auckland Hospital. Amanda is known for her simple, visual approaches to science communication across disciplines."
   thumbnailUrl: "amanda_charlton.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "FMHS", title: "Faculty of Medical and Health Sciences", url: "https://fmhs.auckland.ac.nz"}
+    - {abbr: "", title: "", url: ""}
 
 - 
   id: 96
@@ -411,7 +265,7 @@
 #   thumbnailUrl: "donna_maccoll.jpg"   
 #   rockstar: false
 #   ribbon:
-#     - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+#     - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 99
@@ -423,7 +277,7 @@
   thumbnailUrl: "erin_wood.jpeg"   
   rockstar: false
   ribbon:
-    - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 # - 
 #   id: 100
@@ -435,7 +289,7 @@
 #   thumbnailUrl: "rayna_dewar.jpg"   
 #   rockstar: false
 #   ribbon:
-#     - {abbr: "LLS", title: "Libraries and Learning Services", url: "https://library.auckland.ac.nz"}
+#     - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 101
@@ -447,7 +301,7 @@
   thumbnailUrl: "anthony_shaw.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
 
 - 
   id: 102
@@ -455,7 +309,7 @@
   surname: "Gowdra"
   company: "University of Auckland"
   title: "eResearch Solutions Specialist"
-  bio: "Dr. Nidhi Gowdra has a Bachelor's Degree in Information Sciences, a Master's degree in Computer  and Information Sciences and a Ph.D. majoring in Computer Vision. He has published Articles in Top Journals like Pattern Recognition and Conferences such as IECON. He was the Chair of Machine, Signal and Image Processing Session at the IEEE Industrial Electronics Society Conference (IECON-2020) and has been an academic supervisor for both undergrads and postgrads. His research interests are predominantly in Deep learning and specifically computer vision domain. He now works at the Centre for eResearch at the University of Auckland as an eresearch solutions specialist."
+  bio: "Dr. Nidhi Gowdra has a bachelor's degree in information sciences, a master's degree in computer  and information sciences and a Ph.D. in computer vision. He has published articles in top journals like Pattern Recognition and attended conferences such as IECON. He was the Chair of the Machine, Signal and Image Processing session at the IEEE Industrial Electronics Society Conference (IECON-2020) and has been an academic supervisor for both undergrads and postgrads. His research interests are predominantly in deep learning, and specifically computer vision. He now works at the Centre for eResearch at the University of Auckland as an eresearch solutions specialist."
   thumbnailUrl: "nidhi_gowdra.jpg"
   rockstar: false
   ribbon:
@@ -466,24 +320,12 @@
   name: "Victor"
   surname: "Gambarini"
   company: "University of Auckland"
-  title: "eResearch Engagement Specialist"
-  bio: "Victor recently joined the Centre for eResearch as an Engagement Specialist. He is completing his PhD in Biological Sciences at the University of Auckland. Victor has experience with Microbiology, Molecular Biology, and Bioinformatics, focusing on Metagenomics and Metatranscriptomics. At the Centre of eResearch, Victor will develop solutions to automate research projects' management and consult with researchers on the management of research data and computational resources."
+  title: "eResearch Platforms & Services Engineer"
+  bio: "Victor works in the Centre for eResearch as an eResearch Platforms & Services Engineer. He has recently completed his PhD in Biological Sciences at the University of Auckland. Victor has experience with Microbiology, Molecular Biology, and Bioinformatics, focusing on Metagenomics and Metatranscriptomics. At the Centre of eResearch, Victor is developing solutions to automate research projects' management and consult with researchers on the management of research data and computational resources."
   thumbnailUrl: "victor_gambarini.jpeg"
   rockstar: false
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-
-# - 
-#   id: 105
-#   name: "Matija"
-#   surname: "Čufar"
-#   company: "Massey University"
-#   title: "PhD Candidate, NZ Institute for Advanced Studies"
-#   bio: ""
-#   thumbnailUrl: "to_be_announced1.png"
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "MU", title: "Massey University", url: "https://www.nzias.ac.nz/"}
 
 -
   id: 106
@@ -496,18 +338,6 @@
   rockstar: false 
   ribbon:
     - {abbr: "UoO", title: "University of Otago", url: "https://www.otago.ac.nz/"}
-
-# -
-#   id: 107
-#   name: "Ben"
-#   surname: "Peters"
-#   company: "University of Otago"
-#   title: "Teaching Fellow"
-#   bio: "Ben Peters earned his PhD in biochemistry from the University of Otago. Since graduating he has been working as a teaching fellow in the biochemistry department. He develops teaching resources and has a keen passion for science communication."
-#   thumbnailUrl: "ben_peters.png"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "UoO", title: "Teaching Fellow, University of Otago", url: "https://www.otago.ac.nz/"}
 
 -
   id: 108
@@ -527,23 +357,11 @@
   surname: "Hema"
   company: "University of Auckland"
   title: "Poutiaki Rangahau Māori"
-  bio: "Geremy Hema (Ngāti Paoa, Te Rarawa) is the Poutiaki Rangahau Māori Māori Research and Data Sovereignty Steward, based in the Ihonuku Māori Office at Waipapa Taumata Rau. He holds a B.Sc and LLB from Waipapa Taumata Rau | The University of Auckland, and is an admitted barrister and solicitor of the High Court of New Zealand. "
+  bio: "Geremy Hema (Ngāti Paoa, Te Rarawa) is the Poutiaki Rangahau Māori Māori Research and Data Sovereignty Steward, based in the Ihonuku Māori Office at Waipapa Taumata Rau. He holds a BSc and LLB from Waipapa Taumata Rau, The University of Auckland, and is an admitted barrister and solicitor of the High Court of New Zealand."
   thumbnailUrl: "geremy_hema.png"
   rockstar: false 
   ribbon:
     - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
-
-- 
-  id: 110
-  name: "Nelis"
-  surname: "Drost"
-  company: "University of Auckland"
-  title: "Senior eResearch Solutions Specialist"
-  bio: "Nelis Drost is a Senior Solutions Specialist at the University of Auckland's eResearch Centre.  Nelis is a complex systems modeller whose work has spanned bioinformatics, epidemeology, archeaology and ecology."
-  thumbnailUrl: "nelis_drost.jpeg"
-  rockstar: false
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 
 - 
   id: 111
@@ -562,24 +380,12 @@
   name: "Hinearangi"
   surname: "Busby"
   company: "University of Auckland"
-  title: "Poutaki Rangahau Vision Mātauranga "
+  title: "Poutaki Rangahau Vision Mātauranga"
   bio: "Hinearangi Busby (Te Rarawa, Ngāpuhi), has held various roles at Waipapa Taumata Rau within the Library Learning Service Division and more recently as Poutaki Rangahau| Vision Mātauranga - Research Manager | Vision Mātauranga with Te Tari Rautaki Rangahau, Matatika - Office of Research Strategy & Integrity. She has a background in Mātauranga Māori, Contemporary Māori Policy Development, Contemporary Māori Economic development and has an interest in Indigenous Pedagogies as a praxis to transformation."
   thumbnailUrl: "hinearangi_busby.png"
   rockstar: false 
   ribbon:
     - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/"}
-
-# -
-#   id: 113
-#   name: "Stephen"
-#   surname: "Skalicky"
-#   company: "Victoria University of Wellington"
-#   title: "Senior Lecturer"
-#   bio: "Stephen is a computational social scientist who researches connections between language and cognition. His research employs natural language processing, text analytics/classification, behavioural experiments, and statistical modelling to explore different lexical, syntactic, and semantic aspects of creative language, such as sarcasm, metaphor, humour, and satire."
-#   thumbnailUrl: "stephen_skalicky.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
 -
   id: 114
@@ -591,19 +397,7 @@
   thumbnailUrl: "hayden_throne.jpg"
   rockstar: false 
   ribbon:
-    - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
-
-# -
-#   id: 115
-#   name: "Harkanwal"
-#   surname: "Singh"
-#   company: "Woolworths Group"
-#   title: "Data Engineering Lead"
-#   bio: "Harkanwal Singh is the data engineering lead at Countdown Supermarkets. Previously he has worked in data engineering and data journalism, including at WestpacNZ, NZ Herald and the Spinoff. He cares about the craft of data storytelling and robust data pipelines."
-#   thumbnailUrl: "harkanwal_singh.jpeg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "", title: "Woolworths Group", url: ""}
+    - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
 -
   id: 116
@@ -617,42 +411,6 @@
   ribbon:
     - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
-# -
-#   id: 117
-#   name: "Sydney"
-#   surname: "Shep"
-#   company: "Victoria University of Wellington"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: ""
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
-
-# -
-#   id: 118
-#   name: "Simon"
-#   surname: "McCallum"
-#   company: "Victoria University of Wellington"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: "mccallum.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "VUW", title: "Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
-
-# - 
-#   id: 119
-#   name: "Maria"
-#   surname: "Mitenkova"
-#   company: "University of Auckland"
-#   title: ""
-#   bio: "Maria has a PhD in English literature from the University of Auckland. She provides services to support and enhance the research activities of postgraduates and staff within the Faculty of Arts."
-#   thumbnailUrl: "maria_mitenkova.jpg"   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "LLS", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
-
 - 
   id: 120
   name: "Ana"
@@ -663,19 +421,19 @@
   thumbnailUrl: "ana-aviles.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "LLS", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 122
   name: "Julia"
   surname: "Mouatt"
   company: "University of Auckland"
-  title: ""
+  title: "Research Development Manager"
   bio: "Julia has a background in academia with a PhD in molecular ecology from the University of Copenhagen and a postdoc focusing on population genetics conducted with the U.S. Geological Survey at Oregon State University. After academia she worked as a product manager at the kiwi start-up Publons, which was acquired by Clarivate in 2017, where she was the head of the Web of Science Academy. While at Publons and Clarivate she helped develop online research integrity training courses and practical courses on how to peer review for journals, and set up a global peer review mentoring community built into the Web of Science Academy. In March 2023 she took on the role of researcher development manager at the University of Auckland to support academics in their professional development at all stages of their career."
   thumbnailUrl: "julia_mouatt.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "ORSI", title: "University of Auckland", url: "https://research-hub.auckland.ac.nz/research-project-support/ORSI"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 # - 
 #   id: 123
@@ -687,7 +445,7 @@
 #   thumbnailUrl: "james-harper.jpg"   
 #   rockstar: false
 #   ribbon:
-#     - {abbr: "", title: "University of Auckland", url: ""}
+#     - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 124
@@ -699,30 +457,7 @@
   thumbnailUrl: "Karich-Michael-3369.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
-
-# - 
-#   id: 125
-#   name: "Penny"
-#   surname: "Neave"
-#   company: "University of Auckland"
-#   title: "Data Services Client Manager"
-#   bio: ""
-#   thumbnailUrl: "penny-neave.jpg"   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "Liggins", title: "University of Auckland", url: ""}
-
-# - 
-#   id: 126
-#   name: "Jack"
-#   surname: "Wang"
-#   company: "University of Auckland"
-#   title: "Senior Database Developer"
-#   bio: ""   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "Liggins", title: "University of Auckland", url: ""}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 # - 
 #   id: 127
@@ -736,18 +471,6 @@
 #   ribbon:
 #     - {abbr: "Scimex", title: "Science Media Centre", url: "https://www.sciencemediacentre.co.nz/"}
 
-# - 
-#   id: 128
-#   name: "Paul"
-#   surname: "Wescott"
-#   company: "University of Auckland"
-#   title: "Cybersecurity Architect"
-#   bio: ""
-#   thumbnailUrl: ""   
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "University of Auckland", url: ""}
-
 - 
   id: 129
   name: "Cherie"
@@ -758,7 +481,7 @@
   thumbnailUrl: "cherie-lacey.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 130
@@ -770,7 +493,7 @@
   thumbnailUrl: "li-wang.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 131
@@ -782,19 +505,19 @@
   thumbnailUrl: "luis-gracia.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 132
   name: "Berit"
   surname: "Anderson"
   company: "University of Auckland"
-  title: "Team Leader in Research Services, Libraries and Learning Services"
+  title: "Team Lead, Research Services, Libraries and Learning Services"
   bio: "In 2023, Berit Anderson was the Open Access Delivery Lead at Waipapa Taumata Rau | University of Auckland, developing Open Access content for ResearchHub, organising local Open Access Week events, and co-leading the Universities New Zealand Open Access Toolkit for Aotearoa New Zealand Researchers project. She is now a Team Leader in Ngā Ratonga Manaaki Rangahau o Te Tumu Herenga | Research Services, Libraries and Learning Services."
   thumbnailUrl: "berit-anderson.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: "https://oaaustralasia.org/open-access-toolkit-for-aotearoa-new-zealand-researchers/"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 133
@@ -806,19 +529,19 @@
   thumbnailUrl: "simmon-hofstetter.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
-- 
-  id: 134
-  name: "James"
-  surname: "Love"
-  company: "University of Auckland"
-  title: "Solutions Specialist"
-  bio: "James Love is an instrument data specialist at the Centre for eResearch, Waipapa Taumata Rau University of Auckland. With an MSc in bioinformatics and a background in cybersecurity research for genomics, James helps develop tools and storage for research data across the university."
-  thumbnailUrl: "james-love.jpg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
+# - 
+#   id: 134
+#   name: "James"
+#   surname: "Love"
+#   company: "University of Auckland"
+#   title: "Solutions Specialist"
+#   bio: "James Love is an instrument data specialist at the Centre for eResearch, Waipapa Taumata Rau University of Auckland. With an MSc in bioinformatics and a background in cybersecurity research for genomics, James helps develop tools and storage for research data across the university."
+#   thumbnailUrl: "james-love.jpg"   
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 135
@@ -830,19 +553,7 @@
   thumbnailUrl: "tom-laurenson.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
-
-- 
-  id: 136
-  name: "Andrew"
-  surname: "Wilson"
-  company: "University of Auckland"
-  title: "Solutions Specialist"
-  bio: "Andrew is an eResearch Solutions Specialist at the Centre for eResearch, Waipapa Taumata Rau University of Auckland, where he works on a new Instrument Data Service. He has an MSc in Computer Science, and has previously worked as an R&D software engineer, focused on computer vision and digital human technology."
-  thumbnailUrl: "andrew-wilson.jpg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 137
@@ -854,19 +565,19 @@
   thumbnailUrl: ""   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: ""}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 138
   name: "Sarah"
   surname: "Hopkins"
   company: "University of Auckland"
-  title: "Engagement Specialist"
-  bio: "Sarah Hopkins is an Engagement Specialist at the Centre for eResearch for Waipapa Taumata Rau | University of Auckland. Sarah has a clinical research background in exercise physiology and youth mental health. She is enthusiastic about supporting researchers to navigate the evolving requirements for research data management and to increase digital skills and capabilities to enhance their research."
+  title: "Senior Engagement Specialist"
+  bio: "Sarah Hopkins is a Senior Engagement Specialist at the Centre for eResearch for Waipapa Taumata Rau | University of Auckland. Sarah has a clinical research background in exercise physiology and youth mental health. She is enthusiastic about supporting researchers to navigate the evolving requirements for research data management and to increase digital skills and capabilities to enhance their research."
   thumbnailUrl: "sarah-hopkins.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 140
@@ -878,7 +589,7 @@
   thumbnailUrl: "john-whiting.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.New Zealand eScience Infrastructure.org.nz/"}
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz/"}
 
 - 
   id: 141
@@ -890,7 +601,7 @@
   thumbnailUrl: "dawn-carlisle.png"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: "https://library.auckland.ac.nz"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://auckland.ac.nz"}
 
 - 
   id: 142
@@ -902,7 +613,7 @@
   thumbnailUrl: "katrina-poppe.png"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: "https://www.auckland.ac.nz/en/fmhs.html"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz"}
 
 - 
   id: 143
@@ -914,19 +625,7 @@
   thumbnailUrl: "vanessa-selak.png"   
   rockstar: false
   ribbon:
-    - {abbr: "", title: "University of Auckland", url: "https://www.auckland.ac.nz/en/fmhs.html"}
-
-- 
-  id: 144
-  name: "Shamim"
-  surname: "Shadfar"
-  company: "University of Auckland"
-  title: "Engagement Specialist"
-  bio: "Shamim has a background in academia with a PhD in computational biochemistry and a postdoc focusing on molecular modelling of potential biofuels. After academia she worked at Environmental Science and Research Institute (ESR) on developing computational methods on drug similarity projects. She is currently working as a research data management engagement specialist at the Centre for eResearch, Waipapa Taumata Rau University of Auckland to help researchers address challenging computational problems."
-  thumbnailUrl: "shamim-shadfar.jpg"   
-  rockstar: false
-  ribbon:
-    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz"}
 
 - 
   id: 145
@@ -938,7 +637,7 @@
   thumbnailUrl: ""   
   rockstar: false
   ribbon:
-    - {abbr: "Otago", title: "University of Otago", url: "https://www.otago.ac.nz/christchurch/research/biostatistics"}
+    - {abbr: "Otago", title: "University of Otago", url: "https://www.otago.ac.nz"}
 
 - 
   id: 146
@@ -950,4 +649,4 @@
   thumbnailUrl: "victoria-hewitt.jpg"   
   rockstar: false
   ribbon:
-    - {abbr: "ORSI", title: "University of Auckland", url: "https://research-hub.auckland.ac.nz/research-project-support/ORSI"}
+    - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz"}
