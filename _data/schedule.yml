@@ -1,7 +1,7 @@
 # Monday
 - 
   date: "2024-07-08"
-  dateReadable: "Monday 8 July"
+  dateReadable: "Monday 8 July 2024"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -47,7 +47,7 @@
 # Tuesday
 - 
   date: "2024-07-09"
-  dateReadable: "Tuesday 9 July"
+  dateReadable: "Tuesday 9 July 2024"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -98,7 +98,7 @@
 # Wednesday
 - 
   date: "2024-07-10"
-  dateReadable: "Wednesday 10 July"
+  dateReadable: "Wednesday 10 July 2024"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -155,7 +155,7 @@
 # Thursday
 - 
   date: "2024-07-11"
-  dateReadable: "Thursday 11 July"
+  dateReadable: "Thursday 11 July 2024"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
@@ -206,7 +206,7 @@
 # Friday
 - 
   date: "2024-07-12"
-  dateReadable: "Friday 12 July"
+  dateReadable: "Friday 12 July 2024"
   tracks: 
     - {title: "1", color: "#f27f27"}
     - {title: "2", color: "#e91e63"}
