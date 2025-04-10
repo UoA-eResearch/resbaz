@@ -5,6 +5,12 @@
   fontColor: "#000000"
 
 -
+  id: "hpc"
+  name: "High Performance Computing"
+  color: "#0394fc"
+  fontColor: "#000000"
+
+-
   id: "datascience"
   name: "Data Science"
   color: "#97d700"
@@ -18,12 +24,18 @@
 
 -
   id: "qual"
-  name: "Data Collection & Cleaning"
+  name: "Qualitative Methods"
   color: "#EB3100"
   fontColor: "#000000"
 
 -
-  id: "sec"
-  name: "Cybersecurity in Research"
+  id: "security"
+  name: "Cybersecurity"
+  color: "#6b03fc"
+  fontColor: "#000000"
+
+  -
+  id: "ai"
+  name: "Artifical Intelligence"
   color: "#6b03fc"
   fontColor: "#000000"
