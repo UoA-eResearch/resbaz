@@ -1,5 +1,6 @@
 # Plugins
-plugins: [jekyll-sitemap]
+plugins:
+- jekyll-sitemap
 safe: false
 
 # Build Settings
@@ -10,13 +11,14 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "Research Bazaar Aotearoa"
+title: "ResBaz Auckland 2019"
 email: "researchdata@auckland.ac.nz"
-description: "The Research Bazaar is a worldwide digital research skills event fostering innovation and collaboration."
+description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
 baseurl: ""
-url: "https://resbaz.auckland.ac.nz"
-googleTagManagerId: G-0CTZDPQYTZ
+url: "http://uoa-eresearch.github.io"
 permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -30,9 +32,9 @@ organizerLink: "https://www.eresearch.auckland.ac.nz"
 # Head
 metaKeywords: "event, resbaz, research, bazaar, resbas, rezbaz, uoa, auckland, cer, eresearch"
 twitterAccount: "@eResearchUoA"
-socialImageSrcGooglePlus: "/img/resbaz_logos/ResBaz_transparent_cropped.png"
-socialImageSrcTwitter: "/img/resbaz_logos/ResBaz_transparent_cropped.png"
-socialImageSrcFacebook: "/img/resbaz_logos/ResBaz_transparent_cropped.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "mailto:researchdata@auckland.ac.nz"
@@ -42,38 +44,32 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-#  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/about/", text: "About"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
-#  - {permalink: "/setup/", text: "Setup"}
-#  - {permalink: "/resources/", text: "Resources"}
-
-
 bottomNavigationLinks:
  - {link: "mailto:researchdata@auckland.ac.nz", text: "Contact us"}
 rightNavigationButtons:
  - {link: "mailto:researchdata@auckland.ac.nz", text: "Contact us"}
 
 # Hero Block
-heroImage: "silver_eye.jpg"
-heroTitle: "ResBaz 2025: 30 June - 4 July"
-eventDate: ""
-typeoutTextValues: ""
-typeoutFallback: ""
+heroImage: "hero.jpg"
+heroTitle: "ResBaz : <typeout>"
+eventDate: "July 10-12"
+typeoutTextValues: '"Auckland", "2019"'
+typeoutFallback: "2019"
 heroButtons:
- - {link: "/schedule", text: "Registrations are now open"}
+ - {link: "", text: "Apply"}
 
 # About Block
-# aboutTitle: ""
-#aboutSubtitle: "Conference"
-aboutText: |
-  - Everyone in the Aotearoa research community is welcome to participate
-  - Free and online digital research skills workshops taught by researchers
-  - A mix of shorter 'taster' sessions and longer, practical, hands-on sessions, aimed at active researchers
-  - Workshops cover everything from managng research data to programming languages
-  - Sessions will not be recorded unless otherwise stated
+aboutTitle: "About ResBaz Auckland"
+aboutSubtitle: "Conference"
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2019, events will be held at a number of university campuses around the globe.</p>
+
+<p>Hosted by the University of Auckland, the 2019 Auckland Research Bazaar is a (free-of-charge) 3-day intensive conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+
+<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -124,10 +120,9 @@ twitterHashTag: "ResBaz"
 twitterFeed: "https://twitter.com/search?q=%23ResBaz&src=typd"
 
 # Partners Block
-organizersTitle: "Organisers"
+organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "See you next year!"
-partnersLink: ""
+partnersC4sponsorsButton: "Apply"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -184,24 +179,17 @@ socialLinks:
  - {link: "mailto:researchdata@auckland.ac.nz", icon: "email"}
 footerBlocks:
  -
-  title: "Host Organisations"
+  title: "Links"
   links:
-   - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland", image: "/img/organizers/UoA Logo Domestic Blue RGB H.png"}
-   - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development and Research Office, Victoria University of Wellington", image: "/img/organizers/VUW_green.png"}
-   - {link: "https://www.otago.ac.nz/", text: "University of Otago", image: "/img/organizers/OtagoLogo.png"}
-   - {link: "https://www.plantandfood.com/en-nz/", text: "Plant & Food Research", image: "/img/organizers/pfr_logo.png"}
-   - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "MBIE-funded Data Science Platform: <em>Beyond Prediction</em>"}
+   - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch"}
  -
-  title: "Partners"
+  title: "Contacts"
   links:
-   - {link: "https://www.academic-consulting.co.nz/", image: "/img/partners/Academic-Consulting-Logo-for-RezBaz.png", text: "Academic Consulting"}
-   - {link: "https://www.nesi.org.nz/", image: "/img/partners/nesi_logo.png", text: "NeSI New Zealand eScience Infrastructure"}
-   - {link: "https://dropbox.com/", image: "/img/partners/DropboxSecondaryLogo.png", text: "Dropbox"}
+   - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
  -
   title: "FAQ"
   links:
-  #  - {permalink: "/cod/", text: "Code of Conduct"}
-   - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"

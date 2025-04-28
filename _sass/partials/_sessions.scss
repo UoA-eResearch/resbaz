@@ -11,7 +11,12 @@
     padding: 30px;
     margin: 5px;
     background-color: white;
-    font-size: 15px;
+}
+
+// Resets text style in case anyone uses <p> in sessions.yml
+.grid-item .text-body, p {
+    font-size: 13px !important;
+    line-height: inherit;
 }
 
 // Small devices: 1 column

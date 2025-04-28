@@ -16,21 +16,8 @@
 						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
 						{% endif %}
 						{% if session.complexity != null %}
-						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span>
+						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
 						{% endif %}
-						{% if session.length != null %}
-						<span class="theme-metadata"><span class="caption">Length: </span>{{ session.length }}</span>
-						{% endif %}
-						{% if session.capacity != null %}
-						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span>
-						{% endif %}
-						{% if session.registration_link != null %}
-                            {% if session.registration_link contains 'https:' %}
-                                <p><span class="theme-metadata"><a href="{{ session.registration_link }}">Registration link</a></span></p>
-                            {% else %}
-                                <p><span class="theme-metadata"><span class="caption">Note: </span>This session is now full.</span></p>
-                            {% endif %}
-                        {% endif %}
 						{% if session.video %}
 						<div class="theme-video embed-responsive embed-responsive-16by9">
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
@@ -42,8 +29,8 @@
 						{% endif %}
 						<hr>
 						<div class="people-details">
-							{% for session_speaker in session.speakers %}
-								{% for speaker in site.data.speakers %}
+							{% for speaker in site.data.speakers %}
+								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
 									<div class="row">
 										<div class="col-md-2 col-sm-2">
