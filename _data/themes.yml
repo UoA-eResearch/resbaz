@@ -1,0 +1,41 @@
+-
+  id: "computing"
+  name: "Research Computing"
+  color: "#EB5B0E"
+  fontColor: "#000000"
+
+-
+  id: "hpc"
+  name: "High Performance Computing"
+  color: "#0394fc"
+  fontColor: "#000000"
+
+-
+  id: "datascience"
+  name: "Data Science"
+  color: "#97d700"
+  fontColor: "#000000"
+
+-
+  id: "publish"
+  name: "Publications, Engagement & Impact"
+  color: "#26EBB0"
+  fontColor: "#000000"
+
+-
+  id: "qual"
+  name: "Qualitative Methods"
+  color: "#EB3100"
+  fontColor: "#000000"
+
+-
+  id: "security"
+  name: "Cybersecurity"
+  color: "#6b03fc"
+  fontColor: "#000000"
+
+-
+  id: "ai"
+  name: "Artifical Intelligence"
+  color: "#6b03fc"
+  fontColor: "#000000"
