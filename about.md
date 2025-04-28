@@ -29,7 +29,7 @@ If you're interested in volunteering to deliver a workshop, help out with a work
 
 ##### Are sessions recorded?
 
-Sessions will not be recorded unless otherwise stated.
+Sessions will not be recorded unless otherwise stated. In addition, AI assistants (e.g. Otter Pilot, Fireflies.AI) will be removed from rooms to maintain privacy.
 
 ##### Code of Conduct
 *By attending or contributing to the Research Bazaar, you agree to be bound by the Code of Conduct.*

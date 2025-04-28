@@ -63,7 +63,7 @@ eventDate: ""
 typeoutTextValues: ""
 typeoutFallback: ""
 heroButtons:
- - {link: "https://forms.office.com/r/rGu5B858B9", text: "Sign up to be notified"}
+ - {link: "/schedule", text: "Registrations are now open"}
 
 # About Block
 # aboutTitle: ""
