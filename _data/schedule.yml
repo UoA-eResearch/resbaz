@@ -139,4 +139,4 @@
       sessionIds: [201, 201]
     - startTime: '13:00'
       endTime: '14:00'
-      sessionIds: [045]
+      sessionIds: [045, 300]

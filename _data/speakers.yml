@@ -1,18 +1,3 @@
-- id: 010
-  name: Konstantina
-  surname: Vasileva
-  company: Victoria University of Wellington
-  title: Research Capability Lead
-  bio: Konstantina worked in media analytics and consumer intelligence for about a
-    decade before coming to Te Herenga Waka Victoria University of Wellington as a
-    graduate researcher. She now steers support for researcher development needs and
-    collaboration efforts in the University's Research Capability team.
-  thumbnailUrl: konstantina.vasileva.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: VUW, title: Victoria University of Wellington, url: 'https://www.wgtn.ac.nz/'}
-  social:
-    - {name: '', link: ''}
 - id: 012
   name: Noel
   surname: Zeng
@@ -76,18 +61,6 @@
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
   social:
     - {name: '', link: ''}
-- id: 021
-  name: Anita
-  surname: Kean
-  company: University of Auckland
-  title: eResearch Solutions Analyst
-  bio: Anita is a Centre for eResearch Platform & Services Team Engineer.
-  thumbnailUrl: anita_kean.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
 - id: 027
   name: Chris
   surname: Seal
@@ -102,32 +75,6 @@
     and is on the international advisory board for the newly developed research activity
     identifier (RAiD).
   thumbnailUrl: chris_seal.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
-- id: !!int '029'
-  name: Faith
-  surname: Welch
-  company: University of Auckland
-  title: Research Impact Manager
-  bio: ''
-  thumbnailUrl: faith-welch.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
-- id: 030
-  name: Nick
-  surname: Young
-  company: University of Auckland
-  title: Senior eResearch Solutions Specialist
-  bio: Nick Young works at the Centre for eResearch as a Research Software Engineer.
-    His primary focus is on research data visualisation, helping researchers across
-    the University visualise their research data with a variety of programming languages.
-  thumbnailUrl: nick_young.jpg
   rockstar: false
   ribbon:
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
@@ -217,38 +164,6 @@
     - {abbr: CIES, title: Cary Institute of Ecosystem Studies, url: 'https://www.caryinstitute.org/'}
   social:
     - {name: '', link: ''}
-- id: 074
-  name: Tim
-  surname: McNamara
-  company: Accelerant
-  title: Founder
-  bio: New Zealand's first certified Software Carpentry instructor, Tim is a skilled
-    and experienced data scientist who also has a background in the humanities. He
-    is the author of Rust in Action, and makes use of this programming language to
-    build everything from data processing pipelines to generative art.
-  thumbnailUrl: tim_mcnamara.jpeg
-  rockstar: false
-  ribbon:
-    - {abbr: '', title: Accelerant.dev, url: 'https://tim.mcnamara.nz/'}
-  social:
-    - {name: '', link: ''}
-- id: !!int '085'
-  name: Thomas
-  surname: Koentges
-  company: You Say Data
-  title: Assistant Professor
-  bio: Thomas's research interests reflect his passion for classical studies, digital
-    humanities, computer science and data analysis. Recently returned to New Zealand
-    from the University of Leipzig, Germany, by way of a fellowship at Havard, he
-    is a driven researcher and teacher advancing and promoting data science and technologies
-    for the research of historical languages as well as for the cultural heritage
-    sector. He is the founder of <a href=\"https://yousaydata.com/\">You Say Data</a>.
-  thumbnailUrl: Thomas_Koentges.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: '', title: You Say Data, url: 'https://thomaskoentges.com/'}
-  social:
-    - {name: '', link: ''}
 - id: !!int '095'
   name: Amanda
   surname: Charlton
@@ -303,26 +218,6 @@
   rockstar: false
   ribbon:
     - {abbr: NeSI, title: New Zealand eScience Infrastructure, url: 'https://www.nesi.org.nz'}
-  social:
-    - {name: '', link: ''}
-- id: 102
-  name: Nidhi
-  surname: Gowdra
-  company: University of Auckland
-  title: eResearch Solutions Specialist
-  bio: Dr. Nidhi Gowdra has a bachelor's degree in information sciences, a master's
-    degree in computer  and information sciences and a Ph.D. in computer vision. He
-    has published articles in top journals like Pattern Recognition and attended conferences
-    such as IECON. He was the Chair of the Machine, Signal and Image Processing session
-    at the IEEE Industrial Electronics Society Conference (IECON-2020) and has been
-    an academic supervisor for both undergrads and postgrads. His research interests
-    are predominantly in deep learning, and specifically computer vision. He now works
-    at the Centre for eResearch at the University of Auckland as an eresearch solutions
-    specialist.
-  thumbnailUrl: nidhi_gowdra.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
   social:
     - {name: '', link: ''}
 - id: 104
@@ -429,46 +324,6 @@
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
   social:
     - {name: '', link: ''}
-- id: 123
-  name: James
-  surname: Harper
-  company: University of Auckland
-  title: Chief Information Security Officer
-  bio: James Harper is Chief Information Security Officer at the University of Auckland,
-    leading the establishment of this position within the institution. Prior to this
-    he held roles in digital architecture and infrastructure operations. James promotes
-    a risk-managed approach to cybersecurity, positioning the practice as an enabler
-    rather than a blocker. With qualifications in Computer Science and Law, James
-    brings a unique perspective to the technical and human challenges of modern cybersecurity
-    threats. He has transitioned the University to a framework-led approach to governing
-    and managing cybersecurity, allowing objective assessment of capabilities and
-    risks, and the ability for priorities and decisions to be backed by data.
-  thumbnailUrl: james-harper.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
-- id: 124
-  name: Michael
-  surname: Karich
-  company: University of Auckland
-  title: Deputy Chief Information Security Officer
-  bio: Michael Karich is Deputy Chief Information Security Officer - Research at the
-    University of Auckland, New Zealand eScience Infrastructure, and UniServices.
-    Across these roles, he strives to support and enable secure research operations
-    across the entire data lifecycle. Prior to this, he held roles in HPC and cloud
-    infrastructure, data management, and research administration. With qualifications
-    in Computer Science and IT Operations, Michael pulls from a broad background to
-    build and enable secure yet efficient research. He is currently focusing on the
-    enhancement of internationally known capability through governance, staff enablement,
-    and visibility.
-  thumbnailUrl: Karich-Michael-3369.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
 - id: 127
   name: Katrin
   surname: O'Donnell
@@ -485,20 +340,6 @@
     - {abbr: Scimex, title: Science Media Centre, url: 'https://www.sciencemediacentre.co.nz/'}
   social:
     - {name: '', link: ''}
-- id: 129
-  name: Cherie
-  surname: Lacey
-  company: University of Auckland
-  title: Research Impact Manager
-  bio: After a decade working as an academic in media and communications, Cherie moved
-    into the area of research impact and strategy. Her focus is on working with researchers
-    to plan, implement, and evaluate real-world research impact for the public good.
-  thumbnailUrl: cherie-lacey.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
 - id: 130
   name: Li
   surname: Wang
@@ -509,23 +350,6 @@
     of Auckland). I am also a final-year PhD candidate in Dance Studies programme
     belonging to Creative Arts and Industries.
   thumbnailUrl: li-wang.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
-- id: 132
-  name: Berit
-  surname: Anderson
-  company: University of Auckland
-  title: Team Lead, Research Services, Libraries and Learning Services
-  bio: "In 2023, Berit Anderson was the Open Access Delivery Lead at Waipapa Taumata\
-    \ Rau | University of Auckland, developing Open Access content for ResearchHub,\
-    \ organising local Open Access Week events, and co-leading the Universities New\
-    \ Zealand Open Access Toolkit for Aotearoa New Zealand Researchers project. She\
-    \ is now a Team Leader in Ng\u0101 Ratonga Manaaki Rangahau o Te Tumu Herenga\
-    \ | Research Services, Libraries and Learning Services."
-  thumbnailUrl: berit-anderson.jpg
   rockstar: false
   ribbon:
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
@@ -634,22 +458,6 @@
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
   social:
     - {name: '', link: ''}
-- id: 142
-  name: Katrina
-  surname: Poppe
-  company: University of Auckland
-  title: Associate Professor, Faculty of Medical and Health Sciences
-  bio: Katrina Poppe is a biostatistician and clinical cardiac physiologist with extensive
-    experience in cardiovascular disease from the perspectives of data science, clinical
-    practice, and clinical, epidemiological and methodological research. Health data
-    represents people and must be respected - from how it is collected, to how it
-    is managed and stored, and importantly, how it is understood, analysed and interpreted.
-  thumbnailUrl: katrina-poppe.png
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
 - id: 143
   name: Vanessa
   surname: Selak
@@ -660,28 +468,6 @@
     roles. The use of routinely collected health data to improve health outcomes and
     equity has underpinned Vanessa's academic and health sector roles.
   thumbnailUrl: vanessa-selak.png
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
-- id: 146
-  name: Victoria
-  surname: Hewitt
-  company: University of Auckland
-  title: Researcher Development Adviser
-  bio: I am a researcher development adviser supporting research training opportunities
-    at the University of Auckland. My scientific research explored cellular mechanisms
-    of neurodegeneration looking at the role of mitochondria in neuronal function.
-    After a PhD at Monash University, I was awarded an EMBO Long-term Fellowship and
-    worked as a postdoc at the University of Cambridge and an associate research scientist
-    at Columbia University, New York. During my PhD I was part of the working group
-    that created the Faculty Graduate School program with a focus on the transferable
-    skills and taught classes in scientific writing and communication. While a postdoc
-    at Columbia, I worked with postdocs, PhD students, technical, administrative and
-    academic staff to build training, mentoring and networking programs to foster
-    a more collaborative and supportive training environment for all researchers.
-  thumbnailUrl: victoria-hewitt.jpg
   rockstar: false
   ribbon:
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
@@ -833,7 +619,7 @@
     \ biographies on Wikipedia, and manages the New Zealand Thesis Project, which\
     \ connects information about New Zealand dissertations to their authors, advisors\
     \ and subjects on Wikidata."
-  thumbnailUrl: ''
+  thumbnailUrl: tamsin-braisher.jpg
   rockstar: false
   ribbon:
     - {abbr: '', title: '', url: ''}
@@ -847,7 +633,7 @@
   bio: Mike is a freelance Wikipedia consultant in Christchurch. A former museum curator
     and moa-bone specialist, he is currently Aotearoa Wikipedian at Large, improving
     the coverage of Banks Peninsula in Wikipedia, Commons, and Wikidata.
-  thumbnailUrl: ''
+  thumbnailUrl: mike-dickison.jpg
   rockstar: false
   ribbon:
     - {abbr: '', title: Rove, url: 'https://www.rove.wiki/'}
@@ -886,5 +672,41 @@
   rockstar: false
   ribbon:
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
+  social:
+    - {name: '', link: ''}
+- id: 159
+  name: Mercedes
+  surname: Randell
+  company: New Zealand eScience Infrastructure
+  title: Research Communities Advisor
+  bio: Mercedes Randell is a Research Communities Advisor at the New Zealand eScience
+    Infrastructure (NeSI). In this role, she fosters collaboration within the research
+    software engineering community, advocating for open science and the adoption of
+    open tools in research software. She serves as a Steering Committee Co-Chair for
+    the Research Software Engineers Association of Australia and New Zealand (RSE-AUNZ),
+    contributing to strategic initiatives aimed at building a sustainable and inclusive
+    research software engineering community across the region.
+  thumbnailUrl: mercedes-randell.png
+  rockstar: false
+  ribbon:
+    - {abbr: NeSI, title: New Zealand eScience Infrastructure, url: 'https://www.nesi.org.nz'}
+  social:
+    - {name: '', link: ''}
+- id: 160
+  name: Chris
+  surname: Scott
+  company: New Zealand eScience Infrastructure
+  title: Research Software Engineer
+  bio: Chris Scott is a Research Software Engineer at the New Zealand eScience Infrastructure
+    (NeSI). He specialises in scientific computing and high-performance computing
+    (HPC), with expertise in programming languages such as Python, C/C++, and Fortran.
+    At NeSI, Chris supports researchers across a range of disciplines, including physics,
+    climate science, and quantum mechanics. He has contributed to projects such as
+    improving climate models for New Zealand, optimising simulations of planetary
+    systems, and developing tools for quantum trajectory analysis.
+  thumbnailUrl: chris-scott.png
+  rockstar: false
+  ribbon:
+    - {abbr: NeSI, title: New Zealand eScience Infrastructure, url: 'https://www.nesi.org.nz'}
   social:
     - {name: '', link: ''}

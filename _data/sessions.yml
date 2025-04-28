@@ -29,7 +29,7 @@
   length: 2 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/managing-research-data-tickets-1341408802839
 - id: 002
   title: Nvivo For Literature Reviews
   description: "Reviewing the literature is an important part of the research process.\
@@ -63,7 +63,7 @@
   length: 2 hours
   capacity: '80'
   themes: [qual, datascience]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-cleaning-transforming-data-with-openrefine-tickets-1341408832929
 - id: 004
   title: Research Data Collection & Surveys With REDCap
   description: REDCap is used by researchers to create surveys or databases to collect
@@ -81,7 +81,7 @@
   length: 1 hours
   capacity: '500'
   themes: [qual]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/research-data-collection-surveys-with-redcap-tickets-1341408812869
 - id: 005
   title: 'Open Access: How To Make Your Publications Open'
   description: Open Access to publications and other research outputs ensures you
@@ -97,7 +97,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/open-access-how-to-make-your-publications-open-tickets-1341408852989
 - id: 006
   title: 'Research Profiles: Increase discoverability, collaboration and funding opportunities'
   description: Are you new to research and want to establish your credibility as a
@@ -114,7 +114,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/research-profiles-increase-discoverability-collaboration-and-funding-opportunities-tickets-1341408842959
 - id: 007
   title: 'Design 101: Presentations, Posters, And Powerpoints For Researchers'
   description: "Why are you here? What are you presenting? Who are you presenting\
@@ -133,7 +133,7 @@
   length: 1 hours
   capacity: '500'
   themes: [design]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/design-101-presentations-posters-and-powerpoints-for-researchers-tickets-1341408822899
 - id: !!int '008'
   title: Introduction to R for Data Analysis
   description: Programming skills are becoming more and more important for researchers
@@ -156,7 +156,7 @@
   length: 2 hours
   capacity: '500'
   themes: [datascience, code]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-r-for-data-analysis-tickets-1341408873049
 - id: !!int '009'
   title: Introduction To The Command Line
   description: "The Unix shell is a powerful tool that allows users to perform complex\
@@ -180,7 +180,7 @@
   length: 5 hours
   capacity: '80'
   themes: [datascience, code]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-the-command-line-tickets-1341408893109
 - id: 010
   title: Nvivo Showcase
   description: There's a lot more to NVivo than initially meets the eye! In this webinar
@@ -210,7 +210,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, hpc]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/what-is-nesi-new-zealands-national-high-performance-computers-tickets-1341408883079
 - id: 012
   title: Introduction To High Performance Computing With NeSI
   description: 'A hands-on introduction to high performance computing (HPC) on a NeSI
@@ -225,7 +225,7 @@
   length: 3 hours
   capacity: '80'
   themes: [datascience, hpc]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-high-performance-computing-with-nesi-tickets-1341408903139
 - id: 013
   title: How To Plan Your Research For Real World Impact
   description: Economic, societal and environmental impact, or the 'non-academic'
@@ -240,7 +240,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/how-to-plan-your-research-for-real-world-impact-tickets-1341408913169
 - id: 014
   title: Digital Storytelling with KnightLab
   description: Interested in learning how to use a suite of open-source tools to create
@@ -254,7 +254,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/digital-storytelling-with-knightlab-tickets-1341408923199
 - id: 015
   title: Resbaz Drop-In Clinic (Hackyhour)
   description: Open drop-in session to help with troubleshooting, getting help with
@@ -286,7 +286,7 @@
   length: 4 hours
   capacity: '120'
   themes: [publish, design]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-1341408933229
 - id: 017
   title: Research Collaboration And Reproducibility With Google Colab
   description: Finding it challenging to collaborate with other researchers? Do you
@@ -306,7 +306,7 @@
   length: 1 hours
   capacity: '500'
   themes: [datascience, code]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/research-collaboration-and-reproducibility-with-google-colab-tickets-1341408943259
 - id: !!int '018'
   title: Authoring Collaborative Research Projects In Quarto
   description: 'Learn how to develop reproducible and sharable workflows using Quarto
@@ -322,7 +322,7 @@
   length: 2 hours
   capacity: '80'
   themes: [publish, code]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/authoring-collaborative-research-projects-in-quarto-tickets-1341408953289
 - id: !!int '019'
   title: Hands-On Statistical Analysis With R
   description: "Many researchers approach statistical analyses with trepidation because\
@@ -343,7 +343,7 @@
   length: 2 hours
   capacity: '80'
   themes: [datascience]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/hands-on-statistical-analysis-with-r-tickets-1341408963319
 - id: 020
   title: Introduction to programming with Python
   description: 'Python is a high-level general purpose programming language that is
@@ -359,7 +359,7 @@
   length: 2 hours
   capacity: '500'
   themes: [datascience]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-programming-with-python-tickets-1341408973349
 - id: 021
   title: 'Collaborating With Dropbox: Tips And Tricks'
   description: Led by the experts from Dropbox, this seminar is designed to help you
@@ -375,7 +375,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/collaborating-with-dropbox-tips-and-tricks-tickets-1341408983379
 - id: 022
   title: Researcher Skills And Career Planning For Academia And Beyond
   description: Learn about the different capabilities and skills needed for a successful
@@ -387,7 +387,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/researcher-skills-and-career-planning-for-academia-and-beyond-tickets-1341408993409
 - id: 023
   title: An Introduction to Cloud Security for Researchers
   description: Are you following security best practices? This is a tricky question
@@ -408,7 +408,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, security]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/an-introduction-to-cloud-security-for-researchers-tickets-1341409003439
 - id: 024
   title: Introduction to version control with Git
   description: Are you working with code? Do you wish there was a neater way to keep
@@ -433,7 +433,7 @@
   length: 3 hours
   capacity: '80'
   themes: [computing]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-version-control-with-git-tickets-1341409013469
 - id: 025
   title: "Navigating New Zealand\u2019s Trusted-Research Protective Security Requirements\
     \ (TR-PSR)"
@@ -450,7 +450,7 @@
   length: 1 hours
   capacity: '500'
   themes: [security]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/navigating-new-zealands-trusted-research-protective-security-requirements-tr-psr-tickets-1341409023499
 - id: 026
   title: Data Management Planning
   description: 'Data Management Plans are a useful way of mapping out the collection,
@@ -466,7 +466,7 @@
   length: 1 hours
   capacity: '500'
   themes: [qual]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/data-management-planning-tickets-1341409033529
 - id: 027
   title: "Tikanga, M\u0101ori Research Ethics and M\u0101ori Data Sovereignty"
   description: "All researchers are welcome to listen and contribute to this korero\
@@ -482,7 +482,7 @@
   length: 1 hours
   capacity: '500'
   themes: [qual, publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/tikanga-maori-research-ethics-and-maori-data-sovereignty-tickets-1341409043559
 - id: !!int '028'
   title: Using Digital Tools and AI for Transcription
   description: Transcribing audio into text is part of the research process for many
@@ -498,7 +498,7 @@
   length: 1 hours
   capacity: '500'
   themes: [qual, ai]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/using-digital-tools-and-ai-for-transcription-tickets-1341409053589
 - id: !!int '029'
   title: Health Care Data for Research at the University of Auckland
   description: "Please note this session is intended primarily for University of Auckland\
@@ -516,7 +516,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish, qual]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/health-care-data-for-research-at-the-university-of-auckland-tickets-1341409063619
 - id: 030
   title: Doing GIS in R
   description: "You don't need GIS software to do GIS! All the usual GIS manipulations\
@@ -537,7 +537,7 @@
   length: 2 hours
   capacity: '80'
   themes: [datascience, code]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/doing-gis-in-r-tickets-1341409073649
 - id: 031
   title: Making Maps in R
   description: "Visualising research data on maps is challenging, especially if you\
@@ -556,7 +556,7 @@
   length: 2 hours
   capacity: '80'
   themes: [datascience, code]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/making-maps-in-r-tickets-1341409083679
 - id: 032
   title: Scraping Data From the Web with R
   description: "The web contains a treasure trove of useful research data, but extracting\
@@ -578,7 +578,7 @@
   length: 1 hours
   capacity: '500'
   themes: [datascience, code]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/scraping-data-from-the-web-with-r-tickets-1341409093709
 - id: 033
   title: Data Storytelling with R and ggplot
   description: "In today's research landscape, we are inundated with data. Effectively\
@@ -603,7 +603,7 @@
   length: 2 hours
   capacity: '80'
   themes: [datascience, code]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/data-storytelling-with-r-and-ggplot-tickets-1341409103739
 - id: 034
   title: Unlocking the potential of the Stats NZ Integrated Data Infrastructure (IDI)
     for research
@@ -629,7 +629,7 @@
   length: 1 hours
   capacity: '500'
   themes: [datascience, qual]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/unlocking-the-potential-of-the-stats-nz-integrated-data-infrastructure-idi-for-research-tickets-1341409113769
 - id: 035
   title: "Life Reset \u2013 Job Search for Career Changers"
   description: "Early-career researchers often dabble in various employment settings\
@@ -648,7 +648,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/life-reset-job-search-for-career-changers-tickets-1341409123799
 - id: 036
   title: 'Unleashing Research Potential: An Overview of Powerful Computing Resources
     for Data Analysis'
@@ -670,7 +670,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/unleashing-research-potential-an-overview-of-powerful-computing-resources-for-data-analysis-tickets-1341409133829
 - id: 037
   title: Maximising Research Impact with Wikipedia
   description: "Wikipedia has become one of the most important free and open sources\
@@ -691,7 +691,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/maximising-research-impact-with-wikipedia-tickets-1341409143859
 - id: !!int '038'
   title: AI Tools For Literature Reviews
   description: "Literature reviews are an important part of setting the scene for\
@@ -709,7 +709,7 @@
   length: 1 hours
   capacity: '500'
   themes: [ai]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-tickets-1341409153889
 - id: !!int '039'
   title: Journeys into High Performance Computing
   description: Join this diverse panel who entered High Performance Computing (HPC)
@@ -726,7 +726,7 @@
   length: 1 hours
   capacity: '500'
   themes: [hpc, computing]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/journeys-into-high-performance-computing-tickets-1341409163919
 - id: 040
   title: How to Peer Review
   description: 'Peer review is a cornerstone of modern academic publishing practices,
@@ -744,7 +744,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/how-to-peer-review-tickets-1341409194009
 - id: 041
   title: Sharing Sensitive Research Data With FileSender
   description: Researchers are encouraged to span disciplines and collaborate with
@@ -763,7 +763,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, security]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/sharing-sensitive-research-data-with-filesender-tickets-1341409204039
 - id: 042
   title: Working With Personally Identifiable Research Data
   description: Working with personally identifiable information is common across many
@@ -781,7 +781,7 @@
   length: 1 hours
   capacity: '500'
   themes: [security, qual]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/working-with-personally-identifiable-research-data-tickets-1341409234129
 - id: 043
   title: 'Supercharge Your Research: Unlocking AI''s Hidden Potential Through Prompt
     Engineering'
@@ -809,7 +809,7 @@
   length: 1 hours
   capacity: '500'
   themes: [ai]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/supercharge-your-research-unlocking-ais-hidden-potential-through-prompt-engineering-tickets-1341409244159
 - id: 044
   title: Capturing Longitudinal Data in REDCap
   description: "This talk will cover the basics how of longitudinal or repeated data\
@@ -823,17 +823,22 @@
   length: 1 hours
   capacity: '500'
   themes: [qual]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/capturing-longitudinal-data-in-redcap-tickets-1341409224099
 - id: 045
-  title: '"RSE AU/NZ check-in"'
-  description: ''
+  title: "How NeSI\u2019s Consultancy Service Can Help Your Research"
+  description: "Learn how NeSI\u2019s Research Software Engineering consultancy service\
+    \ is helping researchers tackle complex computational challenges. In this session,\
+    \ Chris Scott will share recent case studies highlighting the service's impact,\
+    \ followed by an open discussion to explore how your research could benefit. Whether\
+    \ you're curious about HPC, seeking support for your next project, or just want\
+    \ to connect."
   subtype: workshop
-  speakers: null
+  speakers: [160, 159]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
   themes: [hpc, computing]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/how-nesis-consultancy-service-can-help-your-research-tickets-1341409254189
 - id: 046
   title: 'When science meets the headlines: Media engagement for research impact'
   description: "Have you got a big paper coming out that you think is newsworthy?\
@@ -848,7 +853,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/when-science-meets-the-headlines-media-engagement-for-research-impact-tickets-1341409264219
 - id: 047
   title: 'Strategic publishing: Choosing where to publish'
   description: The number of research papers published each year continues to grow,
@@ -868,7 +873,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: ''
+  registration_link: https://www.eventbrite.co.nz/e/strategic-publishing-choosing-where-to-publish-tickets-1341409274249
 - id: !!int '048'
   title: '"CIE"'
   description: ''
