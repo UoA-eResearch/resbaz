@@ -130,7 +130,7 @@
       sessionIds: [012]
     - startTime: '10:00'
       endTime: '11:00'
-      sessionIds: [012, !!int '048']
+      sessionIds: [012, 300]
     - startTime: '11:00'
       endTime: '12:00'
       sessionIds: [012, 047]
