@@ -21,7 +21,7 @@ Research Bazaar Aotearoa is a free online digital research skills workshop serie
 
 All participants will be invited to join the Centre for eResearch ResBaz Slack channel.
 
-ResBaz Aotearoa is a collaboration between the University of Auckland, Victoria University of Wellington, University of Otago and the [Beyond Prediction: Explanatory and Transparent Data Science Programme](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\). Instructors are based at a variety of Aotearoa research institutions and companies, and they volunteer to teach at ResBaz. We wouldn't be able to do it without them and we appreciate their willingness to share their knowledge. 
+ResBaz Aotearoa is a collaboration between the University of Auckland, Victoria University of Wellington, University of Otago, Plant & Food Research, University of Waikato, and the [Beyond Prediction: Explanatory and Transparent Data Science Programme](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/university-of-auckland/\). Instructors are based at a variety of Aotearoa research institutions and companies, and they volunteer to teach at ResBaz. We wouldn't be able to do it without them and we appreciate their willingness to share their knowledge. 
 
 ##### Want to get involved?
 
