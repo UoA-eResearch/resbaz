@@ -57,7 +57,7 @@ rightNavigationButtons:
  - {link: "mailto:researchdata@auckland.ac.nz", text: "Contact us"}
 
 # Hero Block
-heroImage: "silver_eye.jpg"
+heroImage: "light-bokeh.jpg"
 heroTitle: "ResBaz 2025: 30 June - 4 July"
 eventDate: ""
 typeoutTextValues: ""
@@ -184,7 +184,7 @@ socialLinks:
  - {link: "mailto:researchdata@auckland.ac.nz", icon: "email"}
 footerBlocks:
  -
-  title: "Host Organisations"
+  title: "Co-Organisers"
   links:
    - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland", image: "/img/organizers/UoA Logo Domestic Blue RGB H.png"}
    - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development and Research Office, Victoria University of Wellington", image: "/img/organizers/VUW_green.png"}

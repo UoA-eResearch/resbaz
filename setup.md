@@ -3,7 +3,7 @@ layout: post
 title: Set Up Instructions
 permalink: /setup/
 isStaticPost: true
-image: aurora.jpg
+image: light-bokeh.jpg
 ---
 If you have registered for a session requiring set up, you will be provided with a link to the relevant instructions on this page. If you have any trouble following these instructions then please join us at a [HackyHour](https://uoa-eresearch.github.io/HackyHour/) session at 3pm on Tuesday in the week before ResBaz, and on Tuesday in the week of ResBaz.
 

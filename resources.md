@@ -3,7 +3,7 @@ layout: post
 title: Resources
 permalink: /resources/
 isStaticPost: true
-image: aurora.jpg
+image: light-bokeh.jpg
 ---
 See below for 2024 resources.
 
