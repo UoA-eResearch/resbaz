@@ -1,142 +1,72 @@
-- date: '2025-06-30'
-  dateReadable: Monday 30 June
-  tracks:
-    - {title: '1', color: '#f27f27'}
-    - {title: '2', color: '#e91e63'}
+- 
+  date: "2019-07-10"
+  dateReadable: "July 10"
+  tracks: 
+    - {title: "Stream 1", color: "#90be4e"}
+    - {title: "Stream 2", color: "#03a9f4"}
+    - {title: "Stream 3", color: "#e91e63"}
+    - {title: "Stream 4", color: "#FF00FF"}
   timeslots:
-    - startTime: '09:00'
-      endTime: '10:00'
-      sessionIds: [001, 023]
-    - startTime: '10:00'
-      endTime: '11:00'
-      sessionIds: [001, 036]
-    - startTime: '11:00'
-      endTime: '12:00'
-      sessionIds: [!!int '029', !!int '038']
-    - startTime: '12:00'
-      endTime: '13:00'
-      sessionIds: [201, 201]
-    - startTime: '13:00'
-      endTime: '14:00'
-      sessionIds: [026, !!int '008']
-    - startTime: '14:00'
-      endTime: '15:00'
-      sessionIds: [025, !!int '008']
-    - startTime: '15:00'
-      endTime: '16:00'
-      sessionIds: [027, 011]
-    - startTime: '16:00'
-      endTime: '17:00'
-      sessionIds: [046, 006]
-- date: '2025-07-01'
-  dateReadable: Tuesday 1 July
-  tracks:
-    - {title: '1', color: '#f27f27'}
-    - {title: '2', color: '#e91e63'}
-    - {title: '3', color: '#3279a8'}
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002, 404, 002, 001]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [404, 404, 404, 001]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307]
+    }
+- 
+  date: "2019-07-11"
+  dateReadable: "July 11"
+  tracks: 
+    - {title: "Stream 1", color: "#90be4e"}
+    - {title: "Stream 2", color: "#03a9f4"}
+    - {title: "Stream 3", color: "#e91e63"}
+    - {title: "Stream 4", color: "#FF00FF"}
   timeslots:
-    - startTime: '09:00'
-      endTime: '10:00'
-      sessionIds: [020, 013, 300]
-    - startTime: '10:00'
-      endTime: '11:00'
-      sessionIds: [020, 007, !!int '009']
-    - startTime: '11:00'
-      endTime: '12:00'
-      sessionIds: [005, 014, !!int '009']
-    - startTime: '12:00'
-      endTime: '13:00'
-      sessionIds: [201, 201, 201]
-    - startTime: '13:00'
-      endTime: '14:00'
-      sessionIds: [037, 041, !!int '009']
-    - startTime: '14:00'
-      endTime: '15:00'
-      sessionIds: [035, 004, !!int '009']
-    - startTime: '15:00'
-      endTime: '16:00'
-      sessionIds: [021, 044, 015]
-    - startTime: '16:00'
-      endTime: '17:00'
-      sessionIds: [043, 034, 300]
-- date: '2025-07-02'
-  dateReadable: Wednesday 2 July
-  tracks:
-    - {title: '1', color: '#f27f27'}
-    - {title: '2', color: '#e91e63'}
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002, 001, 404, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003, 404, 004]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307]
+    }
+- 
+  date: "2019-07-12"
+  dateReadable: "July 12"
+  tracks: 
+    - {title: "Stream 1", color: "#90be4e"}
+    - {title: "Stream 2", color: "#03a9f4"}
+    - {title: "Stream 3", color: "#e91e63"}
+    - {title: "Stream 4", color: "#FF00FF"}
   timeslots:
-    - startTime: '09:00'
-      endTime: '10:00'
-      sessionIds: [033, 010]
-    - startTime: '10:00'
-      endTime: '11:00'
-      sessionIds: [033, 017]
-    - startTime: '11:00'
-      endTime: '12:00'
-      sessionIds: [032, 022]
-    - startTime: '12:00'
-      endTime: '13:00'
-      sessionIds: [201, 201]
-    - startTime: '13:00'
-      endTime: '14:00'
-      sessionIds: [!!int '019', 016]
-    - startTime: '14:00'
-      endTime: '15:00'
-      sessionIds: [!!int '019', 016]
-    - startTime: '15:00'
-      endTime: '16:00'
-      sessionIds: [031, 016]
-    - startTime: '16:00'
-      endTime: '17:00'
-      sessionIds: [031, 016]
-- date: '2025-07-03'
-  dateReadable: Thursday 3 July
-  tracks:
-    - {title: '1', color: '#f27f27'}
-    - {title: '2', color: '#e91e63'}
-  timeslots:
-    - startTime: '09:00'
-      endTime: '10:00'
-      sessionIds: [024, !!int '018']
-    - startTime: '10:00'
-      endTime: '11:00'
-      sessionIds: [024, !!int '018']
-    - startTime: '11:00'
-      endTime: '12:00'
-      sessionIds: [024, 002]
-    - startTime: '12:00'
-      endTime: '13:00'
-      sessionIds: [201, 201]
-    - startTime: '13:00'
-      endTime: '14:00'
-      sessionIds: [030, 003]
-    - startTime: '14:00'
-      endTime: '15:00'
-      sessionIds: [030, 003]
-    - startTime: '15:00'
-      endTime: '16:00'
-      sessionIds: [042, !!int '039']
-    - startTime: '16:00'
-      endTime: '17:00'
-      sessionIds: [!!int '028', 040]
-- date: '2025-07-04'
-  dateReadable: Friday 4 July
-  tracks:
-    - {title: '1', color: '#f27f27'}
-    - {title: '2', color: '#e91e63'}
-  timeslots:
-    - startTime: '09:00'
-      endTime: '10:00'
-      sessionIds: [012]
-    - startTime: '10:00'
-      endTime: '11:00'
-      sessionIds: [012, !!int '048']
-    - startTime: '11:00'
-      endTime: '12:00'
-      sessionIds: [012, 047]
-    - startTime: '12:00'
-      endTime: '13:00'
-      sessionIds: [201, 201]
-    - startTime: '13:00'
-      endTime: '14:00'
-      sessionIds: [045, 300]
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002, 404, 404, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003, 404, 004]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307]
+    }
