@@ -340,21 +340,6 @@
     - {abbr: Scimex, title: Science Media Centre, url: 'https://www.sciencemediacentre.co.nz/'}
   social:
     - {name: '', link: ''}
-- id: 130
-  name: Li
-  surname: Wang
-  company: University of Auckland
-  title: Research Services Adviser
-  bio: Kia ora! My name is Li Wang. I am a Research Services Adviser from Research
-    Services team in Libraries and Learning Services at Waipapa Taumata Rau (University
-    of Auckland). I am also a final-year PhD candidate in Dance Studies programme
-    belonging to Creative Arts and Industries.
-  thumbnailUrl: li-wang.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
-  social:
-    - {name: '', link: ''}
 - id: 134
   name: James
   surname: Love
@@ -475,7 +460,7 @@
     - {name: '', link: ''}
 - id: 147
   name: Mazyar
-  surname: 'Zarepour '
+  surname: Zarepour
   company: University of Auckland
   title: Data Scientist
   bio: Mazyar Zarepour is a Doctoral Candidate in Engineering Science, his research
@@ -649,7 +634,7 @@
     through the lens of identity and works with clients to connect their dreams of
     desired futures to present actions. He is a Professional Certified Coach (PCC)
     and has specialized in academic and career coaching.
-  thumbnailUrl: 'brendan-griffiths.jpg'
+  thumbnailUrl: brendan-griffiths.jpg
   rockstar: false
   ribbon:
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
@@ -708,5 +693,42 @@
   rockstar: false
   ribbon:
     - {abbr: NeSI, title: New Zealand eScience Infrastructure, url: 'https://www.nesi.org.nz'}
+  social:
+    - {name: '', link: ''}
+- id: 161
+  name: Kyle
+  surname: Hemming
+  company: University of Auckland
+  title: Senior Engagement Specialist
+  bio: Dr Kyle Hemming is a Senior eResearch Engagement Specialist at the Centre for
+    eResearch (CeR) at Waipapa Taumata Rau | University of Auckland. Kyle proactively
+    engages with researchers across the university community to meet emerging needs
+    in areas such as AI, Python, R, and high-performance computing. With a strong
+    technical background and a decade of experience in quantitative research, coupled
+    with eight years of supporting researchers, Kyle is enthusiastic about enhancing
+    research outcomes. His other areas of interest include supporting reproducible
+    research, strategic planning, and stakeholder engagement.
+  thumbnailUrl: kyle-hemming.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
+  social:
+    - {name: '', link: ''}
+- id: 162
+  name: Ben
+  surname: Turley
+  company: University of Auckland
+  title: Research Risk and Compliance Manager
+  bio: "Ben Turley is the Research Risk & Compliance Manager at the University of\
+    \ Auckland. His role involves implementing the New Zealand Government's Trusted\
+    \ Research \u2013 Protective Security Requirements (TR-PSR) and managing the university's\
+    \ export control regime. Before joining the University of Auckland, Ben worked\
+    \ as a civilian advisor with the New Zealand Defence Force for 10 years. He has\
+    \ a background in International Relations policy and studied Politics and History\
+    \ at the University of Auckland."
+  thumbnailUrl: ben-turley.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
   social:
     - {name: '', link: ''}

@@ -403,7 +403,7 @@
     - however, the techniques discussed will be transferable to other cloud platforms,
     such as AWS.
   subtype: workshop
-  speakers: [124, 135]
+  speakers: [135]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
@@ -445,7 +445,7 @@
     with specific references to available and upcoming resources (e.g., Universities
     New Zealand training modules).
   subtype: workshop
-  speakers: null
+  speakers: [162]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
@@ -493,7 +493,7 @@
     speech recognition system trained on a Large (multi-lingual) Language Model that
     can be run on a local computer or restricted access virtual machine.
   subtype: workshop
-  speakers: null
+  speakers: [161]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
@@ -511,7 +511,7 @@
     \ describe the recently established \n<a href=\"https://www.healthdata.auckland.ac.nz/\"\
     >UoA Health Data Platform</a>."
   subtype: workshop
-  speakers: null
+  speakers: [143, 147]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
@@ -804,7 +804,7 @@
     AI tools, and knowledge of responsible AI integration including ethical considerations
     and appropriate tool selection for academic research.'
   subtype: workshop
-  speakers: null
+  speakers: [161]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
@@ -848,7 +848,7 @@
     \ for media engagement. You will learn some tips and tricks on what to do when\
     \ a journalist calls, and how to ensure your expertise has impact."
   subtype: workshop
-  speakers: null
+  speakers: [127]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
@@ -874,13 +874,3 @@
   capacity: '500'
   themes: [publish]
   registration_link: https://www.eventbrite.co.nz/e/strategic-publishing-choosing-where-to-publish-tickets-1341409274249
-- id: !!int '048'
-  title: '"CIE"'
-  description: ''
-  subtype: workshop
-  speakers: null
-  complexity: Beginner
-  length: 1 hours
-  capacity: '500'
-  themes: [publish]
-  registration_link: ''

@@ -69,11 +69,10 @@ heroButtons:
 # aboutTitle: ""
 #aboutSubtitle: "Conference"
 aboutText: |
-  - Everyone in the Aotearoa research community is welcome to participate
-  - Free and online digital research skills workshops taught by researchers
-  - A mix of shorter 'taster' sessions and longer, practical, hands-on sessions, aimed at active researchers
-  - Workshops cover everything from managng research data to programming languages
-  - Sessions will not be recorded unless otherwise stated
+  - Free, online, digital research skills workshops covering a broad range of topics.
+  - A mix of shorter 'taster' sessions and longer, follow-along sessions.
+  - Everyone in the Aotearoa research community is welcome to attend.
+  - Most workshops are not recorded so join on the day to participate.
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
