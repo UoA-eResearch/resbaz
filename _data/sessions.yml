@@ -275,15 +275,13 @@
     thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood
     in a 30-second glance. Designed with icons and keywords, they are simpler than
     a graphical abstract and quicker to make. Visual abstracts are a powerful thinking
-    tool for yourself and a valuable communication tool to engage others. The first
-    third of the session is an interactive exploration of visual abstracts to inspire
-    your imagination. The middle third is an introductory level guided workshop to
-    create a basic VA. The last third is an intermediate level workshop where we further
-    explore tools, tips and icon libraries in more depth.
+    tool for yourself and a valuable communication tool to engage others. The first half of the 
+    session is an interactive exploration of visual abstracts to inspire your imagination. The 
+    second half of the session is an introductory level guided workshop to create a basic VA. 
   subtype: workshop
   speakers: [!!int '095']
   complexity: Beginner
-  length: 4 hours
+  length: 2 hours
   capacity: '120'
   themes: [publish, design]
   registration_link: https://www.eventbrite.co.nz/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-1341408933229

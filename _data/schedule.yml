@@ -85,10 +85,10 @@
       sessionIds: [!!int '019', 016]
     - startTime: '15:00'
       endTime: '16:00'
-      sessionIds: [031, 016]
+      sessionIds: [031, 300]
     - startTime: '16:00'
       endTime: '17:00'
-      sessionIds: [031, 016]
+      sessionIds: [031, 300]
 - date: '2025-07-03'
   dateReadable: Thursday 3 July
   tracks:
