@@ -275,13 +275,15 @@
     thesis is a verbal elevator pitch, a visual abstract is a pictorial summary understood
     in a 30-second glance. Designed with icons and keywords, they are simpler than
     a graphical abstract and quicker to make. Visual abstracts are a powerful thinking
-    tool for yourself and a valuable communication tool to engage others. The first half of the 
-    session is an interactive exploration of visual abstracts to inspire your imagination. The 
-    second half of the session is an introductory level guided workshop to create a basic VA. 
+    tool for yourself and a valuable communication tool to engage others. The first
+    third of the session is an interactive exploration of visual abstracts to inspire
+    your imagination. The middle third is an introductory level guided workshop to
+    create a basic VA. The last third is an intermediate level workshop where we further
+    explore tools, tips and icon libraries in more depth.
   subtype: workshop
   speakers: [!!int '095']
   complexity: Beginner
-  length: 2 hours
+  length: 4 hours
   capacity: '120'
   themes: [publish, design]
   registration_link: https://www.eventbrite.co.nz/e/visual-abstracts-create-an-attention-hook-to-your-published-article-tickets-1341408933229
@@ -691,11 +693,12 @@
   themes: [publish]
   registration_link: https://www.eventbrite.co.nz/e/maximising-research-impact-with-wikipedia-tickets-1341409143859
 - id: !!int '038'
-  title: AI Tools For Literature Reviews
-  description: "Literature reviews are an important part of setting the scene for\
-    \ your research, but it can be time-consuming to find and evaluate large numbers\
-    \ of sources. With the explosion of interest surrounding all things AI, many researchers\
-    \ are wondering how generative AI tools might be applied to reviewing the literature.\
+  title: AI Tools For Literature Reviews - Monday
+  description: "Note: This session is full so another session has been opened on Friday.\
+    \ Literature reviews are an important part of setting the scene for your research,\
+    \ but it can be time-consuming to find and evaluate large numbers of sources.\
+    \ With the explosion of interest surrounding all things AI, many researchers are\
+    \ wondering how generative AI tools might be applied to reviewing the literature.\
     \ In this session, we will examine how generative AI tools can be used at different\
     \ stages in the literature review process. We will explore the capabilities and\
     \ limitations of some readily available AI tools and discuss how they can support\
@@ -705,9 +708,9 @@
   speakers: [!!int '099']
   complexity: Beginner
   length: 1 hours
-  capacity: '500'
+  capacity: '405'
   themes: [ai]
-  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-tickets-1341409153889
+  registration_link: # https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-tickets-1341409153889
 - id: !!int '039'
   title: Journeys into High Performance Computing
   description: Join this diverse panel who entered High Performance Computing (HPC)
@@ -872,3 +875,22 @@
   capacity: '500'
   themes: [publish]
   registration_link: https://www.eventbrite.co.nz/e/strategic-publishing-choosing-where-to-publish-tickets-1341409274249
+- id: !!int '049'
+  title: AI Tools For Literature Reviews - Friday
+  description: "Note: Monday's session is full so another session has been opened.\
+    \ Literature reviews are an important part of setting the scene for your research,\
+    \ but it can be time-consuming to find and evaluate large numbers of sources.\
+    \ With the explosion of interest surrounding all things AI, many researchers are\
+    \ wondering how generative AI tools might be applied to reviewing the literature.\
+    \ In this session, we will examine how generative AI tools can be used at different\
+    \ stages in the literature review process. We will explore the capabilities and\
+    \ limitations of some readily available AI tools and discuss how they can support\
+    \ your searches. Finally, we\u2019ll review some important considerations when\
+    \ choosing to use them in the research process. "
+  subtype: workshop
+  speakers: [!!int '099']
+  complexity: Beginner
+  length: 1 hours
+  capacity: '400'
+  themes: [ai]
+  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-friday-tickets-1364891600519
