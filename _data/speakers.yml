@@ -732,3 +732,20 @@
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
   social:
     - {name: '', link: ''}
+- id: 163
+  name: Tamahina
+  surname: Sheridan
+  company: University of Auckland
+  title: "M\u0101ori Research Service Adviser"
+  bio: "(Te Aitanga a Hauiti / Te \u0100tihaunui-a-P\u0101p\u0101rangi) Tamahina is\
+    \ the M\u0101ori Research Services Advisor within Te Tumu Herenga | Libraries\
+    \ and Learning Services, University of Auckland. Tamahina provides guidance and\
+    \ support for researchers, doctoral candidates and post-graduate students engaged\
+    \ in research from a M\u0101ori perspective, including M\u0101ori research methodologies,\
+    \ M\u0101tauranga M\u0101ori and tikanga M\u0101ori."
+  thumbnailUrl: tamahina-sheridan.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
+  social:
+    - {name: '', link: ''}

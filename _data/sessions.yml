@@ -92,7 +92,7 @@
     of OA. In this one-hour workshop you'll learn how to make your publications open
     for free while respecting copyright and publisher agreements.
   subtype: workshop
-  speakers: [148, !!int '099']
+  speakers: [148, 163]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
@@ -710,7 +710,7 @@
   length: 1 hours
   capacity: '405'
   themes: [ai]
-  registration_link: # https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-tickets-1341409153889
+  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-tickets-1341409153889
 - id: !!int '039'
   title: Journeys into High Performance Computing
   description: Join this diverse panel who entered High Performance Computing (HPC)
@@ -856,7 +856,7 @@
   themes: [publish]
   registration_link: https://www.eventbrite.co.nz/e/when-science-meets-the-headlines-media-engagement-for-research-impact-tickets-1341409264219
 - id: 047
-  title: 'Strategic publishing: Choosing where to publish'
+  title: 'Publishing Smart: Choosing Where to Publish'
   description: The number of research papers published each year continues to grow,
     and the number of journals grows along with it. Selecting a publication venue
     for your work is worth considering from the very start of your project, and especially
@@ -869,7 +869,7 @@
     the importance of metrics, and how to check if a journal is covered by an open
     access agreement for your institution.
   subtype: workshop
-  speakers: [122]
+  speakers: [148, 163]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
