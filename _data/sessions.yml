@@ -341,7 +341,7 @@
   complexity: Intermediate
   length: 2 hours
   capacity: '80'
-  themes: [datascience]
+  themes: [publish, code]
   registration_link: https://www.eventbrite.co.nz/e/hands-on-statistical-analysis-with-r-tickets-1341408963319
 - id: 020
   title: Introduction to programming with Python
@@ -721,7 +721,7 @@
     of women and allies committed to advancing diversity and inclusion in HPC and
     research in our region. To learn more about the Chapter, visit  https://tinyurl.com/whpcaunz
   subtype: workshop
-  speakers: [153]
+  speakers: [153, 164, 165]
   complexity: Beginner
   length: 1 hours
   capacity: '500'

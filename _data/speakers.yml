@@ -749,3 +749,37 @@
     - {abbr: UoA, title: University of Auckland, url: 'https://auckland.ac.nz'}
   social:
     - {name: '', link: ''}
+- id: 164
+  name: Emily
+  surname: O'Riordan
+  company: Victoria University of Wellignton
+  title: Lecturer
+  bio: "Emily is a lecturer on the Artificial Intelligence programme at Te Herenga\
+    \ Waka Victoria University of Wellington. Her research focuses on machine learning\
+    \ methods for weather applications, particularly in capturing localised weather\
+    \ phenomena behind extreme weather events. Both AI and weather forecasting are\
+    \ computationally intensive fields, and as such HPC is vital to her research.\
+    \ Emily first encountered HPC during her postdoc, after having done her best to\
+    \ avoid it during her PhD due to fear of it being too complicated! Since then,\
+    \ she\u2019s journeyed from HPC novice to a daily HPC user. "
+  thumbnailUrl: emily-oriordan.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: VUW, title: Victoria University of Wellington, url: 'https://www.wgtn.ac.nz/'}
+  social:
+    - {name: '', link: ''}
+- id: 165
+  name: Vicky
+  surname: Fan
+  company: New Zealand eScience Infrastructure
+  title: Researcher Support Analyst
+  bio: Prior to joining NeSI, Vicky worked as a bioinformatician at the Bioinformatics
+    Institute at the University of Auckland, and the NETwork! Project, which studied
+    neuroendocrine cancer. When not at work, she can be found at the fencing salle
+    attempting to hit people with a pointy metal stick.
+  thumbnailUrl: vicky-fan.png
+  rockstar: false
+  ribbon:
+    - {abbr: NeSI, title: New Zealand eScience Infrastructure, url: 'https://www.nesi.org.nz'}
+  social:
+    - {name: '', link: ''}

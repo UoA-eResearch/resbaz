@@ -51,7 +51,7 @@ OpenRefine does not support Internet Explorer or Edge. Please use Firefox, Chrom
 
 ##### <b>Introduction to the Command Line</b>
 
-Please follow the instructions for your operating system found [here](https://murraycadzow.github.io/2024-07-09-nz-unix/#the-bash-shell).
+Please follow the instructions for your operating system found [here](https://rtis-training.github.io/2025-07-01-resbaz-unix/#setup).
 
 ##### <b>Introduction to R for Data Analysis</b>
 
