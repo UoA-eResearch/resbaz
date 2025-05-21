@@ -709,7 +709,7 @@
   length: 1 hours
   capacity: '405'
   themes: [ai]
-  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-tickets-1341409153889
+  registration_link: 
 - id: !!int '039'
   title: Journeys into High Performance Computing
   description: Join this diverse panel who entered High Performance Computing (HPC)
