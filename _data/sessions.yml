@@ -709,7 +709,7 @@
   length: 1 hours
   capacity: '405'
   themes: [ai]
-  registration_link: 
+  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-tickets-1341409153889
 - id: !!int '039'
   title: Journeys into High Performance Computing
   description: Join this diverse panel who entered High Performance Computing (HPC)
@@ -719,7 +719,7 @@
     worked for them, and how they overcame challenges - championing the message that
     "anyone can be successful in this space". Women in HPC is a growing community
     of women and allies committed to advancing diversity and inclusion in HPC and
-    research in our region. To learn more about the Chapter, visit  https://tinyurl.com/whpcaunz
+    research in our region. To learn more about the Chapter, visit https://tinyurl.com/whpcaunz
   subtype: workshop
   speakers: [153, 164, 165]
   complexity: Beginner
@@ -825,15 +825,15 @@
   themes: [qual]
   registration_link: https://www.eventbrite.co.nz/e/capturing-longitudinal-data-in-redcap-tickets-1341409224099
 - id: 045
-  title: "How NeSI\u2019s Consultancy Service Can Help Your Research"
-  description: "Learn how NeSI\u2019s Research Software Engineering consultancy service\
-    \ is helping researchers tackle complex computational challenges. In this session,\
-    \ Chris Scott will share recent case studies highlighting the service's impact,\
-    \ followed by an open discussion to explore how your research could benefit. Whether\
-    \ you're curious about HPC, seeking support for your next project, or just want\
-    \ to connect."
+  title: Navigating the Path to a Career in Research Software Engineering
+  description: This panel presentation features experienced Research Software Engineers
+    (RSEs) sharing their unique career journeys and current roles. Aimed at aspiring
+    RSEs, the session explores the skills, challenges, and opportunities in this dynamic
+    field, offering insights and practical advice for breaking into research software
+    engineering. Attendees will gain a deeper understanding of the diverse pathways
+    to becoming an RSE and the impact of their work in advancing research.
   subtype: workshop
-  speakers: [160, 159]
+  speakers: [160, 159, 166]
   complexity: Beginner
   length: 1 hours
   capacity: '500'

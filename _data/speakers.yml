@@ -783,3 +783,25 @@
     - {abbr: NeSI, title: New Zealand eScience Infrastructure, url: 'https://www.nesi.org.nz'}
   social:
     - {name: '', link: ''}
+- id: 166
+  name: Janet
+  surname: Stacey
+  company: Institute of Environmental Science and Research
+  title: Lead Senior Scientist, Digital and Data
+  bio: "Janet Stacey is a Lead Senior Scientist in Digital and Data for the Forensic\
+    \ R&D team.  She is a perennial learner. She has two Master of Science degrees,\
+    \ one in Forensic Science and another in Bioinformatics.  Janet worked in the\
+    \ Forensic Biology case work laboratory for 11 years before transitioning to a\
+    \ Data Science role. She has now been an active Research Software Engineer for\
+    \ 6 years.  Her work involves machine learning/AI and automated workflows, experimental\
+    \ design and data analytics, dashboard/visualisations and growing data science\
+    \ capability through mentoring and training. She has a special interest in Forensic\
+    \ Intelligence, Responsible AI Development and Data lifecycles including M\u0101\
+    ori Data Sovereignty. Most recently she has begun a PhD in Forensic Science to\
+    \ further Bayesian Networks for the evaluation of activity level propositions."
+  thumbnailUrl: janet-stacey.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: ESR, title: Institute of Environmental Science and Research, url: 'https://www.esr.cri.nz/'}
+  social:
+    - {name: '', link: ''}
