@@ -1,4 +1,4 @@
-# ResBaz Auckland
+# ResBaz Aotearoa
 * This is a conference template created by Sam Kavanagh based largely on the Project Zeppelin / GDG DevFest 2014 site template.
 
 # Quick-start guide
