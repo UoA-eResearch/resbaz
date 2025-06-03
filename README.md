@@ -1,12 +1,5 @@
-# ResBaz Auckland Template
+# ResBaz Auckland
 * This is a conference template created by Sam Kavanagh based largely on the Project Zeppelin / GDG DevFest 2014 site template.
-
-### Features
-* Easy to setup
-* Simple and responsive design
-* Integrated speakers and sessions management
-* SVG icons
-* SEO friendly
 
 # Quick-start guide
 1. Fork this repo
@@ -61,22 +54,7 @@ To minify CSS and JS run `minify_js.bat` (for Windows) and `minify_js.sh` (for L
 
 Learn more about available optimization options from the original Zeppelin template's [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
 
-# Instructions for ResBaz Site Editors
-
-## Blog Posts
-* All blog posts are located in the `_posts/` folder.
-* New blog posts are created simply by creating a new file in this folder and following the naming convention `YYYY-MM-DD-title-here.markdown`
-* All blog posts should begin with the following code snippet:
-
-```
----
-layout: post
-title:  "Post title goes here!"
-date:   2019-03-25 12:38:00
-isStaticPost: false
----
-Actual post content goes here. Note the date above should match the filename.
-```
+# Editing content
 
 ## Home page sections
 * To **enable/disable** a content block on the homepage, simply add/delete on of the lines in the `index.html` file located in the root folder. E.g. to disable the 'Rockstar Speakers' block simply remove the line:
@@ -176,7 +154,7 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 
 ### Live demo https://resbaz.auckland.ac.nz/
 
-### Used libraries
+### Libraries used
 * [Bootstrap](https://github.com/twbs/bootstrap)
 * [Animate.css](https://github.com/daneden/animate.css)
 * [Waves](https://github.com/publicis-indonesia/Waves)
