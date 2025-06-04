@@ -805,3 +805,18 @@
     - {abbr: ESR, title: Institute of Environmental Science and Research, url: 'https://www.esr.cri.nz/'}
   social:
     - {name: '', link: ''}
+- id: 167
+  name: Chelsea
+  surname: Finnie
+  company: REANNZ
+  title: Network DevOps Engineer
+  bio: Chelsea is a Network DevOps Engineer at REANNZ. She specialises in being an
+    expert generalist working across multiple platforms and technologies, with one
+    of her key accomplishments being the design and implementation of FileSender at
+    REANNZ. She is also heavily involved in the Python community in Australasia.
+  thumbnailUrl: chelsea-finnie.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: REANNZ, title: Research and Education Advanced Network New Zealand, url: 'https://www.reannz.co.nz/'}
+  social:
+    - {name: '', link: ''}

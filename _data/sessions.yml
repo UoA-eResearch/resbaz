@@ -758,7 +758,7 @@
     FileSender to share encrypted files securely, and we'll provide you with some
     recommended practices to optimise your data transfers.
   subtype: workshop
-  speakers: [134]
+  speakers: [134, 167]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
