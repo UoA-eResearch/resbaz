@@ -28,7 +28,7 @@
   complexity: Beginner
   length: 2 hours
   capacity: '500'
-  themes: [publish]
+  themes: [publish, datascience]
   registration_link: https://www.eventbrite.co.nz/e/managing-research-data-tickets-1341408802839
 - id: 002
   title: Nvivo For Literature Reviews
@@ -179,7 +179,7 @@
   complexity: Beginner
   length: 5 hours
   capacity: '80'
-  themes: [datascience, code]
+  themes: [code]
   registration_link: https://www.eventbrite.co.nz/e/introduction-to-the-command-line-tickets-1341408893109
 - id: 010
   title: Nvivo Showcase
@@ -193,7 +193,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [datascience, qual]
+  themes: [qual]
   registration_link: https://us02web.zoom.us/webinar/register/WN_sp226NW1SHq0GfrqXX91-Q
 - id: 011
   title: "What Is NeSI? New Zealand\u2019s National High Performance Computers"
@@ -224,7 +224,7 @@
   complexity: Beginner
   length: 3 hours
   capacity: '80'
-  themes: [datascience, hpc]
+  themes: [hpc]
   registration_link: https://www.eventbrite.co.nz/e/introduction-to-high-performance-computing-with-nesi-tickets-1341408903139
 - id: 013
   title: How To Plan Your Research For Real World Impact
@@ -320,7 +320,7 @@
   complexity: Advanced
   length: 2 hours
   capacity: '80'
-  themes: [publish, code]
+  themes: [publish, code, datascience]
   registration_link: https://www.eventbrite.co.nz/e/authoring-collaborative-research-projects-in-quarto-tickets-1341408953289
 - id: !!int '019'
   title: Hands-On Statistical Analysis With R
@@ -341,7 +341,7 @@
   complexity: Intermediate
   length: 2 hours
   capacity: '80'
-  themes: [publish, code]
+  themes: [publish, code, datascience]
   registration_link: https://www.eventbrite.co.nz/e/hands-on-statistical-analysis-with-r-tickets-1341408963319
 - id: 020
   title: Introduction to programming with Python
@@ -357,7 +357,7 @@
   complexity: Beginner
   length: 2 hours
   capacity: '500'
-  themes: [datascience]
+  themes: [code, datascience]
   registration_link: https://www.eventbrite.co.nz/e/introduction-to-programming-with-python-tickets-1341408973349
 - id: 021
   title: 'Collaborating With Dropbox: Tips And Tricks'
@@ -406,7 +406,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [computing, security]
+  themes: [computing, security, datascience]
   registration_link: https://www.eventbrite.co.nz/e/an-introduction-to-cloud-security-for-researchers-tickets-1341409003439
 - id: 024
   title: Introduction to version control with Git
@@ -464,7 +464,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [qual]
+  themes: [qual, datascience]
   registration_link: https://www.eventbrite.co.nz/e/data-management-planning-tickets-1341409033529
 - id: 027
   title: "Tikanga, M\u0101ori Research Ethics and M\u0101ori Data Sovereignty"
@@ -496,7 +496,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [qual, ai]
+  themes: [qual, ai, datascience]
   registration_link: https://www.eventbrite.co.nz/e/using-digital-tools-and-ai-for-transcription-tickets-1341409053589
 - id: !!int '029'
   title: Health Care Data for Research at the University of Auckland
@@ -708,7 +708,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '405'
-  themes: [ai]
+  themes: [ai, datascience]
   registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-tickets-1341409153889
 - id: !!int '039'
   title: Journeys into High Performance Computing
@@ -780,7 +780,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [security, qual]
+  themes: [security, qual, datascience]
   registration_link: https://www.eventbrite.co.nz/e/working-with-personally-identifiable-research-data-tickets-1341409234129
 - id: 043
   title: 'Supercharge Your Research: Unlocking AI''s Hidden Potential Through Prompt
@@ -808,7 +808,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [ai]
+  themes: [ai, datascience]
   registration_link: https://www.eventbrite.co.nz/e/supercharge-your-research-unlocking-ais-hidden-potential-through-prompt-engineering-tickets-1341409244159
 - id: 044
   title: Capturing Longitudinal Data in REDCap
@@ -822,7 +822,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [qual]
+  themes: [qual, datascience]
   registration_link: https://www.eventbrite.co.nz/e/capturing-longitudinal-data-in-redcap-tickets-1341409224099
 - id: 045
   title: Navigating the Path to a Career in Research Software Engineering
@@ -891,5 +891,5 @@
   complexity: Beginner
   length: 1 hours
   capacity: '400'
-  themes: [ai]
+  themes: [ai, datascience]
   registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-friday-tickets-1364891600519
