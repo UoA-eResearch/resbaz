@@ -818,7 +818,7 @@
     \ and repeating forms, and how to export the data in a way that simplifies the\
     \ analysis to be undertaken."
   subtype: workshop
-  speakers: null
+  speakers: [168]
   complexity: Beginner
   length: 1 hours
   capacity: '500'

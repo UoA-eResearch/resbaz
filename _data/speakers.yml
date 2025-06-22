@@ -820,3 +820,15 @@
     - {abbr: REANNZ, title: Research and Education Advanced Network New Zealand, url: 'https://www.reannz.co.nz/'}
   social:
     - {name: '', link: ''}
+- id: 168
+  name: Jonathan
+  surname: Williman
+  company: University of Otago
+  title: 'Biostatistician / Senior Research Fellow '
+  bio: ''
+  thumbnailUrl: jonathan-williman.png
+  rockstar: false
+  ribbon:
+    - {abbr: UoO, title: University of Otago, url: 'https://www.otago.ac.nz/'}
+  social:
+    - {name: '', link: ''}
