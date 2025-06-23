@@ -832,3 +832,22 @@
     - {abbr: UoO, title: University of Otago, url: 'https://www.otago.ac.nz/'}
   social:
     - {name: '', link: ''}
+- id: 169
+  name: Amali
+  surname: Thrimawithana
+  company: Plant & Food Research
+  title: Senior Bioinformatician
+  bio: "Over the course of my career, I have actively participated in various research\
+    \ projects involving a wide range of species, including both pathogenic and beneficial\
+    \ microbes, insect pests, fish, and plants. My expertise in bioinformatics spans\
+    \ across key areas such as genomic analysis, transcriptomics, metagenomics, and\
+    \ comparative studies. Currently, my primary focus lies in the exploration of\
+    \ microbiomes and its interactions with host, particularly in taonga species such\
+    \ as m\u0101nuka, radula, and tamure. I am also a certified software carpentry\
+    \ instructor."
+  thumbnailUrl: amali-thrimawithana.jpeg
+  rockstar: false
+  ribbon:
+    - {abbr: PFR, title: Plant & Food Research, url: 'https://www.plantandfood.com/en-nz/'}
+  social:
+    - {name: '', link: ''}
