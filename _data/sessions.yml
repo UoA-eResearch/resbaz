@@ -220,7 +220,7 @@
     closer to the event. We recommend you attend ''Introduction to the Command Line''
     or are already familiar with navigating a command line linux environment.'
   subtype: workshop
-  speakers: [054, 140, 101]
+  speakers: [054, 140, 101, 165]
   complexity: Beginner
   length: 3 hours
   capacity: '80'
