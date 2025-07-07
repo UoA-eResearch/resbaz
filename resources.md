@@ -5,58 +5,145 @@ permalink: /resources/
 isStaticPost: true
 image: light-bokeh.jpg
 ---
-See below for 2024 resources.
+See below for 2025 resources.
 
-- [Introduction To Cleaning \& Transforming Data With Openrefine](#introduction-to-cleaning--transforming-data-with-openrefine)
-- [Keeping Your Spreadsheets Tidy](#keeping-your-spreadsheets-tidy)
-- [Nvivo Showcase \& Nvivo for Literature Reviews](#nvivo-showcase--nvivo-for-literature-reviews)
-- [Managing Research Data](#managing-research-data)
-- [Strategic Publishing: Deciding Where To Publish \& Understanding The Process](#strategic-publishing-deciding-where-to-publish--understanding-the-process)
-- [Researcher Skills And Career Planning For Academia And Beyond](#researcher-skills-and-career-planning-for-academia-and-beyond)
-- [Nectar Research Cloud services at the University of Auckland](#nectar-research-cloud-services-at-the-university-of-auckland)
-- [Joining the dots for modern data science workflows](#joining-the-dots-for-modern-data-science-workflows)
-- [Visual Abstracts Create An Attention Hook To Your Published Article](#visual-abstracts-create-an-attention-hook-to-your-published-article)
-- [Authoring Collaborative Research Projects In Quarto](#authoring-collaborative-research-projects-in-quarto)
-- [Introduction To The Command Line](#introduction-to-the-command-line)
-- [Research Collaboration And Reproducibility With Google Colab](#research-collaboration-and-reproducibility-with-google-colab)
-- [Collaborating With Dropbox: Tips And Tricks](#collaborating-with-dropbox-tips-and-tricks)
-- [Hands-on introduction to leveraging containers in research code](#hands-on-introduction-to-leveraging-containers-in-research-code)
-- [Latex 101: An Introduction to Formatting Documents With Code](#latex-101-an-introduction-to-formatting-documents-with-code)
-- [An introduction to cloud security for researchers](#an-introduction-to-cloud-security-for-researchers)
-- [An Introduction to Processing Remote Sensing Data With Google Earth Engine](#an-introduction-to-processing-remote-sensing-data-with-google-earth-engine)
-- [Data Management Planning](#data-management-planning)
-- [Open Access: How To Make Your Publications Open](#open-access-how-to-make-your-publications-open)
-- [Design 101: Presentations, Posters, And Powerpoints For Researchers](#design-101-presentations-posters-and-powerpoints-for-researchers)
-- [Navigating New Zealand’s Trusted-Research Protective Security Requirements (TR-PSR)](#navigating-new-zealands-trusted-research-protective-security-requirements-tr-psr)
-- [Introduction To R And Rstudio](#introduction-to-r-and-rstudio)
-- [Getting Started With The Julia Programming Language](#getting-started-with-the-julia-programming-language)
-- [Introduction to programming with Python](#introduction-to-programming-with-python)
-- [Introduction to version control with Git](#introduction-to-version-control-with-git)
-- [Health care data for research at the University of Auckland](#health-care-data-for-research-at-the-university-of-auckland)
-- [Using digital tools for transcription](#using-digital-tools-for-transcription)
-- [Research Data Collection \& Surveys With REDCap](#research-data-collection--surveys-with-redcap)
-- [Python For Image Manipulation And Repeatable Research Pipelines](#python-for-image-manipulation-and-repeatable-research-pipelines)
-- [How to Create a LaTeX Report Without Losing Hair](#how-to-create-a-latex-report-without-losing-hair)
-- [Jupyter Notebooks For Reproducible Research](#jupyter-notebooks-for-reproducible-research)
-- [Introduction To High Performance Computing With NeSI](#introduction-to-high-performance-computing-with-nesi)
-- [Managing References With Zotero](#managing-references-with-zotero)
-- [Hands-On Statistical Analysis With R](#hands-on-statistical-analysis-with-r)
+- [**AI Tools For Literature Reviews**](#ai-tools-for-literature-reviews)
+- [**Researcher Skills And Career Planning For Academia And Beyond**](#researcher-skills-and-career-planning-for-academia-and-beyond)
+- [**An Introduction to Cloud Security for Researchers**](#an-introduction-to-cloud-security-for-researchers)
+- [**Design 101: Presentations, Posters, And Powerpoints For Researchers**](#design-101-presentations-posters-and-powerpoints-for-researchers)
+- [**Data Management Planning**](#data-management-planning)
+- [**Sharing Sensitive Research Data With FileSender**](#sharing-sensitive-research-data-with-filesender)
+- [**Data Storytelling with R and ggplot**](#data-storytelling-with-r-and-ggplot)
+- [**Introduction to version control with Git**](#introduction-to-version-control-with-git)
+- [**How to Peer Review**](#how-to-peer-review)
+- [**Life Reset – Job Search for Career Changers**](#life-reset--job-search-for-career-changers)
+- [**Navigating the Path to a Career in Research Software Engineering**](#navigating-the-path-to-a-career-in-research-software-engineering)
+- [**Open Access: How To Make Your Publications Open**](#open-access-how-to-make-your-publications-open)
+- [**Supercharge Your Research: Unlocking AI's Hidden Potential Through Prompt Engineering**](#supercharge-your-research-unlocking-ais-hidden-potential-through-prompt-engineering)
+- [**Introduction to programming with Python**](#introduction-to-programming-with-python)
+- [**Managing Research Data**](#managing-research-data)
+- [**Research Data Collection \& Surveys With REDCap**](#research-data-collection--surveys-with-redcap)
+- [**How To Plan Your Research For Real World Impact**](#how-to-plan-your-research-for-real-world-impact)
+- [**Research Profiles: Increase discoverability, collaboration and funding opportunities**](#research-profiles-increase-discoverability-collaboration-and-funding-opportunities)
+- [**Navigating New Zealand’s Trusted-Research Protective Security Requirements (TR-PSR)**](#navigating-new-zealands-trusted-research-protective-security-requirements-tr-psr)
+- [**Unlocking the potential of the Stats NZ Integrated Data Infrastructure (IDI) for research**](#unlocking-the-potential-of-the-stats-nz-integrated-data-infrastructure-idi-for-research)
+- [**Using Digital Tools and AI for Transcription**](#using-digital-tools-and-ai-for-transcription)
+- [**Visual Abstracts Create An Attention Hook To Your Published Article**](#visual-abstracts-create-an-attention-hook-to-your-published-article)
+- [**What Is NeSI? New Zealand’s National High Performance Computers**](#what-is-nesi-new-zealands-national-high-performance-computers)
+- [**Working With Personally Identifiable Research Data**](#working-with-personally-identifiable-research-data)
+- [**Nvivo Showcase \& Nvivo for Literature Reviews**](#nvivo-showcase--nvivo-for-literature-reviews)
+- [**Introduction To Cleaning \& Transforming Data With Openrefine**](#introduction-to-cleaning--transforming-data-with-openrefine)
+- [**Authoring Collaborative Research Projects In Quarto**](#authoring-collaborative-research-projects-in-quarto)
+- [**Introduction To The Command Line**](#introduction-to-the-command-line)
+- [**Research Collaboration And Reproducibility With Google Colab**](#research-collaboration-and-reproducibility-with-google-colab)
+- [**Collaborating With Dropbox: Tips And Tricks**](#collaborating-with-dropbox-tips-and-tricks)
+- [**Introduction to R for Data Analysis**](#introduction-to-r-for-data-analysis)
+- [**Making Maps in R \& Doing GIS in R**](#making-maps-in-r--doing-gis-in-r)
+- [**When Science Meets the Headlines: Media Engagement for Research Impact**](#when-science-meets-the-headlines-media-engagement-for-research-impact)
+- [**Scraping Data from the Web with R**](#scraping-data-from-the-web-with-r)
 
 
+##### **AI Tools For Literature Reviews**
 
-##### <b>Introduction To Cleaning & Transforming Data With Openrefine</b>
+[Slides](/assets/resbaz-2025/ai-lit-reviews.pdf)
 
-Please see the [online lesson curriculum](https://datacarpentry.org/OpenRefine-ecology-lesson/).
+##### **Researcher Skills And Career Planning For Academia And Beyond**
 
-##### <b>Keeping Your Spreadsheets Tidy</b>
+[Slides](/assets/resbaz-2025/career-planning.pdf)
 
-[Slides](/assets/resbaz-2024/tidy-data.pdf)
+##### **An Introduction to Cloud Security for Researchers**
 
-##### <b>Nvivo Showcase & Nvivo for Literature Reviews</b>
+[Slides](assets/resbaz-2025/cloud-security.pdf)
+
+##### **Design 101: Presentations, Posters, And Powerpoints For Researchers**
+
+[Slides](assets/resbaz-2025/design-101.pdf)
+
+##### **Data Management Planning**
+
+[Slides](assets/resbaz-2025/dmp.pdf)
+
+##### **Sharing Sensitive Research Data With FileSender**
+
+[Slides](assets/resbaz-2025/filesender.pdf)
+
+##### **Data Storytelling with R and ggplot**
+
+[Slides](assets/resbaz-2025/ggplot.pdf)
+
+##### **Introduction to version control with Git**
+
+[Slides](assets/resbaz-2025/git.pdf)
+
+##### **How to Peer Review**
+
+[Slides](assets/resbaz-2025/how-to-peer-review.pdf)
+
+##### **Life Reset – Job Search for Career Changers**
+
+[Slides](assets/resbaz-2025/life-reset.pdf)
+
+##### **Navigating the Path to a Career in Research Software Engineering**
+
+[Slides](assets/resbaz-2025/navigating-rse.pdf)
+
+##### **Open Access: How To Make Your Publications Open**
+
+[Slides](assets/resbaz-2025/open-access.pdf)
+
+##### **Supercharge Your Research: Unlocking AI's Hidden Potential Through Prompt Engineering**
+
+[Slides](assets/resbaz-2025/prompt-engineering.pdf)
+
+##### **Introduction to programming with Python**
+
+[Slides](assets/resbaz-2025/python.pdf)
+
+##### **Managing Research Data**
+
+[Slides](assets/resbaz-2025/rdm.pdf)
+
+##### **Research Data Collection & Surveys With REDCap**
+
+[Slides](assets/resbaz-2025/redcap-intro.pdf)
+
+##### **How To Plan Your Research For Real World Impact**
+
+[Slides](assets/resbaz-2025/research-impact.pdf)
+
+##### **Research Profiles: Increase discoverability, collaboration and funding opportunities**
+
+[Slides](assets/resbaz-2025/research-profiles.pdf)
+
+##### **Navigating New Zealand’s Trusted-Research Protective Security Requirements (TR-PSR)**
+
+[Slides](assets/resbaz-2025/research-security.pptx)
+
+##### **Unlocking the potential of the Stats NZ Integrated Data Infrastructure (IDI) for research**
+
+[Slides](assets/resbaz-2025/stats-nz-idi.pdf)
+
+##### **Using Digital Tools and AI for Transcription**
+
+[Slides](assets/resbaz-2025/transcription.pdf)
+
+##### **Visual Abstracts Create An Attention Hook To Your Published Article**
+
+[Slides](assets/resbaz-2025/visual-abstracts.pdf)
+
+##### **What Is NeSI? New Zealand’s National High Performance Computers**
+
+[Slides](assets/resbaz-2025/what-is-nesi.pdf)
+
+##### **Working With Personally Identifiable Research Data**
+
+[Slides](assets/resbaz-2025/working-with-identifiable-data.pdf)
+
+##### **Nvivo Showcase & Nvivo for Literature Reviews**
 
 Recordings:
-- [NVivo Showcase recording](https://youtu.be/5wTOnPI_Hg8)
-- [NVivo for Literature Reviews recording](https://youtu.be/1Cvku1k_UH0) 
+- [NVivo Showcase](https://youtu.be/ncysgY0ohi8)
+- [NVivo for Literature Reviews](https://youtu.be/yYtfBFww6FM) 
 
 Further information:
 - See [here](https://lumivero.com/products/nvivo/) for further information about NVivo and to download a 14 day free trial.  
@@ -64,139 +151,44 @@ Further information:
 - Download [NVivo Frequently Asked Questions](https://cdn.academic-consulting.co.nz/nvivo-faqs.pdf).  
 - Download a free guide - [5 Tips for a Successful NVivo Project](https://academic-consulting.ac-page.com/5-nvivo-tips). 
 - Download an [NVivo project planning worksheet](https://academic-consulting.ac-page.com/nvivo-planning-worksheet). 
+- Register for [NVivo Quick Start 1](https://www.researchaccelerator.nz/courses/nvivo-quick-start-1).
 - [Research Accelerator membership](https://www.researchaccelerator.nz/bundles/membership) (for further NVivo training). 
 
-##### <b>Managing Research Data</b>
+##### **Introduction To Cleaning & Transforming Data With Openrefine**
 
-[Slides](/assets/resbaz-2024/rdm.pdf)
+Please see the [online lesson curriculum](https://datacarpentry.org/OpenRefine-ecology-lesson/).
 
-##### <b>Strategic Publishing: Deciding Where To Publish & Understanding The Process</b>
-
-[Slides](/assets/resbaz-2024/strategic-publishing.pptx)
-
-<!-- ##### <b>Getting data from the web: An introduction to webscraping and APIs</b> -->
-
-##### <b>Researcher Skills And Career Planning For Academia And Beyond</b>
-
-[Slides](/assets/resbaz-2024/career-planning.pptx)
-
-##### <b>Nectar Research Cloud services at the University of Auckland</b>
-
-[Slides](/assets/resbaz-2024/nectar-services.pdf)
-
-##### <b>Joining the dots for modern data science workflows</b>
-
-[Slides](https://jensbri.github.io/QuartoSlides/JoiningTheDots#/live-demo)
-
-##### <b>Visual Abstracts Create An Attention Hook To Your Published Article</b>
-
-[Slides](/assets/resbaz-2024/visual-abstracts.pdf)
-
-##### <b>Authoring Collaborative Research Projects In Quarto</b>
+##### **Authoring Collaborative Research Projects In Quarto**
 
 Please see [this GitHub repository](https://github.com/QuinnAsena/resbaz2022) for resources, and [here](https://quinnasena.github.io/resbaz2022/slides/slide_deck.html#/title-slide) for slides.
 
-##### <b>Introduction To The Command Line</b>
+##### **Introduction To The Command Line**
 
 Please see the [online lesson curriculum](https://swcarpentry.github.io/shell-novice/).
 
-##### <b>Research Collaboration And Reproducibility With Google Colab</b>
+##### **Research Collaboration And Reproducibility With Google Colab**
 
-Please see [here](https://github.com/VictorGambarini/ColabWorkshop/blob/main/ResBaz2024_GoogleColab.ipynb) for the Colab notebook.
+Please see [here](https://github.com/VictorGambarini/ColabWorkshop/blob/main/ResBaz2025_GoogleColab.ipynb) for the Colab notebook.
 
-##### <b>Collaborating With Dropbox: Tips And Tricks</b>
+##### **Collaborating With Dropbox: Tips And Tricks**
 
-[Slides](/assets/resbaz-2024/dropbox.pptx)
+[Slides](https://sales.dropboxbusiness.com/api/mailings/click/5~ZehtsXGw32rbXSkh2SGkEVWYA9WUwzUTvwrxUXUkuSMiumyE4uLp9BgGrCvstXZE1568NZYuAT4tAKBmm2XDdpXXR3WHZiufRms8LwoeDH3md3DKv6uuSZjseDduVRLt73pCTeGU1o1eRTsEHAYkXP3rd6xMq22TP7n3WmGZLsUwRpj65KNHKZNsbe9M4t4bwPUBGQ)
 
-##### <b>Hands-on introduction to leveraging containers in research code</b>
+##### **Introduction to R for Data Analysis**
 
-Please see [this GitHub repository](https://github.com/UoA-eResearch/resbaz-2024-containers).
+Please see the [online lesson curriculum](https://tesaunders.github.io/r-intro-quick/). Participants are encouraged to check out '[R for Data Science](https://r4ds.hadley.nz/)', a free online book which represents a good next step in learning about R. 
 
-##### <b>Latex 101: An Introduction to Formatting Documents With Code</b>
+##### **Making Maps in R & Doing GIS in R**
 
-[Slides](https://jensbri.github.io/QuartoSlides/LaTeX101-24#/title-slide)
+Please see [this repository](https://github.com/DOSull/ResBaz2025) for materials accompanying these lessons.
 
-##### <b>An introduction to cloud security for researchers</b>
+##### **When Science Meets the Headlines: Media Engagement for Research Impact**
 
-[Slides](/assets/resbaz-2024/cloud-security.pdf)
+Please see the SMC's ['Desk Guide for Scientists: Working with Media'](https://www.sciencemediacentre.co.nz/working-with-media/) and please feel free to contact the SMC if you have any upcoming paper's you'd like to promote, or other media questions (smc@sciencemediacentre.co.nz).
 
-##### <b>An Introduction to Processing Remote Sensing Data With Google Earth Engine</b>
+##### **Scraping Data from the Web with R**
 
-Please see [this GitHub repository](https://github.com/bmcollings/ResBaz-Introduction-to-GEE).
+This workshop was cancelled but everyone who registered will receive a recording of what would have been delivered.
 
-##### <b>Data Management Planning</b>
+Please also see the [slides](https://tesaunders.github.io/r-webscraping/) and workshop [files](https://github.com/tesaunders/r-webscraping).
 
-[Slides](/assets/resbaz-2024/dmp.pdf)
-
-##### <b>Open Access: How To Make Your Publications Open</b>
-
-[Slides](/assets/resbaz-2024/open-access.pdf)
-
-##### <b>Design 101: Presentations, Posters, And Powerpoints For Researchers</b>
-
-[Slides](/assets/resbaz-2024/design-101.pdf)
-
-##### <b>Navigating New Zealand’s Trusted-Research Protective Security Requirements (TR-PSR)</b>
-
-[Slides](/assets/resbaz-2024/trusted-research.pptx)
-
-##### <b>Introduction To R And Rstudio</b>
-
-Please see the [online lesson curriculum](https://datacarpentry.org/R-ecology-lesson-alternative/). Participants are encouraged to check out '[R for Data Science](https://r4ds.hadley.nz/)', a free online book which represents a good next step in your learning about R. 
-
-[Here](/assets/resbaz-2024/r-intro.R) is the R script the presenters wrote during the lesson.
-
-##### <b>Getting Started With The Julia Programming Language</b>
-
-Please see [this GitHub repository](https://github.com/ablaom/HelloJulia.jl/tree/dev).
-
-##### <b>Introduction to programming with Python</b>
-
-Please see the [Slides](/assets/resbaz-2024/python-intro.pptx) and [this GitHub repository](https://github.com/UoA-eResearch/ResBaz24Python)
-
-##### <b>Introduction to version control with Git</b>
-
-[Slides](/assets/resbaz-2024/git.pptx)
-
-Please see the [online lesson curriculum](https://uoa-eresearch.github.io/git-novice/).
-
-##### <b>Health care data for research at the University of Auckland</b>
-
-Please get in touch with the presenters if you would like more information:
-
-- Website: https://www.healthdata.auckland.ac.nz/ 
-- Email: healthdata@auckland.ac.nz 
-
-##### <b>Using digital tools for transcription</b>
-
-[Slides](/assets/resbaz-2024/transcription.pdf)
-
-##### <b>Research Data Collection & Surveys With REDCap</b>
-
-[Slides](/assets/resbaz-2024/redcap-overview-resbaz.pdf)
-
-##### <b>Python For Image Manipulation And Repeatable Research Pipelines</b>
-
-Please see [this GitHub repository](https://github.com/andre-geldenhuis/python-image-manipulation-session).
-
-##### <b>How to Create a LaTeX Report Without Losing Hair</b>
-
-Please see [this GitHub repository](https://github.com/eopResBaz/ResBaz2024_LaTeX/tree/main).
-
-##### <b>Jupyter Notebooks For Reproducible Research</b>
-
-Please see [this GitHub repository](https://tinyurl.com/jupyter2024).
-
-##### <b>Introduction To High Performance Computing With NeSI</b>
-
-Please see [this GitHub repository](https://nesi.github.io/hpc-intro/).
-
-Please also sign up to the [NeSI mailing list](http://eepurl.com/grV9if) and check out our [weekly office hours](https://docs.nesi.org.nz/Getting_Started/Getting_Help/Weekly_Online_Office_Hours/#office-hours-dates).
-
-##### <b>Managing References With Zotero</b>
-
-[Slides](/assets/resbaz-2024/zotero.pptx)
-
-##### <b>Hands-On Statistical Analysis With R</b>
-
-Please [email Lisa Woods](mailto:lisa.woods@vuw.ac.nz) if you'd like a copy of the slides.

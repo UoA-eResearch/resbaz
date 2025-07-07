@@ -47,8 +47,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {permalink: "/setup/", text: "Setup"}
-#  - {permalink: "/resources/", text: "Resources"}
+#  - {permalink: "/setup/", text: "Setup"}
+ - {permalink: "/resources/", text: "Resources"}
 
 
 bottomNavigationLinks:
@@ -58,12 +58,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "light-bokeh.jpg"
-heroTitle: "ResBaz 2025: 30 June - 4 July"
+heroTitle: "See you next year for ResBaz Aotearoa 2026"
 eventDate: ""
 typeoutTextValues: ""
 typeoutFallback: ""
 heroButtons:
- - {link: "/schedule", text: "Registrations are now open"}
+ - {link: "/schedule", text: "See what we did in 2025"}
 
 # About Block
 # aboutTitle: ""
