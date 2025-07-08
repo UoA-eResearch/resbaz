@@ -149,8 +149,8 @@ Further information:
 - See [here](https://lumivero.com/products/nvivo/) for further information about NVivo and to download a 14 day free trial.  
 - See [here](http://www.academic-consulting.co.nz) for information about Academic Consulting. 
 - Download [NVivo Frequently Asked Questions](https://cdn.academic-consulting.co.nz/nvivo-faqs.pdf).  
-- Download a free guide - [5 Tips for a Successful NVivo Project](https://academic-consulting.ac-page.com/5-nvivo-tips). 
-- Download an [NVivo project planning worksheet](https://academic-consulting.ac-page.com/nvivo-planning-worksheet). 
+- Download a free guide - [5 Tips for a Successful NVivo Project](https://academic-consulting.kit.com/nvivo-project). 
+- Download an [NVivo project planning worksheet](https://academic-consulting.kit.com/nvivo-planning). 
 - Register for [NVivo Quick Start 1](https://www.researchaccelerator.nz/courses/nvivo-quick-start-1).
 - [Research Accelerator membership](https://www.researchaccelerator.nz/bundles/membership) (for further NVivo training). 
 
