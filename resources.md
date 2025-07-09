@@ -41,6 +41,7 @@ See below for 2025 resources.
 - [**Making Maps in R \& Doing GIS in R**](#making-maps-in-r--doing-gis-in-r)
 - [**When Science Meets the Headlines: Media Engagement for Research Impact**](#when-science-meets-the-headlines-media-engagement-for-research-impact)
 - [**Scraping Data from the Web with R**](#scraping-data-from-the-web-with-r)
+- [**Publishing Smart: Choosing Where to Publish**](#publishing-smart-choosing-where-to-publish)
 
 
 ##### **AI Tools For Literature Reviews**
@@ -192,3 +193,6 @@ This workshop was cancelled but everyone who registered will receive a recording
 
 Please also see the [slides](https://tesaunders.github.io/r-webscraping/) and workshop [files](https://github.com/tesaunders/r-webscraping).
 
+##### **Publishing Smart: Choosing Where to Publish**
+
+[Slides](assets/resbaz-2025/publishing-smart.pdf)
