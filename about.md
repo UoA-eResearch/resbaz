@@ -3,7 +3,7 @@ layout: post
 title: About Research Bazaar
 permalink: /about/
 isStaticPost: true
-image: light-bokeh.jpg
+image: hot-air-balloon.jpg
 ---
 - [What is ResBaz Aotearoa?](#what-is-resbaz-aotearoa)
 - [Want to get involved?](#want-to-get-involved)
