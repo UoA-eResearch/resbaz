@@ -185,7 +185,7 @@ footerBlocks:
  -
   title: "Co-Organisers"
   links:
-   - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland", image: "/img/organizers/UoA Logo Domestic Blue RGB H.png"}
+   - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland", image: "/img/organizers/uoa-logo.png"}
    - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development and Research Office, Victoria University of Wellington", image: "/img/organizers/VUW_green.png"}
    - {link: "https://www.otago.ac.nz/", text: "University of Otago", image: "/img/organizers/OtagoLogo.png"}
    - {link: "https://www.plantandfood.com/en-nz/", text: "Plant & Food Research", image: "/img/organizers/pfr_logo.png"}
