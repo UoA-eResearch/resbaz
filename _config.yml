@@ -42,13 +42,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-#  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
-#  - {permalink: "/setup/", text: "Setup"}
- - {permalink: "/resources/", text: "Resources"}
+ - {permalink: "/setup/", text: "Setup"}
+#  - {permalink: "/resources/", text: "Resources"}
 
 
 bottomNavigationLinks:
@@ -66,8 +65,6 @@ heroButtons:
  - {link: "/schedule", text: "See what we did in 2025"}
 
 # About Block
-# aboutTitle: ""
-#aboutSubtitle: "Conference"
 aboutText: |
   - Free, online, digital research skills workshops covering a broad range of topics.
   - A mix of shorter 'taster' sessions and longer, follow-along sessions.
@@ -178,28 +175,28 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/eResearchUoA?lang=en", icon: "twitter"}
- - {link: "https://eresearch.auckland.ac.nz", icon: "site"}
- - {link: "mailto:researchdata@auckland.ac.nz", icon: "email"}
+#  - {link: "https://twitter.com/eResearchUoA?lang=en", icon: "twitter"}
+#  - {link: "https://eresearch.auckland.ac.nz", icon: "site"}
+#  - {link: "mailto:researchdata@auckland.ac.nz", icon: "email"}
 footerBlocks:
  -
   title: "Co-Organisers"
   links:
-   - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch, University of Auckland", image: "/img/organizers/uoa-logo.png"}
-   - {link: "http://www.cad.vuw.ac.nz/cad/", text: "Centre for Academic Development and Research Office, Victoria University of Wellington", image: "/img/organizers/VUW_green.png"}
-   - {link: "https://www.otago.ac.nz/", text: "University of Otago", image: "/img/organizers/OtagoLogo.png"}
-   - {link: "https://www.plantandfood.com/en-nz/", text: "Plant & Food Research", image: "/img/organizers/pfr_logo.png"}
-   - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "MBIE-funded Data Science Platform: <em>Beyond Prediction</em>"}
+   - {link: "https://auckland.ac.nz", text: "University of Auckland", image: "/img/organizers/uoa.png"}
+   - {link: "https://www.wgtn.ac.nz/", text: "Victoria University of Wellington", image: "/img/organizers/vuw-transparent.png"}
+   - {link: "https://www.otago.ac.nz/", text: "University of Otago", image: "/img/organizers/otago.png"}
+   - {link: "https://www.bioeconomyscience.co.nz/", text: "Bioeconomy Science Institute", image: "/img/organizers/bsi.jpg"}
+   - {link: "https://www.waikato.ac.nz/", text: "University of Waikato", image: "/img/organizers/waikato.jpg"}
+   - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "Beyond Prediction: MBIE-funded Data Science Platform"}
  -
   title: "Partners"
   links:
-   - {link: "https://www.academic-consulting.co.nz/", image: "/img/partners/Academic-Consulting-Logo-for-RezBaz.png", text: "Academic Consulting"}
-   - {link: "https://www.nesi.org.nz/", image: "/img/partners/nesi_logo.png", text: "NeSI New Zealand eScience Infrastructure"}
-   - {link: "https://dropbox.com/", image: "/img/partners/DropboxSecondaryLogo.png", text: "Dropbox"}
+   - {link: "https://www.academic-consulting.co.nz/", image: "/img/partners/academic-consulting.png", text: "Academic Consulting"}
+   - {link: "https://www.nesi.org.nz/", image: "/img/partners/reannz.png", text: "REANNZ"}
+  #  - {link: "https://dropbox.com/", image: "/img/partners/DropboxSecondaryLogo.png", text: "Dropbox"}
  -
   title: "FAQ"
   links:
-  #  - {permalink: "/cod/", text: "Code of Conduct"}
    - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
 
 # Blog
