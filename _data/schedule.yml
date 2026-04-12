@@ -1,142 +1,132 @@
-- date: '2025-06-30'
-  dateReadable: Monday 30 June
+- date: '2026-06-29'
+  dateReadable: Monday 29 June
   tracks:
     - {title: '1', color: '#f27f27'}
     - {title: '2', color: '#e91e63'}
   timeslots:
-    - startTime: '09:00'
-      endTime: '10:00'
-      sessionIds: [001, 023]
     - startTime: '10:00'
       endTime: '11:00'
-      sessionIds: [001, 036]
+      sessionIds: [001, 015]
     - startTime: '11:00'
       endTime: '12:00'
-      sessionIds: [!!int '029', !!int '038']
+      sessionIds: [001, 007]
     - startTime: '12:00'
       endTime: '13:00'
       sessionIds: [201, 201]
     - startTime: '13:00'
       endTime: '14:00'
-      sessionIds: [026, !!int '008']
+      sessionIds: [032, 014]
     - startTime: '14:00'
       endTime: '15:00'
-      sessionIds: [025, !!int '008']
+      sessionIds: [043, 014]
     - startTime: '15:00'
       endTime: '16:00'
-      sessionIds: [027, 011]
-    - startTime: '16:00'
-      endTime: '17:00'
-      sessionIds: [046, 006]
-- date: '2025-07-01'
-  dateReadable: Tuesday 1 July
-  tracks:
-    - {title: '1', color: '#f27f27'}
-    - {title: '2', color: '#e91e63'}
-    - {title: '3', color: '#3279a8'}
-  timeslots:
-    - startTime: '09:00'
-      endTime: '10:00'
-      sessionIds: [020, 013, 300]
-    - startTime: '10:00'
-      endTime: '11:00'
-      sessionIds: [020, 007, !!int '009']
-    - startTime: '11:00'
-      endTime: '12:00'
-      sessionIds: [005, 014, !!int '009']
-    - startTime: '12:00'
-      endTime: '13:00'
-      sessionIds: [201, 201, 201]
-    - startTime: '13:00'
-      endTime: '14:00'
-      sessionIds: [037, 041, !!int '009']
-    - startTime: '14:00'
-      endTime: '15:00'
-      sessionIds: [035, 004, !!int '009']
-    - startTime: '15:00'
-      endTime: '16:00'
-      sessionIds: [021, 044, 015]
-    - startTime: '16:00'
-      endTime: '17:00'
-      sessionIds: [043, 034, 300]
-- date: '2025-07-02'
-  dateReadable: Wednesday 2 July
+      sessionIds: [031, 021]
+- date: '2026-06-30'
+  dateReadable: Tuesday 30 June
   tracks:
     - {title: '1', color: '#f27f27'}
     - {title: '2', color: '#e91e63'}
   timeslots:
     - startTime: '09:00'
       endTime: '10:00'
-      sessionIds: [033, 010]
+      sessionIds: [010, 040]
     - startTime: '10:00'
       endTime: '11:00'
-      sessionIds: [033, 017]
+      sessionIds: [024, 042]
     - startTime: '11:00'
       endTime: '12:00'
-      sessionIds: [032, 022]
+      sessionIds: [024, 042]
     - startTime: '12:00'
       endTime: '13:00'
       sessionIds: [201, 201]
     - startTime: '13:00'
       endTime: '14:00'
-      sessionIds: [!!int '019', 016]
+      sessionIds: [005, !!int '009']
     - startTime: '14:00'
       endTime: '15:00'
-      sessionIds: [!!int '019', 016]
+      sessionIds: [!!int '039', !!int '018']
     - startTime: '15:00'
       endTime: '16:00'
-      sessionIds: [031, 300]
+      sessionIds: [013, !!int '019']
     - startTime: '16:00'
       endTime: '17:00'
-      sessionIds: [031, 300]
-- date: '2025-07-03'
-  dateReadable: Thursday 3 July
+      sessionIds: [037, !!int '029']
+- date: '2026-07-01'
+  dateReadable: Wednesday 1 July
   tracks:
     - {title: '1', color: '#f27f27'}
     - {title: '2', color: '#e91e63'}
   timeslots:
     - startTime: '09:00'
       endTime: '10:00'
-      sessionIds: [024, !!int '018']
+      sessionIds: [020, 002]
     - startTime: '10:00'
       endTime: '11:00'
-      sessionIds: [024, !!int '018']
+      sessionIds: [020, 033]
     - startTime: '11:00'
       endTime: '12:00'
-      sessionIds: [024, 002]
+      sessionIds: [020, 033]
     - startTime: '12:00'
       endTime: '13:00'
       sessionIds: [201, 201]
     - startTime: '13:00'
       endTime: '14:00'
-      sessionIds: [030, 003]
+      sessionIds: [006, 023]
     - startTime: '14:00'
       endTime: '15:00'
-      sessionIds: [030, 003]
+      sessionIds: [012, 023]
     - startTime: '15:00'
       endTime: '16:00'
-      sessionIds: [042, !!int '039']
+      sessionIds: [041, 026]
     - startTime: '16:00'
       endTime: '17:00'
-      sessionIds: [!!int '028', 040]
-- date: '2025-07-04'
-  dateReadable: Friday 4 July
+      sessionIds: [044, !!int '038']
+- date: '2026-07-02'
+  dateReadable: Thursday 2 July
   tracks:
     - {title: '1', color: '#f27f27'}
     - {title: '2', color: '#e91e63'}
   timeslots:
     - startTime: '09:00'
       endTime: '10:00'
-      sessionIds: [012]
+      sessionIds: [025, 022]
     - startTime: '10:00'
       endTime: '11:00'
-      sessionIds: [012, !!int '049']
+      sessionIds: [025, 022]
     - startTime: '11:00'
       endTime: '12:00'
-      sessionIds: [012, 047]
+      sessionIds: [025, 003]
     - startTime: '12:00'
       endTime: '13:00'
       sessionIds: [201, 201]
     - startTime: '13:00'
       endTime: '14:00'
-      sessionIds: [045, 300]
+      sessionIds: [004, 036]
+    - startTime: '14:00'
+      endTime: '15:00'
+      sessionIds: [004, 035]
+    - startTime: '15:00'
+      endTime: '16:00'
+      sessionIds: [034, !!int '028']
+    - startTime: '16:00'
+      endTime: '17:00'
+      sessionIds: [017, 300]
+- date: '2026-07-03'
+  dateReadable: Friday 3 July
+  tracks:
+    - {title: '1', color: '#f27f27'}
+    - {title: '2', color: '#e91e63'}
+  timeslots:
+    - startTime: '09:00'
+      endTime: '10:00'
+      sessionIds: [016, 030]
+    - startTime: '10:00'
+      endTime: '11:00'
+      sessionIds: [016, 300]
+    - startTime: '11:00'
+      endTime: '12:00'
+      sessionIds: [016, 011]
+    - startTime: '12:00'
+      endTime: '13:00'
+      sessionIds: [201, 201]
