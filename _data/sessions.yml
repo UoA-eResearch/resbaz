@@ -29,7 +29,7 @@
   length: 2 hours
   capacity: '500'
   themes: [publish, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/managing-research-data-resbaz-tickets-1987276483458
+  registration_link: https://www.eventbrite.co.nz/e/managing-research-data-resbaz-tickets-1987285612764
 - id: 004
   title: Introduction To Cleaning & Transforming Data With Openrefine
   description: "OpenRefine is a powerful, free, open-source tool for working with\
@@ -46,7 +46,7 @@
   length: 2 hours
   capacity: '80'
   themes: [qual, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/introduction-to-cleaning-transforming-data-with-openrefine-resbaz-tickets-1987276485464
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-cleaning-transforming-data-with-openrefine-resbaz-tickets-1987285614770
 - id: 005
   title: Research Data Collection & Surveys With REDCap
   description: REDCap is used by researchers to create surveys or databases to collect
@@ -64,7 +64,7 @@
   length: 1 hours
   capacity: '500'
   themes: [qual]
-  registration_link: https://www.eventbrite.co.nz/e/research-data-collection-surveys-with-redcap-resbaz-tickets-1987276481452
+  registration_link: https://www.eventbrite.co.nz/e/research-data-collection-surveys-with-redcap-resbaz-tickets-1987285610758
 - id: 006
   title: Capturing Longitudinal Data in REDCap
   description: "This talk will cover the basics how of longitudinal or repeated data\
@@ -78,7 +78,7 @@
   length: 1 hours
   capacity: '500'
   themes: [qual, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/capturing-longitudinal-data-in-redcap-resbaz-tickets-1987276486467
+  registration_link: https://www.eventbrite.co.nz/e/capturing-longitudinal-data-in-redcap-resbaz-tickets-1987285611761
 - id: 007
   title: AI Tools For Literature Reviews
   description: "Literature reviews are an important part of setting the scene for\
@@ -96,7 +96,7 @@
   length: 1 hours
   capacity: '400'
   themes: [ai, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-resbaz-tickets-1987276482455
+  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-resbaz-tickets-1987285613767
 - id: !!int '009'
   title: 'Design 101: Presentations, Posters, And Powerpoints For Researchers'
   description: "Why are you here? What are you presenting? Who are you presenting\
@@ -115,7 +115,7 @@
   length: 1 hours
   capacity: '500'
   themes: [design]
-  registration_link: https://www.eventbrite.co.nz/e/design-101-presentations-posters-and-powerpoints-for-researchers-resbaz-tickets-1987276484461
+  registration_link: https://www.eventbrite.co.nz/e/design-101-presentations-posters-and-powerpoints-for-researchers-resbaz-tickets-1987285609755
 - id: 010
   title: How To Plan Your Research For Real World Impact
   description: Economic, societal and environmental impact, or the 'non-academic'
@@ -130,7 +130,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: https://www.eventbrite.co.nz/e/how-to-plan-your-research-for-real-world-impact-resbaz-tickets-1987276487470
+  registration_link: https://www.eventbrite.co.nz/e/how-to-plan-your-research-for-real-world-impact-resbaz-tickets-1987285617779
 - id: 011
   title: Researcher Skills And Career Planning For Academia And Beyond
   description: Learn about the different capabilities and skills needed for a successful
@@ -142,7 +142,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: https://www.eventbrite.co.nz/e/researcher-skills-and-career-planning-for-academia-and-beyond-resbaz-tickets-1987276488473
+  registration_link: https://www.eventbrite.co.nz/e/researcher-skills-and-career-planning-for-academia-and-beyond-resbaz-tickets-1987285616776
 - id: 012
   title: How to Peer Review
   description: 'Peer review is a cornerstone of modern academic publishing practices,
@@ -160,7 +160,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: https://www.eventbrite.co.nz/e/how-to-peer-review-resbaz-tickets-1987276489476
+  registration_link: https://www.eventbrite.co.nz/e/how-to-peer-review-resbaz-tickets-1987285615773
 - id: 013
   title: 'Publishing Smart: Choosing Where to Publish'
   description: "This session offers practical guidance for researchers on how to publish\
@@ -178,7 +178,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: https://www.eventbrite.co.nz/e/publishing-smart-choosing-where-to-publish-resbaz-tickets-1987276490479
+  registration_link: https://www.eventbrite.co.nz/e/publishing-smart-choosing-where-to-publish-resbaz-tickets-1987285618782
 - id: 014
   title: Introduction to R for Data Analysis
   description: 'Programming skills are becoming more and more important for researchers
@@ -198,7 +198,7 @@
   length: 2 hours
   capacity: '500'
   themes: [datascience, code]
-  registration_link: https://www.eventbrite.co.nz/e/introduction-to-r-for-data-analysis-resbaz-tickets-1987276491482
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-r-for-data-analysis-resbaz-tickets-1987285620788
 - id: 015
   title: 'Exploring REANNZ HPC: Tools and Services for Researchers '
   description: "The computational demands of high impact research continue to outpace\
@@ -214,7 +214,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, hpc]
-  registration_link: https://www.eventbrite.co.nz/e/exploring-reannz-hpc-tools-and-services-for-researchers-resbaz-tickets-1987276494491
+  registration_link: https://www.eventbrite.co.nz/e/exploring-reannz-hpc-tools-and-services-for-researchers-resbaz-tickets-1987285619785
 - id: 016
   title: Introduction to High Performance Computing
   description: 'A hands-on introduction to high performance computing (HPC) on a REANNZ
@@ -229,7 +229,7 @@
   length: 3 hours
   capacity: '80'
   themes: [hpc]
-  registration_link: https://www.eventbrite.co.nz/e/introduction-to-high-performance-computing-resbaz-tickets-1987276495494
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-high-performance-computing-resbaz-tickets-1987285621791
 - id: 017
   title: Journeys into High Performance Computing
   description: "Hear from people who had no prior knowledge or background working\
@@ -246,7 +246,7 @@
   length: 1 hours
   capacity: '500'
   themes: [hpc, computing]
-  registration_link: https://www.eventbrite.co.nz/e/journeys-into-high-performance-computing-resbaz-tickets-1987276496497
+  registration_link: https://www.eventbrite.co.nz/e/journeys-into-high-performance-computing-resbaz-tickets-1987285622794
 - id: !!int '018'
   title: Digital Storytelling with KnightLab
   description: Interested in learning how to use a suite of open-source tools to create
@@ -260,7 +260,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: https://www.eventbrite.co.nz/e/digital-storytelling-with-knightlab-resbaz-tickets-1987276497500
+  registration_link: https://www.eventbrite.co.nz/e/digital-storytelling-with-knightlab-resbaz-tickets-1987285623797
 - id: 020
   title: Visual Abstracts Create An Attention Hook To Your Published Article
   description: 'Visual abstracts are a ''movie poster'' of a journal article displayed
@@ -278,7 +278,7 @@
   length: 2 hours
   capacity: '120'
   themes: [publish, design]
-  registration_link: https://www.eventbrite.co.nz/e/visual-abstracts-create-an-attention-hook-to-your-published-article-resbaz-tickets-1987276498503
+  registration_link: https://www.eventbrite.co.nz/e/visual-abstracts-create-an-attention-hook-to-your-published-article-resbaz-tickets-1987285624800
 - id: 021
   title: Research Collaboration And Reproducibility With Google Colab
   description: Finding it challenging to collaborate with other researchers? Do you
@@ -298,7 +298,7 @@
   length: 1 hours
   capacity: '500'
   themes: [datascience, code]
-  registration_link: https://www.eventbrite.co.nz/e/research-collaboration-and-reproducibility-with-google-colab-resbaz-tickets-1987276499506
+  registration_link: https://www.eventbrite.co.nz/e/research-collaboration-and-reproducibility-with-google-colab-resbaz-tickets-1987285625803
 - id: 022
   title: Authoring Collaborative Research Projects In Quarto
   description: 'Learn how to develop reproducible and sharable workflows using Quarto
@@ -314,7 +314,7 @@
   length: 2 hours
   capacity: '80'
   themes: [publish, code, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/authoring-collaborative-research-projects-in-quarto-resbaz-tickets-1987276500509
+  registration_link: https://www.eventbrite.co.nz/e/authoring-collaborative-research-projects-in-quarto-resbaz-tickets-1987285627809
 - id: 023
   title: Hands-On Statistical Analysis With R
   description: "Many researchers approach statistical analyses with trepidation because\
@@ -335,7 +335,7 @@
   length: 2 hours
   capacity: '80'
   themes: [publish, code, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/hands-on-statistical-analysis-with-r-resbaz-tickets-1987276501512
+  registration_link: https://www.eventbrite.co.nz/e/hands-on-statistical-analysis-with-r-resbaz-tickets-1987285628812
 - id: 024
   title: Introduction to Programming With Python
   description: 'Python is a high-level general purpose programming language that is
@@ -351,7 +351,7 @@
   length: 2 hours
   capacity: '500'
   themes: [code, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/introduction-to-programming-with-python-resbaz-tickets-1987276502515
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-programming-with-python-resbaz-tickets-1987285629815
 - id: 025
   title: Introduction to Version Control With Git
   description: Are you working with code? Do you wish there was a neater way to keep
@@ -376,7 +376,7 @@
   length: 3 hours
   capacity: '80'
   themes: [computing]
-  registration_link: https://www.eventbrite.co.nz/e/introduction-to-version-control-with-git-resbaz-tickets-1987276503518
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-version-control-with-git-resbaz-tickets-1987285630818
 - id: 026
   title: Data Management Planning
   description: 'Data Management Plans are a useful way of mapping out the collection,
@@ -392,7 +392,7 @@
   length: 1 hours
   capacity: '500'
   themes: [qual, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/data-management-planning-resbaz-tickets-1987276504521
+  registration_link: https://www.eventbrite.co.nz/e/data-management-planning-resbaz-tickets-1987285631821
 - id: !!int '028'
   title: Health Care Data for Research at the University of Auckland
   description: "Please note this session is intended primarily for University of Auckland\
@@ -410,7 +410,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish, qual]
-  registration_link: https://www.eventbrite.co.nz/e/health-care-data-for-research-at-the-university-of-auckland-resbaz-tickets-1987276505524
+  registration_link: https://www.eventbrite.co.nz/e/health-care-data-for-research-at-the-university-of-auckland-resbaz-tickets-1987285632824
 - id: !!int '029'
   title: Unlocking the Potential of the Stats NZ Integrated Data Infrastructure (IDI)
     For Research
@@ -433,7 +433,7 @@
   length: 1 hours
   capacity: '500'
   themes: [datascience, qual]
-  registration_link: https://www.eventbrite.co.nz/e/unlocking-the-potential-of-the-stats-nz-integrated-data-infrastructure-idi-for-research-resbaz-tickets-1987276506527
+  registration_link: https://www.eventbrite.co.nz/e/unlocking-the-potential-of-the-stats-nz-integrated-data-infrastructure-idi-for-research-resbaz-tickets-1987285633827
 - id: 030
   title: Maximising Research Impact with Wikipedia
   description: "Wikipedia has become one of the most important free and open sources\
@@ -454,7 +454,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: https://www.eventbrite.co.nz/e/maximising-research-impact-with-wikipedia-resbaz-tickets-1987276508533
+  registration_link: https://www.eventbrite.co.nz/e/maximising-research-impact-with-wikipedia-resbaz-tickets-1987285635833
 - id: 031
   title: Introduction to Research Data Transfer & Data Sharing
   description: "This is a 1 hour workshop designed to help researchers move data securely\
@@ -470,7 +470,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, security]
-  registration_link: https://www.eventbrite.co.nz/e/introduction-to-research-data-transfer-data-sharing-resbaz-tickets-1987276509536
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-research-data-transfer-data-sharing-resbaz-tickets-1987285636836
 - id: 032
   title: Working With Personally Identifiable Research Data
   description: Working with personally identifiable information is common across many
@@ -488,7 +488,7 @@
   length: 1 hours
   capacity: '500'
   themes: [security, qual, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/working-with-personally-identifiable-research-data-resbaz-tickets-1987276510539
+  registration_link: https://www.eventbrite.co.nz/e/working-with-personally-identifiable-research-data-resbaz-tickets-1987285637839
 - id: 033
   title: Reproducible Data Workflows with Snakemake
   description: "Does your data analysis require several steps across various software?\
@@ -515,7 +515,7 @@
   length: 2 hours
   capacity: '80'
   themes: [computing]
-  registration_link: https://www.eventbrite.co.nz/e/reproducible-data-workflows-with-snakemake-resbaz-tickets-1987276511542
+  registration_link: https://www.eventbrite.co.nz/e/reproducible-data-workflows-with-snakemake-resbaz-tickets-1987285638842
 - id: 034
   title: 'When Science Meets the Headlines: Media Engagement for Research Impact'
   description: "Have you got a big paper coming out that you think is newsworthy?\
@@ -530,7 +530,7 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: https://www.eventbrite.co.nz/e/when-science-meets-the-headlines-media-engagement-for-research-impact-resbaz-tickets-1987276512545
+  registration_link: https://www.eventbrite.co.nz/e/when-science-meets-the-headlines-media-engagement-for-research-impact-resbaz-tickets-1987285639845
 - id: 035
   title: 'Beyond the script: Building Modern, Maintainable Python Projects '
   description: "Moving from writing simple Python scripts to managing projects can\
@@ -551,7 +551,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/beyond-the-script-building-modern-maintainable-python-projects-resbaz-tickets-1987276513548
+  registration_link: https://www.eventbrite.co.nz/e/beyond-the-script-building-modern-maintainable-python-projects-resbaz-tickets-1987285640848
 - id: 036
   title: 'Package Your Research: Why And How To Turn Your Data Into An R Package'
   description: Developing an R package might seem like a task reserved for software
@@ -571,7 +571,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/package-your-research-why-and-how-to-turn-your-data-into-an-r-package-resbaz-tickets-1987276514551
+  registration_link: https://www.eventbrite.co.nz/e/package-your-research-why-and-how-to-turn-your-data-into-an-r-package-resbaz-tickets-1987285641851
 - id: 037
   title: 'Geopolitics Meets Research: Why Research Security Matters Now'
   description: "International collaboration is the lifeblood of modern research, yet\
@@ -590,7 +590,7 @@
   length: 1 hours
   capacity: '500'
   themes: [security]
-  registration_link: https://www.eventbrite.co.nz/e/geopolitics-meets-research-why-research-security-matters-now-resbaz-tickets-1987276516557
+  registration_link: https://www.eventbrite.co.nz/e/geopolitics-meets-research-why-research-security-matters-now-resbaz-tickets-1987285642854
 - id: !!int '038'
   title: 'Investigating Organic and Inorganic Chemistry Mechanisms Computationally
     using ORCA '
@@ -608,7 +608,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/investigating-organic-and-inorganic-chemistry-mechanisms-computationally-using-orca-resbaz-tickets-1987276518563
+  registration_link: https://www.eventbrite.co.nz/e/investigating-organic-and-inorganic-chemistry-mechanisms-computationally-using-orca-resbaz-tickets-1987285643857
 - id: !!int '039'
   title: Responsible AI in Research
   description: "This 1 hour online workshop explores how researchers can use AI tools\
@@ -624,7 +624,7 @@
   length: 1 hours
   capacity: '500'
   themes: [ai]
-  registration_link: https://www.eventbrite.co.nz/e/responsible-ai-in-research-resbaz-tickets-1987276519566
+  registration_link: https://www.eventbrite.co.nz/e/responsible-ai-in-research-resbaz-tickets-1987285644860
 - id: 040
   title: Upgrading Your R Scripts With Software Development Principles
   description: Maturing from a beginner R programmer to an intermediate-level R developer
@@ -644,7 +644,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/upgrading-your-r-scripts-with-software-development-principles-resbaz-tickets-1987276520569
+  registration_link: https://www.eventbrite.co.nz/e/upgrading-your-r-scripts-with-software-development-principles-resbaz-tickets-1987285645863
 - id: 041
   title: 'Precision Prompting: Mastering Generative AI for the Research Lifecycle'
   description: "Generative AI tools are now ubiquitous, but getting them to produce\
@@ -661,7 +661,7 @@
   length: 1 hours
   capacity: '500'
   themes: [ai]
-  registration_link: https://www.eventbrite.co.nz/e/precision-prompting-mastering-generative-ai-for-the-research-lifecycle-resbaz-tickets-1987276521572
+  registration_link: https://www.eventbrite.co.nz/e/precision-prompting-mastering-generative-ai-for-the-research-lifecycle-resbaz-tickets-1987285646866
 - id: 042
   title: Using LLMs to programmatically extract and curate research data
   description: "Spinning raw data into analysis-ready gold often takes far more time\
@@ -686,7 +686,7 @@
   length: 2 hours
   capacity: '80'
   themes: [ai]
-  registration_link: https://www.eventbrite.co.nz/e/using-llms-to-programmatically-extract-and-curate-research-data-resbaz-tickets-1987276522575
+  registration_link: https://www.eventbrite.co.nz/e/using-llms-to-programmatically-extract-and-curate-research-data-resbaz-tickets-1987285649875
 - id: 043
   title: Introduction to JupyterLite
   description: "Do you use Jupyter but wish there was an easier way to share notebooks\
@@ -701,7 +701,7 @@
   length: 1 hours
   capacity: '500'
   themes: [computing]
-  registration_link: https://www.eventbrite.co.nz/e/introduction-to-jupyterlite-resbaz-tickets-1987276523578
+  registration_link: https://www.eventbrite.co.nz/e/introduction-to-jupyterlite-resbaz-tickets-1987285650878
 - id: 044
   title: "Life Reset \u2013 Navigating the Professional Job Market"
   description: "Many early-career researchers find themselves questioning their readiness\
@@ -719,4 +719,4 @@
   length: 1 hours
   capacity: '500'
   themes: [publish]
-  registration_link: https://www.eventbrite.co.nz/e/life-reset-navigating-the-professional-job-market-resbaz-tickets-1987276524581
+  registration_link: https://www.eventbrite.co.nz/e/life-reset-navigating-the-professional-job-market-resbaz-tickets-1987285651881
