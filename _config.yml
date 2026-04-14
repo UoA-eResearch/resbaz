@@ -188,7 +188,7 @@ footerBlocks:
    - {link: "https://www.bioeconomyscience.co.nz/", text: "Bioeconomy Science Institute", image: "/img/organizers/bsi.jpg"}
    - {link: "https://www.waikato.ac.nz/", text: "University of Waikato", image: "/img/organizers/waikato.jpg"}
  -
-  title: "Partners"
+  title: "Partners & Sponsors"
   links:
    - {link: "https://www.academic-consulting.co.nz/", image: "/img/partners/academic-consulting.png", text: "Academic Consulting"}
    - {link: "https://www.nesi.org.nz/", image: "/img/partners/reannz.png", text: "REANNZ"}

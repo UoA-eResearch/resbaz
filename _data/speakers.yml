@@ -99,16 +99,17 @@
     management of research data and computational resources.', thumbnailUrl: victor_gambarini.jpeg,
   rockstar: false}
 - {id: !!int '018', name: Nidhi, surname: Gowdra, company: University of Auckland,
-  title: eResearch Solutions Specialist, bio: 'Dr. Nidhi Gowdra has a bachelor''s
-    degree in information sciences, a master''s degree in computer and information
-    sciences and a Ph.D. in computer vision. He has published articles in top journals
-    like Pattern Recognition and attended conferences such as IECON. He was the Chair
-    of the Machine, Signal and Image Processing session at the IEEE Industrial Electronics
-    Society Conference (IECON-2020) and has been an academic supervisor for both undergrads
-    and postgrads. His research interests are predominantly in deep learning, and
-    specifically computer vision. He now works at the Centre for eResearch at the
-    University of Auckland as an eResearch Solutions Specialist.', thumbnailUrl: nidhi_gowdra.jpg,
-  rockstar: false}
+  title: eResearch Solutions Specialist, bio: "Dr. Nidhi Gowdra is an eResearch Solutions\
+    \ Specialist at the University of Auckland\u2019s Centre for eResearch (CeR).\
+    \ He holds a PhD in Deep Learning with a focus on neural network optimization\
+    \ and has published extensively in premier journals, including Pattern Recognition.\
+    \ A recognized leader in the field, Nidhi served as the Chair of the Machine,\
+    \ Signal, and Image Processing session at the IEEE Industrial Electronics Society\
+    \ Conference (IECON-2020). Beyond his research, he has supervised numerous undergraduate\
+    \ and postgraduate students and currently specializes in helping researchers navigate\
+    \ the complexities of AI. As New Zealand's only NVIDIA-certified instructor, Nidhi\
+    \ is dedicated to making advanced Deep Learning accessible to the broader research\
+    \ community.", thumbnailUrl: nidhi_gowdra.jpg, rockstar: false}
 - {id: !!int '019', name: Dahlia, surname: Han, company: University of Auckland, title: 'Research
     Services Adviser, Student and Scholarly Services', bio: 'Dahlia is a Research
     Services Adviser in Student and Scholarly Services, with a strong background in

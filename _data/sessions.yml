@@ -720,3 +720,21 @@
   capacity: '500'
   themes: [publish]
   registration_link: https://www.eventbrite.co.nz/e/life-reset-navigating-the-professional-job-market-resbaz-tickets-1987285651881
+- id: 045
+  title: 'The Five Safes Framework in Action: A Tour of a Secure Research Environment'
+  description: "Balancing privacy, legal, and ethics requirements with the need to\
+    \ access and analyse sensitive data across a project team can be challenging.\
+    \ This 1\u2011hour session is for researchers working with sensitive data who\
+    \ want a clear approach to data privacy and security. We will introduce the Five\
+    \ Safes framework (Safe Projects, People, Settings, Data, and Outputs) and demonstrate\
+    \ how these principles are practically applied within a Secure Research Environment.\
+    \ By the end of the session, you\u2019ll have a clearer picture of how you can\
+    \ use secure infrastructure and how recognised approaches like the Five Safes\
+    \ can help meet data providers, funder and overseas partner requirements."
+  subtype: workshop
+  speakers: [023, !!int '059', 051]
+  complexity: Beginner
+  length: 1 hours
+  capacity: '500'
+  themes: [security, computing]
+  registration_link: https://www.eventbrite.com/e/the-five-safes-framework-in-action-a-tour-of-a-secure-research-environment-resbaz-tickets-1987456409622

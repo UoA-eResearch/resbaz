@@ -111,7 +111,7 @@
       sessionIds: [034, !!int '028']
     - startTime: '16:00'
       endTime: '17:00'
-      sessionIds: [017, 300]
+      sessionIds: [017, 045]
 - date: '2026-07-03'
   dateReadable: Friday 3 July
   tracks:
