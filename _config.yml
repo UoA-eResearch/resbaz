@@ -187,15 +187,16 @@ footerBlocks:
    - {link: "https://www.otago.ac.nz/", text: "University of Otago", image: "/img/organizers/otago.png"}
    - {link: "https://www.bioeconomyscience.co.nz/", text: "Bioeconomy Science Institute", image: "/img/organizers/bsi.jpg"}
    - {link: "https://www.waikato.ac.nz/", text: "University of Waikato", image: "/img/organizers/waikato.jpg"}
-   - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: "Beyond Prediction: MBIE-funded Data Science Platform"}
  -
   title: "Partners"
   links:
    - {link: "https://www.academic-consulting.co.nz/", image: "/img/partners/academic-consulting.png", text: "Academic Consulting"}
    - {link: "https://www.nesi.org.nz/", image: "/img/partners/reannz.png", text: "REANNZ"}
+   - {link: "https://https://www.mbie.govt.nz/", text: "MBIE", image: "/img/organizers/mbie.jpg"}
+   - {link: "https://www.auckland.ac.nz/en/news/2019/10/29/major-funding-boost-for-data-science.html", text: '<span style="font-size: 18px;">Beyond Prediction: MBIE-funded Data Science Platform</span>'}
   #  - {link: "https://dropbox.com/", image: "/img/partners/DropboxSecondaryLogo.png", text: "Dropbox"}
  -
-  title: "FAQ"
+  title: "Contact"
   links:
    - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
 
