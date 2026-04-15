@@ -321,8 +321,19 @@
     \ combines my interest in physics and electronics.", thumbnailUrl: andre-geldenhuis.png,
   rockstar: false}
 - {id: !!int '059', name: Toby, surname: Johnson, company: University of Auckland,
-  title: Engagement Specialist, bio: '', thumbnailUrl: '', rockstar: false}
+  title: Engagement Specialist, bio: 'Toby works as an eResearch Engagement Specialist
+    at the Centre for eResearch, Waipapa Taumata Rau University of Auckland. He received
+    his PhD in Psychology from the University of Exeter where he investigated computational
+    models of learning. At the Centre for eResearch he provides digital research and
+    AI skills training and assists researchers in accessing compute resources, including
+    the Secure Research Environments.', thumbnailUrl: toby-johnson.jpg, rockstar: false}
 - {id: 060, name: Daniel, surname: Walker, company: Science Media Centre, title: "Kaimanaaki\
     \ P\u0101p\u0101ho | Media Advisor", bio: '', thumbnailUrl: '', rockstar: false}
 - {id: 061, name: Neil, surname: Birrell, company: University of Auckland, title: Research
-    Fellow, bio: '', thumbnailUrl: '', rockstar: false}
+    Fellow, bio: 'Neil Birrell is a Research Fellow at the University of Auckland
+    with a fascination with insects and how people think about them. He is currently
+    working on the ecology and systematics of some of our endemic giant weevils, and
+    the emerging role of insects as food and feed. Neil is particularly interested
+    in why eating insects feels normal in some cultures and confronting in others,
+    and what that says about food, history, and perception.', thumbnailUrl: neil-birrell.jpg,
+  rockstar: false}
