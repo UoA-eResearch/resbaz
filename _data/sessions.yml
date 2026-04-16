@@ -30,6 +30,37 @@
   capacity: '500'
   themes: [publish, datascience]
   registration_link: https://www.eventbrite.co.nz/e/managing-research-data-resbaz-tickets-1987285612764
+- id: 002
+  title: Nvivo Showcase
+  description: There's a lot more to NVivo than initially meets the eye! In this webinar
+    we'll be showcasing our favourite features of NVivo including matrix coding queries,
+    explore and comparison diagrams, and mind-maps. This session is perfect for researchers
+    who are new to NVivo, as well as those who are familiar with the basics and curious
+    to know what else is possible.<b>This workshop is recorded.</b>
+  subtype: workshop
+  speakers: [025]
+  complexity: Beginner
+  length: 1 hours
+  capacity: '500'
+  themes: [qual]
+  registration_link: https://us02web.zoom.us/webinar/register/WN_Zbdd4qrfTLyppYdd3KB6ng
+- id: 003
+  title: Nvivo For Literature Reviews
+  description: "Reviewing the literature is an important part of the research process.\
+    \ Organising relevant papers and findings are more than just data entry or bibliographic\
+    \ tasks, you also need to be able to analyse and integrate this material with\
+    \ the qualitative data you are gathering. This one-hour demonstration will provide\
+    \ an overview of NVivo\u2019s functionality with regard to literature reviews.\
+    \ Importing and coding literature, running queries on published material, and\
+    \ working with bibliographic data in conjunction with your NVivo project will\
+    \ all be covered. <b>This workshop is recorded.</b>"
+  subtype: workshop
+  speakers: [025]
+  complexity: Beginner
+  length: 1 hours
+  capacity: '500'
+  themes: [qual]
+  registration_link: https://us02web.zoom.us/webinar/register/WN_apCCTL2GSRGCxM33LfW-Ag
 - id: 004
   title: Introduction To Cleaning & Transforming Data With Openrefine
   description: "OpenRefine is a powerful, free, open-source tool for working with\
@@ -261,6 +292,19 @@
   capacity: '500'
   themes: [publish]
   registration_link: https://www.eventbrite.co.nz/e/digital-storytelling-with-knightlab-resbaz-tickets-1987285623797
+- id: !!int '019'
+  title: Resbaz Drop-In Clinic (Hackyhour)
+  description: Open drop-in session to help with troubleshooting, getting help with
+    installing session requirements, and any ResBaz questions. No registration required,
+    just <a href="https://auckland.zoom.us/my/hackyhour">join via Zoom</a> when the
+    session starts.
+  subtype: workshop
+  speakers: [056]
+  complexity: Beginner
+  length: 1 hours
+  capacity: '500'
+  themes: [computing, datascience]
+  registration_link: ''
 - id: 020
   title: Visual Abstracts Create An Attention Hook To Your Published Article
   description: 'Visual abstracts are a ''movie poster'' of a journal article displayed
