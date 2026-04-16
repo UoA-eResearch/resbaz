@@ -327,8 +327,13 @@
     models of learning. At the Centre for eResearch he provides digital research and
     AI skills training and assists researchers in accessing compute resources, including
     the Secure Research Environments.', thumbnailUrl: toby-johnson.jpg, rockstar: false}
-- {id: 060, name: Daniel, surname: Walker, company: Science Media Centre, title: "Kaimanaaki\
-    \ P\u0101p\u0101ho | Media Advisor", bio: '', thumbnailUrl: '', rockstar: false}
+- {id: 060, name: Daniel, surname: Walker, company: Science Media Centre, title: Media
+    Advisor, bio: 'Daniel Walker is a media advisor at the Science Media Centre, where
+    he helps journalists and researchers to speak each others'' language. He brings
+    years of experience in broadcast journalism, on-air newsreading, and covering
+    breaking news from his previous work at RNZ, Newstalk ZB, and 95bFM. Daniel enjoys
+    translating complex science into something that anyone can understand and feel
+    inspired by.', thumbnailUrl: daniel-walker.jpg, rockstar: false}
 - {id: 061, name: Neil, surname: Birrell, company: University of Auckland, title: Research
     Fellow, bio: 'Neil Birrell is a Research Fellow at the University of Auckland
     with a fascination with insects and how people think about them. He is currently
