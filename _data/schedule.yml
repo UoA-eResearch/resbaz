@@ -22,6 +22,9 @@
     - startTime: '15:00'
       endTime: '16:00'
       sessionIds: [031, 021]
+    - startTime: '16:00'
+      endTime: '17:00'
+      sessionIds: [300, 046]
 - date: '2026-06-30'
   dateReadable: Tuesday 30 June
   tracks:
