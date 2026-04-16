@@ -449,11 +449,11 @@
     \ They will briefly describe the recently established \n<a href=\"https://www.healthdata.auckland.ac.nz/\"\
     >UoA Health Data Platform</a>."
   subtype: workshop
-  speakers: [040, 055]
+  speakers: [040, 033, 055]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [publish, qual]
+  themes: [publish, datascience, computing]
   registration_link: https://www.eventbrite.co.nz/e/health-care-data-for-research-at-the-university-of-auckland-resbaz-tickets-1987285632824
 - id: !!int '029'
   title: Unlocking the Potential of the Stats NZ Integrated Data Infrastructure (IDI)

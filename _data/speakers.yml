@@ -199,6 +199,14 @@
     ways. He''s assisted with the development of a range of open source projects,
     augmented reality applications and research tools.', thumbnailUrl: Matt.Plummer.jpg,
   rockstar: false}
+- {id: 033, name: Katrina, surname: Poppe, company: University of Auckland, title: 'Associate
+    Professor, Faculty of Medical and Health Sciences', bio: 'Katrina Poppe is a biostatistician
+    and clinical cardiac physiologist with extensive experience in cardiovascular
+    disease from the perspectives of data science, clinical practice, and clinical,
+    epidemiological and methodological research. Health data represents people and
+    must be respected - from how it is collected, to how it is managed and stored,
+    and importantly, how it is understood, analysed and interpreted.', thumbnailUrl: katrina-poppe.png,
+  rockstar: false}
 - {id: 036, name: Shannon, surname: Ring, company: University of Auckland, title: Career
     Development & Employability Consultant, bio: "Shannon Ring's impressive professional\
     \ journey includes her notable tenure of 7 years and counting at the University\
