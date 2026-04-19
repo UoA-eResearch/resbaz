@@ -368,7 +368,7 @@
     \ on the kinds of variables you\u2019re working with, and then demonstrates how\
     \ to conduct these analyses in R. We will apply commonly used statistical analyses\
     \ such as linear regression, independent-sample t-tests, and chi-squared tests,\
-    \ to R\u2019s bult-in datasets. We will discuss the output and how we might present\
+    \ to R\u2019s built-in datasets. We will discuss the output and how we might present\
     \ the results for publication. This workshop is aimed at attendees who already\
     \ understand the basics of working with the R programming language, and who want\
     \ to learn how to perform statistical tests in R. For an introduction to R for\
