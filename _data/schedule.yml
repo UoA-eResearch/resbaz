@@ -93,10 +93,10 @@
   timeslots:
     - startTime: '09:00'
       endTime: '10:00'
-      sessionIds: [025, 022]
+      sessionIds: [025, 300]
     - startTime: '10:00'
       endTime: '11:00'
-      sessionIds: [025, 022]
+      sessionIds: [025, 300]
     - startTime: '11:00'
       endTime: '12:00'
       sessionIds: [025, 003]

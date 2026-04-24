@@ -14,19 +14,6 @@
     \ manage research data following best practices, including FAIR, CARE and M\u0101\
     ori Data Sovereignty data principles, and providing digital research skills and\
     \ community building.", thumbnailUrl: laura_armstrong.jpg, rockstar: false}
-- {id: 004, name: Quinn, surname: Asena, company: Cary Institute of Ecosystem Studies,
-  title: Data Scientist, bio: 'Dr Quinn Asena is a Data Scientist in the Forest Futures
-    Lab at the Cary Institute of Ecosystem Studies, working on boreal forest ecology.
-    He completed a PhD at the University of Auckland, NZ, in paleoecology and ecological
-    modelling with George Perry and Janet Wilmshurst. He then worked as a postdoctoral
-    research associate with Jack Williams and Tony Ives at UW-Madison, WI, in developing
-    a state-space modelling approach for estimating biotic interactions and environment-species
-    relationships. Quinn is interested in ecological dynamics and mechanisms that
-    underlie change in ecosystems overtime and space. His main research focus is around
-    biotic interactions and how ecosystems respond to environmental and climate change.
-    Much of his previous research focused on long-term ecological trajectories and
-    palaeoecology. Currently, Quinn is exploring contemporary ecosystem change through
-    process-based models.', thumbnailUrl: quinn_asena.jpg, rockstar: false}
 - {id: 005, name: Ana, surname: "Avil\xE9s", company: University of Auckland, title: 'Research
     Services Adviser, Student and Scholarly Services', bio: "Ana Avil\xE9s is a Research\
     \ Services Adviser in Student and Scholarly Services with expertise in research\

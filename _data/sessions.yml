@@ -227,7 +227,7 @@
   speakers: [!!int '009', 037]
   complexity: Beginner
   length: 2 hours
-  capacity: '500'
+  capacity: '131'
   themes: [datascience, code]
   registration_link: https://www.eventbrite.co.nz/e/introduction-to-r-for-data-analysis-resbaz-tickets-1987285620788
 - id: 015
@@ -343,22 +343,6 @@
   capacity: '500'
   themes: [datascience, code]
   registration_link: https://www.eventbrite.co.nz/e/research-collaboration-and-reproducibility-with-google-colab-resbaz-tickets-1987285625803
-- id: 022
-  title: Authoring Collaborative Research Projects In Quarto
-  description: 'Learn how to develop reproducible and sharable workflows using Quarto
-    and Git. We will take you through how to host collaborative research projects
-    as a formatted (and cool looking) HTML on GitHub. With some easy-to-learn version
-    control and markdown syntax, research outputs can be shared as a live link that
-    is consitent with your latest analyses. One benefit of Quarto is flexibility,
-    accepting multiple programming languages (e.g. R, Python, Julia...) and output
-    formats (e.g. docx, pdf, html...). '
-  subtype: workshop
-  speakers: [004]
-  complexity: Intermediate
-  length: 2 hours
-  capacity: '80'
-  themes: [publish, code, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/authoring-collaborative-research-projects-in-quarto-resbaz-tickets-1987285627809
 - id: 023
   title: Hands-On Statistical Analysis With R
   description: "Many researchers approach statistical analyses with trepidation because\
@@ -434,7 +418,7 @@
   speakers: [037, 023]
   complexity: Beginner
   length: 1 hours
-  capacity: '500'
+  capacity: ''
   themes: [qual, datascience]
   registration_link: https://www.eventbrite.co.nz/e/data-management-planning-resbaz-tickets-1987285631821
 - id: !!int '028'
@@ -783,7 +767,7 @@
   themes: [security, computing]
   registration_link: https://www.eventbrite.com/e/the-five-safes-framework-in-action-a-tour-of-a-secure-research-environment-resbaz-tickets-1987456409622
 - id: 046
-  title: A practical guide to study preregistration
+  title: A Practical Guide to Study Preregistration
   description: "Many research literatures, across disciplines, are full of findings\
     \ that cannot be replicated. A major contributor to this \u201Creplication crisis\u201D\
     \ is the use of questionable research practices that inflate statistical significance,\
