@@ -7,7 +7,7 @@ image: hot-air-balloon.jpg
 ---
 If you have registered for a session requiring set up, you will be provided with a link to the relevant instructions on this page. If you have any trouble following these instructions then please join us at a [HackyHour](https://uoa-eresearch.github.io/HackyHour/) session at 3pm on Tuesday in the week before ResBaz, and on Tuesday in the week of ResBaz.
 
-- [Authoring Collaborative Research Projects In Quarto](#authoring-collaborative-research-projects-in-quarto)
+- [Data Storytelling with R and ggplot](#data-storytelling-with-r-and-ggplot)
 - [Digital Storytelling with KnightLab](#digital-storytelling-with-knightlab)
 - [Introduction to Cleaning \& Transforming Data with OpenRefine](#introduction-to-cleaning--transforming-data-with-openrefine)
 - [Introduction to R for Data Analysis](#introduction-to-r-for-data-analysis)
@@ -19,19 +19,15 @@ If you have registered for a session requiring set up, you will be provided with
 - [Reproducible Data Workflows with Snakemake](#reproducible-data-workflows-with-snakemake)
 - [Investigating Organic and Inorganic Chemistry Mechanisms Computationally using ORCA](#investigating-organic-and-inorganic-chemistry-mechanisms-computationally-using-orca)
 
-##### <b>Authoring Collaborative Research Projects In Quarto</b>
+##### <b>Data Storytelling with R and ggplot</b>
 
-This session is designed to be easy to follow but is targeted at people already familiar with basic coding, code editing software, and version control. We will be using R as an example but Python, R, Julia, and Observable JavaScript are the primary languages Quarto supports. Experience with R is not required.
-Before the session, install:
-1. [Quarto](https://quarto.org/docs/get-started/)
-2. [R](https://www.r-project.org/)
-3. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-4. [Log in to GitHub (or sign up for a free account)](https://github.com/)
-5. [VS Code](https://code.visualstudio.com/download)
-  - VS Code Extensions (install in the extensions tab in VS Code):
-    - R
-    - Quarto
-    - Git
+Participants will need to install R and RStudio:
+- On personal or unrestricted machines, install [R](https://cran.r-project.org/bin/windows/base/) and then [RStudio](https://posit.co/download/rstudio-desktop/) directly.
+- On restricted machines (e.g. University of Auckland), install both R and RStudio (in that order) from your institutional software repository (e.g. Software Center/Self Service).
+
+Please also execute the following command to install required packages:
+
+`install.packages("tidyverse")`
 
 ##### <b>Digital Storytelling with KnightLab</b>
 

@@ -788,3 +788,28 @@
   capacity: '500'
   themes: [publish]
   registration_link: https://www.eventbrite.co.nz/e/a-practical-guide-to-study-preregistration-resbaz-tickets-1987656706716
+- id: 047
+  title: Data Storytelling with R and ggplot
+  description: "In today's research landscape, we are inundated with data. Effectively\
+    \ translating this data into actionable insights is crucial for informed decision-making.\
+    \ Understanding how data visualisations represent patterns and relationships can\
+    \ help you avoid misinterpretation and tell compelling data-driven stories. This\
+    \ workshop is aimed at those who want to create more bespoke plots for better\
+    \ communication of results. Although the base plot packages are powerful, they\
+    \ can become cumbersome when producing more complex plots. ggplot is based on\
+    \ the Grammar of Graphics framework and provides a structured way to construct\
+    \ basic and advanced plots. ggplot is a popular tool for data visualisation used\
+    \ by R and Python users. Participants will learn how to use ggplot to create custom\
+    \ plots that effectively communicate their data. They will gain hands-on experience\
+    \ around a participant-selected question and come away with a custom plot that\
+    \ answers that question. Participants should have a basic understanding of R,\
+    \ including the ability to run code and load data. Familiarity with selecting,\
+    \ filtering, and wrangling data is also recommended (and these topics are covered\
+    \ in \u2018Introduction to R\u2019). "
+  subtype: workshop
+  speakers: [063]
+  complexity: Intermediate
+  length: 2 hours
+  capacity: '80'
+  themes: [datascience, code]
+  registration_link: https://www.eventbrite.co.nz/e/data-storytelling-with-r-and-ggplot-resbaz-tickets-1988365055406
