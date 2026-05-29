@@ -108,7 +108,7 @@
   complexity: Beginner
   length: 1 hours
   capacity: '500'
-  themes: [qual, datascience]
+  themes: [datascience]
   registration_link: https://www.eventbrite.co.nz/e/capturing-longitudinal-data-in-redcap-resbaz-tickets-1987285611761
 - id: 007
   title: AI Tools For Literature Reviews
@@ -377,7 +377,7 @@
   speakers: [!!int '039', !!int '059']
   complexity: Beginner
   length: 2 hours
-  capacity: '500'
+  capacity: '80'
   themes: [code, datascience]
   registration_link: https://www.eventbrite.co.nz/e/introduction-to-programming-with-python-resbaz-tickets-1987285629815
 - id: 025
