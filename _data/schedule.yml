@@ -126,7 +126,7 @@
       sessionIds: [016, 030]
     - startTime: '10:00'
       endTime: '11:00'
-      sessionIds: [016, 300]
+      sessionIds: [016, !!int '008']
     - startTime: '11:00'
       endTime: '12:00'
       sessionIds: [016, 011]

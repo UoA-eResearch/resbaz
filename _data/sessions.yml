@@ -112,6 +112,25 @@
   registration_link: https://www.eventbrite.co.nz/e/capturing-longitudinal-data-in-redcap-resbaz-tickets-1987285611761
 - id: 007
   title: AI Tools For Literature Reviews
+  description: "SESSION FULL: PLEASE SEE EXTRA SESSION ON FRIDAY. Literature reviews\
+    \ are an important part of setting the scene for your research, but it can be\
+    \ time-consuming to find and evaluate large numbers of sources. With the explosion\
+    \ of interest surrounding all things AI, many researchers are wondering how generative\
+    \ AI tools might be applied to reviewing the literature. In this session, we will\
+    \ examine how generative AI tools can be used at different stages in the literature\
+    \ review process. We will explore the capabilities and limitations of some readily\
+    \ available AI tools and discuss how they can support your searches. Finally,\
+    \ we\u2019ll review some important considerations when choosing to use them in\
+    \ the research process. "
+  subtype: workshop
+  speakers: [!!int '019', 052]
+  complexity: Beginner
+  length: 1 hours
+  capacity: '400'
+  themes: [ai, datascience]
+  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-resbaz-tickets-1987285613767
+- id: !!int '008'
+  title: AI Tools For Literature Reviews
   description: "Literature reviews are an important part of setting the scene for\
     \ your research, but it can be time-consuming to find and evaluate large numbers\
     \ of sources. With the explosion of interest surrounding all things AI, many researchers\
@@ -127,7 +146,7 @@
   length: 1 hours
   capacity: '400'
   themes: [ai, datascience]
-  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-resbaz-tickets-1987285613767
+  registration_link: https://www.eventbrite.co.nz/e/ai-tools-for-literature-reviews-resbaz-tickets-1990928457611
 - id: !!int '009'
   title: 'Design 101: Presentations, Posters, And Powerpoints For Researchers'
   description: "Why are you here? What are you presenting? Who are you presenting\
