@@ -368,3 +368,41 @@
     dataset for developing machine learning models to predict asthma attacks through
     remote monitoring and takes an advisory role on the DIGIPREDICT study in New Zealand.',
   thumbnailUrl: kevin-tsang.jpeg, rockstar: false}
+- {id: 064, name: Jieyun, surname: Wu, company: University of Auckland, title: Engagement
+    Specialist, bio: 'Jieyun is an eResearch Engagement Specialist at the Centre for
+    eResearch, University of Auckland, where she supports researchers in adopting
+    digital tools and computational practices. During her nearly five years at Auckland
+    Genomics, Jieyun provided genomics sequencing and bioinformatics support to dozens
+    of research groups across New Zealand universities and PROs, where she discovered
+    her passion for data science and helping researchers build computational confidence.
+    Prior to this, she worked as a Scientist at the Ministry for Primary Industries,
+    developing eDNA-based biosecurity surveillance tools. Jieyun holds a PhD in environmental
+    microbiology from the University of Auckland.', thumbnailUrl: jieyun-wu.png, rockstar: false}
+- {id: 065, name: Irelie, surname: Ebardo, company: Victoria University of Wellington,
+  title: 'Doctoral Student, School of Chemical & Physical Sciences', bio: 'Irelie
+    is a Chemistry PhD student in the School of Chemical and Physical Sciences at
+    Victoria University of Wellington. She is working on chemically modifying ionic
+    liquid ions to create novel materials that serve as green and recyclable alternatives
+    to traditional solvents. Ionic liquids can be chemically designed to be non-volatile,
+    nonflammable, easily recycled, and non-toxic, offering a solution to the high
+    environmental costs incurred by many solvents, electrolytes, and engineering fluids.
+    Irelie will unravel the H-bonding complexities within ionic liquids through the
+    use of quantum chemical electronic structure calculations. The aim of her project
+    is to unravel the electronic structure of highly charged H-bonds, create new models
+    linking the chemical structure to physico-chemical properties and to use the insights
+    obtained to chemically design novel ILs.', thumbnailUrl: irelie-ebardo.jpg, rockstar: false}
+- {id: 066, name: "Chlo\xE9", surname: van der Burg, company: Genomics Aotearoa, title: 'Bioinformatics
+    Training Coordinator ', bio: "Chlo\xE9 is a Bioinformatics Training Coordinator\
+    \ with Genomics Aotearoa, where she supports researchers throughout NZ to grow\
+    \ their computational and bioinformatic skills through workshop-style training.\
+    \ She is passionate about driving genomic and bioinformatic capability in Aotearoa\
+    \ and has strong expertise in both, as well as many years of experience in teaching\
+    \ and supervision of early career researchers. She previously worked as a Postdoctoral\
+    \ researcher exploring the genetic and behavioural mechanisms driving protogynous\
+    \ sex change in the New Zealand Spotty wrasse at the University of Otago. Her\
+    \ research background broadly encompasses exploring evolutionary and functional\
+    \ genomics, with a focus on genomic drivers of fundamental and unusual physiological\
+    \ mechanisms in invertebrates, such as tephritid fruit flies and sea anemones.\
+    \ Chlo\xE9 completed her PhD and undergraduate studies at the Queensland University\
+    \ of Technology (Brisbane, Australia) before moving home to Aotearoa in 2022.",
+  thumbnailUrl: chloe-van-der-burg.jpg, rockstar: false}
