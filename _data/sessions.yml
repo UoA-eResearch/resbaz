@@ -512,7 +512,7 @@
     \ common pitfalls. Ideal for researchers, postgraduate students, and support staff\
     \ who work with research data of any size"
   subtype: workshop
-  speakers: [016, 020, 014]
+  speakers: [016, 047, 014]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
