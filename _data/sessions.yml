@@ -703,7 +703,7 @@
     \ literature summaries, debug complex code, and refine manuscript abstracts with\
     \ scientific precision."
   subtype: workshop
-  speakers: [!!int '018']
+  speakers: [!!int '018', 051]
   complexity: Beginner
   length: 1 hours
   capacity: '500'
