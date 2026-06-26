@@ -23,7 +23,14 @@ If you have registered for a session requiring set up, you will be provided with
 
 Participants will need to install R and RStudio:
 - On personal or unrestricted machines, install [R](https://cran.r-project.org/bin/windows/base/) and then [RStudio](https://posit.co/download/rstudio-desktop/) directly.
-- On restricted machines (e.g. University of Auckland), install both R and RStudio (in that order) from your institutional software repository (e.g. Software Center/Self Service).
+- On restricted machines (e.g. University of Auckland):
+
+1. Install R from your institutional software repository (e.g. Software Center/Self Service).
+2. Navigate to the official Posit Download Page.
+3. Scroll past the main button down to the section titled Zip/Tarballs.
+4. Download the .zip package for Windows.
+5. Right-click the downloaded archive and extract it directly into your user profile folder (such as C:\Users\YourUsername\RStudio\).
+6. Open the extracted folder, navigate to the bin directory, and double-click rstudio.exe to launch it.
 
 Please also execute the following command to install required packages:
 
@@ -47,7 +54,14 @@ OpenRefine does not support Internet Explorer or Edge. Please use Firefox, Chrom
 
 Participants will need to install R and RStudio:
 - On personal or unrestricted machines, install [R](https://cran.r-project.org/bin/windows/base/) and then [RStudio](https://posit.co/download/rstudio-desktop/) directly.
-- On restricted institutional machines (e.g. University of Auckland), install both R and RStudio (in that order) from your institutional software repository (e.g. Software Center/Self Service). 
+- On restricted machines (e.g. University of Auckland):
+
+1. Install R from your institutional software repository (e.g. Software Center/Self Service).
+2. Navigate to the official Posit Download Page.
+3. Scroll past the main button down to the section titled Zip/Tarballs.
+4. Download the .zip package for Windows.
+5. Right-click the downloaded archive and extract it directly into your user profile folder (such as C:\Users\YourUsername\RStudio\).
+6. Open the extracted folder, navigate to the bin directory, and double-click rstudio.exe to launch it.
 
 Open RStudio, navigate to the top Tools menu > Install Packages, then enter `tidyverse` and click install. It may take a minute or two to install, and you'll see lots of text printed in the console. Once finished, you will see a blue '>' symbol in the bottom left console pane.
 
@@ -55,7 +69,14 @@ Open RStudio, navigate to the top Tools menu > Install Packages, then enter `tid
 
 Participants will need to install R and RStudio:
 - On personal or unrestricted machines, install [R](https://cran.r-project.org/bin/windows/base/) and then [RStudio](https://posit.co/download/rstudio-desktop/) directly.
-- On restricted machines (e.g. University of Auckland), install both R and RStudio (in that order) from your institutional software repository (e.g. Software Center/Self Service). 
+- On restricted machines (e.g. University of Auckland):
+
+1. Install R from your institutional software repository (e.g. Software Center/Self Service).
+2. Navigate to the official Posit Download Page.
+3. Scroll past the main button down to the section titled Zip/Tarballs.
+4. Download the .zip package for Windows.
+5. Right-click the downloaded archive and extract it directly into your user profile folder (such as C:\Users\YourUsername\RStudio\).
+6. Open the extracted folder, navigate to the bin directory, and double-click rstudio.exe to launch it.
 
 Please also execute the following command in the console to install packages required for the lesson:
 `install.packages(c("tidyverse","car","emmeans"))`
