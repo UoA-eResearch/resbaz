@@ -62,7 +62,9 @@ Kevin asks participants to please fill out this [short feedback survey](https://
 
 ##### **Introduction to version control with Git**
 
-[Slides](assets/resbaz-2026/)
+[Slides](assets/resbaz-2026/resbaz-26-git.pdf)
+
+[Full workshop material](https://uoa-eresearch.github.io/git-novice/)
 
 ##### **How to Peer Review**
 
