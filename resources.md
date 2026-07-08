@@ -35,6 +35,7 @@ See below for 2026 resources.
 - [**Precision Prompting: Mastering Generative AI for the Research Lifecycle**](#precision-prompting-mastering-generative-ai-for-the-research-lifecycle)
 - [**Exploring REANNZ HPC: Tools and Services for Researchers**](#exploring-reannz-hpc-tools-and-services-for-researchers)
 - [**Introduction to Research Data Transfer \& Data Sharing**](#introduction-to-research-data-transfer--data-sharing)
+- [**The Five Safes Framework in Action: A Tour of a Secure Research Environment**](#the-five-safes-framework-in-action-a-tour-of-a-secure-research-environment)
 
 
 ##### **AI Tools For Literature Reviews**
@@ -172,3 +173,7 @@ smc@sciencemediacentre.co.nz | 04 499 5476 | 027 3333 000 (SMC after hours)
 ##### **Introduction to Research Data Transfer & Data Sharing**
 
 [Slides](assets/resbaz-2026/data-transfer.pdf)
+
+##### **The Five Safes Framework in Action: A Tour of a Secure Research Environment**
+
+[Slides](assets/resbaz-2026/secure-research-environment.pdf)
