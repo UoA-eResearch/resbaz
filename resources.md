@@ -36,6 +36,7 @@ See below for 2026 resources.
 - [**Exploring REANNZ HPC: Tools and Services for Researchers**](#exploring-reannz-hpc-tools-and-services-for-researchers)
 - [**Introduction to Research Data Transfer \& Data Sharing**](#introduction-to-research-data-transfer--data-sharing)
 - [**The Five Safes Framework in Action: A Tour of a Secure Research Environment**](#the-five-safes-framework-in-action-a-tour-of-a-secure-research-environment)
+- [**Package Your Research: Why And How To Turn Your Data Into An R Package**](#package-your-research-why-and-how-to-turn-your-data-into-an-r-package)
 
 
 ##### **AI Tools For Literature Reviews**
@@ -179,3 +180,7 @@ smc@sciencemediacentre.co.nz | 04 499 5476 | 027 3333 000 (SMC after hours)
 ##### **The Five Safes Framework in Action: A Tour of a Secure Research Environment**
 
 [Slides](assets/resbaz-2026/secure-research-environment.pdf)
+
+##### **Package Your Research: Why And How To Turn Your Data Into An R Package**
+
+[Slides](https://nbir012.github.io/2026_data_package/#/title-slide)
